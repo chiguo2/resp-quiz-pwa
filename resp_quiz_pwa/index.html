@@ -12,7 +12,7 @@
   <header class="app-header">
     <div>
       <p class="eyebrow">呼吸器専門医試験</p>
-      <h1>総論I 問題集</h1>
+      <h1>問題集</h1>
     </div>
     <button id="installBtn" class="ghost hidden">インストール</button>
   </header>
@@ -24,7 +24,7 @@
           <option value="all">すべて</option>
           <option value="qa">一問一答</option>
           <option value="mcq">5択</option>
-          <option value="wrong">間違えた問題</option>
+          <option value="wrong">累積で間違えた問題</option>
         </select>
       </label>
       <label>分野
@@ -36,11 +36,24 @@
           <option value="normal">文書順</option>
         </select>
       </label>
+      <label>出題数
+        <select id="limitSelect">
+          <option value="all">一周する</option>
+          <option value="10">10問</option>
+          <option value="20">20問</option>
+          <option value="30">30問</option>
+          <option value="50">50問</option>
+          <option value="custom">指定する</option>
+        </select>
+      </label>
+      <label id="customLimitWrap" class="hidden">指定問題数
+        <input id="customLimitInput" type="number" min="1" step="1" value="20">
+      </label>
       <button id="startBtn">開始</button>
     </section>
 
     <section class="status-grid">
-      <div class="stat"><span id="totalCount">0</span><small>対象問題</small></div>
+      <div class="stat"><span id="totalCount">0</span><small>今回の出題数</small></div>
       <div class="stat"><span id="doneCount">0</span><small>今回回答</small></div>
       <div class="stat"><span id="accuracy">-</span><small>今回正答率</small></div>
     </section>
@@ -61,10 +74,29 @@
       </div>
     </section>
 
+    <section id="resultPanel" class="panel result hidden">
+      <h2>今回の結果</h2>
+      <div class="result-grid">
+        <div><strong id="resultDone">0</strong><small>回答数</small></div>
+        <div><strong id="resultCorrect">0</strong><small>正解</small></div>
+        <div><strong id="resultWrong">0</strong><small>間違い</small></div>
+        <div><strong id="resultAccuracy">-</strong><small>正答率</small></div>
+      </div>
+      <div class="result-actions">
+        <button id="reviewWrongBtn" class="danger">間違った問題を復習</button>
+        <button id="restartSameBtn" class="secondary">同じ条件でもう一度</button>
+        <button id="newSessionBtn">条件を変えて開始</button>
+      </div>
+      <details id="wrongListDetails" class="wrong-list hidden">
+        <summary>間違えた問題一覧</summary>
+        <div id="wrongList"></div>
+      </details>
+    </section>
+
     <section class="panel utility">
       <details>
         <summary>使い方・データ管理</summary>
-        <p>一問一答は「答を表示」してから自己採点します。5択は選択肢をタップすると自動採点します。結果はこの端末のブラウザ内に保存されます。</p>
+        <p>一問一答は「答を表示」してから自己採点します。5択は選択肢をタップすると自動採点します。設定した問題数が終わると結果画面を表示し、今回間違えた問題だけを復習できます。</p>
         <div class="utility-buttons">
           <button id="exportBtn" class="ghost">成績をエクスポート</button>
           <button id="resetBtn" class="ghost danger-text">成績をリセット</button>
