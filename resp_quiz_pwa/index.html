@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0f766e">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+  <title>呼吸器専門医 問題集</title>
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <p class="eyebrow">呼吸器専門医試験</p>
+      <h1>総論I 問題集</h1>
+    </div>
+    <button id="installBtn" class="ghost hidden">インストール</button>
+  </header>
+
+  <main>
+    <section class="panel controls">
+      <label>モード
+        <select id="modeSelect">
+          <option value="all">すべて</option>
+          <option value="qa">一問一答</option>
+          <option value="mcq">5択</option>
+          <option value="wrong">間違えた問題</option>
+        </select>
+      </label>
+      <label>分野
+        <select id="sectionSelect"><option value="all">すべて</option></select>
+      </label>
+      <label>出題順
+        <select id="orderSelect">
+          <option value="random">ランダム</option>
+          <option value="normal">文書順</option>
+        </select>
+      </label>
+      <button id="startBtn">開始</button>
+    </section>
+
+    <section class="status-grid">
+      <div class="stat"><span id="totalCount">0</span><small>対象問題</small></div>
+      <div class="stat"><span id="doneCount">0</span><small>今回回答</small></div>
+      <div class="stat"><span id="accuracy">-</span><small>今回正答率</small></div>
+    </section>
+
+    <section id="card" class="panel card">
+      <div class="card-top">
+        <span id="badge" class="badge">準備中</span>
+        <span id="progress" class="progress"></span>
+      </div>
+      <h2 id="question">開始を押してください</h2>
+      <div id="choices" class="choices"></div>
+      <div id="answerBox" class="answer hidden"></div>
+      <div class="actions">
+        <button id="showBtn" class="secondary">答を表示</button>
+        <button id="wrongBtn" class="danger">× 間違い</button>
+        <button id="correctBtn" class="success">○ 正解</button>
+        <button id="nextBtn">次へ</button>
+      </div>
+    </section>
+
+    <section class="panel utility">
+      <details>
+        <summary>使い方・データ管理</summary>
+        <p>一問一答は「答を表示」してから自己採点します。5択は選択肢をタップすると自動採点します。結果はこの端末のブラウザ内に保存されます。</p>
+        <div class="utility-buttons">
+          <button id="exportBtn" class="ghost">成績をエクスポート</button>
+          <button id="resetBtn" class="ghost danger-text">成績をリセット</button>
+        </div>
+      </details>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
