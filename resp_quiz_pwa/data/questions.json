@@ -1,16 +1,18 @@
 {
   "metadata": {
     "title": "呼吸器専門医試験 問題集",
-    "chapter": "総論I〜III",
+    "chapter": "総論I〜V",
     "source_file": [
       "総論I_形態機能病態生理_問題集.docx",
       "総論II_疫学_問題集.docx",
-      "総論III_主要症候と身体所見_問題集.docx"
+      "総論III_主要症候と身体所見_問題集.docx",
+      "総論IV_検査_問題集.docx",
+      "総論5_治療_問題集.docx"
     ],
     "counts": {
-      "qa": 152,
-      "mcq": 47,
-      "total": 199
+      "qa": 320,
+      "mcq": 88,
+      "total": 408
     },
     "sections": [
       "発生",
@@ -23,7 +25,13 @@
       "肺癌死・喫煙",
       "咳嗽・痰",
       "喀血・呼吸困難・喘鳴・胸痛",
-      "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見"
+      "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
+      "血液・生化学・免疫・腫瘍マーカー",
+      "感染症診断・喀痰・画像・核医学",
+      "内視鏡・生検・穿刺・肺音・心電図",
+      "呼吸機能・血ガス・検診",
+      "検査",
+      "治療"
     ]
   },
   "items": [
@@ -3139,6 +3147,3219 @@
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
+        "5択"
+      ]
+    },
+    {
+      "id": "qa-s4-001",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "好中球増多で核左方移動を伴う代表疾患は？",
+      "answer": "細菌感染症",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-002",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "著明な好酸球増多（2,000/μL以上）で疑う3疾患は？",
+      "answer": "寄生虫・EGPA・ABPA",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-003",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "慢性好酸球性肺炎と急性好酸球性肺炎で病初期の好酸球増多があるのは？",
+      "answer": "慢性（急性は病初期になし）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-004",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "IPFの予後と関連する末梢血のバイオマーカー候補は？",
+      "answer": "単球数",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-005",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "全身炎症があってもCRPが上昇しにくい膠原病は？",
+      "answer": "SLE・皮膚筋炎・強皮症",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-006",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "CRP上昇をマスクする薬剤・状態を2つ？",
+      "answer": "ステロイド・抗IL-6受容体抗体",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-007",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "細菌感染症に有用なカルシトニン前駆物質は？",
+      "answer": "プロカルシトニン",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-008",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "omalizumab適応となる総IgEの範囲は？",
+      "answer": "30〜1,500 IU/mL",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-009",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "間質性肺炎でⅡ型肺胞上皮から産生される代表マーカーは？",
+      "answer": "KL-6・SP-D・SP-A",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-010",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "KL-6が上昇する悪性腫瘍は？",
+      "answer": "上皮性悪性腫瘍（肺癌など）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-011",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "肺サルコイドーシスで30〜60%上昇する酵素は？",
+      "answer": "ACE（アンジオテンシン転換酵素）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-012",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "MCTDで陽性となる自己抗体は？",
+      "answer": "抗U1-RNP",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-013",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "全身性強皮症で陽性となる抗体を1つ？",
+      "answer": "抗Scl-70（抗セントロメア等）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-014",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "RAで陽性となる自己抗体は？",
+      "answer": "抗CCP",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-015",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "GPAで特徴的なANCAは？",
+      "answer": "PR3-ANCA",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-016",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "特異的IgEの現在の主流測定法は？",
+      "answer": "FEIA法（ImmunoCAP法）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-017",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "アレルゲン同定の信頼度は皮膚テストと特異的IgEどちらが高い？",
+      "answer": "皮膚テスト",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-018",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "DLSTが偽陰性になりやすい薬剤は？",
+      "answer": "ステロイド・免疫抑制薬・抗腫瘍薬",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-019",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "小細胞肺癌の腫瘍マーカー2つは？",
+      "answer": "NSE・proGRP",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-020",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "扁平上皮癌で感度が高く喫煙の影響を受けないマーカーは？",
+      "answer": "CYFRA21-1",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-021",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "肺腺癌で早期から高値となるマーカーは？",
+      "answer": "CEA",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-022",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・生化学・免疫・腫瘍マーカー",
+      "question": "腫瘍マーカーで検出しないよう推奨される癌は？",
+      "answer": "肺癌・悪性胸膜中皮腫",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・生化学・免疫・腫瘍マーカー",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-023",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "塗抹で原因菌の可能性が高い所見は？",
+      "answer": "好中球による貪食像",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-024",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "ニューモシスチスを疑う際の染色法は？",
+      "answer": "鍍銀染色・ディフクイック染色",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-025",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "ノカルジア疑いで延長する培養期間は？",
+      "answer": "7〜10日（長期培養）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-026",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "β-D-グルカンが陰性となる真菌は？",
+      "answer": "クリプトコックス・ムーコル",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-027",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "β-D-グルカンの偽陽性原因を2つ？",
+      "answer": "透析・血液製剤使用",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-028",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "IGRAが交叉せず特異度が高い理由（BCG以外）？",
+      "answer": "MAC（M. avium complex）と交叉しない",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-029",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "感染からIGRA陽性化までの期間は？",
+      "answer": "8〜10週間",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-030",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "誘発喀痰で禁忌の吸入液は？",
+      "answer": "滅菌蒸留水（低浸透圧）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-031",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "喀痰肉眼評価に用いる分類は？",
+      "answer": "Miller & Jones分類",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-032",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "臓側胸膜由来で間質性肺炎に上昇するマーカーで疾患特異度の高いものは？",
+      "answer": "KL-6・SP-D・SP-A",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-033",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "CT上のリンパ節転移診断基準（短径）は？",
+      "answer": "10mm以上",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-034",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "胸部CTの肺野条件のおおよそのWL/WWは？",
+      "answer": "WL -500〜-700／WW 1200〜2000",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-035",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "MRIで最も有用とされる臨床適応（因子診断）は？",
+      "answer": "N因子診断（STIR/DWIで転移=高信号）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-036",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "肺血流シンチで肺塞栓を示す所見は？",
+      "answer": "区域性の換気・血流ミスマッチ",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-037",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "133Xeガスの半減期と回路は？",
+      "answer": "5.24日・閉鎖回路",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-038",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "骨転移検索でFDG-PET/CTが施行不能のとき推奨される検査は？",
+      "answer": "骨シンチグラフィ",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-039",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "FDGの生理的集積が高く検出感度が低い転移部位は？",
+      "answer": "脳転移（→MRIが必要）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-040",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "感染症診断・喀痰・画像・核医学",
+      "question": "サルコイドーシスの活動性評価に用いる核医学検査は？",
+      "answer": "Ga-67シンチ（またはFDG-PET）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "感染症診断・喀痰・画像・核医学",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-041",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "左に通常存在しない区域支は？",
+      "answer": "B7",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-042",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "気管支壁の層構造は何層か？",
+      "answer": "6層",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-043",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "EBUS-TBNAの診断精度（特異度・感度）は？",
+      "answer": "特異度100%・感度約90%",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-044",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "BALで高い回収率が得られる選択部位は？",
+      "answer": "右中葉・左舌区",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-045",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "BAL正常（非喫煙者）のマクロファージ分画は？",
+      "answer": "約87%",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-046",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "サルコイドーシスのBALのCD4/CD8比は？",
+      "answer": "上昇",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-047",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "iNSIP・COPでのBAL CD4/CD8比は？",
+      "answer": "低下",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-048",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "IPFのBALF細胞分画の特徴は？",
+      "answer": "正常パターンに近い",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-049",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "気管支鏡（末梢病変）で最多の合併症は？",
+      "answer": "気胸（0.70%）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-050",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "前斜角筋リンパ節生検の別名は？",
+      "answer": "Daniels' biopsy",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-051",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "CTガイド下肺生検で最多の合併症は？",
+      "answer": "気胸（20〜30%）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-052",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "CTガイド下肺生検でまれだが致死的な合併症は？",
+      "answer": "空気塞栓",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-053",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "胸腔穿刺で針を進める位置は？",
+      "answer": "下位肋骨の上縁",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-054",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "再膨張性肺水腫予防の1日排液上限は？",
+      "answer": "1L程度",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-055",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "気胸の超音波所見は？",
+      "answer": "seashore signの消失（バーコード様）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-056",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "間質性肺炎のcracklesの吸気内タイミングは？",
+      "answer": "吸気中期〜終期",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-057",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "COPD・閉塞性細気管支炎のcracklesのタイミングは？",
+      "answer": "吸気初期",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-058",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "急性PTEの心電図所見（3徴）は？",
+      "answer": "SⅠQⅢTⅢ",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-059",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "内視鏡・生検・穿刺・肺音・心電図",
+      "question": "右房負荷を示すP波は？",
+      "answer": "肺性P波（≧2.5mV）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "内視鏡・生検・穿刺・肺音・心電図",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-060",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "拘束性換気障害の基準は？",
+      "answer": "%VC<80%",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-061",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "閉塞性換気障害の基準は？",
+      "answer": "FEV1/FVC<70%",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-062",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "スパイロで測定できない3つの肺気量は？",
+      "answer": "RV・FRC・TLC",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-063",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "FRC測定法を2つ？",
+      "answer": "ガス希釈法・体プレチスモグラフ法",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-064",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "閉塞性換気障害でRV/TLCは？",
+      "answer": "増加",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-065",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "拘束性（肺弾性力↑）のFVカーブの形は？",
+      "answer": "逆釣鐘型",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-066",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "上気道固定性閉塞のFVカーブは？",
+      "answer": "吸呼気とも平坦",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-067",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "呼吸抵抗Rrsの測定法は？",
+      "answer": "強制（広域周波）オシレーション法",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-068",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "COPD・高齢のP-V曲線のシフトは？",
+      "answer": "左上方（Cst増加）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-069",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "肺線維症のP-V曲線のシフトは？",
+      "answer": "右下方（Cst低下）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-070",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "安静吸気の約80%を担う筋は？",
+      "answer": "横隔膜",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-071",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "経横隔膜圧Pdiの計算式は？",
+      "answer": "Pdi = Pga - Pes",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-072",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "PaCO2と肺胞換気量VAの関係は？",
+      "answer": "反比例（PaCO2=0.863×VCO2/VA）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-073",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "高濃度O2で改善しにくい低酸素血症の機序は？",
+      "answer": "シャント（ARDS等）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-074",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "A-aDO2の正常上限は？",
+      "answer": "10mmHg",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-075",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "COのHb親和性はO2の何倍？",
+      "answer": "20〜350倍",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-076",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "酸素解離曲線を右方移動させる因子（Bohr効果）は？",
+      "answer": "PCO2↑・pH↓（体温↑・2,3-DPG↑）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-077",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "PaO2 60TorrはSaO2何%に相当？",
+      "answer": "90%",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-078",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "わが国の呼吸不全の基準（PaO2）は？",
+      "answer": "室内気で60mmHg以下",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-079",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "Ⅱ型呼吸不全のPaCO2基準は？",
+      "answer": "45mmHg超",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-080",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "AGが増加するアシドーシスを2つ？",
+      "answer": "糖尿病性ケトアシドーシス・乳酸アシドーシス",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-081",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "6分間歩行で予後不良とされる距離は？",
+      "answer": "300m未満",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-082",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "CPETの嫌気性代謝閾値ATの測定法は？",
+      "answer": "V-slope法",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-083",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "睡眠呼吸障害の標準検査は？",
+      "answer": "PSG（睡眠ポリグラフ）",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-084",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "低線量CT検診の対象（年齢・喫煙指数）は？",
+      "answer": "50〜74歳・喫煙指数600以上",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s4-085",
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "呼吸機能・血ガス・検診",
+      "question": "2025年に対策型検診から推奨外となった肺がん検診法は？",
+      "answer": "喀痰細胞診併用法",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "呼吸機能・血ガス・検診",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "mcq-s4-001",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問1 腫瘍マーカーと主な組織型の組み合わせで誤っているものはどれか。",
+      "choices": {
+        "a": "CEA ─ 肺腺癌",
+        "b": "SCC ─ 肺扁平上皮癌",
+        "c": "NSE ─ 小細胞肺癌",
+        "d": "proGRP ─ 肺扁平上皮癌",
+        "e": "CYFRA21-1 ─ 肺扁平上皮癌"
+      },
+      "answer": "d",
+      "explanation": "proGRPは小細胞肺癌のマーカー。NSEより限局型・進展型とも感度・特異度が高い。扁平上皮癌はSCCとCYFRA21-1。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-002",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問2 CRPが上昇しにくい、あるいは上昇がマスクされる病態として誤っているものはどれか。",
+      "choices": {
+        "a": "全身性エリテマトーデス",
+        "b": "皮膚筋炎",
+        "c": "強皮症",
+        "d": "ステロイド投与中",
+        "e": "細菌性肺炎"
+      },
+      "answer": "e",
+      "explanation": "細菌性肺炎はCRPが上昇し重症度・治療効果の指標となる。SLE・皮膚筋炎・強皮症は全身炎症があってもCRPが上昇しにくく、ステロイドや抗IL-6受容体抗体は上昇をマスクする。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-003",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問3 β-D-グルカンについて正しいものはどれか。",
+      "choices": {
+        "a": "クリプトコックス症で陽性となる",
+        "b": "ムーコル症で陽性となる",
+        "c": "ニューモシスチス感染で陽性となる",
+        "d": "透析では偽陽性とならない",
+        "e": "ガラクトマンナンを検出する"
+      },
+      "answer": "c",
+      "explanation": "β-D-グルカンはアスペルギルス・カンジダ・ニューモシスチスで陽性、クリプトコックス・ムーコルでは陰性。透析・血液製剤で偽陽性。ガラクトマンナンはアスペルギルス抗原検査。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-004",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問4 気管支鏡・生検について誤っているものはどれか。",
+      "choices": {
+        "a": "左主気管支に通常 B7 はない",
+        "b": "EBUS-TBNAの診断特異度は約100%である",
+        "c": "CTガイド下肺生検の最多合併症は喀血である",
+        "d": "気管支壁は6層構造である",
+        "e": "BALは右中葉・左舌区が選択されやすい"
+      },
+      "answer": "c",
+      "explanation": "CTガイド下肺生検の最多合併症は気胸（20〜30%）。喀血・肺出血は次いで多い（約14%）。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-005",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問5 IGRA（インターフェロンγ遊離試験）について正しいものはどれか。",
+      "choices": {
+        "a": "BCG接種の影響を受ける",
+        "b": "M. avium complex と交叉反応する",
+        "c": "感染後ただちに陽性化する",
+        "d": "ツベルクリン反応より特異度が高い",
+        "e": "既感染例では陰性となる"
+      },
+      "answer": "d",
+      "explanation": "IGRAはBCGやMACと交叉せず特異度が高い。感染後8〜10週で陽性化し、既感染例でも陽性となりうる。M. kansasii等とは交叉の可能性あり。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-006",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問6 換気障害の判定で正しい組み合わせはどれか。",
+      "choices": {
+        "a": "拘束性：FEV1/FVC<70%",
+        "b": "閉塞性：%VC<80%",
+        "c": "拘束性：%VC<80%",
+        "d": "混合性：%VC≧80%かつFEV1/FVC≧70%",
+        "e": "閉塞性ではFVCがVCより増加する"
+      },
+      "answer": "c",
+      "explanation": "拘束性=%VC<80%、閉塞性=FEV1/FVC<70%、両者で混合性。閉塞性ではエアトラッピングでFVC<VCとなる。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-007",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問7 フローボリューム曲線の所見で誤っているものはどれか。",
+      "choices": {
+        "a": "閉塞性換気障害では呼出曲線が下に凸となる",
+        "b": "拘束性換気障害では正常パターンの縮小や逆釣鐘型を呈する",
+        "c": "上気道固定性閉塞では吸気・呼気フローがともに平坦化する",
+        "d": "胸郭外可動性閉塞では呼気フローが平坦化する",
+        "e": "胸郭内可動性閉塞では呼気フローが平坦化する"
+      },
+      "answer": "d",
+      "explanation": "胸郭外可動性閉塞は吸気フローが平坦化する。胸郭内可動性閉塞は呼気フロー平坦化、上気道固定性は吸呼気とも平坦。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-008",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問8 低酸素血症の機序のうち、高濃度酸素投与でPaO2が改善しにくいものはどれか。",
+      "choices": {
+        "a": "肺胞低換気",
+        "b": "拡散障害",
+        "c": "換気血流比不均等",
+        "d": "肺内シャント（ARDSなど）",
+        "e": "COPDによる低V/A・Q領域"
+      },
+      "answer": "d",
+      "explanation": "肺内シャントは高濃度酸素でも改善が乏しい。V/Q不均等・肺胞低換気・拡散障害は酸素投与でPaO2が上昇する。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-009",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問9 酸素解離曲線を右方移動（O2親和性低下）させる因子として誤っているものはどれか。",
+      "choices": {
+        "a": "体温上昇",
+        "b": "PCO2上昇",
+        "c": "pH低下",
+        "d": "2,3-DPG増加",
+        "e": "pH上昇"
+      },
+      "answer": "e",
+      "explanation": "pH上昇（アルカローシス）は左方移動（O2親和性増大）。右方移動は体温↑・PCO2↑・pH↓（Bohr効果）・2,3-DPG↑。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-010",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問10 わが国の呼吸不全の診断基準について正しいものはどれか。",
+      "choices": {
+        "a": "室内気でPaO2 70mmHg以下を呼吸不全とする",
+        "b": "PaCO2 45mmHg超をⅠ型とする",
+        "c": "慢性呼吸不全は2週間以上持続するもの",
+        "d": "PaO2 60mmHg以下を呼吸不全とする",
+        "e": "準呼吸不全はPaO2 50〜60mmHg"
+      },
+      "answer": "d",
+      "explanation": "室内気でPaO2 60mmHg以下が呼吸不全。PaCO2 45mmHg超がⅡ型。慢性は1ヵ月以上持続。準呼吸不全はPaO2 60超70以下。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-011",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問11 核医学検査について誤っているものはどれか。",
+      "choices": {
+        "a": "肺血流シンチでは99mTc-MAAを用いる",
+        "b": "骨転移診断はFDG-PET/CTが骨シンチより優れる",
+        "c": "脳転移はFDG-PET/CTが最も感度が高い",
+        "d": "Ga-67シンチはサルコイドーシスの活動性評価に用いる",
+        "e": "換気シンチで133Xeは閉鎖回路が必要"
+      },
+      "answer": "c",
+      "explanation": "脳はFDGの生理的集積が高く脳転移の検出感度が低いため、脳転移の診断にはMRIが必要。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-012",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問12 心電図所見と病態の組み合わせで誤っているものはどれか。",
+      "choices": {
+        "a": "肺性P波 ─ 右房負荷",
+        "b": "SⅠQⅢTⅢ ─ 急性肺血栓塞栓症",
+        "c": "右軸偏位 ─ 右室負荷",
+        "d": "V1のR/S>1 ─ 右室肥大",
+        "e": "低電位・QSパターン ─ 拘束性換気障害"
+      },
+      "answer": "e",
+      "explanation": "低電位・時計回転・V1-V4のQSパターンはCOPDなど過膨張（横隔膜低位）で生じ、前壁中隔梗塞との鑑別を要する。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-013",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問13 BAL所見と疾患の組み合わせで正しいものはどれか。",
+      "choices": {
+        "a": "米のとぎ汁様 ─ 肺胞出血",
+        "b": "血性 ─ 肺胞蛋白症",
+        "c": "リンパ球増多・CD4/8比上昇 ─ サルコイドーシス",
+        "d": "好酸球増多 ─ IPF",
+        "e": "リンパ球増多 ─ IPF"
+      },
+      "answer": "c",
+      "explanation": "サルコイドーシスはリンパ球増多・CD4/8比上昇。血性=肺胞出血、米のとぎ汁様=肺胞蛋白症。IPFのBALFは正常パターンに近く、リンパ球・好酸球増多ならIPF以外を考える。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s4-014",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "検査",
+      "question": "問14 肺がん検診（2025年時点）について正しいものはどれか。",
+      "choices": {
+        "a": "喀痰細胞診併用法が重喫煙者に強く推奨される",
+        "b": "低線量CTの対象は40歳以上である",
+        "c": "低線量CTのCTDIvolは2.5mGy以下が目安",
+        "d": "要精検率の目標は初回20%である",
+        "e": "非喫煙者にも低線量CTが対策型検診として推奨される"
+      },
+      "answer": "c",
+      "explanation": "低線量CTは標準体型でCTDIvol 2.5mGy以下。対象は50〜74歳・喫煙指数600以上。喀痰細胞診は2025年に推奨外。要精検率目標は初回8%。非/軽喫煙者への対策型CT検診は推奨されない。",
+      "tags": [
+        "総論IV",
+        "検査",
+        "5択"
+      ]
+    },
+    {
+      "id": "qa-s5-001",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "吸入粒子で口腔・咽頭沈着が最小となり末梢気道に沈着しやすいMMADは？",
+      "answer": "1〜3μm",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-002",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "1μm未満の吸入粒子が主に沈着する部位は？",
+      "answer": "肺胞領域",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-003",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "ICS含有製剤の吸入後に局所副作用予防のため必須の指導は？",
+      "answer": "うがい",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-004",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "β2刺激薬の作用機序（細胞内シグナル）は？",
+      "answer": "cAMP増加→PKA活性化→平滑筋弛緩",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-005",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "LAMAの代表的禁忌2つは？",
+      "answer": "閉塞隅角緑内障・前立腺肥大症（排尿障害）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-006",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "喘息でLABAを使う際の鉄則は？",
+      "answer": "単独使用しない（ICSと併用/配合剤）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-007",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "theophyllineの安全血中濃度域は？",
+      "answer": "10〜20μg/mL",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-008",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "budesonide/formoterolを定期＋発作時追加吸入する療法は？",
+      "answer": "SMART療法",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-009",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "COPDでのICS/LABAで増加が報告される合併症は？",
+      "answer": "肺炎",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-010",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "難治性慢性咳嗽に用いる選択的P2X3受容体拮抗薬は？",
+      "answer": "gefapixant（リフヌア®）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-011",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "gefapixantの高頻度（6割以上）副作用は？",
+      "answer": "味覚関連障害（可逆性）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-012",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "湿性咳嗽の対症療法の基本となる薬は？",
+      "answer": "喀痰調整薬",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-013",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "抗菌薬PK-PDで時間依存性の代表系統は？",
+      "answer": "β-ラクタム系",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-014",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "濃度依存性の代表系統は？",
+      "answer": "キノロン・アミノグリコシド系",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-015",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "ペニシリン系の最も重要な副作用は？",
+      "answer": "アレルギー（アナフィラキシーショック）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-016",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "ESBL産生菌に対する第一選択薬は？",
+      "answer": "カルバペネム系",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-017",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "カルバペネムと併用禁忌の抗てんかん薬は？",
+      "answer": "sodium valproate",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-018",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "カルバペネムの最も注意すべき副作用は？",
+      "answer": "中枢神経系（痙攣）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-019",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "DAPが肺炎に使用できない理由は？",
+      "answer": "肺サーファクタントで不活化されるため",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-020",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "VCMの急速投与で生じる副作用は？",
+      "answer": "red man症候群",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-021",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "VRCZでTDMが望ましい理由は？",
+      "answer": "治療血中濃度の個人差が大きい",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-022",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "結核初期2か月の標準4剤は？",
+      "answer": "INH＋RFP＋PZA＋（SM or EB）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-023",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "EBの代表的副作用は？",
+      "answer": "視力障害",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-024",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "抗インフルエンザ薬の投与開始期限は？",
+      "answer": "発症から48時間以内",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-025",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "ニューモシスチス肺炎の第一選択薬は？",
+      "answer": "ST合剤",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-026",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "誤嚥性肺炎で嫌気性菌をカバーする代表薬2つは？",
+      "answer": "CLDM・MNZ",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-027",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "GCの抗炎症作用の主な分子機序2つは？",
+      "answer": "NF-κB抑制・AP-1抑制",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-028",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "aspirin喘息でも安全で喫煙喘息にも有用な抗アレルギー薬は？",
+      "answer": "LTRA",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-029",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "重症喘息の生物学的製剤で抗TSLP抗体は？",
+      "answer": "tezepelumab",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-030",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "生物学的製剤の効果予測となる2型炎症マーカー3つは？",
+      "answer": "末梢血好酸球数・FeNO・血清ペリオスチン",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-031",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "痰の少ない乾性咳嗽に用いる漢方薬は？",
+      "answer": "麦門冬湯",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-032",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "抗悪性腫瘍薬の全身状態評価指標は？",
+      "answer": "ECOG Performance Status",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-033",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "EGFR遺伝子変異が多い患者背景は？",
+      "answer": "非喫煙・女性・東アジア人の腺癌",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-034",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "EGFR-TKI耐性T790Mも克服する第3世代TKIは？",
+      "answer": "osimertinib",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-035",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "bevacizumabが禁忌となる病態は？",
+      "answer": "扁平上皮癌・喀血既往（致死的喀血）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-036",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "FNの定義（好中球数と発熱）は？",
+      "answer": "好中球<500（or<1,000で48h以内<500予測）＋腋窩37.5℃以上",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-037",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "CPT-11が禁忌となる病態は？",
+      "answer": "間質性肺炎・肺線維症",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-038",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "HEC（高度催吐）の制吐4剤は？",
+      "answer": "5-HT3拮抗＋dexamethasone＋NK1拮抗＋olanzapine",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-039",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "体性痛と内臓痛の局在の違いは？",
+      "answer": "体性痛＝明瞭、内臓痛＝不明瞭",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-040",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "WHO鎮痛薬使用の4原則は？",
+      "answer": "経口的に・時刻を決めて・個別量で・細かい配慮を",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-041",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "オピオイドで耐性が生じにくく予防投与から継続する副作用は？",
+      "answer": "便秘",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-042",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "有痛性骨転移の単回照射線量は？",
+      "answer": "8Gy（分割と除痛率同等だが再照射率高い）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-043",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "副作用被害救済制度を運用する機関は？",
+      "answer": "PMDA",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-044",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "3 L/min以下の鼻カニュラで加湿は必要か？",
+      "answer": "不要",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-045",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "LTOTの安静時PaO2基準は？",
+      "answer": "55 Torr以下",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-046",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "CO2ナルコーシスを考慮したII型呼吸不全のSpO2目標は？",
+      "answer": "88〜92%",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-047",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "BLSの胸骨圧迫の深さと速さは？",
+      "answer": "5〜6 cm・100〜120回/min",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-048",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "成人BLSの胸骨圧迫：人工呼吸比は？",
+      "answer": "30:2",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-049",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "ALSで投与する血管収縮薬と間隔は？",
+      "answer": "adrenaline 1 mg を3〜5分ごと",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-050",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "難治性VF/VTに用いる抗不整脈薬は？",
+      "answer": "amiodarone 300 mg",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-051",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "挿管困難評価法（5項目）の名称は？",
+      "answer": "LEMON法",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-052",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "気管切開後気管狭窄予防のカフ圧目標は？",
+      "answer": "25 mmHg以下",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-053",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "ARDSのプラトー圧と1回換気量の目標は？",
+      "answer": "30 cmH2O以下・6〜8 mL/kg（理想体重）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-054",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "人工呼吸器離脱で1日1回行う試験は？",
+      "answer": "SBT",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-055",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "NPPVの有効性が高い代表的2病態は？",
+      "answer": "高CO2血症COPD増悪・心原性肺水腫",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-056",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "CVPの正常値は？",
+      "answer": "4〜8 mmHg（5〜10 cmH2O）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-057",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "自発呼吸下でも信頼性が高い輸液反応性の動的指標は？",
+      "answer": "PLR（受動下肢挙上）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-058",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "呼吸器疾患の低Na血症で最初に考える病態は？",
+      "answer": "SIADH",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-059",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "低Na血症の過度急速補正で起こる病態は？",
+      "answer": "橋中心髄鞘崩壊症",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-060",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "高カロリー輸液で致死的となる低リン血症の病態は？",
+      "answer": "refeeding syndrome",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-061",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "血胸・膿胸で推奨される胸腔ドレーン径は？",
+      "answer": "24 Fr以上",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-062",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "気胸の胸腔ドレーン挿入部位は？",
+      "answer": "第2肋間鎖骨中線",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-063",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "大量喀血の定義は？",
+      "answer": "24時間で200 mL以上",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-064",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "喀血時に保護のため下にする体位は？",
+      "answer": "出血側を下にした側臥位",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-065",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "気道異物が最も多い年齢層は？",
+      "answer": "4歳以下の小児",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-066",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "可動性狭窄（TBM）で呼吸困難が出る狭窄度は？",
+      "answer": "50%以上",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-067",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "良性狭窄でFDA警告がある気道ステントは？",
+      "answer": "自己拡張型金属ステント（SEMS）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-068",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "BLVR（気管支バルブ）で20〜30%に生じる合併症は？",
+      "answer": "気胸",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-069",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "局所進行NSCLCの化学放射線療法後の維持療法薬は？",
+      "answer": "durvalumab",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-070",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "放射線肺臓炎リスクで重要な線量指標は？",
+      "answer": "V20",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-071",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "ED-SCLCでPCIを行うか？",
+      "answer": "行わない",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-072",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "喀血の責任血管で最多の系統は？",
+      "answer": "気管支動脈（体循環系95%）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-073",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "BAEの重大合併症（脊髄）は？",
+      "answer": "前脊髄動脈誤塞栓による対麻痺",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-074",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "アレルゲン免疫療法の主な作用機序2つは？",
+      "answer": "制御性T細胞誘導・特異的IgG4産生",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-075",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "身体活動性低下はCOPDで何の予後因子か？",
+      "answer": "死亡リスクを増大させる強い予後因子",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-076",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "体位ドレナージの禁忌2つは？",
+      "answer": "呼吸・循環動態不安定／頭蓋内圧亢進・頭頸部損傷",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-077",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "両肺移植が原則の疾患は？",
+      "answer": "感染性肺疾患・特発性肺動脈性肺高血圧症・小児",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-078",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "CLADの2大subtypeは？",
+      "answer": "BOS（閉塞性）・RAS（拘束性）",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-079",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "ニコチン依存症診断のスクリーニングテストと基準は？",
+      "answer": "TDS 5点以上",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-080",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "禁煙保険適用のブリンクマン指数基準（35歳以上）は？",
+      "answer": "200以上",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-081",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "せん妄は終末期がん患者の何%に生じるか？",
+      "answer": "80%以上",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-082",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "PPIが何点以上で予後21日以下の可能性が高いか？",
+      "answer": "6.5点以上",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "qa-s5-083",
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "非がん性呼吸器疾患でCOPD増悪・死亡率上昇と関連する薬剤は？",
+      "answer": "ベンゾジアゼピン系",
+      "explanation": "",
+      "tags": [
+        "総論V",
+        "治療",
+        "一問一答"
+      ]
+    },
+    {
+      "id": "mcq-s5-001",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問1 吸入療法について誤っているものはどれか。",
+      "choices": {
+        "a": "吸入粒子の挙動はMMADで規定される",
+        "b": "MMAD 1〜3μmで末梢気道に沈着しやすい",
+        "c": "3 L/min以下の鼻カニュラ酸素吸入では加湿が必要である",
+        "d": "pMDIはスペーサーで噴霧タイミングのずれを軽減できる",
+        "e": "ICS含有製剤では吸入後のうがいが重要である"
+      },
+      "answer": "c",
+      "explanation": "3 L/min以下の鼻カニュラ酸素吸入では加湿は不要。他は正しい。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-002",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問2 気管支拡張薬で正しいものはどれか。",
+      "choices": {
+        "a": "抗コリン薬はβ2受容体を刺激する",
+        "b": "喘息ではLABAを単剤で長期管理に用いる",
+        "c": "theophyllineの安全血中濃度は10〜20μg/mL",
+        "d": "LAMAは閉塞隅角緑内障に積極的に用いる",
+        "e": "SABAの頓用回数が減ることは治療不足を示唆する"
+      },
+      "answer": "c",
+      "explanation": "抗コリン薬はM3拮抗、喘息でLABA単剤は不可、LAMAは閉塞隅角緑内障禁忌、SABA頓用『増加』が治療不足。安全域10〜20μg/mLが正しい。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-003",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問3 抗菌薬の副作用の組み合わせで誤っているものはどれか。",
+      "choices": {
+        "a": "アミノグリコシド系 ― 腎毒性・聴器毒性",
+        "b": "VCM ― red man症候群",
+        "c": "カルバペネム系 ― 痙攣",
+        "d": "DAP ― 肺炎に有効",
+        "e": "EB ― 視力障害"
+      },
+      "answer": "d",
+      "explanation": "DAPは肺サーファクタントで不活化され肺炎には使用できない。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-004",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問4 ESBL産生菌について正しいものはどれか。",
+      "choices": {
+        "a": "第4世代セファロスポリンが第一選択である",
+        "b": "カルバペネム系が第一選択となる",
+        "c": "AmpC型と同一の酵素である",
+        "d": "すべてのβ-ラクタム系に感受性を示す",
+        "e": "アミノグリコシドには必ず耐性である"
+      },
+      "answer": "b",
+      "explanation": "ESBLはペニシリン〜第1〜4世代セファロスポリンに広く耐性で、カルバペネムが第一選択。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-005",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問5 結核の標準治療で誤っているものはどれか。",
+      "choices": {
+        "a": "初期2か月はINH・RFP・PZAに SM または EB を加える",
+        "b": "その後INH・RFPを4か月併用する",
+        "c": "EBの代表的副作用は視力障害である",
+        "d": "アドヒアランス向上にDOTSが重視される",
+        "e": "PZAの代表的副作用は末梢神経炎である"
+      },
+      "answer": "e",
+      "explanation": "PZAは肝障害。末梢神経炎はINHの副作用。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-006",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問6 重症喘息の生物学的製剤で誤っているものはどれか。",
+      "choices": {
+        "a": "omalizumabは抗IgE抗体である",
+        "b": "mepolizumabは抗IL-5抗体である",
+        "c": "benralizumabは抗IL-5受容体α抗体である",
+        "d": "dupilumabは抗TSLP抗体である",
+        "e": "tezepelumabはType2 low喘息でも推奨される"
+      },
+      "answer": "d",
+      "explanation": "dupilumabは抗IL-4/13受容体抗体。抗TSLP抗体はtezepelumab。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-007",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問7 分子標的治療薬で誤っているものはどれか。",
+      "choices": {
+        "a": "EGFR変異は非喫煙・女性・東アジア人の腺癌に多い",
+        "b": "osimertinibはT790M耐性を克服する第3世代TKIである",
+        "c": "bevacizumabは扁平上皮癌に積極的に用いる",
+        "d": "lorlatinibは脳転移に対する有効性が高い",
+        "e": "sotorasibはKRAS G12C阻害薬である"
+      },
+      "answer": "c",
+      "explanation": "bevacizumabは扁平上皮癌・喀血既往で致死的喀血のリスクがあり禁忌・除外。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-008",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問8 がん疼痛について正しいものはどれか。",
+      "choices": {
+        "a": "体性痛は局在が不明瞭である",
+        "b": "内臓痛は局在が明瞭である",
+        "c": "神経障害性疼痛は障害神経領域に感覚異常を伴う",
+        "d": "WHO原則では時刻を決めない頓用が基本である",
+        "e": "オピオイドの便秘は耐性が生じやすい"
+      },
+      "answer": "c",
+      "explanation": "体性痛＝局在明瞭、内臓痛＝不明瞭、WHOは時刻を決めて規則正しく、便秘は耐性が生じにくい。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-009",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問9 酸素療法について誤っているものはどれか。",
+      "choices": {
+        "a": "低流量システムは吸気流速以下を供給する",
+        "b": "HFNCはPEEP効果や死腔洗い出し効果を持つ",
+        "c": "II型呼吸不全のSpO2目標は88〜92%である",
+        "d": "リザーバーシステムはCO2ナルコーシスの危険がある",
+        "e": "酸素化が保たれていれば頻呼吸は問題ない"
+      },
+      "answer": "e",
+      "explanation": "呼吸数25回/min以上の頻呼吸は酸素化が保たれていても呼吸不全増悪の徴候。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-010",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問10 長期在宅酸素療法（LTOT）の適用基準で正しいものはどれか。",
+      "choices": {
+        "a": "安静時PaO2≦70 Torr",
+        "b": "安静時PaO2≦55 Torr",
+        "c": "安静時PaO2≧60 Torrでも肺高血圧がなければ適応",
+        "d": "1日6時間の酸素吸入で予後改善が示されている",
+        "e": "導入時はABG分析を避ける"
+      },
+      "answer": "b",
+      "explanation": "安静時PaO2≦55 Torr（or≦60で睡眠/運動時著明低酸素、肺高血圧症）。予後改善は1日15時間以上。導入時ABG望ましい。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-011",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問11 一次救命処置（BLS）について誤っているものはどれか。",
+      "choices": {
+        "a": "呼吸・脈拍は10秒以内に確認する",
+        "b": "胸骨圧迫の深さは5〜6 cmである",
+        "c": "胸骨圧迫の速さは100〜120回/minである",
+        "d": "成人の胸骨圧迫：人工呼吸は15:2である",
+        "e": "死戦期呼吸を認めれば心停止と判断する"
+      },
+      "answer": "d",
+      "explanation": "成人は30:2（小児・乳児で救助者2人なら15:2）。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-012",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問12 二次救命処置（ALS）について誤っているものはどれか。",
+      "choices": {
+        "a": "VF/無脈性VTには電気的除細動を行う",
+        "b": "adrenalineは3〜5分ごとに1 mg投与する",
+        "c": "難治性VF/VTにamiodaroneを投与する",
+        "d": "気管挿管確認にETCO2モニターが必須である",
+        "e": "挿管後は過換気として20回/min以上で換気する"
+      },
+      "answer": "e",
+      "explanation": "挿管後は過換気を避け10回/min。PEEPは蘇生まで負荷しない。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-013",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問13 気管切開について誤っているものはどれか。",
+      "choices": {
+        "a": "緊急の気道確保には気管挿管が第一選択である",
+        "b": "主な適応は長期間の人工呼吸管理である",
+        "c": "気管壁切開後は電気メスを使用しない",
+        "d": "経皮的気管切開は気管支鏡モニター下で行う",
+        "e": "気管切開後気管狭窄予防にカフ圧40 mmHgで管理する"
+      },
+      "answer": "e",
+      "explanation": "カフ圧は25 mmHg以下で管理。高圧は気管狭窄・気管腕頭動脈瘻・気管食道瘻の原因。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-014",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問14 人工呼吸管理（ARDS）について誤っているものはどれか。",
+      "choices": {
+        "a": "プラトー圧は30 cmH2O以下とする",
+        "b": "1回換気量は6〜8 mL/kg（理想体重）とする",
+        "c": "permissive hypercapniaという考え方がある",
+        "d": "barotraumaとして気胸・縦隔気腫が知られる",
+        "e": "VILIを避けるため1回換気量はできるだけ大きくする"
+      },
+      "answer": "e",
+      "explanation": "VILI（人工呼吸器誘発肺損傷）を避けるため低換気量管理。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-015",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問15 NPPVについて正しいものはどれか。",
+      "choices": {
+        "a": "高CO2血症COPD増悪に有効性が高い",
+        "b": "大量の気道分泌物がある場合に積極的に用いる",
+        "c": "意識障害は常に絶対禁忌である",
+        "d": "ARDSなど重症呼吸不全で鼻口マスクNIVは死亡リスクを下げる",
+        "e": "初期pHが低いほど成功しやすい"
+      },
+      "answer": "a",
+      "explanation": "高CO2血症COPD増悪・心原性肺水腫で有効。大量分泌物は適応注意、CO2ナルコーシス性意識障害は導入で改善し必ずしも禁忌でない、重症P/F<150の鼻口マスクNIVは死亡リスク増、初期pH低値は失敗予測因子。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-016",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問16 中心静脈圧（CVP）について誤っているものはどれか。",
+      "choices": {
+        "a": "正常値は4〜8 mmHgである",
+        "b": "最近は輸液反応性の指標として推奨されない",
+        "c": "測定は仰臥位・呼気終末で行う",
+        "d": "PLRは自発呼吸下でも信頼性が高い",
+        "e": "SVV・PPVは自発呼吸下で信頼性が高い"
+      },
+      "answer": "e",
+      "explanation": "SVV・PPVは人工調節呼吸下で有用で、自発呼吸・低換気では信頼性が低い。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-017",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問17 呼吸器疾患の電解質異常について誤っているものはどれか。",
+      "choices": {
+        "a": "肺癌骨転移やPTHrPで高Ca血症を生じる",
+        "b": "呼吸器疾患の低Na血症ではSIADHを考える",
+        "c": "低Na血症は急速に補正するほどよい",
+        "d": "補正Ca＝血清Ca＋(4.0−Alb)で判定する",
+        "e": "tolvaptanがSIADHに保険適用される"
+      },
+      "answer": "c",
+      "explanation": "過度の急速補正は橋中心髄鞘崩壊症を起こす（1 mEq/L/h以下）。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-018",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問18 胸腔ドレナージについて誤っているものはどれか。",
+      "choices": {
+        "a": "気胸の挿入は第2肋間鎖骨中線が原則である",
+        "b": "血胸・膿胸では24 Fr以上が好ましい",
+        "c": "肋骨下縁を通して挿入し血管損傷を防ぐ",
+        "d": "再膨張性肺水腫は致死的合併症である",
+        "e": "三連ボトルの水封室はエアリーク確認に用いる"
+      },
+      "answer": "c",
+      "explanation": "肋間動脈・神経損傷予防のため肋骨『上縁』を通す。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-019",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問19 喀血時の対応で誤っているものはどれか。",
+      "choices": {
+        "a": "24時間200 mL以上を大量喀血とする",
+        "b": "非出血側にカフ付きチューブで片肺挿管し窒息を防ぐ",
+        "c": "出血側を上にした側臥位をとる",
+        "d": "凝血塊は吸引せず触らない",
+        "e": "可能な限り咳をさせない"
+      },
+      "answer": "c",
+      "explanation": "出血側を『下』にした側臥位（健側肺への血液流入を防ぐ）。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-020",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問20 気道異物について正しいものはどれか。",
+      "choices": {
+        "a": "成人に最も多く小児はまれである",
+        "b": "小児ではX線に写る異物が大半である",
+        "c": "小児異物は豆類・植物の種が大半を占める",
+        "d": "異物は左主気管支に落ちることが多い",
+        "e": "成人異物で最も多いのはピーナッツである"
+      },
+      "answer": "c",
+      "explanation": "小児異物は豆類・植物の種が81%。下気道異物は4歳以下に多く、X線陽性は11%のみ、右主気管支・中間幹に多い、成人は歯冠・義歯が最多。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-021",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問21 放射線療法について誤っているものはどれか。",
+      "choices": {
+        "a": "局所進行NSCLCの根治照射の総線量は60 Gy以上が勧められる",
+        "b": "74 Gyの高線量照射が標準として推奨される",
+        "c": "LD-SCLCでは加速過分割照射が標準である",
+        "d": "ED-SCLCではPCIを行わない",
+        "e": "放射線脊髄症は最も避けるべき晩期障害である"
+      },
+      "answer": "b",
+      "explanation": "74 Gyの高線量は予後不良で推奨されない。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-022",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問22 気管支動脈塞栓術（BAE）について誤っているものはどれか。",
+      "choices": {
+        "a": "喀血責任血管は体循環系動脈が約95%である",
+        "b": "前脊髄動脈誤塞栓で対麻痺を生じうる",
+        "c": "CTAは適応判断・治療支援に必須である",
+        "d": "対麻痺は金属コイルでGS・NBCAより発症率が高い",
+        "e": "B-Pシャントが喀血機序として提唱されている"
+      },
+      "answer": "d",
+      "explanation": "対麻痺は金属コイルでGS・NBCAより有意に発症率が『低い』。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-023",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問23 肺移植について誤っているものはどれか。",
+      "choices": {
+        "a": "感染性肺疾患・特発性肺動脈性肺高血圧症は両肺移植が原則",
+        "b": "特発性間質性肺炎は片肺移植が原則",
+        "c": "免疫抑制はCNI＋代謝拮抗薬＋ステロイドの3剤が基本",
+        "d": "CLADはBOSとRASのsubtypeがある",
+        "e": "5年生存率は約30%と不良である"
+      },
+      "answer": "e",
+      "explanation": "本邦の5年生存率は脳死・生体ともに約70%と良好。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-024",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問24 外科療法（肺切除）の合併症で術後死亡原因として最も多いものはどれか。",
+      "choices": {
+        "a": "乳び胸",
+        "b": "気管支断端瘻",
+        "c": "間質性肺炎急性増悪",
+        "d": "肺瘻",
+        "e": "創部感染"
+      },
+      "answer": "c",
+      "explanation": "原発性肺癌の肺葉切除・郭清後の術後死亡原因として間質性肺炎急性増悪が最多。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-025",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問25 縦隔リンパ節郭清について誤っているものはどれか。",
+      "choices": {
+        "a": "正確なステージングに寄与する",
+        "b": "ガイドラインは郭清またはサンプリングを強く推奨する",
+        "c": "重要な合併症に乳び胸がある",
+        "d": "選択的郭清は肺葉に応じた領域を郭清する",
+        "e": "ACSOG Z0030試験で明確な予後改善が証明された"
+      },
+      "answer": "e",
+      "explanation": "Z0030試験は系統的郭清でステージングは正確だが予後改善は示せなかった。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-026",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問26 禁煙治療について誤っているものはどれか。",
+      "choices": {
+        "a": "TDS 5点以上でニコチン依存症と診断する",
+        "b": "喫煙者の呼気CO濃度は8 ppm以上である",
+        "c": "保険適用には35歳以上でブリンクマン指数200以上が必要",
+        "d": "加熱式タバコ使用者は呼気CO濃度が上昇する",
+        "e": "薬物療法と行動療法を併用する"
+      },
+      "answer": "d",
+      "explanation": "加熱式タバコのエアロゾルにCOは含まれず呼気CO濃度は上昇しない（尿中コチニンでモニター）。",
+      "tags": [
+        "総論V",
+        "治療",
+        "5択"
+      ]
+    },
+    {
+      "id": "mcq-s5-027",
+      "type": "mcq",
+      "chapter": "総論V 治療",
+      "section": "治療",
+      "question": "問27 呼吸器疾患の緩和ケアについて誤っているものはどれか。",
+      "choices": {
+        "a": "進行肺癌は診断時からの緩和ケア介入が有用である",
+        "b": "せん妄は終末期がん患者の80%以上に生じる",
+        "c": "PPI 6.5点以上は予後21日以下の可能性が高い",
+        "d": "非がん性呼吸器疾患の重症呼吸困難にモルヒネは選択肢となる",
+        "e": "COPDの不安にはベンゾジアゼピン系を第一選択とする"
+      },
+      "answer": "e",
+      "explanation": "ベンゾジアゼピン系はCOPD増悪・死亡率上昇と関連（特にII型呼吸不全でCO2ナルコーシス）。",
+      "tags": [
+        "総論V",
+        "治療",
         "5択"
       ]
     }

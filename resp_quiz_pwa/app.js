@@ -117,12 +117,23 @@ function showCard(){
 }
 
 function renderChoices(item){
-  const keys=Object.keys(item.choices || {});
-  for(const k of keys){
+  const originalKeys = Object.keys(item.choices || {});
+  const displayKeys = ['a','b','c','d','e','f','g','h'];
+  const shuffledKeys = shuffle(originalKeys);
+  item._renderedChoices = shuffledKeys.map((originalKey, i) => ({
+    originalKey,
+    displayKey: displayKeys[i] || String(i + 1),
+    text: item.choices[originalKey]
+  }));
+  item._displayCorrectKey = item._renderedChoices.find(x => x.originalKey === item.answer)?.displayKey || item.answer;
+
+  for(const choice of item._renderedChoices){
     const btn=document.createElement('button');
     btn.className='choice';
-    btn.innerHTML=`<b>${escapeHtml(k)}.</b> ${escapeHtml(item.choices[k])}`;
-    btn.onclick=()=>gradeMcq(k, btn);
+    btn.dataset.originalKey = choice.originalKey;
+    btn.dataset.displayKey = choice.displayKey;
+    btn.innerHTML=`<b>${escapeHtml(choice.displayKey)}.</b> ${escapeHtml(choice.text)}`;
+    btn.onclick=()=>gradeMcq(choice.originalKey, btn);
     $('choices').appendChild(btn);
   }
 }
@@ -132,7 +143,8 @@ function showAnswer(){
   if(current.type==='qa'){
     $('answerBox').textContent = current.answer;
   }else{
-    $('answerBox').textContent = `正解：${current.answer}\n${current.explanation || ''}`;
+    const displayAnswer = current._displayCorrectKey || current.answer;
+    $('answerBox').textContent = `正解：${displayAnswer}\n${current.explanation || ''}`;
   }
   $('answerBox').classList.remove('hidden');
 }
@@ -157,7 +169,7 @@ function gradeMcq(choice, btn){
   [...document.querySelectorAll('.choice')].forEach(b=>b.disabled=true);
   btn.classList.add(ok?'correct':'wrong');
   [...document.querySelectorAll('.choice')].forEach(b=>{
-    if(b.textContent.trim().startsWith(current.answer+'.')) b.classList.add('correct');
+    if(b.dataset.originalKey === current.answer) b.classList.add('correct');
   });
   showAnswer(); record(ok);
 }
