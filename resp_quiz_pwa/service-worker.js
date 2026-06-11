@@ -1,4 +1,4 @@
-const CACHE_NAME = 'resp-quiz-cache-v7';
+const CACHE_NAME = 'resp-quiz-cache-v8-cropped-images';
 const ASSETS = [
   './',
   './index.html',
@@ -8,17 +8,16 @@ const ASSETS = [
   './icon.svg',
   './data/questions.json',
   './data/questions.csv',
-  './assets/past_pages/past_page_01.jpg',
-  './assets/past_pages/past_page_02.jpg',
-  './assets/past_pages/past_page_03.jpg',
-  './assets/past_pages/past_page_04.jpg',
-  './assets/past_pages/past_page_05.jpg',
-  './assets/past_pages/past_page_06.jpg',
-  './assets/past_pages/past_page_07.jpg',
-  './assets/past_pages/past_page_08.jpg',
-  './assets/past_pages/past_page_09.jpg',
-  './assets/past_pages/past_page_10.jpg',
-  './assets/past_pages/past_page_11.jpg'
+  './assets/past_figures/q04_fig4abcd.jpg',
+  './assets/past_figures/q06_fig6ab.jpg',
+  './assets/past_figures/q08_fig8.jpg',
+  './assets/past_figures/q09_fig9.jpg',
+  './assets/past_figures/q15_fig15ab.jpg',
+  './assets/past_figures/q16_fig16.jpg',
+  './assets/past_figures/q20_fig20.jpg',
+  './assets/past_figures/q24_fig24ab.jpg',
+  './assets/past_figures/q27_fig27ab.jpg',
+  './assets/past_figures/q28_fig28abc.jpg'
 ];
 
 self.addEventListener('install', event => {

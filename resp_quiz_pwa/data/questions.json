@@ -52,7 +52,8 @@
       "multi_section_filter": true,
       "choice_shuffle": true,
       "mapped_answer_after_shuffle": true,
-      "clinical_question_images": true
+      "clinical_question_images": "cropped",
+      "cropped_clinical_images": true
     }
   },
   "items": [
@@ -11626,8 +11627,8 @@
       "id": "mcq-0729",
       "images": [
         {
-          "src": "assets/past_pages/past_page_02.jpg",
-          "caption": "過去問 図表ページ（PDF p.2）"
+          "src": "assets/past_figures/q04_fig4abcd.jpg",
+          "caption": "図4a〜d（必要図のみトリミング）"
         }
       ],
       "has_image": true
@@ -11677,8 +11678,8 @@
       "id": "mcq-0731",
       "images": [
         {
-          "src": "assets/past_pages/past_page_03.jpg",
-          "caption": "過去問 図表ページ（PDF p.3）"
+          "src": "assets/past_figures/q06_fig6ab.jpg",
+          "caption": "図6a・6b（必要図のみトリミング）"
         }
       ],
       "has_image": true
@@ -11728,8 +11729,8 @@
       "id": "mcq-0733",
       "images": [
         {
-          "src": "assets/past_pages/past_page_03.jpg",
-          "caption": "過去問 図表ページ（PDF p.3）"
+          "src": "assets/past_figures/q08_fig8.jpg",
+          "caption": "図8（必要図のみトリミング）"
         }
       ],
       "has_image": true
@@ -11760,8 +11761,8 @@
       "id": "mcq-0734",
       "images": [
         {
-          "src": "assets/past_pages/past_page_04.jpg",
-          "caption": "過去問 図表ページ（PDF p.4）"
+          "src": "assets/past_figures/q09_fig9.jpg",
+          "caption": "図9（必要図のみトリミング）"
         }
       ],
       "has_image": true
@@ -11899,8 +11900,8 @@
       "id": "mcq-0740",
       "images": [
         {
-          "src": "assets/past_pages/past_page_05.jpg",
-          "caption": "過去問 図表ページ（PDF p.5）"
+          "src": "assets/past_figures/q15_fig15ab.jpg",
+          "caption": "図15a・15b（必要図のみトリミング）"
         }
       ],
       "has_image": true
@@ -11928,8 +11929,8 @@
       "id": "mcq-0741",
       "images": [
         {
-          "src": "assets/past_pages/past_page_06.jpg",
-          "caption": "過去問 図表ページ（PDF p.6）"
+          "src": "assets/past_figures/q16_fig16.jpg",
+          "caption": "図16（必要図のみトリミング）"
         }
       ],
       "has_image": true
@@ -12032,8 +12033,8 @@
       "id": "mcq-0745",
       "images": [
         {
-          "src": "assets/past_pages/past_page_07.jpg",
-          "caption": "過去問 図表ページ（PDF p.7）"
+          "src": "assets/past_figures/q20_fig20.jpg",
+          "caption": "図20（必要図のみトリミング）"
         }
       ],
       "has_image": true
@@ -12133,8 +12134,8 @@
       "id": "mcq-0749",
       "images": [
         {
-          "src": "assets/past_pages/past_page_08.jpg",
-          "caption": "過去問 図表ページ（PDF p.8）"
+          "src": "assets/past_figures/q24_fig24ab.jpg",
+          "caption": "図24a・24b（必要図のみトリミング）"
         }
       ],
       "has_image": true
@@ -12212,8 +12213,8 @@
       "id": "mcq-0752",
       "images": [
         {
-          "src": "assets/past_pages/past_page_09.jpg",
-          "caption": "過去問 図表ページ（PDF p.9）"
+          "src": "assets/past_figures/q27_fig27ab.jpg",
+          "caption": "図27a・27b（必要図のみトリミング）"
         }
       ],
       "has_image": true
@@ -12244,8 +12245,8 @@
       "id": "mcq-0753",
       "images": [
         {
-          "src": "assets/past_pages/past_page_09.jpg",
-          "caption": "過去問 図表ページ（PDF p.9）"
+          "src": "assets/past_figures/q28_fig28abc.jpg",
+          "caption": "図28a〜c（必要図のみトリミング）"
         }
       ],
       "has_image": true
