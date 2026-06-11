@@ -43,6 +43,42 @@ function answerText(item){
   return displayMap.join('、');
 }
 
+function displayKeyForOriginal(item, originalKey){
+  const found = item?._renderedChoices?.find(x => x.originalKey === originalKey);
+  return found ? found.displayKey : originalKey;
+}
+
+function mapOriginalAnswerString(item, raw){
+  return String(raw || '').split(/[，,、]/).map(x => displayKeyForOriginal(item, x.trim())).filter(Boolean).join('、');
+}
+
+function mappedExplanation(item){
+  let text = String(item?.explanation || '');
+  if(!text) return '';
+  if(item?._renderedChoices){
+    const repl = (_, prefix, ans) => `${prefix}${mapOriginalAnswerString(item, ans)}`;
+    text = text.replace(/(●?解答[:：]\s*)([a-h](?:\s*[，,、]\s*[a-h])*)/gi, repl);
+    text = text.replace(/(正解[:：]\s*)([a-h](?:\s*[，,、]\s*[a-h])*)/gi, repl);
+    text = text.replace(/(正答\s*[:：]?\s*)([a-h](?:\s*[，,、]\s*[a-h])*)/gi, repl);
+  }
+  return text;
+}
+
+function renderImages(item){
+  const wrap = $('imageBox');
+  wrap.innerHTML = '';
+  const images = item?.images || [];
+  wrap.classList.toggle('hidden', images.length === 0);
+  for(const img of images){
+    const src = typeof img === 'string' ? img : img.src;
+    const caption = typeof img === 'string' ? '図表' : (img.caption || '図表');
+    const card = document.createElement('div');
+    card.className = 'question-image-card';
+    card.innerHTML = `<a href="${escapeHtml(src)}" target="_blank" rel="noopener"><img src="${escapeHtml(src)}" alt="${escapeHtml(caption)}"></a><small>${escapeHtml(caption)}：タップすると拡大表示できます</small>`;
+    wrap.appendChild(card);
+  }
+}
+
 function updateCounts(){
   $('totalCount').textContent = queue.length;
   $('doneCount').textContent = session.done;
@@ -146,7 +182,7 @@ function renderWrongList(){
 }
 
 function showCard(){
-  $('choices').innerHTML=''; $('answerBox').classList.add('hidden'); $('answerBox').textContent='';
+  $('choices').innerHTML=''; $('imageBox').innerHTML=''; $('imageBox').classList.add('hidden'); $('answerBox').classList.add('hidden'); $('answerBox').textContent='';
   $('submitMcqBtn').classList.add('hidden');
   if(!queue.length){
     $('badge').textContent='対象なし'; $('progress').textContent=''; $('question').textContent='条件に合う問題がありません。';
@@ -158,6 +194,7 @@ function showCard(){
   $('badge').textContent = `${current.type==='qa'?'一問一答':'5択'}｜${current.section}`;
   $('progress').textContent = `${index+1} / ${queue.length}`;
   $('question').textContent=current.question;
+  renderImages(current);
   $('showBtn').classList.toggle('hidden', current.type!=='qa');
   $('wrongBtn').classList.toggle('hidden', current.type!=='qa');
   $('correctBtn').classList.toggle('hidden', current.type!=='qa');
@@ -212,7 +249,7 @@ function showAnswer(){
   if(current.type==='qa'){
     $('answerBox').textContent = current.answer;
   }else{
-    $('answerBox').textContent = `正解：${answerText(current)}\n${current.explanation || ''}`;
+    $('answerBox').textContent = `正解：${answerText(current)}\n${mappedExplanation(current)}`;
   }
   $('answerBox').classList.remove('hidden');
 }

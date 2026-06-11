@@ -47,7 +47,13 @@
       "各論Ⅴ 縦隔疾患",
       "各論Ⅵ 胸郭・胸壁の疾患",
       "過去問題"
-    ]
+    ],
+    "features": {
+      "multi_section_filter": true,
+      "choice_shuffle": true,
+      "mapped_answer_after_shuffle": true,
+      "clinical_question_images": true
+    }
   },
   "items": [
     {
@@ -11617,7 +11623,14 @@
         "5択"
       ],
       "source_file": "12_付録_過去問題_カリキュラム_編集委員等.pdf",
-      "id": "mcq-0729"
+      "id": "mcq-0729",
+      "images": [
+        {
+          "src": "assets/past_pages/past_page_02.jpg",
+          "caption": "過去問 図表ページ（PDF p.2）"
+        }
+      ],
+      "has_image": true
     },
     {
       "type": "mcq",
@@ -11661,7 +11674,14 @@
         "5択"
       ],
       "source_file": "12_付録_過去問題_カリキュラム_編集委員等.pdf",
-      "id": "mcq-0731"
+      "id": "mcq-0731",
+      "images": [
+        {
+          "src": "assets/past_pages/past_page_03.jpg",
+          "caption": "過去問 図表ページ（PDF p.3）"
+        }
+      ],
+      "has_image": true
     },
     {
       "type": "mcq",
@@ -11705,7 +11725,14 @@
         "5択"
       ],
       "source_file": "12_付録_過去問題_カリキュラム_編集委員等.pdf",
-      "id": "mcq-0733"
+      "id": "mcq-0733",
+      "images": [
+        {
+          "src": "assets/past_pages/past_page_03.jpg",
+          "caption": "過去問 図表ページ（PDF p.3）"
+        }
+      ],
+      "has_image": true
     },
     {
       "type": "mcq",
@@ -11730,7 +11757,14 @@
         "5択"
       ],
       "source_file": "12_付録_過去問題_カリキュラム_編集委員等.pdf",
-      "id": "mcq-0734"
+      "id": "mcq-0734",
+      "images": [
+        {
+          "src": "assets/past_pages/past_page_04.jpg",
+          "caption": "過去問 図表ページ（PDF p.4）"
+        }
+      ],
+      "has_image": true
     },
     {
       "type": "mcq",
@@ -11862,7 +11896,14 @@
         "5択"
       ],
       "source_file": "12_付録_過去問題_カリキュラム_編集委員等.pdf",
-      "id": "mcq-0740"
+      "id": "mcq-0740",
+      "images": [
+        {
+          "src": "assets/past_pages/past_page_05.jpg",
+          "caption": "過去問 図表ページ（PDF p.5）"
+        }
+      ],
+      "has_image": true
     },
     {
       "type": "mcq",
@@ -11884,7 +11925,14 @@
         "5択"
       ],
       "source_file": "12_付録_過去問題_カリキュラム_編集委員等.pdf",
-      "id": "mcq-0741"
+      "id": "mcq-0741",
+      "images": [
+        {
+          "src": "assets/past_pages/past_page_06.jpg",
+          "caption": "過去問 図表ページ（PDF p.6）"
+        }
+      ],
+      "has_image": true
     },
     {
       "type": "mcq",
@@ -11981,7 +12029,14 @@
         "5択"
       ],
       "source_file": "12_付録_過去問題_カリキュラム_編集委員等.pdf",
-      "id": "mcq-0745"
+      "id": "mcq-0745",
+      "images": [
+        {
+          "src": "assets/past_pages/past_page_07.jpg",
+          "caption": "過去問 図表ページ（PDF p.7）"
+        }
+      ],
+      "has_image": true
     },
     {
       "type": "mcq",
@@ -12075,7 +12130,14 @@
         "5択"
       ],
       "source_file": "12_付録_過去問題_カリキュラム_編集委員等.pdf",
-      "id": "mcq-0749"
+      "id": "mcq-0749",
+      "images": [
+        {
+          "src": "assets/past_pages/past_page_08.jpg",
+          "caption": "過去問 図表ページ（PDF p.8）"
+        }
+      ],
+      "has_image": true
     },
     {
       "type": "mcq",
@@ -12147,7 +12209,14 @@
         "5択"
       ],
       "source_file": "12_付録_過去問題_カリキュラム_編集委員等.pdf",
-      "id": "mcq-0752"
+      "id": "mcq-0752",
+      "images": [
+        {
+          "src": "assets/past_pages/past_page_09.jpg",
+          "caption": "過去問 図表ページ（PDF p.9）"
+        }
+      ],
+      "has_image": true
     },
     {
       "type": "mcq",
@@ -12172,7 +12241,14 @@
         "5択"
       ],
       "source_file": "12_付録_過去問題_カリキュラム_編集委員等.pdf",
-      "id": "mcq-0753"
+      "id": "mcq-0753",
+      "images": [
+        {
+          "src": "assets/past_pages/past_page_09.jpg",
+          "caption": "過去問 図表ページ（PDF p.9）"
+        }
+      ],
+      "has_image": true
     },
     {
       "type": "mcq",
