@@ -1,4 +1,5 @@
 let data = [];
+let allSections = [];
 let queue = [];
 let sourceQueue = [];
 let index = 0;
@@ -7,15 +8,39 @@ let current = null;
 let deferredPrompt = null;
 const $ = id => document.getElementById(id);
 
-const statsKey = 'respQuizStats.v2';
-const oldStatsKey = 'respQuizStats.v1';
-const getStats = () => JSON.parse(localStorage.getItem(statsKey) || localStorage.getItem(oldStatsKey) || '{}');
+const statsKey = 'respQuizStats.v3';
+const oldStatsKeys = ['respQuizStats.v2', 'respQuizStats.v1'];
+const getStats = () => {
+  const own = localStorage.getItem(statsKey);
+  if(own) return JSON.parse(own);
+  for(const key of oldStatsKeys){
+    const value = localStorage.getItem(key);
+    if(value) return JSON.parse(value);
+  }
+  return {};
+};
 const setStats = s => localStorage.setItem(statsKey, JSON.stringify(s));
 
 function shuffle(arr){
   const a=[...arr];
   for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}
   return a;
+}
+
+function escapeHtml(s){
+  return String(s ?? '').replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+}
+
+function answerKeys(item){
+  const raw = Array.isArray(item.answer) ? item.answer : String(item.answer ?? '').split(/[，,、]/);
+  return raw.map(x => String(x).trim()).filter(Boolean);
+}
+
+function answerText(item){
+  const keys = answerKeys(item);
+  if(!keys.length) return '';
+  const displayMap = current === item && item._displayCorrectKeys ? item._displayCorrectKeys : keys;
+  return displayMap.join('、');
 }
 
 function updateCounts(){
@@ -25,17 +50,43 @@ function updateCounts(){
 }
 
 function buildFilters(meta){
-  const sections = meta?.sections || [...new Set(data.map(x=>x.section).filter(Boolean))];
-  for(const s of sections){
-    const opt=document.createElement('option'); opt.value=s; opt.textContent=s; $('sectionSelect').appendChild(opt);
+  allSections = meta?.sections || [...new Set(data.map(x=>x.section).filter(Boolean))];
+  const wrap = $('sectionCheckboxes');
+  wrap.innerHTML = '';
+  for(const s of allSections){
+    const label=document.createElement('label');
+    label.className='check-row';
+    label.innerHTML = `<input type="checkbox" value="${escapeHtml(s)}" checked> <span>${escapeHtml(s)}</span>`;
+    wrap.appendChild(label);
+  }
+  wrap.addEventListener('change', updateSectionSummary);
+  updateSectionSummary();
+}
+
+function selectedSections(){
+  return [...document.querySelectorAll('#sectionCheckboxes input[type="checkbox"]:checked')].map(x=>x.value);
+}
+
+function updateSectionSummary(){
+  const selected = selectedSections();
+  if(!allSections.length || selected.length === allSections.length){
+    $('sectionSummary').textContent = 'すべて';
+  }else if(selected.length === 0){
+    $('sectionSummary').textContent = '未選択（すべて扱い）';
+  }else if(selected.length <= 3){
+    $('sectionSummary').textContent = selected.join('、');
+  }else{
+    $('sectionSummary').textContent = `${selected.length}分野を選択中`;
   }
 }
 
 function baseFiltered(){
   const mode=$('modeSelect').value;
-  const section=$('sectionSelect').value;
+  const selected = selectedSections();
+  const useSectionFilter = selected.length > 0 && selected.length < allSections.length;
+  const selectedSet = new Set(selected);
   const stats=getStats();
-  let arr=data.filter(x => section==='all' || x.section===section);
+  let arr=data.filter(x => !useSectionFilter || selectedSet.has(x.section));
   if(mode==='qa') arr=arr.filter(x=>x.type==='qa');
   if(mode==='mcq') arr=arr.filter(x=>x.type==='mcq');
   if(mode==='wrong') arr=arr.filter(x=>stats[x.id]?.wrong>0);
@@ -88,24 +139,22 @@ function renderWrongList(){
   for(const item of wrongItems){
     const div = document.createElement('div');
     div.className = 'wrong-item';
-    const answer = item.type === 'mcq' ? `正解：${item.answer}　${item.explanation || ''}` : item.answer;
+    const answer = item.type === 'mcq' ? `正解：${Array.isArray(item.answer) ? item.answer.join('、') : item.answer}　${item.explanation || ''}` : item.answer;
     div.innerHTML = `<b>${escapeHtml(item.section || '')}</b><p>${escapeHtml(item.question)}</p><small>${escapeHtml(answer)}</small>`;
     wrap.appendChild(div);
   }
 }
 
-function escapeHtml(s){
-  return String(s ?? '').replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
-}
-
 function showCard(){
   $('choices').innerHTML=''; $('answerBox').classList.add('hidden'); $('answerBox').textContent='';
+  $('submitMcqBtn').classList.add('hidden');
   if(!queue.length){
     $('badge').textContent='対象なし'; $('progress').textContent=''; $('question').textContent='条件に合う問題がありません。';
     $('showBtn').classList.add('hidden'); $('wrongBtn').classList.add('hidden'); $('correctBtn').classList.add('hidden'); $('nextBtn').classList.add('hidden'); return;
   }
   if(index >= queue.length){ finishSession(); return; }
   current=queue[index];
+  current._selectedKeys = new Set();
   $('badge').textContent = `${current.type==='qa'?'一問一答':'5択'}｜${current.section}`;
   $('progress').textContent = `${index+1} / ${queue.length}`;
   $('question').textContent=current.question;
@@ -119,13 +168,16 @@ function showCard(){
 function renderChoices(item){
   const originalKeys = Object.keys(item.choices || {});
   const displayKeys = ['a','b','c','d','e','f','g','h'];
+  const correctKeys = answerKeys(item);
+  const multi = correctKeys.length > 1;
   const shuffledKeys = shuffle(originalKeys);
   item._renderedChoices = shuffledKeys.map((originalKey, i) => ({
     originalKey,
     displayKey: displayKeys[i] || String(i + 1),
     text: item.choices[originalKey]
   }));
-  item._displayCorrectKey = item._renderedChoices.find(x => x.originalKey === item.answer)?.displayKey || item.answer;
+  item._displayCorrectKeys = item._renderedChoices.filter(x => correctKeys.includes(x.originalKey)).map(x => x.displayKey);
+  $('submitMcqBtn').classList.toggle('hidden', !multi);
 
   for(const choice of item._renderedChoices){
     const btn=document.createElement('button');
@@ -133,9 +185,26 @@ function renderChoices(item){
     btn.dataset.originalKey = choice.originalKey;
     btn.dataset.displayKey = choice.displayKey;
     btn.innerHTML=`<b>${escapeHtml(choice.displayKey)}.</b> ${escapeHtml(choice.text)}`;
-    btn.onclick=()=>gradeMcq(choice.originalKey, btn);
+    btn.onclick=()=> multi ? toggleMultiChoice(choice.originalKey, btn) : gradeMcq([choice.originalKey]);
     $('choices').appendChild(btn);
   }
+}
+
+function toggleMultiChoice(originalKey, btn){
+  if(!current || session.answeredIds.has(current.id)) return;
+  if(current._selectedKeys.has(originalKey)){
+    current._selectedKeys.delete(originalKey);
+    btn.classList.remove('selected');
+  }else{
+    current._selectedKeys.add(originalKey);
+    btn.classList.add('selected');
+  }
+}
+
+function sameSet(a,b){
+  if(a.length !== b.length) return false;
+  const bs = new Set(b);
+  return a.every(x => bs.has(x));
 }
 
 function showAnswer(){
@@ -143,8 +212,7 @@ function showAnswer(){
   if(current.type==='qa'){
     $('answerBox').textContent = current.answer;
   }else{
-    const displayAnswer = current._displayCorrectKey || current.answer;
-    $('answerBox').textContent = `正解：${displayAnswer}\n${current.explanation || ''}`;
+    $('answerBox').textContent = `正解：${answerText(current)}\n${current.explanation || ''}`;
   }
   $('answerBox').classList.remove('hidden');
 }
@@ -163,22 +231,24 @@ function record(ok){
   updateCounts();
 }
 
-function gradeMcq(choice, btn){
+function gradeMcq(selectedKeys){
   if(!current || session.answeredIds.has(current.id)) return;
-  const ok = choice === current.answer;
-  [...document.querySelectorAll('.choice')].forEach(b=>b.disabled=true);
-  btn.classList.add(ok?'correct':'wrong');
+  const selected = selectedKeys || [...(current._selectedKeys || new Set())];
+  if(!selected.length) return;
+  const correct = answerKeys(current);
+  const ok = sameSet(selected, correct);
   [...document.querySelectorAll('.choice')].forEach(b=>{
-    if(b.dataset.originalKey === current.answer) b.classList.add('correct');
+    b.disabled=true;
+    const key = b.dataset.originalKey;
+    if(correct.includes(key)) b.classList.add('correct');
+    if(selected.includes(key) && !correct.includes(key)) b.classList.add('wrong');
   });
-  showAnswer(); record(ok);
+  showAnswer();
+  record(ok);
 }
 
 function next(){
   if(!queue.length) return;
-  if(current && !session.answeredIds.has(current.id)){
-    // 未採点で次へ進んだ場合は「未回答」として扱い、正答率の分母には入れない。
-  }
   index += 1;
   showCard();
   updateCounts();
@@ -186,6 +256,7 @@ function next(){
 
 $('startBtn').onclick=()=>start();
 $('showBtn').onclick=showAnswer;
+$('submitMcqBtn').onclick=()=>gradeMcq();
 $('correctBtn').onclick=()=>{record(true); next();};
 $('wrongBtn').onclick=()=>{record(false); next();};
 $('nextBtn').onclick=next;
@@ -202,11 +273,19 @@ $('newSessionBtn').onclick=()=>start();
 $('limitSelect').onchange=()=>{
   $('customLimitWrap').classList.toggle('hidden', $('limitSelect').value !== 'custom');
 };
+$('selectAllSectionsBtn').onclick=()=>{
+  document.querySelectorAll('#sectionCheckboxes input').forEach(x=>x.checked=true);
+  updateSectionSummary();
+};
+$('clearSectionsBtn').onclick=()=>{
+  document.querySelectorAll('#sectionCheckboxes input').forEach(x=>x.checked=false);
+  updateSectionSummary();
+};
 $('exportBtn').onclick=()=>{
   const blob=new Blob([JSON.stringify(getStats(), null, 2)], {type:'application/json'});
   const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='resp_quiz_stats.json'; a.click();
 };
-$('resetBtn').onclick=()=>{ if(confirm('成績をリセットしますか？')){localStorage.removeItem(statsKey); localStorage.removeItem(oldStatsKey); start();} };
+$('resetBtn').onclick=()=>{ if(confirm('成績をリセットしますか？')){localStorage.removeItem(statsKey); for(const key of oldStatsKeys) localStorage.removeItem(key); start();} };
 
 window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredPrompt=e; $('installBtn').classList.remove('hidden'); });
 $('installBtn').onclick=async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); deferredPrompt=null; $('installBtn').classList.add('hidden'); } };

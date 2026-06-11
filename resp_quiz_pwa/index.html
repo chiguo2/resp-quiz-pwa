@@ -27,9 +27,19 @@
           <option value="wrong">累積で間違えた問題</option>
         </select>
       </label>
-      <label>分野
-        <select id="sectionSelect"><option value="all">すべて</option></select>
-      </label>
+
+      <div class="field section-field">
+        <div class="field-title">分野</div>
+        <details open>
+          <summary id="sectionSummary">すべて</summary>
+          <div class="section-tools">
+            <button id="selectAllSectionsBtn" type="button" class="mini secondary">全選択</button>
+            <button id="clearSectionsBtn" type="button" class="mini ghost-light">解除</button>
+          </div>
+          <div id="sectionCheckboxes" class="checkbox-list"></div>
+        </details>
+      </div>
+
       <label>出題順
         <select id="orderSelect">
           <option value="random">ランダム</option>
@@ -68,6 +78,7 @@
       <div id="answerBox" class="answer hidden"></div>
       <div class="actions">
         <button id="showBtn" class="secondary">答を表示</button>
+        <button id="submitMcqBtn" class="secondary hidden">解答する</button>
         <button id="wrongBtn" class="danger">× 間違い</button>
         <button id="correctBtn" class="success">○ 正解</button>
         <button id="nextBtn">次へ</button>
@@ -96,7 +107,7 @@
     <section class="panel utility">
       <details>
         <summary>使い方・データ管理</summary>
-        <p>一問一答は「答を表示」してから自己採点します。5択は選択肢をタップすると自動採点します。設定した問題数が終わると結果画面を表示し、今回間違えた問題だけを復習できます。</p>
+        <p>一問一答は「答を表示」してから自己採点します。5択は選択肢をタップすると自動採点します。複数選択問題では選択肢を複数タップしてから「解答する」を押します。設定した問題数が終わると結果画面を表示し、今回間違えた問題だけを復習できます。</p>
         <div class="utility-buttons">
           <button id="exportBtn" class="ghost">成績をエクスポート</button>
           <button id="resetBtn" class="ghost danger-text">成績をリセット</button>
