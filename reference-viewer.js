@@ -26,5 +26,13 @@ if(!docs[doc] || !Number.isInteger(page) || page < 1){
 document.getElementById('zoomIn').onclick = () => { zoom = Math.min(2.5, zoom + .2); updateZoom(); };
 document.getElementById('zoomOut').onclick = () => { zoom = Math.max(.5, zoom - .2); updateZoom(); };
 document.getElementById('fitBtn').onclick = () => { zoom = 1; updateZoom(); stage.scrollTo({left:0, top:0, behavior:'smooth'}); };
-document.getElementById('closeBtn').onclick = () => window.close();
+document.getElementById('closeBtn').onclick = () => {
+  if(window.parent && window.parent !== window){
+    window.parent.postMessage({type:'closeReferenceViewer'}, '*');
+  }else if(history.length > 1){
+    history.back();
+  }else{
+    location.href = 'index.html';
+  }
+};
 img.addEventListener('dragstart', e => e.preventDefault());

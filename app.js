@@ -248,7 +248,7 @@ function referenceLinkHtml(item){
   const ref = item?.reference;
   if(!ref?.viewer) return '';
   const label = `${ref.title}（PDF ${ref.page}ページ）`;
-  return `<div class="reference-link-wrap"><a class="reference-link" href="${escapeHtml(ref.viewer)}" target="_blank" rel="noopener noreferrer">📖 教科書の該当解説を開く</a><small>${escapeHtml(label)}／閲覧専用ページ</small></div>`;
+  return `<div class="reference-link-wrap"><a class="reference-link" href="${escapeHtml(ref.viewer)}" data-reference-viewer="${escapeHtml(ref.viewer)}">📖 教科書の該当解説を開く</a><small>${escapeHtml(label)}／閲覧専用ページ</small></div>`;
 }
 
 function showAnswer(){
@@ -335,3 +335,67 @@ $('installBtn').onclick=async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); 
 
 fetch('data/questions.json').then(r=>r.json()).then(json=>{ data=json.items; buildFilters(json.metadata); start(); });
 if('serviceWorker' in navigator){ window.addEventListener('load',()=>navigator.serviceWorker.register('service-worker.js')); }
+
+
+// 教科書参照はPWA内のモーダルで開き、現在の問題状態を保持する。
+let referenceModal = null;
+let referenceIframe = null;
+let referenceModalOpen = false;
+
+function ensureReferenceModal(){
+  if(referenceModal) return;
+  referenceModal = document.createElement('div');
+  referenceModal.id = 'referenceModal';
+  referenceModal.className = 'reference-modal hidden';
+  referenceModal.setAttribute('role', 'dialog');
+  referenceModal.setAttribute('aria-modal', 'true');
+  referenceModal.setAttribute('aria-label', '教科書の該当解説');
+  referenceModal.innerHTML = `
+    <div class="reference-modal-shell">
+      <div class="reference-modal-bar">
+        <button id="referenceBackBtn" type="button" class="reference-back-btn" aria-label="問題に戻る">← 問題に戻る</button>
+        <strong>教科書の該当解説</strong>
+        <span></span>
+      </div>
+      <iframe id="referenceIframe" title="教科書の該当解説" loading="eager"></iframe>
+    </div>`;
+  document.body.appendChild(referenceModal);
+  referenceIframe = document.getElementById('referenceIframe');
+  document.getElementById('referenceBackBtn').addEventListener('click', () => closeReferenceModal(true));
+  referenceModal.addEventListener('click', e => {
+    if(e.target === referenceModal) closeReferenceModal(true);
+  });
+}
+
+function openReferenceModal(url){
+  ensureReferenceModal();
+  referenceIframe.src = url;
+  referenceModal.classList.remove('hidden');
+  document.body.classList.add('reference-modal-open');
+  referenceModalOpen = true;
+  history.pushState({referenceViewer:true}, '', location.href);
+}
+
+function closeReferenceModal(useHistory=false){
+  if(!referenceModalOpen) return;
+  referenceModalOpen = false;
+  referenceModal.classList.add('hidden');
+  document.body.classList.remove('reference-modal-open');
+  referenceIframe.src = 'about:blank';
+  if(useHistory && history.state?.referenceViewer) history.back();
+}
+
+document.addEventListener('click', e => {
+  const link = e.target.closest('[data-reference-viewer]');
+  if(!link) return;
+  e.preventDefault();
+  openReferenceModal(link.dataset.referenceViewer || link.getAttribute('href'));
+});
+
+window.addEventListener('message', e => {
+  if(e.data?.type === 'closeReferenceViewer') closeReferenceModal(true);
+});
+
+window.addEventListener('popstate', () => {
+  if(referenceModalOpen) closeReferenceModal(false);
+});

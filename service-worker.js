@@ -1,4 +1,4 @@
-const CACHE_NAME = 'resp-quiz-cache-v9-reference-links';
+const CACHE_NAME = 'resp-quiz-cache-v10-reference-navigation';
 const CORE_ASSETS = [
   './','./index.html','./style.css','./app.js','./manifest.json','./icon.svg',
   './reference-viewer.html','./reference-viewer.css','./reference-viewer.js',
