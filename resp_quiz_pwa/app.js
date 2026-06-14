@@ -244,13 +244,19 @@ function sameSet(a,b){
   return a.every(x => bs.has(x));
 }
 
+function referenceLinkHtml(item){
+  const ref = item?.reference;
+  if(!ref?.viewer) return '';
+  const label = `${ref.title}（PDF ${ref.page}ページ）`;
+  return `<div class="reference-link-wrap"><a class="reference-link" href="${escapeHtml(ref.viewer)}" target="_blank" rel="noopener noreferrer">📖 教科書の該当解説を開く</a><small>${escapeHtml(label)}／閲覧専用ページ</small></div>`;
+}
+
 function showAnswer(){
   if(!current) return;
-  if(current.type==='qa'){
-    $('answerBox').textContent = current.answer;
-  }else{
-    $('answerBox').textContent = `正解：${answerText(current)}\n${mappedExplanation(current)}`;
-  }
+  const answerTextValue = current.type === 'qa'
+    ? String(current.answer ?? '')
+    : `正解：${answerText(current)}\n${mappedExplanation(current)}`;
+  $('answerBox').innerHTML = `<div class="answer-text">${escapeHtml(answerTextValue).replace(/\n/g,'<br>')}</div>${referenceLinkHtml(current)}`;
   $('answerBox').classList.remove('hidden');
 }
 
