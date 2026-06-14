@@ -1,0 +1,16 @@
+{
+  "name": "呼吸器専門医試験 問題集",
+  "short_name": "呼吸器問題集",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
