@@ -1,4 +1,4 @@
-const CACHE_NAME = 'resp-quiz-cache-v10-reference-navigation-qadd1';
+const CACHE_NAME = 'resp-quiz-cache-v11-question-content-dedupe';
 const CORE_ASSETS = [
   './','./index.html','./style.css','./app.js','./manifest.json','./icon.svg',
   './reference-viewer.html','./reference-viewer.css','./reference-viewer.js',

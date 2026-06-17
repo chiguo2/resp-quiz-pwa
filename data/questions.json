@@ -18,23 +18,30 @@
       "12_付録_過去問題_カリキュラム_編集委員等.pdf",
       "総論Ⅰ_形態機能病態生理_一問一答.docx",
       "呼吸器専門医_総論_一問一答.docx",
-      "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx"
+      "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
+      "総論_一問一答集_疫学・主要徴候・検査・治療.docx"
     ],
     "counts": {
-      "qa": 1205,
+      "qa": 1269,
       "mcq": 176,
-      "total": 1381
+      "total": 1445
     },
     "sections": [
+      "COVID-19における検査",
+      "CTガイド下肺針生検の合併症",
+      "EBUS-TBNA",
       "かぜ症候群・急性上気道炎",
+      "その他（SAS・IPF・HOT）",
       "アラキドン酸カスケード",
       "ウイルス性肺炎",
       "クラミジア（クラミドフィラ）肺炎",
+      "チアノーゼ・ばち指",
       "ニューモシスチス肺炎",
       "マイコプラズマ肺炎",
       "ムーコル症",
       "リポイド肺炎",
       "レジオネラ肺炎",
+      "傍腫瘍症候群・呼吸様式",
       "内視鏡・生検・穿刺・肺音・心電図",
       "加齢",
       "各論Ⅰ 気道・肺疾患",
@@ -49,22 +56,35 @@
       "呼吸器の発生",
       "呼吸機能・血ガス・検診",
       "呼吸生理",
+      "咳嗽・喀痰・血痰",
       "咳嗽・痰",
       "喀血・呼吸困難・喘鳴・胸痛",
+      "喘息・COPD・抗菌薬",
       "喘息死・COPD死",
       "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
+      "在宅酸素療法（HOT）・呼吸療法",
+      "局所麻酔下胸腔鏡検査",
       "急性気管支炎・百日咳・急性細気管支炎",
       "感染症診断・喀痰・画像・核医学",
+      "慢性閉塞性肺疾患（COPD）の疫学",
+      "抗酸菌感染症の疫学",
       "抗酸菌感染症（結核・NTM）",
+      "抗酸菌症・COVID-19",
+      "放射線被曝量",
       "新型コロナウイルス感染症（COVID-19）",
       "検査",
       "構造",
+      "気管支鏡下クライオバイオプシー",
+      "気管支鏡治療",
+      "気道の2型炎症を評価する検査",
       "治療",
       "生体防御・代謝",
       "病態生理",
+      "症例：動脈血液ガス所見",
       "症例：市中肺炎の重症度評価",
       "症例：院内肺炎の治療・ワクチン",
       "発生",
+      "睡眠呼吸モニター",
       "総論II 疫学",
       "総論III 主要症候と身体所見",
       "総論IV 検査",
@@ -76,9 +96,12 @@
       "肺寄生虫症",
       "肺放線菌症（アクチノマイセス・ノカルジア）",
       "肺炎の総論・分類・重症度",
+      "肺癌手術・免疫療法",
       "肺癌死・喫煙",
+      "肺癌薬物療法・放射線治療",
       "肺結核症",
       "胸部単純X線写真とシルエットサイン",
+      "血液・喀痰・遺伝子検査",
       "血液・生化学・免疫・腫瘍マーカー",
       "誤嚥性肺炎",
       "過去問題",
@@ -93,7 +116,9 @@
       "reference_links": true,
       "reference_viewer": "page-image-no-direct-pdf",
       "true_false_questions": true,
-      "new_reference_mapping": true
+      "new_reference_mapping": true,
+      "duplicate_detection": "normalized_problem_text",
+      "reference_links_for_added_questions": true
     },
     "reference_documents": [
       {
@@ -151,7 +176,9 @@
         "title": "各論 VI 胸郭・胸壁の疾患",
         "pages": 8
       }
-    ]
+    ],
+    "updated_at": "2026-06-17",
+    "last_update_note": "Added questions from 総論_一問一答集_疫学・主要徴候・検査・治療.docx using question-content duplicate detection."
   },
   "items": [
     {
@@ -30374,6 +30401,1350 @@
         "viewer": "reference-viewer.html?doc=k1&page=145"
       },
       "id": "qa-1381"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論II 疫学",
+      "section": "抗酸菌感染症の疫学",
+      "question": "非結核性抗酸菌（nontuberculous mycobacteria: NTM）症の発病率は近年増加傾向である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論II",
+        "抗酸菌感染症の疫学",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 II 疫学",
+        "page": 2,
+        "image": "assets/reference_pages/s2_p002.webp",
+        "viewer": "reference-viewer.html?doc=s2&page=2"
+      },
+      "id": "qa-1382"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論II 疫学",
+      "section": "慢性閉塞性肺疾患（COPD）の疫学",
+      "question": "本邦での有病率は40歳以上において約8%である。",
+      "answer": "○",
+      "explanation": "有病率は8.4%と見積もられている（NICE study）。",
+      "tags": [
+        "総論II",
+        "慢性閉塞性肺疾患（COPD）の疫学",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 II 疫学",
+        "page": 3,
+        "image": "assets/reference_pages/s2_p003.webp",
+        "viewer": "reference-viewer.html?doc=s2&page=3"
+      },
+      "id": "qa-1383"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論II 疫学",
+      "section": "その他（SAS・IPF・HOT）",
+      "question": "特発性間質性肺炎の中で特発性肺線維症（idiopathic pulmonary fibrosis: IPF）は最も頻度が高い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論II",
+        "その他（SAS・IPF・HOT）",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 II 疫学",
+        "page": 3,
+        "image": "assets/reference_pages/s2_p003.webp",
+        "viewer": "reference-viewer.html?doc=s2&page=3"
+      },
+      "id": "qa-1384"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論III 主要徴候と身体所見",
+      "section": "咳嗽・喀痰・血痰",
+      "question": "COPD質問表（COPD assessment test: CAT）には咳嗽、喀痰のQOLへの影響を評価する項目がある。",
+      "answer": "○",
+      "explanation": "咳嗽、痰づまり、息苦しさ、坂や階段での息切れ、日常生活の制限度などの項目がある。",
+      "tags": [
+        "総論III",
+        "咳嗽・喀痰・血痰",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 III 主要症候と身体所見",
+        "page": 2,
+        "image": "assets/reference_pages/s3_p002.webp",
+        "viewer": "reference-viewer.html?doc=s3&page=2"
+      },
+      "id": "qa-1385"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論III 主要徴候と身体所見",
+      "section": "チアノーゼ・ばち指",
+      "question": "悪性腫瘍による高Ca血症の機序としてparathyroid hormone-related peptide（PTHrP）産生と局所性骨融解の頻度が高い。",
+      "answer": "○",
+      "explanation": "これらの他に活性型ビタミンD産生、および異所性PTH産生も高Ca血症の原因となるが、いずれも稀である。",
+      "tags": [
+        "総論III",
+        "チアノーゼ・ばち指",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 III 主要症候と身体所見",
+        "page": 25,
+        "image": "assets/reference_pages/s3_p025.webp",
+        "viewer": "reference-viewer.html?doc=s3&page=25"
+      },
+      "id": "qa-1386"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論III 主要徴候と身体所見",
+      "section": "チアノーゼ・ばち指",
+      "question": "悪性腫瘍による高Ca血症の診断の補助に、骨吸収マーカーであるTRACP-5bやI CTPの測定が有用である。",
+      "answer": "○",
+      "explanation": "I CTPは乳癌、肺癌、前立腺癌において、測定後に計画的な治療管理を行った場合に限り保険適応となる。",
+      "tags": [
+        "総論III",
+        "チアノーゼ・ばち指",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 III 主要症候と身体所見",
+        "page": 25,
+        "image": "assets/reference_pages/s3_p025.webp",
+        "viewer": "reference-viewer.html?doc=s3&page=25"
+      },
+      "id": "qa-1387"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論III 主要徴候と身体所見",
+      "section": "チアノーゼ・ばち指",
+      "question": "辺縁性脳炎では作業記憶障害、痙攣発作、人格変化などの辺縁系の障害を示唆する症状が緩徐に進行することが特徴的である。",
+      "answer": "×",
+      "explanation": "これらの症状が3ヶ月以内に亜急性に進行することが診断基準の1つである。",
+      "tags": [
+        "総論III",
+        "チアノーゼ・ばち指",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 III 主要症候と身体所見",
+        "page": 25,
+        "image": "assets/reference_pages/s3_p025.webp",
+        "viewer": "reference-viewer.html?doc=s3&page=25"
+      },
+      "id": "qa-1388"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論III 主要徴候と身体所見",
+      "section": "傍腫瘍症候群・呼吸様式",
+      "question": "匐行性迂曲性紅斑（erythema gyratum repens）は肺癌との合併例が多い。",
+      "answer": "○",
+      "explanation": "急速に進行する年輪状、あるいは縞模様の特異な皮疹を呈する稀な疾患である。内臓悪性腫瘍の合併例が多く、その中では肺癌が最多である。",
+      "tags": [
+        "総論III",
+        "傍腫瘍症候群・呼吸様式",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 III 主要症候と身体所見",
+        "page": 25,
+        "image": "assets/reference_pages/s3_p025.webp",
+        "viewer": "reference-viewer.html?doc=s3&page=25"
+      },
+      "id": "qa-1389"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・喀痰・遺伝子検査",
+      "question": "血中progastrin-releasing peptide（proGRP）は、神経特異エノラーゼ（NSE）と比較して感度・特異度ともに低い。",
+      "answer": "×",
+      "explanation": "血中proGRPは小細胞肺癌に極めて特異性が高く、NSEと比較して限局型・進展型いずれにも高い感度と特異度を有する。",
+      "tags": [
+        "総論IV",
+        "血液・喀痰・遺伝子検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 7,
+        "image": "assets/reference_pages/s4_p007.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=7"
+      },
+      "id": "qa-1390"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "血液・喀痰・遺伝子検査",
+      "question": "上皮成長因子受容体（epidermal growth factor receptor: EGFR）遺伝子変異はL858R点突然変異、エクソン19の欠損の変異が約90%を占めている。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "血液・喀痰・遺伝子検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 15,
+        "image": "assets/reference_pages/s4_p015.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=15"
+      },
+      "id": "qa-1391"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "放射線被曝量",
+      "question": "【被曝量】positron emission tomography（PET）-CTの被曝量は12 mSvである。",
+      "answer": "×",
+      "explanation": "3.5 mSvである。",
+      "tags": [
+        "総論IV",
+        "放射線被曝量",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 38,
+        "image": "assets/reference_pages/s4_p038.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=38"
+      },
+      "id": "qa-1392"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "EBUS-TBNA",
+      "question": "最も多い合併症は出血である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "EBUS-TBNA",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 48,
+        "image": "assets/reference_pages/s4_p048.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=48"
+      },
+      "id": "qa-1393"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "EBUS-TBNA",
+      "question": "頸部気管から両側主気管支までの気道に接する非血管性病変が主な標的である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "EBUS-TBNA",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 47,
+        "image": "assets/reference_pages/s4_p047.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=47"
+      },
+      "id": "qa-1394"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "EBUS-TBNA",
+      "question": "合併症として縦隔炎は起こらない。",
+      "answer": "×",
+      "explanation": "頻度は低いものの、重症感染症をきたすことがある。",
+      "tags": [
+        "総論IV",
+        "EBUS-TBNA",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 48,
+        "image": "assets/reference_pages/s4_p048.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=48"
+      },
+      "id": "qa-1395"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "EBUS-TBNA",
+      "question": "鎮静薬はプロポフォールが第一に勧められている。",
+      "answer": "×",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "EBUS-TBNA",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 47,
+        "image": "assets/reference_pages/s4_p047.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=47"
+      },
+      "id": "qa-1396"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "EBUS-TBNA",
+      "question": "#5のリンパ節腫脹は良い適応である。",
+      "answer": "×",
+      "explanation": "気道に接しているリンパ節が適応になる。",
+      "tags": [
+        "総論IV",
+        "EBUS-TBNA",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 47,
+        "image": "assets/reference_pages/s4_p047.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=47"
+      },
+      "id": "qa-1397"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "EBUS-TBNA",
+      "question": "肺門・縦隔リンパ節腫脹を伴うサルコイドーシスは良い適応である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "EBUS-TBNA",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 47,
+        "image": "assets/reference_pages/s4_p047.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=47"
+      },
+      "id": "qa-1398"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "EBUS-TBNA",
+      "question": "検体採取のため可能な限り太い針での施行が望ましい。",
+      "answer": "×",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "EBUS-TBNA",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 47,
+        "image": "assets/reference_pages/s4_p047.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=47"
+      },
+      "id": "qa-1399"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "気管支鏡下クライオバイオプシー",
+      "question": "中枢性病変には適応はない。",
+      "answer": "×",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "気管支鏡下クライオバイオプシー",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 38,
+        "image": "assets/reference_pages/s4_p038.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=38"
+      },
+      "id": "qa-1400"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "気管支鏡下クライオバイオプシー",
+      "question": "挿管下での実施が望ましい。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "気管支鏡下クライオバイオプシー",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 13,
+        "image": "assets/reference_pages/s4_p013.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=13"
+      },
+      "id": "qa-1401"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "気管支鏡下クライオバイオプシー",
+      "question": "クライオプローブにより組織を灼熱して採取する方法である。",
+      "answer": "×",
+      "explanation": "凍結して採取する。",
+      "tags": [
+        "総論IV",
+        "気管支鏡下クライオバイオプシー",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 42,
+        "image": "assets/reference_pages/s4_p042.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=42"
+      },
+      "id": "qa-1402"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "局所麻酔下胸腔鏡検査",
+      "question": "高度の呼吸機能障害や低酸素血症の症例でも安全に施行可能である。",
+      "answer": "×",
+      "explanation": "検査中に肺は虚脱するため、施行困難なことが多い。",
+      "tags": [
+        "総論IV",
+        "局所麻酔下胸腔鏡検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 49,
+        "image": "assets/reference_pages/s4_p049.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=49"
+      },
+      "id": "qa-1403"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "局所麻酔下胸腔鏡検査",
+      "question": "生検は原則的に壁側胸膜から行う。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "局所麻酔下胸腔鏡検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 49,
+        "image": "assets/reference_pages/s4_p049.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=49"
+      },
+      "id": "qa-1404"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "CTガイド下肺針生検の合併症",
+      "question": "最も多い合併症は気胸である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "CTガイド下肺針生検の合併症",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 48,
+        "image": "assets/reference_pages/s4_p048.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=48"
+      },
+      "id": "qa-1405"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "CTガイド下肺針生検の合併症",
+      "question": "空気塞栓は起こらない。",
+      "answer": "×",
+      "explanation": "稀だが重篤な合併症として注意が必要である。",
+      "tags": [
+        "総論IV",
+        "CTガイド下肺針生検の合併症",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 52,
+        "image": "assets/reference_pages/s4_p052.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=52"
+      },
+      "id": "qa-1406"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "気道の2型炎症を評価する検査",
+      "question": "アストグラフ",
+      "answer": "×",
+      "explanation": "気道抵抗を評価する検査である。",
+      "tags": [
+        "総論IV",
+        "気道の2型炎症を評価する検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 67,
+        "image": "assets/reference_pages/s4_p067.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=67"
+      },
+      "id": "qa-1407"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "気道の2型炎症を評価する検査",
+      "question": "呼気一酸化窒素濃度測定検査",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "気道の2型炎症を評価する検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 72,
+        "image": "assets/reference_pages/s4_p072.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=72"
+      },
+      "id": "qa-1408"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "症例：動脈血液ガス所見",
+      "question": "pH 7.53",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "症例：動脈血液ガス所見",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 I 形態・機能・病態生理",
+        "page": 16,
+        "image": "assets/reference_pages/s1_p016.webp",
+        "viewer": "reference-viewer.html?doc=s1&page=16"
+      },
+      "id": "qa-1409"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "症例：動脈血液ガス所見",
+      "question": "PaO2 60 Torr",
+      "answer": "×",
+      "explanation": "低酸素血症はみられない。",
+      "tags": [
+        "総論IV",
+        "症例：動脈血液ガス所見",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 77,
+        "image": "assets/reference_pages/s4_p077.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=77"
+      },
+      "id": "qa-1410"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "症例：動脈血液ガス所見",
+      "question": "PaCO2 32 Torr",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "症例：動脈血液ガス所見",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 77,
+        "image": "assets/reference_pages/s4_p077.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=77"
+      },
+      "id": "qa-1411"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "症例：動脈血液ガス所見",
+      "question": "BE −1.8 mEq/L",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "症例：動脈血液ガス所見",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 46,
+        "image": "assets/reference_pages/s4_p046.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=46"
+      },
+      "id": "qa-1412"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "睡眠呼吸モニター",
+      "question": "電極やモニターを装着し、最低5チャンネルの記録を行う。",
+      "answer": "×",
+      "explanation": "最低7チャンネルのモニターを装着する。",
+      "tags": [
+        "総論IV",
+        "睡眠呼吸モニター",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 89,
+        "image": "assets/reference_pages/s4_p089.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=89"
+      },
+      "id": "qa-1413"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "睡眠呼吸モニター",
+      "question": "無呼吸低呼吸指数が20の場合、軽症である。",
+      "answer": "×",
+      "explanation": "中等症である。",
+      "tags": [
+        "総論IV",
+        "睡眠呼吸モニター",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 89,
+        "image": "assets/reference_pages/s4_p089.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=89"
+      },
+      "id": "qa-1414"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "睡眠呼吸モニター",
+      "question": "簡易呼吸検査（携帯型装置）の結果のみではcontinuous positive airway pressure（CPAP）療法は開始できない。",
+      "answer": "×",
+      "explanation": "保険診療上は、閉塞性睡眠時無呼吸症候群が疑われ、respiratory event index（REI）≧40であれば、CPAP療法が認められている。",
+      "tags": [
+        "総論IV",
+        "睡眠呼吸モニター",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 89,
+        "image": "assets/reference_pages/s4_p089.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=89"
+      },
+      "id": "qa-1415"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "COVID-19における検査",
+      "question": "核酸検出検査、抗原検査が測定可能である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "総論IV",
+        "COVID-19における検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 12,
+        "image": "assets/reference_pages/s4_p012.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=12"
+      },
+      "id": "qa-1416"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "COVID-19における検査",
+      "question": "抗原検査は測定に3時間以上かかり簡便には行えない。",
+      "answer": "×",
+      "explanation": "実施時間は30〜40分であり、外来やベッドサイドにおける有症状者のスクリーニングに有用である。",
+      "tags": [
+        "総論IV",
+        "COVID-19における検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 14,
+        "image": "assets/reference_pages/s4_p014.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=14"
+      },
+      "id": "qa-1417"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "COVID-19における検査",
+      "question": "抗原定性検査は、無症状者に対して確定診断を行う際に推奨される。",
+      "answer": "×",
+      "explanation": "無症状者に対する抗原定性検査は、PCR法等と比較して感度が低く、確定診断として用いることは推奨されない。",
+      "tags": [
+        "総論IV",
+        "COVID-19における検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 1,
+        "image": "assets/reference_pages/s4_p001.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=1"
+      },
+      "id": "qa-1418"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "COVID-19における検査",
+      "question": "抗体検査が陽性の場合、全例で隔離が必要である。",
+      "answer": "×",
+      "explanation": "ウイルスに対する抗体の有無を調べるものであり、被験者からウイルスが排出されていることを意味するものではない。",
+      "tags": [
+        "総論IV",
+        "COVID-19における検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 10,
+        "image": "assets/reference_pages/s4_p010.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=10"
+      },
+      "id": "qa-1419"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論IV 検査",
+      "section": "COVID-19における検査",
+      "question": "有症状者に対して、発症から10日目以降であれば検体として唾液が推奨される。",
+      "answer": "×",
+      "explanation": "唾液検体の場合は、発症から10日目以降は検出性能が低い。",
+      "tags": [
+        "総論IV",
+        "COVID-19における検査",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 90,
+        "image": "assets/reference_pages/s4_p090.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=90"
+      },
+      "id": "qa-1420"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "喘息・COPD・抗菌薬",
+      "question": "アスピリン喘息患者の発作時に全身副腎皮質ステロイドを点滴投与する場合、リン酸エステル型ステロイドを急速静注する。",
+      "answer": "×",
+      "explanation": "リン酸エステル型ステロイドであっても、急速静注は発作を悪化させるリスクがある。",
+      "tags": [
+        "総論V",
+        "喘息・COPD・抗菌薬",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 76,
+        "image": "assets/reference_pages/s5_p076.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=76"
+      },
+      "id": "qa-1421"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "喘息・COPD・抗菌薬",
+      "question": "吸入ステロイド＋長時間作用性β2刺激薬＋長時間作用性抗コリン薬の合剤は、慢性閉塞性肺疾患のみに有効である。",
+      "answer": "×",
+      "explanation": "当初、トリプル吸入薬は慢性閉塞性肺疾患のみに保険適用であったが、その後気管支喘息にも保険適用された薬剤が複数登場した。",
+      "tags": [
+        "総論V",
+        "喘息・COPD・抗菌薬",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 5,
+        "image": "assets/reference_pages/s5_p005.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=5"
+      },
+      "id": "qa-1422"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "喘息・COPD・抗菌薬",
+      "question": "コリスチンはβ-ラクタム系、フルオロキノロン系、アミノ配糖体系の3系統の抗菌薬に耐性を示す感染症にのみ使用する。",
+      "answer": "○",
+      "explanation": "コリスチンはカルバペネム耐性腸内細菌科細菌などに対する切り札である。",
+      "tags": [
+        "総論V",
+        "喘息・COPD・抗菌薬",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 18,
+        "image": "assets/reference_pages/s5_p018.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=18"
+      },
+      "id": "qa-1423"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "抗酸菌症・COVID-19",
+      "question": "ニューモシスチス肺炎の予後は非ヒト免疫不全ウイルス患者の方が、ヒト免疫不全ウイルス患者よりも良い。",
+      "answer": "×",
+      "explanation": "ニューモシスチス肺炎の病態には宿主の免疫が大きく関与しており、免疫応答が強い非ヒト免疫不全ウイルス患者の方が予後が悪い。",
+      "tags": [
+        "総論V",
+        "抗酸菌症・COVID-19",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 20,
+        "image": "assets/reference_pages/s5_p020.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=20"
+      },
+      "id": "qa-1424"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "抗酸菌症・COVID-19",
+      "question": "肺MAC症に対する標準治療中に慢性肺アスペルギルス症を合併した場合の第一選択薬は、ボリコナゾールである。",
+      "answer": "×",
+      "explanation": "ボリコナゾールは主に肝臓のCYP2C9やCYP3A4により代謝される。リファンピシンと併用した場合、代謝酵素の誘導により代謝が亢進し血中濃度が低下し治療効果が得られないため、併用禁忌である。",
+      "tags": [
+        "総論V",
+        "抗酸菌症・COVID-19",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 19,
+        "image": "assets/reference_pages/s5_p019.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=19"
+      },
+      "id": "qa-1425"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "抗酸菌症・COVID-19",
+      "question": "結核治療中に再排菌があり、薬剤耐性獲得が疑われる場合、使用中の薬剤のうち耐性化が疑われる1剤のみを他の薬剤に変更する。",
+      "answer": "×",
+      "explanation": "新たな薬剤による単独療法となる可能性が高く、その薬剤への耐性を誘導する危険性があるため禁忌である。",
+      "tags": [
+        "総論V",
+        "抗酸菌症・COVID-19",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 1,
+        "image": "assets/reference_pages/s5_p001.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=1"
+      },
+      "id": "qa-1426"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "抗酸菌症・COVID-19",
+      "question": "潜在性結核感染症に対する治療を開始する際は、保健所へ届け出をする必要がある。",
+      "answer": "○",
+      "explanation": "感染症法の規定に則り、発生届および公費負担申請書を保健所へ提出する。",
+      "tags": [
+        "総論V",
+        "抗酸菌症・COVID-19",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 80,
+        "image": "assets/reference_pages/s5_p080.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=80"
+      },
+      "id": "qa-1427"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "気管支鏡治療",
+      "question": "気道狭窄に対してアルゴンプラズマ凝固法を実施する場合、吸入器酸素濃度を50%以上とし、十分な酸素化を保つ。",
+      "answer": "×",
+      "explanation": "気道内での出火を防ぐために吸入酸素濃度は40%以下に保つ。",
+      "tags": [
+        "総論V",
+        "気管支鏡治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 74,
+        "image": "assets/reference_pages/s5_p074.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=74"
+      },
+      "id": "qa-1428"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "気管支鏡治療",
+      "question": "気管支鏡実施中の片側肺からの大量出血時は、患側肺の止血処置を行うために患側肺のみを使用した片側換気（片側挿管）を行う。",
+      "answer": "×",
+      "explanation": "大量出血時には健側肺の保護が重要であり、健側肺のみを使用した片側換気を行うことがある。",
+      "tags": [
+        "総論V",
+        "気管支鏡治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 70,
+        "image": "assets/reference_pages/s5_p070.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=70"
+      },
+      "id": "qa-1429"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌薬物療法・放射線治療",
+      "question": "化学療法の経過中に発生した無熱性好中球減少症には、顆粒球コロニー形成刺激因子（granulocyte-colony stimulating factor: G-CSF）の治療的投与が必要である。",
+      "answer": "×",
+      "explanation": "無熱性好中球減少症患者に対し、ルーチンにG-CSFの治療的投与をすべきではない。",
+      "tags": [
+        "総論V",
+        "肺癌薬物療法・放射線治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 1,
+        "image": "assets/reference_pages/s5_p001.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=1"
+      },
+      "id": "qa-1430"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌薬物療法・放射線治療",
+      "question": "発熱性好中球減少症発症率が20%以上の化学療法レジメンを使用するときは、G-CSFの一次予防的投与が推奨される。",
+      "answer": "○",
+      "explanation": "G-CSF適正使用ガイドラインの記載通り。肺癌領域ではドセタキセル＋ラムシルマブなどが該当する。",
+      "tags": [
+        "総論V",
+        "肺癌薬物療法・放射線治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 36,
+        "image": "assets/reference_pages/s5_p036.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=36"
+      },
+      "id": "qa-1431"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌薬物療法・放射線治療",
+      "question": "非小細胞肺癌に対してチロシンキナーゼ阻害薬を使用する場合は副腎皮質ステロイドを併用する。",
+      "answer": "×",
+      "explanation": "薬剤性肺障害を合併した場合などは副腎皮質ステロイドを使用することがあるが、ルーチンには併用しない。",
+      "tags": [
+        "総論V",
+        "肺癌薬物療法・放射線治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 41,
+        "image": "assets/reference_pages/s5_p041.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=41"
+      },
+      "id": "qa-1432"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌薬物療法・放射線治療",
+      "question": "パフォーマンスステータス（performance status: PS）3〜4のEGFR遺伝子変異陽性のⅣ期非小細胞肺癌には、一次治療としてゲフィチニブが推奨される。",
+      "answer": "○",
+      "explanation": "PS2の場合はゲフィチニブとエルロチニブが、PS3〜4の場合はゲフィチニブのみが推奨されている。",
+      "tags": [
+        "総論V",
+        "肺癌薬物療法・放射線治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 32,
+        "image": "assets/reference_pages/s5_p032.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=32"
+      },
+      "id": "qa-1433"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌薬物療法・放射線治療",
+      "question": "PS2〜4のALK融合遺伝子陽性のⅣ期非小細胞肺癌には、一次治療としてアレクチニブが推奨される。",
+      "answer": "○",
+      "explanation": "アレクチニブはPS不良の患者に対しても有効性と安全性が報告されている。",
+      "tags": [
+        "総論V",
+        "肺癌薬物療法・放射線治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 32,
+        "image": "assets/reference_pages/s5_p032.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=32"
+      },
+      "id": "qa-1434"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌薬物療法・放射線治療",
+      "question": "ROS1融合遺伝子陽性のⅣ期非小細胞肺癌には、エヌトレクチニブの使用が推奨される。",
+      "answer": "○",
+      "explanation": "クリゾチニブまたはエヌトレクチニブの使用が推奨されている。",
+      "tags": [
+        "総論V",
+        "肺癌薬物療法・放射線治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 32,
+        "image": "assets/reference_pages/s5_p032.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=32"
+      },
+      "id": "qa-1435"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌薬物療法・放射線治療",
+      "question": "肺癌に対する放射線治療において、V20（20 Gy以上照射される正常肺の体積）は安全性と関連する。",
+      "answer": "○",
+      "explanation": "V20が正常肺全体の体積の35%を超えないように治療計画を立てるよう推奨されている。",
+      "tags": [
+        "総論V",
+        "肺癌薬物療法・放射線治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 79,
+        "image": "assets/reference_pages/s5_p079.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=79"
+      },
+      "id": "qa-1436"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌薬物療法・放射線治療",
+      "question": "限局性小細胞肺癌に対する同時化学放射線治療後に、デュルバルマブによる地固め療法を行うことが推奨されている。",
+      "answer": "×",
+      "explanation": "2021年12月時点では推奨されていない。",
+      "tags": [
+        "総論V",
+        "肺癌薬物療法・放射線治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 95,
+        "image": "assets/reference_pages/s5_p095.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=95"
+      },
+      "id": "qa-1437"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌薬物療法・放射線治療",
+      "question": "切除不能Ⅲ期非小細胞肺癌に対する同時化学放射線治療後に、デュルバルマブによる地固め療法を行うことが推奨されている。",
+      "answer": "○",
+      "explanation": "肺癌診療ガイドラインにおいて推奨されている。",
+      "tags": [
+        "総論V",
+        "肺癌薬物療法・放射線治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 34,
+        "image": "assets/reference_pages/s5_p034.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=34"
+      },
+      "id": "qa-1438"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌薬物療法・放射線治療",
+      "question": "切除不能Ⅲ期非小細胞肺癌に対する同時化学放射線治療では、放射線は可能な限り多く照射することが望ましい。",
+      "answer": "×",
+      "explanation": "総線量は通常分割で少なくとも60 Gyを照射するよう推奨されている。ただし、74Gyの高線量照射は行わないよう推奨されている。",
+      "tags": [
+        "総論V",
+        "肺癌薬物療法・放射線治療",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 78,
+        "image": "assets/reference_pages/s5_p078.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=78"
+      },
+      "id": "qa-1439"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌手術・免疫療法",
+      "question": "術後予測呼吸機能において術後予測1秒量<60%もしくは術後予測拡散能<60%の場合、簡易型運動負荷試験を行う。",
+      "answer": "○",
+      "explanation": "周術期リスクとして高いリスクを有すると判断されるため、簡易型運動負荷試験が推奨されている。",
+      "tags": [
+        "総論V",
+        "肺癌手術・免疫療法",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 51,
+        "image": "assets/reference_pages/s5_p051.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=51"
+      },
+      "id": "qa-1440"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "肺癌手術・免疫療法",
+      "question": "間質性肺炎合併肺癌患者において、術前呼吸機能検査によって術後急性増悪の発症を予測することはできない。",
+      "answer": "×",
+      "explanation": "肺活量、%肺活量、肺拡散能と間質性肺炎の術後急性増悪との関連が報告されている。",
+      "tags": [
+        "総論V",
+        "肺癌手術・免疫療法",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 97,
+        "image": "assets/reference_pages/s5_p097.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=97"
+      },
+      "id": "qa-1441"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "在宅酸素療法（HOT）・呼吸療法",
+      "question": "高二酸化炭素血症をきたす患者には禁忌である。",
+      "answer": "×",
+      "explanation": "高二酸化炭素血症の存在が酸素療法の禁忌にはならない。",
+      "tags": [
+        "総論V",
+        "在宅酸素療法（HOT）・呼吸療法",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 47,
+        "image": "assets/reference_pages/s5_p047.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=47"
+      },
+      "id": "qa-1442"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "在宅酸素療法（HOT）・呼吸療法",
+      "question": "原因疾患として肺結核後遺症が最も多い。",
+      "answer": "×",
+      "explanation": "慢性閉塞性肺疾患が最も多い。",
+      "tags": [
+        "総論V",
+        "在宅酸素療法（HOT）・呼吸療法",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 95,
+        "image": "assets/reference_pages/s5_p095.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=95"
+      },
+      "id": "qa-1443"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "在宅酸素療法（HOT）・呼吸療法",
+      "question": "運動時の目標SpO2値は80%以上である。",
+      "answer": "×",
+      "explanation": "運動時のSpO2 90%（動脈血酸素分圧60 Torr）以上を目標とするのが一般的である。",
+      "tags": [
+        "総論V",
+        "在宅酸素療法（HOT）・呼吸療法",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 47,
+        "image": "assets/reference_pages/s5_p047.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=47"
+      },
+      "id": "qa-1444"
+    },
+    {
+      "type": "qa",
+      "chapter": "総論V 治療",
+      "section": "在宅酸素療法（HOT）・呼吸療法",
+      "question": "高度慢性呼吸不全症例に対するHOTの適応は、動脈血酸素分圧60 Torr以下である。",
+      "answer": "×",
+      "explanation": "対象となる患者は動脈血酸素分圧55 Torr以下の者および動脈血酸素分圧60 Torr以下で睡眠時または運動負荷時に著しい低酸素血症を来たす者であって、医師がHOTを必要であると認めた者である。",
+      "tags": [
+        "総論V",
+        "在宅酸素療法（HOT）・呼吸療法",
+        "○×問題"
+      ],
+      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
+      "reference": {
+        "title": "総論 V 治療",
+        "page": 89,
+        "image": "assets/reference_pages/s5_p089.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=89"
+      },
+      "id": "qa-1445"
     }
   ]
 }
