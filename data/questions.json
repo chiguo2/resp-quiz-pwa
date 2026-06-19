@@ -46,9 +46,9 @@
       "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2064,
+      "qa": 2052,
       "mcq": 238,
-      "total": 2302
+      "total": 2290
     },
     "sections": [
       "COPD",
@@ -292,8 +292,8 @@
         "qa-1327"
       ]
     },
-    "total_questions": 2302,
-    "qa_count": 2064,
+    "total_questions": 2290,
+    "qa_count": 2052,
     "mcq_count": 238,
     "last_update": "2026-06-18"
   },
@@ -22067,7 +22067,7 @@
       "type": "qa",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "EGFR遺伝子変異はL858R点突然変異、エクソン19の欠損の変異が約90%を占めている。",
+      "question": "上皮成長因子受容体（epidermal growth factor receptor: EGFR）遺伝子変異はL858R点突然変異、エクソン19の欠損の変異が約90%を占めている。",
       "answer": "○",
       "explanation": "",
       "tags": [
@@ -23176,7 +23176,7 @@
       "type": "qa",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "簡易呼吸検査（携帯型装置）の結果のみではCPAP療法は開始できない。",
+      "question": "簡易呼吸検査（携帯型装置）の結果のみではcontinuous positive airway pressure（CPAP）療法は開始できない。",
       "answer": "×",
       "explanation": "保険診療上、閉塞性睡眠時無呼吸症候群が疑われREI≧40であればCPAP療法が認められている。",
       "tags": [
@@ -28910,258 +28910,6 @@
         "viewer": "reference-viewer.html?doc=s4&page=7"
       },
       "id": "qa-1390"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "血液・喀痰・遺伝子検査",
-      "question": "上皮成長因子受容体（epidermal growth factor receptor: EGFR）遺伝子変異はL858R点突然変異、エクソン19の欠損の変異が約90%を占めている。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "血液・喀痰・遺伝子検査",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 15,
-        "image": "assets/reference_pages/s4_p015.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=15"
-      },
-      "id": "qa-1391"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "放射線被曝量",
-      "question": "【被曝量】positron emission tomography（PET）-CTの被曝量は12 mSvである。",
-      "answer": "×",
-      "explanation": "3.5 mSvである。",
-      "tags": [
-        "総論IV",
-        "放射線被曝量",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 38,
-        "image": "assets/reference_pages/s4_p038.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=38"
-      },
-      "id": "qa-1392"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "気管支鏡下クライオバイオプシー",
-      "question": "中枢性病変には適応はない。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "気管支鏡下クライオバイオプシー",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 38,
-        "image": "assets/reference_pages/s4_p038.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=38"
-      },
-      "id": "qa-1400"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "気管支鏡下クライオバイオプシー",
-      "question": "挿管下での実施が望ましい。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "気管支鏡下クライオバイオプシー",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 13,
-        "image": "assets/reference_pages/s4_p013.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=13"
-      },
-      "id": "qa-1401"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "CTガイド下肺針生検の合併症",
-      "question": "空気塞栓は起こらない。",
-      "answer": "×",
-      "explanation": "稀だが重篤な合併症として注意が必要である。",
-      "tags": [
-        "総論IV",
-        "CTガイド下肺針生検の合併症",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 52,
-        "image": "assets/reference_pages/s4_p052.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=52"
-      },
-      "id": "qa-1406"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "気道の2型炎症を評価する検査",
-      "question": "アストグラフ",
-      "answer": "×",
-      "explanation": "気道抵抗を評価する検査である。",
-      "tags": [
-        "総論IV",
-        "気道の2型炎症を評価する検査",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 67,
-        "image": "assets/reference_pages/s4_p067.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=67"
-      },
-      "id": "qa-1407"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "気道の2型炎症を評価する検査",
-      "question": "呼気一酸化窒素濃度測定検査",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "気道の2型炎症を評価する検査",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 72,
-        "image": "assets/reference_pages/s4_p072.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=72"
-      },
-      "id": "qa-1408"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "症例：動脈血液ガス所見",
-      "question": "pH 7.53",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "症例：動脈血液ガス所見",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 16,
-        "image": "assets/reference_pages/s1_p016.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=16"
-      },
-      "id": "qa-1409"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "症例：動脈血液ガス所見",
-      "question": "PaO2 60 Torr",
-      "answer": "×",
-      "explanation": "低酸素血症はみられない。",
-      "tags": [
-        "総論IV",
-        "症例：動脈血液ガス所見",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 77,
-        "image": "assets/reference_pages/s4_p077.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=77"
-      },
-      "id": "qa-1410"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "症例：動脈血液ガス所見",
-      "question": "PaCO2 32 Torr",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "症例：動脈血液ガス所見",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 77,
-        "image": "assets/reference_pages/s4_p077.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=77"
-      },
-      "id": "qa-1411"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "症例：動脈血液ガス所見",
-      "question": "BE −1.8 mEq/L",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "症例：動脈血液ガス所見",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 46,
-        "image": "assets/reference_pages/s4_p046.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=46"
-      },
-      "id": "qa-1412"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "睡眠呼吸モニター",
-      "question": "簡易呼吸検査（携帯型装置）の結果のみではcontinuous positive airway pressure（CPAP）療法は開始できない。",
-      "answer": "×",
-      "explanation": "保険診療上は、閉塞性睡眠時無呼吸症候群が疑われ、respiratory event index（REI）≧40であれば、CPAP療法が認められている。",
-      "tags": [
-        "総論IV",
-        "睡眠呼吸モニター",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 89,
-        "image": "assets/reference_pages/s4_p089.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=89"
-      },
-      "id": "qa-1415"
     },
     {
       "type": "qa",
