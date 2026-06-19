@@ -46,9 +46,9 @@
       "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2069,
+      "qa": 2064,
       "mcq": 238,
-      "total": 2307
+      "total": 2302
     },
     "sections": [
       "COPD",
@@ -292,8 +292,8 @@
         "qa-1327"
       ]
     },
-    "total_questions": 2307,
-    "qa_count": 2069,
+    "total_questions": 2302,
+    "qa_count": 2064,
     "mcq_count": 238,
     "last_update": "2026-06-18"
   },
@@ -19907,7 +19907,7 @@
       "type": "qa",
       "chapter": "総論III 主要症候と身体所見",
       "section": "総論III 主要症候と身体所見",
-      "question": "COPD質問表（CAT）には咳嗽、喀痰のQOLへの影響を評価する項目がある。",
+      "question": "COPD質問表（COPD assessment test: CAT）には咳嗽、喀痰のQOLへの影響を評価する項目がある。",
       "answer": "○",
       "explanation": "咳嗽、痰づまり、息苦しさ、坂や階段での息切れ、日常生活の制限度などの項目がある。",
       "tags": [
@@ -21041,7 +21041,7 @@
       "type": "qa",
       "chapter": "総論III 主要症候と身体所見",
       "section": "総論III 主要症候と身体所見",
-      "question": "悪性腫瘍による高Ca血症の機序としてPTHrP産生や局所性骨融解の頻度が高い。",
+      "question": "悪性腫瘍による高Ca血症の機序としてparathyroid hormone-related peptide（PTHrP）産生や局所性骨融解の頻度が高い。",
       "answer": "○",
       "explanation": "他に活性型ビタミンD産生、異所性PTH産生も原因となるがいずれも稀。",
       "tags": [
@@ -21062,7 +21062,7 @@
       "type": "qa",
       "chapter": "総論III 主要症候と身体所見",
       "section": "総論III 主要症候と身体所見",
-      "question": "悪性腫瘍による高Ca血症の診断補助に、骨吸収マーカーであるTRACP-5bやI CTPの測定が有用である。",
+      "question": "悪性腫瘍による高Ca血症の診断の補助に、骨吸収マーカーであるTRACP-5bやI CTPの測定が有用である。",
       "answer": "○",
       "explanation": "I CTPは乳癌・肺癌・前立腺癌で、計画的な治療管理を行った場合に限り保険適応。",
       "tags": [
@@ -21188,7 +21188,7 @@
       "type": "qa",
       "chapter": "総論III 主要症候と身体所見",
       "section": "総論III 主要症候と身体所見",
-      "question": "辺縁性脳炎では作業記憶障害、痙攣発作、人格変化などが緩徐に進行することが特徴的である。",
+      "question": "辺縁性脳炎では作業記憶障害、痙攣発作、人格変化などの辺縁系の障害を示唆する症状が緩徐に進行することが特徴的である。",
       "answer": "×",
       "explanation": "これらの症状が3ヶ月以内に亜急性に進行することが診断基準の1つである。",
       "tags": [
@@ -21293,7 +21293,7 @@
       "type": "qa",
       "chapter": "総論III 主要症候と身体所見",
       "section": "総論III 主要症候と身体所見",
-      "question": "匍行性迂曲性紅斑（erythema gyratum repens）は肺癌との合併例が多い。",
+      "question": "匐行性迂曲性紅斑（erythema gyratum repens）は肺癌との合併例が多い。",
       "answer": "○",
       "explanation": "年輪状・縞模様の特異な皮疹を呈する稀な疾患。内臓悪性腫瘍の合併が多く、その中で肺癌が最多。",
       "tags": [
@@ -28889,111 +28889,6 @@
         "viewer": "reference-viewer.html?doc=k1&page=145"
       },
       "id": "qa-1381"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要徴候と身体所見",
-      "section": "咳嗽・喀痰・血痰",
-      "question": "COPD質問表（COPD assessment test: CAT）には咳嗽、喀痰のQOLへの影響を評価する項目がある。",
-      "answer": "○",
-      "explanation": "咳嗽、痰づまり、息苦しさ、坂や階段での息切れ、日常生活の制限度などの項目がある。",
-      "tags": [
-        "総論III",
-        "咳嗽・喀痰・血痰",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 2,
-        "image": "assets/reference_pages/s3_p002.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=2"
-      },
-      "id": "qa-1385"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要徴候と身体所見",
-      "section": "チアノーゼ・ばち指",
-      "question": "悪性腫瘍による高Ca血症の機序としてparathyroid hormone-related peptide（PTHrP）産生と局所性骨融解の頻度が高い。",
-      "answer": "○",
-      "explanation": "これらの他に活性型ビタミンD産生、および異所性PTH産生も高Ca血症の原因となるが、いずれも稀である。",
-      "tags": [
-        "総論III",
-        "チアノーゼ・ばち指",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 25,
-        "image": "assets/reference_pages/s3_p025.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=25"
-      },
-      "id": "qa-1386"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要徴候と身体所見",
-      "section": "チアノーゼ・ばち指",
-      "question": "悪性腫瘍による高Ca血症の診断の補助に、骨吸収マーカーであるTRACP-5bやI CTPの測定が有用である。",
-      "answer": "○",
-      "explanation": "I CTPは乳癌、肺癌、前立腺癌において、測定後に計画的な治療管理を行った場合に限り保険適応となる。",
-      "tags": [
-        "総論III",
-        "チアノーゼ・ばち指",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 25,
-        "image": "assets/reference_pages/s3_p025.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=25"
-      },
-      "id": "qa-1387"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要徴候と身体所見",
-      "section": "チアノーゼ・ばち指",
-      "question": "辺縁性脳炎では作業記憶障害、痙攣発作、人格変化などの辺縁系の障害を示唆する症状が緩徐に進行することが特徴的である。",
-      "answer": "×",
-      "explanation": "これらの症状が3ヶ月以内に亜急性に進行することが診断基準の1つである。",
-      "tags": [
-        "総論III",
-        "チアノーゼ・ばち指",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 25,
-        "image": "assets/reference_pages/s3_p025.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=25"
-      },
-      "id": "qa-1388"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要徴候と身体所見",
-      "section": "傍腫瘍症候群・呼吸様式",
-      "question": "匐行性迂曲性紅斑（erythema gyratum repens）は肺癌との合併例が多い。",
-      "answer": "○",
-      "explanation": "急速に進行する年輪状、あるいは縞模様の特異な皮疹を呈する稀な疾患である。内臓悪性腫瘍の合併例が多く、その中では肺癌が最多である。",
-      "tags": [
-        "総論III",
-        "傍腫瘍症候群・呼吸様式",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 25,
-        "image": "assets/reference_pages/s3_p025.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=25"
-      },
-      "id": "qa-1389"
     },
     {
       "type": "qa",
