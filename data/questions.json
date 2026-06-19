@@ -46,9 +46,9 @@
       "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2047,
-      "mcq": 238,
-      "total": 2285
+      "qa": 2182,
+      "mcq": 239,
+      "total": 2421
     },
     "sections": [
       "COPD",
@@ -292,9 +292,9 @@
         "qa-1327"
       ]
     },
-    "total_questions": 2285,
-    "qa_count": 2047,
-    "mcq_count": 238,
+    "total_questions": 2421,
+    "qa_count": 2182,
+    "mcq_count": 239,
     "last_update": "2026-06-18"
   },
   "items": [
@@ -32632,531 +32632,6 @@
     {
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "喘息には病因アレルゲンが明確なアトピー型喘息と明確でない非アトピー型喘息がある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 126,
-        "image": "assets/reference_pages/k1_p126.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=126"
-      },
-      "id": "qa-1591"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "小児喘息では非アトピー型が多い。",
-      "answer": "×",
-      "explanation": "小児喘息の多く(90%以上)はアトピー型である。成人喘息では非アトピー型が半数近くを占める。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 126,
-        "image": "assets/reference_pages/k1_p126.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=126"
-      },
-      "id": "qa-1592"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "喘息は気道狭窄(気流制限)が病態の本体である。",
-      "answer": "×",
-      "explanation": "喘息は気道の慢性炎症が本体である。可逆性の気流制限と気道過敏性の亢進はその結果として生じる特徴である。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 126,
-        "image": "assets/reference_pages/k1_p126.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=126"
-      },
-      "id": "qa-1593"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "喘息は主として2型免疫反応(Th2細胞、ILC2などが関与)が関与する慢性気道炎症である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 127,
-        "image": "assets/reference_pages/k1_p127.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=127"
-      },
-      "id": "qa-1594"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "喘息の気道にはリンパ球、マスト細胞、好酸球の集積がみられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 127,
-        "image": "assets/reference_pages/k1_p127.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=127"
-      },
-      "id": "qa-1595"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "喘息にはTh2リンパ球や2型自然リンパ球(ILC2)が産生するサイトカイン(IL-4, IL-5, IL-13など)が関与する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 127,
-        "image": "assets/reference_pages/k1_p127.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=127"
-      },
-      "id": "qa-1596"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "喘息ではマスト細胞や好酸球からのメディエーター(ヒスタミン、ロイコトリエンなど)により気管支平滑筋収縮、気道分泌亢進、気道過敏性の亢進が生じる。",
-      "answer": "○",
-      "explanation": "※原文のマクロファージという記載は誤りの可能性があるが、様々な炎症細胞が関与する。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 128,
-        "image": "assets/reference_pages/k1_p128.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=128"
-      },
-      "id": "qa-1597"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "TGF-βなどのサイトカインによって気道平滑筋肥厚や基底膜の肥厚(気道リモデリング)が起こる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 128,
-        "image": "assets/reference_pages/k1_p128.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=128"
-      },
-      "id": "qa-1598"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "アトピー型喘息の多くは家塵ダニ(ハウスダスト)への感作である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 128,
-        "image": "assets/reference_pages/k1_p128.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=128"
-      },
-      "id": "qa-1599"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "日本の春季における主な増悪アレルゲンは、スギ花粉とヒノキ花粉である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 129,
-        "image": "assets/reference_pages/k1_p129.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=129"
-      },
-      "id": "qa-1600"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "アスピリン喘息は、NSAIDs(非ステロイド性抗炎症薬)の使用により誘発される喘息である。",
-      "answer": "○",
-      "explanation": "成人喘息の約10%にみられ、重症の鼻茸や副鼻腔炎を合併することが多い。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 129,
-        "image": "assets/reference_pages/k1_p129.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=129"
-      },
-      "id": "qa-1601"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "アスピリン喘息患者には、アセトアミノフェンや塩基性NSAIDsは絶対禁忌である。",
-      "answer": "×",
-      "explanation": "シクロオキシゲナーゼ(COX)阻害作用の強い酸性NSAIDsが禁忌である。COX阻害作用の弱いアセトアミノフェンや塩基性NSAIDsは、安全に使用できることが多い(高用量では注意)。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 129,
-        "image": "assets/reference_pages/k1_p129.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=129"
-      },
-      "id": "qa-1602"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "気管支喘息の診断には、スパイロメトリーによる気道可逆性の証明が重要である。",
-      "answer": "○",
-      "explanation": "短時間作用性β2刺激薬(SABA)吸入後にFEV1が12%以上かつ200mL以上改善することを気道可逆性ありとする。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 130,
-        "image": "assets/reference_pages/k1_p130.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=130"
-      },
-      "id": "qa-1603"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "気管支喘息の患者では、呼気一酸化窒素濃度(FeNO)が上昇することが多い。",
-      "answer": "○",
-      "explanation": "FeNOは好酸球性気道炎症のマーカーであり、喘息の診断やステロイド治療の反応性予測に有用である。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 130,
-        "image": "assets/reference_pages/k1_p130.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=130"
-      },
-      "id": "qa-1604"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "気管支喘息の長期管理の基本薬(コントローラー)は、吸入ステロイド薬(ICS)である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 130,
-        "image": "assets/reference_pages/k1_p130.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=130"
-      },
-      "id": "qa-1605"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "コントロールが不十分な場合、ICSに長時間作用性β2刺激薬(LABA)や長時間作用性抗コリン薬(LAMA)、ロイコトリエン受容体拮抗薬(LTRA)を併用する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 131,
-        "image": "assets/reference_pages/k1_p131.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=131"
-      },
-      "id": "qa-1606"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "喘息発作時(増悪時)の治療薬(リリーバー)の第一選択は、短時間作用性β2刺激薬(SABA)の吸入である。",
-      "answer": "○",
-      "explanation": "症状改善がない場合は全身性ステロイド薬の投与などを追加する。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 131,
-        "image": "assets/reference_pages/k1_p131.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=131"
-      },
-      "id": "qa-1607"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "難治性の重症喘息に対しては、生物学的製剤(抗IgE抗体、抗IL-5抗体、抗IL-4/13受容体抗体など)の使用が適応となる。",
-      "answer": "○",
-      "explanation": "オマリズマブ(抗IgE)、メポリズマブやベンラリズマブ(抗IL-5)、デュピルマブ(抗IL-4Rα)などが使用される。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 131,
-        "image": "assets/reference_pages/k1_p131.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=131"
-      },
-      "id": "qa-1608"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "咳喘息の多くは湿性咳嗽である。",
-      "answer": "×",
-      "explanation": "咳喘息は慢性、非生産性の「乾性咳嗽」を唯一の症状とする。喘鳴や呼吸困難を伴わない。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 132,
-        "image": "assets/reference_pages/k1_p132.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=132"
-      },
-      "id": "qa-1609"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "咳喘息は深夜や早朝に悪化しやすい。",
-      "answer": "○",
-      "explanation": "気道過敏性が亢進しているため、冷気や会話、運動などで誘発されやすい。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 132,
-        "image": "assets/reference_pages/k1_p132.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=132"
-      },
-      "id": "qa-1610"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "咳喘息では気管支拡張薬(β2刺激薬)が有効であることで診断できる。",
-      "answer": "○",
-      "explanation": "診断基準の一つである。抗ヒスタミン薬や鎮咳薬は無効なことが多い。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 132,
-        "image": "assets/reference_pages/k1_p132.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=132"
-      },
-      "id": "qa-1611"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "咳喘息の軽症例では吸入ステロイド(ICS)で加療する。",
-      "answer": "○",
-      "explanation": "中等症以上ではICS/LABA配合薬が治療の中心となる。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 133,
-        "image": "assets/reference_pages/k1_p133.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=133"
-      },
-      "id": "qa-1612"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "咳喘息にICSを使用しても、典型的な喘息への移行を完全に防ぐことはできない。",
-      "answer": "○",
-      "explanation": "しかし、早期からICSを使用することで喘息への移行リスクを低下させることができる。患者の約30〜40%が典型的な気管支喘息に移行する。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 133,
-        "image": "assets/reference_pages/k1_p133.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=133"
-      },
-      "id": "qa-1613"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "咳喘息では薬剤の中止後に症状が再燃することはない。",
-      "answer": "×",
-      "explanation": "治療を早期に中止すると再燃することが多いため、症状消失後も数ヶ月〜年単位でICSを継続することが推奨される。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 133,
-        "image": "assets/reference_pages/k1_p133.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=133"
-      },
-      "id": "qa-1614"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "アレルギー性疾患",
-      "question": "アレルギー性肉芽腫性血管炎(EGPA：好酸球性多発血管炎性肉芽腫症)は、気管支喘息やアレルギー性鼻炎が先行し、後に好酸球増多と血管炎症状(多発性単神経炎など)を呈する疾患である。",
-      "answer": "○",
-      "explanation": "MPO-ANCAが約半数で陽性となる。ステロイドや免疫抑制剤、メポリズマブ(抗IL-5抗体)で治療する。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題"
-      ],
-      "source_file": "4_アレルギー性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 134,
-        "image": "assets/reference_pages/k1_p134.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=134"
-      },
-      "id": "qa-1615"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
       "section": "特発性間質性肺炎(IIPs)",
       "question": "男性の発症リスクは女性に比べて高い。",
       "answer": "○",
@@ -50243,6 +49718,2760 @@
         "viewer": "reference-viewer.html?doc=k6&page=6"
       },
       "id": "qa-2544"
+    },
+    {
+      "id": "qa-2556",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息には病因アレルゲンが明確なアトピー型喘息と明確でない非アトピー型喘息がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2557",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "小児喘息は非アトピー型が多い。",
+      "answer": "×",
+      "explanation": "小児喘息ではアトピー型が多い。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2558",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息は気道狭窄が病態の本体である。",
+      "answer": "×",
+      "explanation": "喘息は気道の慢性炎症が本体である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2559",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息は主として2型免疫反応が関与する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2560",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息の気道にはリンパ球、マスト細胞、好酸球の集積がみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2561",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息にはTh2リンパ球や2型自然リンパ球(ILC2)が関与する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2562",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息ではマクロファージからのメディエーターにより気流制限、気道過敏性の亢進が生じる。",
+      "answer": "×",
+      "explanation": "好酸球やマスト細胞からのメディエーターが原因である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2563",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ロイコトリエンC4(LTC4)、TGF-βによって気道平滑筋肥厚が起こる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2564",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "アトピー型喘息の多くは家塵ダニ(ハウスダスト)への感作である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2565",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "日本の春季における主な増悪アレルゲンは、スギ花粉とヒノキ花粉である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2566",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "感作アレルゲンの曝露はリンパ球の活性化をもたらす。",
+      "answer": "×",
+      "explanation": "特異的IgE抗体を介したマスト細胞の活性化をもたらす。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2567",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "システイニルロイコトリエンは気道平滑筋を拡張する。",
+      "answer": "×",
+      "explanation": "気道平滑筋を収縮する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2568",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "Th2細胞から産生されるIL-4、IL-5、IL-13は好酸球性炎症を調整する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2569",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "好酸球からのシステイニルロイコトリエンは気流制限に関与する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2570",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "好塩基球のmajor basic protein(MBP)は気道上皮を剥離させ気道過敏性を亢進させる。",
+      "answer": "×",
+      "explanation": "好塩基球ではなく好酸球のmajor basic protein(MBP)である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2571",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "TGF-βは気道リモデリング形成に関与する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2572",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "Th2免疫応答はステロイド感受性である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2573",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息の症状が夜間から明け方に出現しやすいのは、夜間にコルチゾールとアドレナリンのレベルが低下することが関与している。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2574",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "感作アレルゲンが固定されない喘息は非アトピー型喘息と呼ばれる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2575",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "非アトピー型喘息ではILC2が関与する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2576",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "気道上皮から遊離するIL-33やTSLPはILC2を抑制する。",
+      "answer": "×",
+      "explanation": "IL-33やTSLPはILC2を活性化する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2577",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "活性化ILC2はIL-5やIL-13を産生し好酸球性気道炎症を誘導する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2578",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ILC2はステロイド抵抗性を減弱する。",
+      "answer": "×",
+      "explanation": "ステロイド抵抗性にはILC2の関与が推定されている。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2579",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "一部の重症喘息の機序に中枢性炎症がみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2580",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "一部の重症喘息ではマクロライド系抗菌薬の長期投与が試みられることがある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2581",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "急性増悪(喘息の悪化)の要因の多くは薬剤性である。",
+      "answer": "×",
+      "explanation": "アレルゲン曝露やウイルス感染などが重要である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2582",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ウイルス感染時の喘息気道では好中球や好酸球集積の増強がみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2583",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息は中年期に発症する疾患である。",
+      "answer": "×",
+      "explanation": "小児から高齢者まですべての年代において発症する可能性がある疾患である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2584",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息の診断において、確定診断となる客観的な指標はない。",
+      "answer": "○",
+      "explanation": "癌などと異なり、確定診断となる客観的な指標はない。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-758",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息を疑う症状を選べ。",
+      "choices": {
+        "a": "喘鳴",
+        "b": "咳嗽",
+        "c": "頻脈",
+        "d": "喀痰",
+        "e": "胸苦しさ",
+        "f": "息苦しさ",
+        "g": "胸痛"
+      },
+      "answer": [
+        "a",
+        "b",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      "explanation": "喘鳴・咳嗽・喀痰・胸苦しさ・息苦しさ・胸痛は喘息を疑う症状である。頻脈は喘息に特異的な症状ではない。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2585",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息症状の中で最も頻度が高いのは胸苦しさである。",
+      "answer": "×",
+      "explanation": "咳嗽が最も頻度が高い。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2586",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息症状の中で最も特異性の高いのは咳嗽である。",
+      "answer": "×",
+      "explanation": "喘鳴が最も特異性が高い。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2587",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息を診断する際は、胸部画像検査で器質的疾患を除外する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2588",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "臨床診断として中用量以上の吸入ステロイド薬(ICS)/長時間作用性β2刺激薬(LABA)配合剤の反応性が重要である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2589",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "軽症から中等症の喘息では、中用量ICS/LABAにより1ヶ月程度で呼吸機能とコントロール状態の改善が期待できる。",
+      "answer": "×",
+      "explanation": "3〜7日程度で改善する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2590",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "症状が毎日あり日常生活に制限が生じる場合は、高用量ICS/LABAにブデソニド皮下注射の連日投与を検討する。",
+      "answer": "×",
+      "explanation": "経口ステロイド薬(プレドニゾロン換算で10〜30mg)を1週間程度使用する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2591",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息の補助診断として呼気中一酸化窒素濃度(FeNO)を測定することが望ましい。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2592",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息の補助診断として末梢血好酸球を測定することが望ましい。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2593",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喫煙歴がある場合は呼吸機能検査を実施してCOPDとの鑑別を行う。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2594",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喀痰とは、下気道で過剰に産生された分泌物や、口腔内を経て体外に排出されたものの総称である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2595",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "気道分泌物には抗原特異的に作用するIgMや非特異的な抗菌蛋白が含まれる。",
+      "answer": "×",
+      "explanation": "抗原特異的に作用するのはIgAである。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2596",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "気道上皮の表面は気道分泌により3層性に被覆されている。",
+      "answer": "×",
+      "explanation": "2層性に被覆されている。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2597",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "気道上皮の表面の下層はゲル層、上層はゾル層である。",
+      "answer": "×",
+      "explanation": "下層がゾル層、上層がゲル層である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2598",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "粘膜下腺の粘液細胞からMUC5B、杯細胞からMUC5AC、MUC5Bが産生され、ゲル層を形成する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2599",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "MUC5Bは粘膜下腺の粘液細胞から分泌される際に、繊維が束になったロープのような形で気道腔に向けて分泌される。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2600",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "MUC5ACは、糸状、シート状の形状をとる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2601",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "MUC5Bは喀痰の病態への関与が示唆される。",
+      "answer": "×",
+      "explanation": "MUC5ACが喀痰の病態への関与が示唆される。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2602",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "粘膜下腺と杯細胞の分泌は交感神経優位の自律神経支配を受けている。",
+      "answer": "×",
+      "explanation": "副交感神経優位である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2603",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "生理的な気道分泌は粘膜下腺からの分泌が大部分を占めている。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2604",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "粘液腺はα-アドレナリン受容体、漿液腺はβ-アドレナリン受容体が多く存在する。",
+      "answer": "×",
+      "explanation": "粘液腺はβ-アドレナリン受容体、漿液腺はα-アドレナリン受容体が多く存在する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2605",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息においてSABAの過剰使用やLABAを単独投与した場合には、病態の悪化や重症化をきたす可能性がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2606",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喀痰の膿性は細菌感染に対する特異的で感度の高いマーカーである。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2607",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "吸入ステロイドは喘息の喀痰症状を改善しない。",
+      "answer": "×",
+      "explanation": "改善することが多い。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2608",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喀痰調整薬は粘液溶解薬、粘液修復薬、粘液潤滑薬、気道分泌細胞正常化薬の4種類に大きく分けられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2609",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息においてアレルギー検査は有用でない。",
+      "answer": "×",
+      "explanation": "有用である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2610",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "アレルギー検査はアレルゲン免疫療法や抗IgE抗体療法(オマリズマブ)の適応について判断する際にも有用である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2611",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息の発症に最も関与するアレルゲンはスギである。",
+      "answer": "×",
+      "explanation": "ダニである。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2612",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "アレルギー検査には主に皮膚テストと血液を用いて行うアレルゲン特異的IgE抗体の測定がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2613",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "日本におけるアレルゲン血液検査は、各項目を個別に選択する「単項目測定法」のみが実施できる。",
+      "answer": "×",
+      "explanation": "Viewアレルギー39検査のように、固定された複数の項目を測定する「多項目測定法」も実施可能である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2614",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "アレルゲン血液検査の単項目測定法では、保険診療内で10項目まで測定可能である。",
+      "answer": "×",
+      "explanation": "13項目まで測定可能である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2615",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ダニとハウスダストのIgEは95%以上の相同性がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2616",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "アレルゲン血液検査の項目は患者ごとに変更せず同じものを測定することが推奨されている。",
+      "answer": "×",
+      "explanation": "生活環境(例えば動物の飼育など)を考慮して測定するアレルゲン項目を選択する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2617",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "アレルゲン血液検査項目における真菌の主要アレルゲンは、アスペルギルス、アルテルナリア、トリコフィトンである。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2618",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "アレルゲン血液検査項目における花粉の主要アレルゲンは、ヒノキ、ハンノキ、ギョウギシバ、オオアワガエリである。",
+      "answer": "×",
+      "explanation": "スギ、カモガヤ、ブタクサ、ヨモギである。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2619",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "呼気中一酸化窒素濃度(FeNO)は気道上皮細胞の誘導型NO合成酵素に由来する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2620",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "2型好酸球性喘息では、FeNOが低値となる。",
+      "answer": "×",
+      "explanation": "高値となる。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2621",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "FeNOはIL-4、IL-13の刺激下で発現が低下する。",
+      "answer": "×",
+      "explanation": "発現が亢進する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2622",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "FeNOは簡便かつ非侵襲的であるため、喘息の診断や気道炎症の評価法として有用である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2623",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "日本人の非喫煙者・アレルギー疾患のない健常成人のFeNOの平均値は15ppbである。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2624",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "健常者と喘息患者を鑑別するFeNOのカットオフ値は35ppbである。",
+      "answer": "×",
+      "explanation": "22ppbである。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2625",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "未治療時のFeNO高値は、ICSの有用性を予測する指標である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2626",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "治療下でFeNOが高値で症状が残存する場合は、アドヒアランスや吸入手技を再確認する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2627",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "アレルギー性鼻炎ではFeNOが低下する。",
+      "answer": "×",
+      "explanation": "上昇する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2628",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "治療前のFeNO低値例ではFeNOの経時的変化が抗炎症治療の効果の評価に有用であることが多い。",
+      "answer": "×",
+      "explanation": "FeNO低値例ではなくFeNO高値例で有用であることが多い。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2629",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "FeNOは喘息の予後予測マーカーとして、増悪リスクと関連している。",
+      "answer": "×",
+      "explanation": "増悪リスクとの関連性は示されていない。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2630",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ピークフロー(peak expiratory flow: PEF)は努力呼出時の最大呼気流量であり、気道閉塞を評価可能である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2631",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "PEFは1秒量(FEV1)と相関しない。",
+      "answer": "×",
+      "explanation": "相関する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2632",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "PEFは喘息の診断に有用である。",
+      "answer": "○",
+      "explanation": "PEF値の日内変動が20%以上あれば喘息診断の目安になる。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2633",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "PEFメーターを用いて計画的な治療管理を行った場合に、一定の基準を満たす医療機関において喘息治療管理料を算定することができる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2634",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "気道過敏性および気道可逆性の存在は喘息診断の目安となる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2635",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "気道可逆性の評価にはSABA吸入前後のFEV1が12%以上かつ200mL以上改善した場合に気道可逆性の存在を疑う。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2636",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "気道過敏性の評価は、気管支収縮薬を低濃度から少しずつ濃度を上げて複数回吸入し、気道収縮を評価する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2637",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "気道過敏性検査では、サルブタモールを低濃度から吸入させ、FEV1が吸入前と比較して20%以上低下した場合に陽性と判断される。",
+      "answer": "×",
+      "explanation": "サルブタモールではなくメタコリンを低濃度から吸入させる。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2638",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "β2刺激薬は気道可逆性検査前に中止することが望ましい。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2639",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息コントロールの評価としてACT(Asthma Control Test)などの質問票がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2640",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息コントロールの質問票は、12歳以上ではC-ACT、4〜11歳ではACTを使用する。",
+      "answer": "×",
+      "explanation": "12歳以上ではACT、4〜11歳ではC(childhood)-ACTを使用する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2641",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ACTスコアは100点満点である。",
+      "answer": "×",
+      "explanation": "25点満点である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2642",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ACTは低い点数の方がコントロールが良好と判断される。",
+      "answer": "×",
+      "explanation": "高い点数の方がコントロールが良好である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2643",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ACTスコアのMCID(minimal clinically important difference)は5点であり、治療介入により5点以上増加した場合には臨床的に有効と判断する。",
+      "answer": "×",
+      "explanation": "MCIDは3点である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2644",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ACTは%FEV1やFeNOと相関する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2645",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "環境因子への曝露は喘息が増悪する誘因となる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2646",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息の治療目標は喘息症状をなくすことである。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2647",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息の治療は低用量吸入ステロイド(ICS)から開始する。",
+      "answer": "×",
+      "explanation": "中用量のICS/LABAから開始する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2648",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "経過観察を行わず治療薬の減量を行うべきではない。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2649",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息重症者には経口ステロイド治療が望ましい。",
+      "answer": "×",
+      "explanation": "可能な限り全身ステロイドは使用しない。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2650",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "重症喘息者では、末梢血好酸球数やFeNOを確認する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2651",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ACTが少なくとも20点以上を維持している状態は、喘息が良好にコントロールされている指標である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2652",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "pMDI製剤(ミストタイプ)は噴射と吸入のタイミング(同調)が理解できる場合に適している。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2653",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "DPI製剤(ドライパウダー)は同調を必要としないが、吸気流速が必要である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2654",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "DPI製剤はアルコール臭がするためアルコール過敏症には使用できない。",
+      "answer": "×",
+      "explanation": "一部のpMDI製剤でアルコール臭が問題となる。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2655",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "吸入製剤では、吸入後に口からデバイスを外して約5秒間息止めをすることを勧める。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2656",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ICS使用後にうがいをするよう勧める。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2657",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "吸入時には舌を下げ喉の奥を広げて薬の通り道を広く保つ「へー」を発音するような舌の位置を勧める。",
+      "answer": "×",
+      "explanation": "「ホー」と発声するときの舌の形で吸入することで喉の奥が広がるため勧められている。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2658",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "重症喘息で全身ステロイド療法を1年に2回以上必要とする症例では、生物学的製剤の使用を検討する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2659",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "日本では、重症喘息に対して3種類の生物学的製剤が使用可能である。",
+      "answer": "×",
+      "explanation": "抗IgE抗体、抗IL-5抗体、抗IL-5受容体α鎖抗体、抗IL-4受容体α鎖抗体の4種類がある(2021年12月時点)。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2660",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "重症喘息に対する生物学的製剤はすべての年齢層に適応がある。",
+      "answer": "×",
+      "explanation": "各種薬剤で適応年齢が異なる。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2661",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息におけるアレルゲン免疫療法(allergen immunotherapy: AIT)は効果が乏しい。",
+      "answer": "×",
+      "explanation": "AITは病因アレルゲンを徐々に増量して長期投与する治療法であり、ガイドラインでも推奨されている。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2662",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "AITの適応年齢は18歳以上である。",
+      "answer": "×",
+      "explanation": "適応は5歳以上である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2663",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "AITは皮下注射法と舌下法の2種類がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2664",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ダニAITには、喘息症状の改善、気道過敏性の改善、薬物減量効果がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2665",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "AITの治療は喘息発作期に開始する。",
+      "answer": "×",
+      "explanation": "安定期に開始する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2666",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息の急性増悪(いわゆる発作)の分類において、苦しくて動けない状態は中等度に該当する。",
+      "answer": "×",
+      "explanation": "高度に分類される。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2667",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "アミノフィリンの主な副作用は、頻脈、動悸、不整脈、振戦、消化器症状である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2668",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息増悪に対する治療開始から数時間以内に症状改善がみられなければ、入院加療を考慮する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2669",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "NSAIDs過敏喘息はアスピリン以外の薬剤では喘息増悪を引き起こさない。",
+      "answer": "×",
+      "explanation": "アスピリン以外のNSAIDsでも引き起こされる。以前はアスピリン喘息といわれていたが、近年ではNSAIDs過敏喘息あるいはN-ERD(NSAIDs exacerbated respiratory disease)とも呼ばれる。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2670",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "NSAIDs過敏喘息では、NSAIDsによる増悪をきたすだけではなく、コハク酸エステル型ステロイドでも増悪することがある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2671",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "NSAIDs過敏喘息はプロスタグランジン合成酵素であるCOX-1阻害作用をもつNSAIDsの使用によって、システイニルロイコトリエンが過剰産生され、鼻症状および気道狭窄症状を呈する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2672",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "NSAIDs過敏喘息患者の気道では好塩基球炎症が強くみられる。",
+      "answer": "×",
+      "explanation": "好酸球性炎症とマスト細胞活性化がみられる。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2673",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "NSAIDs過敏喘息はIgE抗体を介したアレルギーの機序で発症する。",
+      "answer": "×",
+      "explanation": "後天的に獲得するNSAIDsの作用機序による過敏性体質である(非IgE機序)。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2674",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "NSAIDs過敏喘息は成人喘息の5〜10%を占め、男女比は2:1で男性に多い。",
+      "answer": "×",
+      "explanation": "男女比は1:2で女性に多い。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2675",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "NSAIDs過敏喘息の好発年齢は60〜80歳代である。",
+      "answer": "×",
+      "explanation": "好発年齢は20〜40歳代である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2676",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "NSAIDs過敏喘息は皮膚テストやアレルギー学的検査で診断可能である。",
+      "answer": "×",
+      "explanation": "IgE抗体を介さない非アレルギー機序であるため、皮膚テストや血液検査などのアレルギー学的検査では診断できない。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2677",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "妊娠中は、喘息治療を一時中止する。",
+      "answer": "×",
+      "explanation": "喘息治療は継続する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2678",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "妊娠中の喘息治療の第一選択は吸入ステロイドである。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2679",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "妊娠初期に喘息が悪化することが多い。",
+      "answer": "×",
+      "explanation": "妊娠中期〜後期に喘息が悪化することが多い。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2680",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ロイコトリエン受容体拮抗薬(LTRA)、長時間作用性抗コリン薬(LAMA)の妊娠に対する安全性は確立されていない。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2681",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "周術期管理では、FEV1を予測値あるいは自己最良値の80%以上まで改善させておくべきである。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2682",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "周術期管理として、喘息発症後のNSAIDs使用歴、ラテックスアレルギーの有無を確認しておく。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2683",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息では上気道アレルギー性炎症を合併することが多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2684",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "喘息では好中球性炎症が主体の慢性副鼻腔炎を合併しやすい。",
+      "answer": "×",
+      "explanation": "好酸球性炎症による好酸球性副鼻腔炎を合併しやすい。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2685",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "肥満は喘息を軽快させる。",
+      "answer": "×",
+      "explanation": "肥満は重症喘息のリスクファクターである。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2686",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "ストレス、不安、抑うつは喘息の悪化、難治化に影響する因子である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2687",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "閉塞性睡眠時無呼吸症候群(OSAS)は喘息の悪化、増悪因子ではない。",
+      "answer": "×",
+      "explanation": "喘息の悪化、増悪因子である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2688",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "好酸球性多発血管炎性肉芽腫症(eosinophilic granulomatosis with polyangiitis: EGPA)には喘息の発症が先行することが多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2689",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "アレルギー性気管支肺真菌症では末梢血好酸球増多、血清総IgE高値、真菌特異的IgE抗体陽性を示す。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2690",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息は咳だけを症状とする喘息の亜型である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2691",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息は慢性咳嗽の最多の原因疾患である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2692",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息の多くは湿性咳嗽である。",
+      "answer": "×",
+      "explanation": "乾性咳嗽である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2693",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息は深夜や早朝に悪化しやすい。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2694",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息では外因性抗原への感作が約60%の患者にみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2695",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息ではアレルギー鼻炎の合併が約50%の患者にみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2696",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息の患者では咳受容体感受性の低下がみられる。",
+      "answer": "×",
+      "explanation": "咳受容体感受性の亢進がみられる。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2697",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息では気管支拡張薬が有効であることで診断できる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2698",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息の軽症例では中用量のICSで加療する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2699",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息の中等症以上は、ICS/LABAが治療の中心となる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2700",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息は高頻度で胃食道逆流症(gastro esophageal reflux disease: GERD)による慢性咳嗽を合併する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2701",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息にICSを使用しても、典型的な喘息への移行を防ぐことはできない。",
+      "answer": "×",
+      "explanation": "ICSを早期から使用することで、典型的な喘息への移行は減少する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2702",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "咳喘息では薬剤の中止後に症状が再燃することはない。",
+      "answer": "×",
+      "explanation": "しばしば再燃する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2703",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "過敏性肺炎では抗原と特異抗体(III型アレルギー)と感作リンパ球(IV型アレルギー)が関与している。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2704",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "過敏性肺炎のうち、わが国では夏型過敏性肺炎と鳥関連過敏性肺炎が多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2705",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "夏型過敏性肺炎は古い家屋に増殖するスエヒロタケが原因である。",
+      "answer": "×",
+      "explanation": "トリコスポロンである。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2706",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "慢性過敏性肺炎で薬物療法が必要な症例は進行性であり、5年生存率は50〜70%と予後不良である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2707",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "過敏性肺炎では約50%の症例でfine cracklesを聴取する。",
+      "answer": "×",
+      "explanation": "約90%の症例で聴取する。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2708",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "過敏性肺炎の画像では小葉中心性の粒状影・辺縁不明瞭な小結節・汎小葉性のすりガラス影を呈する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2709",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "過敏性肺炎では血清KL-6とSP-Dが上昇する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2710",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "過敏性肺炎では下肺野優位に陰影が出現する。",
+      "answer": "×",
+      "explanation": "上肺野優位である。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2711",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "過敏性肺炎の治療の基本は抗原回避であり、呼吸不全例ではステロイド治療を行う。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2712",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "急性好酸球性肺炎と慢性好酸球性肺炎はともに女性に多い。",
+      "answer": "×",
+      "explanation": "急性好酸球性肺炎は男性に多い(慢性好酸球性肺炎は女性に多い)。",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2713",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "慢性好酸球性肺炎は喘息の合併が多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2714",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "慢性好酸球性肺炎の胸部X線検査ではphotographic negative of pulmonary edemaがみられることが多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2715",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "アレルギー性疾患",
+      "question": "好酸球性肺炎のメディエーターとしてeotaxinが関与する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "アレルギー性疾患",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
     }
   ]
 }
