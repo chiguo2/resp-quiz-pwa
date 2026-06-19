@@ -42,12 +42,13 @@
       "各論_胸膜疾患_一問一答_Part2.docx",
       "各論_横隔膜疾患_一問一答.docx",
       "各論_縦隔疾患_一問一答.docx",
-      "各論_胸郭_胸壁疾患_一問一答.docx"
+      "各論_胸郭_胸壁疾患_一問一答.docx",
+      "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2152,
-      "mcq": 176,
-      "total": 2328
+      "qa": 2069,
+      "mcq": 238,
+      "total": 2307
     },
     "sections": [
       "COPD",
@@ -262,44 +263,39 @@
         "pages": 16
       }
     ],
-    "updated_at": "2026-06-17",
-    "last_update_note": "Added 各論I 1〜13 one-question items using question-content duplicate detection; added page-image reference links.",
+    "updated_at": "2026-06-18",
+    "last_update_note": "各論I-1感染症/I-2 COPD/I-3気管支をPDF照合: ○×270問は誤答なし。COPD MCQ群7問を新規追加(qa-2549〜2555), 感染症の未収録4問を追加(qa-2545〜2548), qa-1327の表記修正(拡散→核酸), 重複2問(qa-1446,qa-1447)を削除。",
     "last_import_summary": {
-      "read": 899,
-      "added": 883,
-      "skipped_duplicate": 16,
-      "added_by_source": {
-        "1_感染症および炎症性疾患_一問一答_Part1.docx": 35,
-        "1_感染症および炎症性疾患_一問一答_Part2.docx": 30,
-        "2_COPD_一問一答_Part1.docx": 30,
-        "2_COPD_一問一答_Part2.docx": 12,
-        "3_気管支_細気管支疾患_一問一答.docx": 38,
-        "4_アレルギー性疾患_一問一答.docx": 25,
-        "5_特発性間質性肺炎_一問一答.docx": 159,
-        "6_急性呼吸窮迫症候群_一問一答.docx": 40,
-        "7_薬剤化学物質放射線_一問一答.docx": 36,
-        "8_全身疾患_一問一答_前半.docx": 59,
-        "8_全身疾患_一問一答_後半.docx": 59,
-        "9_じん肺症_一問一答.docx": 40,
-        "10_肺循環障害_一問一答_前半.docx": 64,
-        "10_肺循環障害_一問一答_後半.docx": 59,
-        "11_呼吸器新生物_一問一答_Part3.docx": 59,
-        "12_呼吸調節障害_一問一答.docx": 40,
-        "13_その他比較的稀な肺疾患_一問一答.docx": 98
-      },
-      "skipped_by_source": {
-        "1_感染症および炎症性疾患_一問一答_Part1.docx": 5,
-        "5_特発性間質性肺炎_一問一答.docx": 6,
-        "8_全身疾患_一問一答_後半.docx": 2,
-        "10_肺循環障害_一問一答_前半.docx": 1,
-        "13_その他比較的稀な肺疾患_一問一答.docx": 2
-      },
-      "rendered_reference_pages": 93
+      "added": 11,
+      "deleted": 2,
+      "modified": 1,
+      "added_mcq": [
+        "qa-2549",
+        "qa-2550",
+        "qa-2551",
+        "qa-2552",
+        "qa-2553",
+        "qa-2554",
+        "qa-2555"
+      ],
+      "added_qa": [
+        "qa-2545",
+        "qa-2546",
+        "qa-2547",
+        "qa-2548"
+      ],
+      "deleted_ids": [
+        "qa-1446",
+        "qa-1447"
+      ],
+      "modified_ids": [
+        "qa-1327"
+      ]
     },
-    "total_questions": 2408,
-    "qa_count": 2368,
-    "mcq_count": 176,
-    "last_update": "2026-06-17"
+    "total_questions": 2307,
+    "qa_count": 2069,
+    "mcq_count": 238,
+    "last_update": "2026-06-18"
   },
   "items": [
     {
@@ -18340,17 +18336,21 @@
       "id": "qa-0812"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論I 形態・機能・病態生理",
       "section": "呼吸生理",
-      "question": "体温の低下",
-      "answer": "×",
-      "explanation": "体温の上昇により、酸素解離曲線は右に移動する。",
+      "question": "酸素解離曲線を右に移動させる要因はどれか。",
+      "answer": [
+        "b",
+        "c"
+      ],
+      "explanation": "a（×）：体温の上昇により、酸素解離曲線は右に移動する。\nb（○）：―\nc（○）：―",
       "tags": [
         "総論I",
         "呼吸生理",
         "○×問題",
-        "★★☆"
+        "★★☆",
+        "選択肢統合"
       ],
       "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
       "reference": {
@@ -18359,51 +18359,12 @@
         "image": "assets/reference_pages/s1_p016.webp",
         "viewer": "reference-viewer.html?doc=s1&page=16"
       },
-      "id": "qa-0813"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸生理",
-      "question": "pHの低下",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "呼吸生理",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 16,
-        "image": "assets/reference_pages/s1_p016.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=16"
-      },
-      "id": "qa-0814"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸生理",
-      "question": "CO₂の増加",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "呼吸生理",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 16,
-        "image": "assets/reference_pages/s1_p016.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=16"
-      },
-      "id": "qa-0815"
+      "id": "qa-0813",
+      "choices": {
+        "a": "体温の低下",
+        "b": "pHの低下",
+        "c": "CO₂の増加"
+      }
     },
     {
       "type": "qa",
@@ -18714,17 +18675,23 @@
       "id": "qa-0829"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論I 形態・機能・病態生理",
       "section": "肺の代謝機能",
-      "question": "ORMDL3",
-      "answer": "○",
-      "explanation": "",
+      "question": "気管支喘息に関連する遺伝子はどれか。",
+      "answer": [
+        "a",
+        "c",
+        "d",
+        "e"
+      ],
+      "explanation": "a（○）：―\nb（×）：α1アンチトリプシン欠乏症に関連する遺伝子である。\nc（○）：抗IL-5抗体がmepolizumabである。\nd（○）：―\ne（○）：―",
       "tags": [
         "総論I",
         "肺の代謝機能",
         "○×問題",
-        "★★★"
+        "★★★",
+        "選択肢統合"
       ],
       "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
       "reference": {
@@ -18733,95 +18700,14 @@
         "image": "assets/reference_pages/s1_p005.webp",
         "viewer": "reference-viewer.html?doc=s1&page=5"
       },
-      "id": "qa-0830"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "肺の代謝機能",
-      "question": "α1-Pi（SERPINA1）",
-      "answer": "×",
-      "explanation": "α1アンチトリプシン欠乏症に関連する遺伝子である。",
-      "tags": [
-        "総論I",
-        "肺の代謝機能",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 17,
-        "image": "assets/reference_pages/s1_p017.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=17"
-      },
-      "id": "qa-0831"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "肺の代謝機能",
-      "question": "IL-5",
-      "answer": "○",
-      "explanation": "抗IL-5抗体がmepolizumabである。",
-      "tags": [
-        "総論I",
-        "肺の代謝機能",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 17,
-        "image": "assets/reference_pages/s1_p017.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=17"
-      },
-      "id": "qa-0832"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "肺の代謝機能",
-      "question": "RANTES",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "肺の代謝機能",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 18,
-        "image": "assets/reference_pages/s1_p018.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=18"
-      },
-      "id": "qa-0833"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "肺の代謝機能",
-      "question": "monocyte chemotactic protein（MCP）",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "肺の代謝機能",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 18,
-        "image": "assets/reference_pages/s1_p018.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=18"
-      },
-      "id": "qa-0834"
+      "id": "qa-0830",
+      "choices": {
+        "a": "ORMDL3",
+        "b": "α1-Pi（SERPINA1）",
+        "c": "IL-5",
+        "d": "RANTES",
+        "e": "monocyte chemotactic protein（MCP）"
+      }
     },
     {
       "type": "qa",
@@ -18934,17 +18820,30 @@
       "id": "qa-0839"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論I 形態・機能・病態生理",
       "section": "呼吸器の加齢による変化",
-      "question": "圧-容量曲線が左上方にシフトする。",
-      "answer": "○",
-      "explanation": "加齢により肺弾性収縮力が低下する。",
+      "question": "呼吸器の加齢による変化について、正しいものはどれか。",
+      "answer": [
+        "a",
+        "b",
+        "d",
+        "f",
+        "g",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n"
+      ],
+      "explanation": "a（○）：加齢により肺弾性収縮力が低下する。\nb（○）：―\nc（×）：Kohn孔は増加する。\nd（○）：―\ne（×）：胸壁が硬化し、コンプライアンスは低下する。\nf（○）：―\ng（○）：直線的に低下する。\nh（×）：PaCO₂は比較的維持される。\ni（○）：―\nj（○）：―\nk（○）：―\nl（○）：―\nm（○）：―\nn（○）：（※スキャン不鮮明：原本で要確認）\no（×）：腹部に依存するようになる。",
       "tags": [
         "総論I",
         "呼吸器の加齢による変化",
         "○×問題",
-        "★★☆"
+        "★★☆",
+        "選択肢統合"
       ],
       "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
       "reference": {
@@ -18953,315 +18852,24 @@
         "image": "assets/reference_pages/s1_p019.webp",
         "viewer": "reference-viewer.html?doc=s1&page=19"
       },
-      "id": "qa-0840"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "肺胞導管が拡張する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 2,
-        "image": "assets/reference_pages/s1_p002.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=2"
-      },
-      "id": "qa-0841"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "肺胞孔（Kohn孔）が減少する。",
-      "answer": "×",
-      "explanation": "Kohn孔は増加する。",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 9,
-        "image": "assets/reference_pages/s1_p009.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=9"
-      },
-      "id": "qa-0842"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "肺活量は低下する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 15,
-        "image": "assets/reference_pages/s1_p015.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=15"
-      },
-      "id": "qa-0843"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "胸郭コンプライアンスは上昇する。",
-      "answer": "×",
-      "explanation": "胸壁が硬化し、コンプライアンスは低下する。",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 19,
-        "image": "assets/reference_pages/s1_p019.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=19"
-      },
-      "id": "qa-0844"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "肺弾性収縮力は低下する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 19,
-        "image": "assets/reference_pages/s1_p019.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=19"
-      },
-      "id": "qa-0845"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "PaO₂は低下する。",
-      "answer": "○",
-      "explanation": "直線的に低下する。",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 19,
-        "image": "assets/reference_pages/s1_p019.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=19"
-      },
-      "id": "qa-0846"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "PaCO₂は上昇する。",
-      "answer": "×",
-      "explanation": "PaCO₂は比較的維持される。",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 15,
-        "image": "assets/reference_pages/s1_p015.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=15"
-      },
-      "id": "qa-0847"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "肺拡散能は低下する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 15,
-        "image": "assets/reference_pages/s1_p015.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=15"
-      },
-      "id": "qa-0848"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "全肺気量は維持される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 19,
-        "image": "assets/reference_pages/s1_p019.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=19"
-      },
-      "id": "qa-0849"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "残気量、機能的残気量はともに増加する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 19,
-        "image": "assets/reference_pages/s1_p019.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=19"
-      },
-      "id": "qa-0850"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "クロージングボリュームは増大する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 19,
-        "image": "assets/reference_pages/s1_p019.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=19"
-      },
-      "id": "qa-0851"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "肺胞気動脈血酸素分圧較差（A-aDO₂）が開大する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 15,
-        "image": "assets/reference_pages/s1_p015.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=15"
-      },
-      "id": "qa-0852"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "脊椎は後弯する。",
-      "answer": "○",
-      "explanation": "（※スキャン不鮮明：原本で要確認）",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 15,
-        "image": "assets/reference_pages/s1_p015.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=15"
-      },
-      "id": "qa-0853"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "呼吸器の加齢による変化",
-      "question": "運動時の呼吸は、腹部より胸郭に依存するようになる。",
-      "answer": "×",
-      "explanation": "腹部に依存するようになる。",
-      "tags": [
-        "総論I",
-        "呼吸器の加齢による変化",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 19,
-        "image": "assets/reference_pages/s1_p019.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=19"
-      },
-      "id": "qa-0854"
+      "id": "qa-0840",
+      "choices": {
+        "a": "圧-容量曲線が左上方にシフトする。",
+        "b": "肺胞導管が拡張する。",
+        "c": "肺胞孔（Kohn孔）が減少する。",
+        "d": "肺活量は低下する。",
+        "e": "胸郭コンプライアンスは上昇する。",
+        "f": "肺弾性収縮力は低下する。",
+        "g": "PaO₂は低下する。",
+        "h": "PaCO₂は上昇する。",
+        "i": "肺拡散能は低下する。",
+        "j": "全肺気量は維持される。",
+        "k": "残気量、機能的残気量はともに増加する。",
+        "l": "クロージングボリュームは増大する。",
+        "m": "肺胞気動脈血酸素分圧較差（A-aDO₂）が開大する。",
+        "n": "脊椎は後弯する。",
+        "o": "運動時の呼吸は、腹部より胸郭に依存するようになる。"
+      }
     },
     {
       "type": "qa",
@@ -19900,7 +19508,7 @@
       "type": "qa",
       "chapter": "総論II 疫学",
       "section": "総論II 疫学",
-      "question": "非結核性抗酸菌（NTM）症の発病率は近年増加傾向である。",
+      "question": "非結核性抗酸菌（nontuberculous mycobacteria: NTM）症の発病率は近年増加傾向である。",
       "answer": "○",
       "explanation": "",
       "tags": [
@@ -20110,7 +19718,7 @@
       "type": "qa",
       "chapter": "総論II 疫学",
       "section": "総論II 疫学",
-      "question": "特発性間質性肺炎の中で特発性肺線維症（IPF）は最も頻度が高い。",
+      "question": "特発性間質性肺炎の中で特発性肺線維症（idiopathic pulmonary fibrosis: IPF）は最も頻度が高い。",
       "answer": "○",
       "explanation": "",
       "tags": [
@@ -21850,16 +21458,22 @@
       "id": "qa-0977"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論III 主要症候と身体所見",
       "section": "総論III 主要症候と身体所見",
-      "question": "【組合せ】肺動静脈瘻 − 奇異性脳塞栓症",
-      "answer": "○",
-      "explanation": "下肢深部静脈血栓が右→左シャントを通じて動脈内に流入し脳梗塞に至る。卵円孔開存も原因。",
+      "question": "病態や疾患と合併症の組み合わせとして正しい組み合わせはどれか。",
+      "answer": [
+        "a",
+        "b",
+        "e",
+        "g"
+      ],
+      "explanation": "a（○）：下肢深部静脈血栓が右→左シャントを通じて動脈内に流入し脳梗塞に至る。卵円孔開存も原因。\nb（○）：手指掌側に鉄棒のまめ様の皮疹が出現。抗MDA5抗体陽性が多く、CADMに多い。\nc（×）：限局性強皮症の皮膚硬化は上肢は前腕以遠、下肢は下腿以遠にとどまる。\nd（×）：蝶形紅斑は全身性エリテマトーデス（SLE）に特徴的な所見である。\ne（○）：他にリウマチ熱でも合併する。\nf（×）：メカニックハンド（機械工の手）は抗ARS抗体症候群や皮膚筋炎に合併する。\ng（○）：肺高血圧は全身性強皮症や混合性結合組織病に合併しやすい。\nh（×）：尋常性狼瘡は皮膚結核の一種で、頸部・頬部に片側性に進行する。\ni（×）：全身性強皮症・混合性結合組織病・Sjögren症候群でみられるが、関節リウマチでは稀。\nj（×）：Gottron徴候は皮膚筋炎に特徴的な所見である。",
       "tags": [
         "総論III",
         "総論III 主要症候と身体所見",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -21868,196 +21482,19 @@
         "image": "assets/reference_pages/s3_p021.webp",
         "viewer": "reference-viewer.html?doc=s3&page=21"
       },
-      "id": "qa-0978"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "【組合せ】逆Gottron徴候 − clinically amyopathic dermatomyositis（CADM）",
-      "answer": "○",
-      "explanation": "手指掌側に鉄棒のまめ様の皮疹が出現。抗MDA5抗体陽性が多く、CADMに多い。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 23,
-        "image": "assets/reference_pages/s3_p023.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=23"
-      },
-      "id": "qa-0979"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "【組合せ】上腕の皮膚硬化 − 限局性強皮症",
-      "answer": "×",
-      "explanation": "限局性強皮症の皮膚硬化は上肢は前腕以遠、下肢は下腿以遠にとどまる。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 11,
-        "image": "assets/reference_pages/s3_p011.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=11"
-      },
-      "id": "qa-0980"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "【組合せ】蝶形紅斑 − 強皮症",
-      "answer": "×",
-      "explanation": "蝶形紅斑は全身性エリテマトーデス（SLE）に特徴的な所見である。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 18,
-        "image": "assets/reference_pages/s3_p018.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=18"
-      },
-      "id": "qa-0981"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "【組合せ】環状紅斑 − Sjögren症候群",
-      "answer": "○",
-      "explanation": "他にリウマチ熱でも合併する。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 24,
-        "image": "assets/reference_pages/s3_p024.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=24"
-      },
-      "id": "qa-0982"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "【組合せ】メカニックハンド − 強皮症",
-      "answer": "×",
-      "explanation": "メカニックハンド（機械工の手）は抗ARS抗体症候群や皮膚筋炎に合併する。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 17,
-        "image": "assets/reference_pages/s3_p017.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=17"
-      },
-      "id": "qa-0983"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "【組合せ】肺高血圧 − 全身性強皮症",
-      "answer": "○",
-      "explanation": "肺高血圧は全身性強皮症や混合性結合組織病に合併しやすい。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 8,
-        "image": "assets/reference_pages/s3_p008.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=8"
-      },
-      "id": "qa-0984"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "【組合せ】尋常性狼瘡 − 全身性エリテマトーデス",
-      "answer": "×",
-      "explanation": "尋常性狼瘡は皮膚結核の一種で、頸部・頬部に片側性に進行する。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 18,
-        "image": "assets/reference_pages/s3_p018.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=18"
-      },
-      "id": "qa-0985"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "【組合せ】Raynaud現象 − 関節リウマチ",
-      "answer": "×",
-      "explanation": "全身性強皮症・混合性結合組織病・Sjögren症候群でみられるが、関節リウマチでは稀。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 20,
-        "image": "assets/reference_pages/s3_p020.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=20"
-      },
-      "id": "qa-0986"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "【組合せ】Gottron徴候 − Sjögren症候群",
-      "answer": "×",
-      "explanation": "Gottron徴候は皮膚筋炎に特徴的な所見である。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 5,
-        "image": "assets/reference_pages/s3_p005.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=5"
-      },
-      "id": "qa-0987"
+      "id": "qa-0978",
+      "choices": {
+        "a": "肺動静脈瘻 − 奇異性脳塞栓症",
+        "b": "逆Gottron徴候 − clinically amyopathic dermatomyositis（CADM）",
+        "c": "上腕の皮膚硬化 − 限局性強皮症",
+        "d": "蝶形紅斑 − 強皮症",
+        "e": "環状紅斑 − Sjögren症候群",
+        "f": "メカニックハンド − 強皮症",
+        "g": "肺高血圧 − 全身性強皮症",
+        "h": "尋常性狼瘡 − 全身性エリテマトーデス",
+        "i": "Raynaud現象 − 関節リウマチ",
+        "j": "Gottron徴候 − Sjögren症候群"
+      }
     },
     {
       "type": "qa",
@@ -22462,27 +21899,6 @@
       "type": "qa",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "血中progastrin-releasing peptide（proGRP）は、NSEと比較して感度・特異度ともに低い。",
-      "answer": "×",
-      "explanation": "血中proGRPは小細胞肺癌に極めて特異性が高く、NSEと比較し限局型・進展型いずれにも高い感度・特異度を有する。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 7,
-        "image": "assets/reference_pages/s4_p007.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=7"
-      },
-      "id": "qa-1007"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
       "question": "レジオネラ感染症を疑う場合は、PPLO培地を用いる。",
       "answer": "×",
       "explanation": "BCYE-α培地やWYO培地を用いる。",
@@ -22753,16 +22169,21 @@
       "id": "qa-1020"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "【被曝量】単純X線撮影の標準的撮影条件における被曝は0.04 mSv前後である。",
-      "answer": "○",
-      "explanation": "",
+      "question": "放射線被曝量について、正しい記載はどれか。",
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "a（○）：―\nb（○）：―\nc（○）：―\nd（×）：3.5 mSvである。",
       "tags": [
         "総論IV",
         "総論IV 検査",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -22771,40 +22192,29 @@
         "image": "assets/reference_pages/s4_p018.webp",
         "viewer": "reference-viewer.html?doc=s4&page=18"
       },
-      "id": "qa-1021"
+      "id": "qa-1021",
+      "choices": {
+        "a": "単純X線撮影の標準的撮影条件における被曝は0.04 mSv前後である。",
+        "b": "胸部CT 1回の撮影での被曝は7.8 mSv前後である。",
+        "c": "日本では自然界から年間1.4 mSv前後の被曝を受けている。",
+        "d": "PET-CTの被曝量は12 mSvである。"
+      }
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "【被曝量】胸部CT 1回の撮影での被曝は7.8 mSv前後である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
+      "question": "胸部X線撮影について、立位P-A撮影と比較した臥位A-P撮影の特徴はどれか。",
+      "answer": [
+        "a",
+        "e"
       ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 22,
-        "image": "assets/reference_pages/s4_p022.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=22"
-      },
-      "id": "qa-1022"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【被曝量】日本では自然界から年間1.4 mSv前後の被曝を受けている。",
-      "answer": "○",
-      "explanation": "",
+      "explanation": "a（○）：―\nb（×）：―\nc（×）：―\nd（×）：―\ne（○）：―",
       "tags": [
         "総論IV",
         "総論IV 検査",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -22813,145 +22223,30 @@
         "image": "assets/reference_pages/s4_p018.webp",
         "viewer": "reference-viewer.html?doc=s4&page=18"
       },
-      "id": "qa-1023"
+      "id": "qa-1025",
+      "choices": {
+        "a": "鎖骨が挙上する。",
+        "b": "横隔膜が下がる。",
+        "c": "両上肺野の透過性が亢進する。",
+        "d": "胃泡を確認しやすい。",
+        "e": "心胸郭比が大きい。"
+      }
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "【被曝量】PET-CTの被曝量は12 mSvである。",
-      "answer": "×",
-      "explanation": "3.5 mSvである。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
+      "question": "胸部X線撮影について、正しい記載はどれか。",
+      "answer": [
+        "a",
+        "b"
       ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 38,
-        "image": "assets/reference_pages/s4_p038.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=38"
-      },
-      "id": "qa-1024"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【臥位A-P撮影の特徴】鎖骨が挙上する。",
-      "answer": "○",
-      "explanation": "",
+      "explanation": "a（○）：―\nb（○）：―",
       "tags": [
         "総論IV",
         "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 18,
-        "image": "assets/reference_pages/s4_p018.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=18"
-      },
-      "id": "qa-1025"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【臥位A-P撮影の特徴】横隔膜が下がる。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 18,
-        "image": "assets/reference_pages/s4_p018.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=18"
-      },
-      "id": "qa-1026"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【臥位A-P撮影の特徴】両上肺野の透過性が亢進する。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 20,
-        "image": "assets/reference_pages/s4_p020.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=20"
-      },
-      "id": "qa-1027"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【臥位A-P撮影の特徴】胃泡を確認しやすい。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 18,
-        "image": "assets/reference_pages/s4_p018.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=18"
-      },
-      "id": "qa-1028"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【臥位A-P撮影の特徴】心胸郭比が大きい。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 19,
-        "image": "assets/reference_pages/s4_p019.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=19"
-      },
-      "id": "qa-1029"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "肺門部陰影は左が右より1肋間高い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -22960,40 +22255,29 @@
         "image": "assets/reference_pages/s4_p007.webp",
         "viewer": "reference-viewer.html?doc=s4&page=7"
       },
-      "id": "qa-1030"
+      "id": "qa-1030",
+      "choices": {
+        "a": "肺門部陰影は左が右より1肋間高い。",
+        "b": "右主気管支は左主気管支より短い。"
+      }
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "右主気管支は左主気管支より短い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
+      "question": "CT画像所見と特徴的な疾患の正しい組み合わせはどれか。",
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "e"
       ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 39,
-        "image": "assets/reference_pages/s4_p039.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=39"
-      },
-      "id": "qa-1031"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【CT所見と疾患】肺結核 − tree in bud appearance",
-      "answer": "○",
-      "explanation": "",
+      "explanation": "a（○）：―\nb（○）：―\nc（○）：―\nd（×）：knuckle signは肺血栓塞栓症でみられる所見である。\ne（○）：―",
       "tags": [
         "総論IV",
         "総論IV 検査",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -23002,91 +22286,14 @@
         "image": "assets/reference_pages/s4_p089.webp",
         "viewer": "reference-viewer.html?doc=s4&page=89"
       },
-      "id": "qa-1032"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【CT所見と疾患】COPD − low attenuation area",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 25,
-        "image": "assets/reference_pages/s4_p025.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=25"
-      },
-      "id": "qa-1033"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【CT所見と疾患】特発性肺線維症 − honey comb",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 46,
-        "image": "assets/reference_pages/s4_p046.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=46"
-      },
-      "id": "qa-1034"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【CT所見と疾患】小細胞肺癌 − knuckle sign",
-      "answer": "×",
-      "explanation": "knuckle signは肺血栓塞栓症でみられる所見である。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 7,
-        "image": "assets/reference_pages/s4_p007.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=7"
-      },
-      "id": "qa-1035"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【CT所見と疾患】胸膜病変 − extrapleural sign",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 54,
-        "image": "assets/reference_pages/s4_p054.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=54"
-      },
-      "id": "qa-1036"
+      "id": "qa-1032",
+      "choices": {
+        "a": "肺結核 − tree in bud appearance",
+        "b": "COPD − low attenuation area",
+        "c": "特発性肺線維症 − honey comb",
+        "d": "小細胞肺癌 − knuckle sign",
+        "e": "胸膜病変 − extrapleural sign"
+      }
     },
     {
       "type": "qa",
@@ -23173,16 +22380,19 @@
       "id": "qa-1040"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "【気管支鏡検査時に出血合併症を起こす可能性が低い薬】アリスキレン",
-      "answer": "○",
-      "explanation": "",
+      "question": "気管支鏡検査時に出血合併症を起こす可能性が低い薬はどれか。",
+      "answer": [
+        "a"
+      ],
+      "explanation": "a（○）：―\nb（×）：休薬が必要である。\nc（×）：休薬が必要である。",
       "tags": [
         "総論IV",
         "総論IV 検査",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -23191,49 +22401,12 @@
         "image": "assets/reference_pages/s4_p039.webp",
         "viewer": "reference-viewer.html?doc=s4&page=39"
       },
-      "id": "qa-1041"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【気管支鏡検査時に出血合併症を起こす可能性が低い薬】プラスグレル",
-      "answer": "×",
-      "explanation": "休薬が必要である。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 45,
-        "image": "assets/reference_pages/s4_p045.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=45"
-      },
-      "id": "qa-1042"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【気管支鏡検査時に出血合併症を起こす可能性が低い薬】エドキサバン",
-      "answer": "×",
-      "explanation": "休薬が必要である。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 45,
-        "image": "assets/reference_pages/s4_p045.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=45"
-      },
-      "id": "qa-1043"
+      "id": "qa-1041",
+      "choices": {
+        "a": "アリスキレン",
+        "b": "プラスグレル",
+        "c": "エドキサバン"
+      }
     },
     {
       "type": "qa",
@@ -23824,16 +22997,19 @@
       "id": "qa-1071"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "【気道の2型炎症を評価する検査】アストグラフ",
-      "answer": "×",
-      "explanation": "気道抵抗を評価する検査である。",
+      "question": "気道の2型炎症を評価する検査はどれか。",
+      "answer": [
+        "b"
+      ],
+      "explanation": "a（×）：気道抵抗を評価する検査である。\nb（○）：―",
       "tags": [
         "総論IV",
         "総論IV 検査",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -23842,28 +23018,11 @@
         "image": "assets/reference_pages/s4_p067.webp",
         "viewer": "reference-viewer.html?doc=s4&page=67"
       },
-      "id": "qa-1072"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【気道の2型炎症を評価する検査】呼気一酸化窒素濃度測定検査（FeNO）",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 72,
-        "image": "assets/reference_pages/s4_p072.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=72"
-      },
-      "id": "qa-1073"
+      "id": "qa-1072",
+      "choices": {
+        "a": "アストグラフ",
+        "b": "呼気一酸化窒素濃度測定検査（FeNO）"
+      }
     },
     {
       "type": "qa",
@@ -23908,16 +23067,21 @@
       "id": "qa-1075"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "【過換気症候群を疑う16歳女性の予想ABG】pH 7.53",
-      "answer": "○",
-      "explanation": "呼吸性アルカローシス。",
+      "question": "16歳女性、既往歴なし。学校での試験中に突然の呼吸困難発作、手のしびれ、頭痛を生じ救急搬送された。これまでに同様のエピソードが2回ある。予想される動脈血液ガス所見はどれか。",
+      "answer": [
+        "a",
+        "c",
+        "d"
+      ],
+      "explanation": "a（○）：呼吸性アルカローシス。\nb（×）：過換気症候群ではBEの変化がない呼吸性アルカローシスをきたし、低酸素血症はみられない。\nc（○）：―\nd（○）：―",
       "tags": [
         "総論IV",
         "総論IV 検査",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -23926,82 +23090,30 @@
         "image": "assets/reference_pages/s4_p078.webp",
         "viewer": "reference-viewer.html?doc=s4&page=78"
       },
-      "id": "qa-1076"
+      "id": "qa-1076",
+      "choices": {
+        "a": "pH 7.53",
+        "b": "PaO₂ 60 Torr",
+        "c": "PaCO₂ 32 Torr",
+        "d": "BE −1.8 mEq/L"
+      }
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
-      "question": "【過換気症候群を疑う16歳女性の予想ABG】PaO₂ 60 Torr",
-      "answer": "×",
-      "explanation": "過換気症候群ではBEの変化がない呼吸性アルカローシスをきたし、低酸素血症はみられない。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
+      "question": "疾患と実施すべき検査について、正しい組み合わせはどれか。",
+      "answer": [
+        "a",
+        "b",
+        "d"
       ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 88,
-        "image": "assets/reference_pages/s4_p088.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=88"
-      },
-      "id": "qa-1077"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【過換気症候群を疑う16歳女性の予想ABG】PaCO₂ 32 Torr",
-      "answer": "○",
-      "explanation": "",
+      "explanation": "a（○）：―\nb（○）：―\nc（×）：Young症候群は精子機能（閉塞性無精子症）に関連する。\nd（○）：―",
       "tags": [
         "総論IV",
         "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 88,
-        "image": "assets/reference_pages/s4_p088.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=88"
-      },
-      "id": "qa-1078"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【過換気症候群を疑う16歳女性の予想ABG】BE −1.8 mEq/L",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 46,
-        "image": "assets/reference_pages/s4_p046.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=46"
-      },
-      "id": "qa-1079"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【疾患と実施すべき検査】Good症候群 − 胸腺腫",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -24010,70 +23122,13 @@
         "image": "assets/reference_pages/s4_p004.webp",
         "viewer": "reference-viewer.html?doc=s4&page=4"
       },
-      "id": "qa-1080"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【疾患と実施すべき検査】Kartagener症候群 − サッカリンテスト",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 4,
-        "image": "assets/reference_pages/s4_p004.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=4"
-      },
-      "id": "qa-1081"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【疾患と実施すべき検査】Young症候群 − 卵子機能",
-      "answer": "×",
-      "explanation": "Young症候群は精子機能（閉塞性無精子症）に関連する。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 4,
-        "image": "assets/reference_pages/s4_p004.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=4"
-      },
-      "id": "qa-1082"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "【疾患と実施すべき検査】免疫不全 − IgGサブセット",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 4,
-        "image": "assets/reference_pages/s4_p004.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=4"
-      },
-      "id": "qa-1083"
+      "id": "qa-1080",
+      "choices": {
+        "a": "Good症候群 − 胸腺腫",
+        "b": "Kartagener症候群 − サッカリンテスト",
+        "c": "Young症候群 − 卵子機能",
+        "d": "免疫不全 − IgGサブセット"
+      }
     },
     {
       "type": "qa",
@@ -24137,111 +23192,6 @@
         "viewer": "reference-viewer.html?doc=s4&page=89"
       },
       "id": "qa-1086"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "（COVID-19）核酸検出検査、抗原検査が測定可能である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 12,
-        "image": "assets/reference_pages/s4_p012.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=12"
-      },
-      "id": "qa-1087"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "（COVID-19）抗原検査は測定に3時間以上かかり簡便には行えない。",
-      "answer": "×",
-      "explanation": "実施時間は30〜40分であり、外来やベッドサイドにおける有症状者のスクリーニングに有用である。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 14,
-        "image": "assets/reference_pages/s4_p014.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=14"
-      },
-      "id": "qa-1088"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "（COVID-19）抗原定性検査は、無症状者に対して確定診断を行う際に推奨される。",
-      "answer": "×",
-      "explanation": "無症状者への抗原定性検査はPCR等と比較し感度が低く、確定診断として推奨されない。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 1,
-        "image": "assets/reference_pages/s4_p001.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=1"
-      },
-      "id": "qa-1089"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "（COVID-19）抗体検査が陽性の場合、全例で隔離が必要である。",
-      "answer": "×",
-      "explanation": "抗体の有無を調べるものであり、被験者からウイルスが排出されていることを意味しない。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 10,
-        "image": "assets/reference_pages/s4_p010.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=10"
-      },
-      "id": "qa-1090"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "（COVID-19）有症状者に対して、発症から10日目以降であれば検体として唾液が推奨される。",
-      "answer": "×",
-      "explanation": "唾液検体の場合は、発症から10日目以降は検出性能が低い。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 90,
-        "image": "assets/reference_pages/s4_p090.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=90"
-      },
-      "id": "qa-1091"
     },
     {
       "type": "qa",
@@ -24370,16 +23320,21 @@
       "id": "qa-1097"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "【喀痰調整薬と効果】アンブロキソール − 粘膜潤滑",
-      "answer": "○",
-      "explanation": "気道粘膜潤滑薬に分類され、肺サーファクタントの分泌を促す。",
+      "question": "喀痰調整薬と効果の組み合わせで正しいものはどれか。",
+      "answer": [
+        "a",
+        "c",
+        "d"
+      ],
+      "explanation": "a（○）：気道粘膜潤滑薬に分類され、肺サーファクタントの分泌を促す。\nb（×）：マクロライドには好中球性気道炎症の抑制効果がある。\nc（○）：気道粘液溶解薬に分類され、喀痰粘度を低下させる。\nd（○）：分泌細胞正常化薬・気道粘液修復薬に分類される。",
       "tags": [
         "総論V",
         "総論V 治療",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -24388,82 +23343,28 @@
         "image": "assets/reference_pages/s5_p009.webp",
         "viewer": "reference-viewer.html?doc=s5&page=9"
       },
-      "id": "qa-1098"
+      "id": "qa-1098",
+      "choices": {
+        "a": "アンブロキソール − 粘膜潤滑",
+        "b": "エリスロマイシン − 好酸球性気道炎症の抑制",
+        "c": "アセチルシステイン − 粘液溶解",
+        "d": "カルボシステイン − 粘液修復"
+      }
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "【喀痰調整薬と効果】エリスロマイシン − 好酸球性気道炎症の抑制",
-      "answer": "×",
-      "explanation": "マクロライドには好中球性気道炎症の抑制効果がある。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
+      "question": "コントローラーとリリーバーの両方に使用可能な喘息吸入薬はどれか。",
+      "answer": [
+        "a"
       ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 84,
-        "image": "assets/reference_pages/s5_p084.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=84"
-      },
-      "id": "qa-1099"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【喀痰調整薬と効果】アセチルシステイン − 粘液溶解",
-      "answer": "○",
-      "explanation": "気道粘液溶解薬に分類され、喀痰粘度を低下させる。",
+      "explanation": "a（○）：SMART（single inhaler maintenance and reliever therapy）療法と呼ばれる。\nb（×）：重症度により吸入量を変更するが、リリーバーとしての使用は推奨されていない。",
       "tags": [
         "総論V",
         "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 9,
-        "image": "assets/reference_pages/s5_p009.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=9"
-      },
-      "id": "qa-1100"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【喀痰調整薬と効果】カルボシステイン − 粘液修復",
-      "answer": "○",
-      "explanation": "分泌細胞正常化薬・気道粘液修復薬に分類される。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 9,
-        "image": "assets/reference_pages/s5_p009.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=9"
-      },
-      "id": "qa-1101"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【コントローラーとリリーバー両用可能な喘息吸入薬】ブデソニド／ホルモテロール",
-      "answer": "○",
-      "explanation": "SMART（single inhaler maintenance and reliever therapy）療法と呼ばれる。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -24472,49 +23373,11 @@
         "image": "assets/reference_pages/s5_p006.webp",
         "viewer": "reference-viewer.html?doc=s5&page=6"
       },
-      "id": "qa-1102"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【コントローラーとリリーバー両用可能な喘息吸入薬】フルチカゾン／ホルモテロール",
-      "answer": "×",
-      "explanation": "重症度により吸入量を変更するが、リリーバーとしての使用は推奨されていない。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 18,
-        "image": "assets/reference_pages/s5_p018.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=18"
-      },
-      "id": "qa-1103"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "アスピリン喘息患者の発作時に全身ステロイドを点滴投与する場合、リン酸エステル型ステロイドを急速静注する。",
-      "answer": "×",
-      "explanation": "リン酸エステル型であっても、急速静注は発作を悪化させるリスクがある。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 76,
-        "image": "assets/reference_pages/s5_p076.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=76"
-      },
-      "id": "qa-1104"
+      "id": "qa-1102",
+      "choices": {
+        "a": "ブデソニド／ホルモテロール",
+        "b": "フルチカゾン／ホルモテロール"
+      }
     },
     {
       "type": "qa",
@@ -24709,27 +23572,6 @@
       "type": "qa",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "コリスチンはβ-ラクタム系、フルオロキノロン系、アミノ配糖体系の3系統に耐性を示す感染症にのみ使用する。",
-      "answer": "○",
-      "explanation": "コリスチンはカルバペネム耐性腸内細菌科細菌などに対する切り札である。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 18,
-        "image": "assets/reference_pages/s5_p018.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=18"
-      },
-      "id": "qa-1114"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
       "question": "ニューモシスチス肺炎の予後は非HIV患者の方が、HIV患者よりも良い。",
       "answer": "×",
       "explanation": "宿主の免疫が大きく関与し、免疫応答が強い非HIV患者の方が予後が悪い。",
@@ -24746,48 +23588,6 @@
         "viewer": "reference-viewer.html?doc=s5&page=20"
       },
       "id": "qa-1115"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "肺MAC症の標準治療中に慢性肺アスペルギルス症を合併した場合の第一選択薬は、ボリコナゾールである。",
-      "answer": "×",
-      "explanation": "ボリコナゾールはCYP2C9/CYP3A4で代謝され、リファンピシンと併用禁忌である。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 19,
-        "image": "assets/reference_pages/s5_p019.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=19"
-      },
-      "id": "qa-1116"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "結核治療中に再排菌があり薬剤耐性が疑われる場合、耐性が疑われる1剤のみを他剤に変更する。",
-      "answer": "×",
-      "explanation": "新たな薬剤による単独療法となり耐性を誘導する危険があるため禁忌である。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 1,
-        "image": "assets/reference_pages/s5_p001.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=1"
-      },
-      "id": "qa-1117"
     },
     {
       "type": "qa",
@@ -24872,27 +23672,6 @@
         "viewer": "reference-viewer.html?doc=s5&page=1"
       },
       "id": "qa-1121"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "潜在性結核感染症の治療を開始する際は、保健所へ届け出をする必要がある。",
-      "answer": "○",
-      "explanation": "感染症法に則り、発生届および公費負担申請書を保健所へ提出する。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 80,
-        "image": "assets/reference_pages/s5_p080.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=80"
-      },
-      "id": "qa-1122"
     },
     {
       "type": "qa",
@@ -25192,27 +23971,6 @@
       "type": "qa",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "気道狭窄にアルゴンプラズマ凝固法を実施する場合、吸入酸素濃度を50%以上とし十分な酸素化を保つ。",
-      "answer": "×",
-      "explanation": "気道内での出火を防ぐため吸入酸素濃度は40%以下に保つ。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 74,
-        "image": "assets/reference_pages/s5_p074.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=74"
-      },
-      "id": "qa-1137"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
       "question": "レーザー焼灼術と比較し、アルゴンプラズマ凝固法は気道穿孔のリスクは低い。",
       "answer": "○",
       "explanation": "組織深達度が浅いため、気道穿孔のリスクは低い。",
@@ -25229,27 +23987,6 @@
         "viewer": "reference-viewer.html?doc=s5&page=74"
       },
       "id": "qa-1138"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "気管支鏡実施中の片側肺からの大量出血時は、患側肺のみを使用した片側換気を行う。",
-      "answer": "×",
-      "explanation": "健側肺の保護が重要であり、健側肺のみを使用した片側換気を行うことがある。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 70,
-        "image": "assets/reference_pages/s5_p070.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=70"
-      },
-      "id": "qa-1139"
     },
     {
       "type": "qa",
@@ -25273,16 +24010,21 @@
       "id": "qa-1140"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "【気管支サーモプラスティが影響を与える細胞・部位】平滑筋細胞",
-      "answer": "○",
-      "explanation": "気道平滑筋を減少させる効果がある。",
+      "question": "気管支サーモプラスティが影響を与える細胞・部位はどれか。",
+      "answer": [
+        "a",
+        "c",
+        "d"
+      ],
+      "explanation": "a（○）：気道平滑筋を減少させる効果がある。\nb（×）：難治性喘息では杯細胞の過形成がみられるが、本治療による杯細胞への効果はない。\nc（○）：気管支線維芽細胞に働きかけ、気道リモデリングを改善する報告がある。\nd（○）：温熱により迷走神経のdenervationを引き起こす。",
       "tags": [
         "総論V",
         "総論V 治療",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -25291,82 +24033,29 @@
         "image": "assets/reference_pages/s5_p005.webp",
         "viewer": "reference-viewer.html?doc=s5&page=5"
       },
-      "id": "qa-1141"
+      "id": "qa-1141",
+      "choices": {
+        "a": "平滑筋細胞",
+        "b": "杯細胞",
+        "c": "気管支線維芽細胞",
+        "d": "迷走神経"
+      }
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "【気管支サーモプラスティが影響を与える細胞・部位】杯細胞",
-      "answer": "×",
-      "explanation": "難治性喘息では杯細胞の過形成がみられるが、本治療による杯細胞への効果はない。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
+      "question": "製剤と適応疾患の組み合わせで、正しいものはどれか。",
+      "answer": [
+        "b",
+        "c"
       ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 9,
-        "image": "assets/reference_pages/s5_p009.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=9"
-      },
-      "id": "qa-1142"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【気管支サーモプラスティが影響を与える細胞・部位】気管支線維芽細胞",
-      "answer": "○",
-      "explanation": "気管支線維芽細胞に働きかけ、気道リモデリングを改善する報告がある。",
+      "explanation": "a（×）：好酸球性多発血管炎性肉芽腫症に使用可能な生物学的製剤はメポリズマブである。\nb（○）：ステロイド不応性の神経障害・運動障害に対して免疫グロブリン大量静注療法が適応。\nc（○）：IL-4とIL-13のシグナル伝達を阻害し、Type 2炎症反応を抑制する。\nd（×）：エタネルセプトは主に関節リウマチに使用。COPDに使用可能な生物学的製剤はない（2021年12月時点）。\ne（×）：リンパ脈管筋腫症に使用可能な薬剤はシロリムスである。\nf（×）：致死的な出血が報告されており、扁平上皮癌にはベバシズマブは使用しない。",
       "tags": [
         "総論V",
         "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 74,
-        "image": "assets/reference_pages/s5_p074.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=74"
-      },
-      "id": "qa-1143"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【気管支サーモプラスティが影響を与える細胞・部位】迷走神経",
-      "answer": "○",
-      "explanation": "温熱により迷走神経のdenervationを引き起こす。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 76,
-        "image": "assets/reference_pages/s5_p076.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=76"
-      },
-      "id": "qa-1144"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【製剤と適応疾患】オマリズマブ − 好酸球性多発血管炎性肉芽腫症",
-      "answer": "×",
-      "explanation": "好酸球性多発血管炎性肉芽腫症に使用可能な生物学的製剤はメポリズマブである。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -25375,124 +24064,33 @@
         "image": "assets/reference_pages/s5_p026.webp",
         "viewer": "reference-viewer.html?doc=s5&page=26"
       },
-      "id": "qa-1145"
+      "id": "qa-1145",
+      "choices": {
+        "a": "オマリズマブ − 好酸球性多発血管炎性肉芽腫症",
+        "b": "免疫グロブリン − 好酸球性多発血管炎性肉芽腫症",
+        "c": "デュピルマブ − 気管支喘息",
+        "d": "エタネルセプト − 慢性閉塞性肺疾患",
+        "e": "エベロリムス − リンパ脈管筋腫症",
+        "f": "ベバシズマブ − 扁平上皮癌"
+      }
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "【製剤と適応疾患】免疫グロブリン − 好酸球性多発血管炎性肉芽腫症",
-      "answer": "○",
-      "explanation": "ステロイド不応性の神経障害・運動障害に対して免疫グロブリン大量静注療法が適応。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
+      "question": "喀血に対する血管塞栓術の治療対象となる血管はどれか。",
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
       ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 26,
-        "image": "assets/reference_pages/s5_p026.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=26"
-      },
-      "id": "qa-1146"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【製剤と適応疾患】デュピルマブ − 気管支喘息",
-      "answer": "○",
-      "explanation": "IL-4とIL-13のシグナル伝達を阻害し、Type 2炎症反応を抑制する。",
+      "explanation": "a（○）：―\nb（○）：―\nc（○）：―\nd（○）：―\ne（×）：脊髄梗塞をきたす恐れがあり、塞栓してはならない。",
       "tags": [
         "総論V",
         "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 27,
-        "image": "assets/reference_pages/s5_p027.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=27"
-      },
-      "id": "qa-1147"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【製剤と適応疾患】エタネルセプト − 慢性閉塞性肺疾患",
-      "answer": "×",
-      "explanation": "エタネルセプトは主に関節リウマチに使用。COPDに使用可能な生物学的製剤はない（2021年12月時点）。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 85,
-        "image": "assets/reference_pages/s5_p085.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=85"
-      },
-      "id": "qa-1148"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【製剤と適応疾患】エベロリムス − リンパ脈管筋腫症",
-      "answer": "×",
-      "explanation": "リンパ脈管筋腫症に使用可能な薬剤はシロリムスである。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 106,
-        "image": "assets/reference_pages/s5_p106.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=106"
-      },
-      "id": "qa-1149"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【製剤と適応疾患】ベバシズマブ − 扁平上皮癌",
-      "answer": "×",
-      "explanation": "致死的な出血が報告されており、扁平上皮癌にはベバシズマブは使用しない。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 34,
-        "image": "assets/reference_pages/s5_p034.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=34"
-      },
-      "id": "qa-1150"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【喀血に対する血管塞栓術の対象血管】気管支動脈",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -25501,91 +24099,14 @@
         "image": "assets/reference_pages/s5_p081.webp",
         "viewer": "reference-viewer.html?doc=s5&page=81"
       },
-      "id": "qa-1151"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【喀血に対する血管塞栓術の対象血管】内胸動脈",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 81,
-        "image": "assets/reference_pages/s5_p081.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=81"
-      },
-      "id": "qa-1152"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【喀血に対する血管塞栓術の対象血管】下横隔膜動脈",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 81,
-        "image": "assets/reference_pages/s5_p081.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=81"
-      },
-      "id": "qa-1153"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【喀血に対する血管塞栓術の対象血管】鎖骨下動脈",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 82,
-        "image": "assets/reference_pages/s5_p082.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=82"
-      },
-      "id": "qa-1154"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "【喀血に対する血管塞栓術の対象血管】前脊髄動脈",
-      "answer": "×",
-      "explanation": "脊髄梗塞をきたす恐れがあり、塞栓してはならない。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 82,
-        "image": "assets/reference_pages/s5_p082.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=82"
-      },
-      "id": "qa-1155"
+      "id": "qa-1151",
+      "choices": {
+        "a": "気管支動脈",
+        "b": "内胸動脈",
+        "c": "下横隔膜動脈",
+        "d": "鎖骨下動脈",
+        "e": "前脊髄動脈"
+      }
     },
     {
       "type": "qa",
@@ -25612,27 +24133,6 @@
       "type": "qa",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "発熱性好中球減少症発症率が20%以上のレジメンを使用するときは、G-CSFの一次予防的投与が推奨される。",
-      "answer": "○",
-      "explanation": "肺癌領域ではドセタキセル＋ラムシルマブなどが該当する。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 36,
-        "image": "assets/reference_pages/s5_p036.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=36"
-      },
-      "id": "qa-1157"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
       "question": "ペメトレキセド投与時には葉酸の併用が必要である。",
       "answer": "○",
       "explanation": "骨髄抑制などの有害事象軽減目的で葉酸とビタミンB₁₂を併用する。",
@@ -25649,90 +24149,6 @@
         "viewer": "reference-viewer.html?doc=s5&page=32"
       },
       "id": "qa-1158"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "非小細胞肺癌にチロシンキナーゼ阻害薬を使用する場合は副腎皮質ステロイドを併用する。",
-      "answer": "×",
-      "explanation": "薬剤性肺障害を合併した場合などに使用することはあるが、ルーチンには併用しない。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 41,
-        "image": "assets/reference_pages/s5_p041.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=41"
-      },
-      "id": "qa-1159"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "PS3〜4のEGFR遺伝子変異陽性Ⅳ期非小細胞肺癌には、一次治療としてゲフィチニブが推奨される。",
-      "answer": "○",
-      "explanation": "PS2ではゲフィチニブとエルロチニブ、PS3〜4ではゲフィチニブのみが推奨されている。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 32,
-        "image": "assets/reference_pages/s5_p032.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=32"
-      },
-      "id": "qa-1160"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "PS2〜4のALK融合遺伝子陽性Ⅳ期非小細胞肺癌には、一次治療としてアレクチニブが推奨される。",
-      "answer": "○",
-      "explanation": "アレクチニブはPS不良の患者に対しても有効性と安全性が報告されている。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 32,
-        "image": "assets/reference_pages/s5_p032.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=32"
-      },
-      "id": "qa-1161"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "ROS1融合遺伝子陽性Ⅳ期非小細胞肺癌には、エヌトレクチニブの使用が推奨される。",
-      "answer": "○",
-      "explanation": "クリゾチニブまたはエヌトレクチニブの使用が推奨されている。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 32,
-        "image": "assets/reference_pages/s5_p032.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=32"
-      },
-      "id": "qa-1162"
     },
     {
       "type": "qa",
@@ -25927,27 +24343,6 @@
       "type": "qa",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "肺癌の放射線治療において、V20（20 Gy以上照射される正常肺の体積）は安全性と関連する。",
-      "answer": "○",
-      "explanation": "V20が正常肺全体の体積の35%を超えないよう治療計画を立てるよう推奨されている。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 79,
-        "image": "assets/reference_pages/s5_p079.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=79"
-      },
-      "id": "qa-1172"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
       "question": "Ⅰ型肺胞上皮はⅡ型肺胞上皮よりも放射線感受性が高い。",
       "answer": "×",
       "explanation": "肺内正常細胞ではⅡ型肺胞上皮細胞と血管内皮細胞の放射線感受性が高い。",
@@ -25990,69 +24385,6 @@
       "type": "qa",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "限局性小細胞肺癌に対する同時化学放射線治療後に、デュルバルマブによる地固め療法が推奨されている。",
-      "answer": "×",
-      "explanation": "2021年12月時点では推奨されていない。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 95,
-        "image": "assets/reference_pages/s5_p095.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=95"
-      },
-      "id": "qa-1175"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "切除不能Ⅲ期非小細胞肺癌に対する同時化学放射線治療後に、デュルバルマブによる地固め療法が推奨されている。",
-      "answer": "○",
-      "explanation": "肺癌診療ガイドラインにおいて推奨されている。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 34,
-        "image": "assets/reference_pages/s5_p034.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=34"
-      },
-      "id": "qa-1176"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "切除不能Ⅲ期非小細胞肺癌に対する同時化学放射線治療では、放射線は可能な限り多く照射するのが望ましい。",
-      "answer": "×",
-      "explanation": "総線量は通常分割で少なくとも60 Gy。ただし74 Gyの高線量照射は行わないよう推奨。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 78,
-        "image": "assets/reference_pages/s5_p078.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=78"
-      },
-      "id": "qa-1177"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
       "question": "脊髄の耐容線量は、通常線量分割法で100 Gyである。",
       "answer": "×",
       "explanation": "通常線量分割法における放射線脊髄症の耐容線量は50 Gyである。",
@@ -26071,16 +24403,20 @@
       "id": "qa-1178"
     },
     {
-      "type": "qa",
+      "type": "mcq",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "在宅酸素療法実施中の患者は手術適応とならない。",
-      "answer": "×",
-      "explanation": "在宅酸素療法の有無のみでは判断されない。",
+      "question": "肺癌手術について正しいものはどれか。",
+      "answer": [
+        "b",
+        "c"
+      ],
+      "explanation": "a（×）：在宅酸素療法の有無のみでは判断されない。\nb（○）：―\nc（○）：周術期リスクが高いと判断されるため、簡易型運動負荷試験が推奨されている。\nd（×）：肺活量・％肺活量・肺拡散能と術後急性増悪との関連が報告されている。",
       "tags": [
         "総論V",
         "総論V 治療",
-        "○×問題"
+        "○×問題",
+        "選択肢統合"
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
@@ -26089,70 +24425,13 @@
         "image": "assets/reference_pages/s5_p047.webp",
         "viewer": "reference-viewer.html?doc=s5&page=47"
       },
-      "id": "qa-1179"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "呼吸器併存疾患を有する患者では、術前の一般呼吸機能検査と肺拡散能検査が推奨されている。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 5,
-        "image": "assets/reference_pages/s5_p005.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=5"
-      },
-      "id": "qa-1180"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "術後予測1秒量<60%もしくは術後予測拡散能<60%の場合、簡易型運動負荷試験を行う。",
-      "answer": "○",
-      "explanation": "周術期リスクが高いと判断されるため、簡易型運動負荷試験が推奨されている。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 51,
-        "image": "assets/reference_pages/s5_p051.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=51"
-      },
-      "id": "qa-1181"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "間質性肺炎合併肺癌患者では、術前呼吸機能検査によって術後急性増悪の発症を予測できない。",
-      "answer": "×",
-      "explanation": "肺活量・％肺活量・肺拡散能と術後急性増悪との関連が報告されている。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 97,
-        "image": "assets/reference_pages/s5_p097.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=97"
-      },
-      "id": "qa-1182"
+      "id": "qa-1179",
+      "choices": {
+        "a": "在宅酸素療法実施中の患者は手術適応とならない。",
+        "b": "呼吸器併存疾患を有する患者では、術前の一般呼吸機能検査と肺拡散能検査が推奨されている。",
+        "c": "術後予測1秒量<60%もしくは術後予測拡散能<60%の場合、簡易型運動負荷試験を行う。",
+        "d": "間質性肺炎合併肺癌患者では、術前呼吸機能検査によって術後急性増悪の発症を予測できない。"
+      }
     },
     {
       "type": "qa",
@@ -28349,6 +26628,28 @@
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
       "section": "新型コロナウイルス感染症（COVID-19）",
+      "question": "COVID-19において、潜伏期間は3〜4週間である。",
+      "answer": "×",
+      "explanation": "1〜14日間であり、曝露から5日以内に発症することが多い。",
+      "tags": [
+        "各論I",
+        "新型コロナウイルス感染症（COVID-19）",
+        "○×問題",
+        "★★☆"
+      ],
+      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 31,
+        "image": "assets/reference_pages/k1_p031.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=31"
+      },
+      "id": "qa-2545"
+    },
+    {
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "新型コロナウイルス感染症（COVID-19）",
       "question": "COVID-19において、肥満、高齢、喫煙、糖尿病は重症化のリスク因子である。",
       "answer": "○",
       "explanation": "その他に慢性腎臓病・慢性閉塞性肺疾患・妊娠後期・悪性腫瘍などがある。",
@@ -28833,6 +27134,28 @@
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
       "section": "肺クリプトコッカス症",
+      "question": "肺クリプトコッカス症では、5類感染症である。",
+      "answer": "×",
+      "explanation": "播種性クリプトコッカス症は5類感染症として届出が必要だが、肺クリプトコッカス症のみでは不要である。",
+      "tags": [
+        "各論I",
+        "肺クリプトコッカス症",
+        "○×問題",
+        "★★☆"
+      ],
+      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 34,
+        "image": "assets/reference_pages/k1_p034.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=34"
+      },
+      "id": "qa-2546"
+    },
+    {
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺クリプトコッカス症",
       "question": "肺クリプトコッカス症では、免疫正常者での発症は稀である。",
       "answer": "×",
       "explanation": "健常人でも発症しうる。HIV/AIDSや免疫抑制剤、生物学的製剤の使用などがリスクとなる。",
@@ -29163,6 +27486,28 @@
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
       "section": "肺結核症",
+      "question": "肺結核症では、主な感染経路は飛沫感染である。",
+      "answer": "×",
+      "explanation": "主な感染経路は空気感染である。",
+      "tags": [
+        "各論I",
+        "肺結核症",
+        "○×問題",
+        "★★★"
+      ],
+      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 152,
+        "image": "assets/reference_pages/k1_p152.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=152"
+      },
+      "id": "qa-2547"
+    },
+    {
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺結核症",
       "question": "肺結核症では、患者・医療者ともN95マスクを着用する。",
       "answer": "×",
       "explanation": "患者はサージカルマスク、医療者はN95マスクを着用する。",
@@ -29317,7 +27662,7 @@
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
       "section": "肺結核症",
-      "question": "抗酸菌の喀痰培養が陽性の場合、拡散同定検査（DNA-DNA hybridization: DDH法）や抗原精密測定によって結核菌群かどうかを判定する。",
+      "question": "抗酸菌の喀痰培養が陽性の場合、核酸同定検査（DNA-DNA hybridization: DDH法）や抗原精密測定によって結核菌群かどうかを判定する。",
       "answer": "○",
       "explanation": "",
       "tags": [
@@ -29488,6 +27833,28 @@
         "viewer": "reference-viewer.html?doc=k1&page=40"
       },
       "id": "qa-1334"
+    },
+    {
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "非結核性抗酸菌症",
+      "question": "非結核性抗酸菌症（NTM）では、5類感染症である。",
+      "answer": "×",
+      "explanation": "非結核性抗酸菌は環境中の常在菌であり、感染症法の指定感染症ではない。",
+      "tags": [
+        "各論I",
+        "非結核性抗酸菌症",
+        "○×問題",
+        "★★☆"
+      ],
+      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 40,
+        "image": "assets/reference_pages/k1_p040.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=40"
+      },
+      "id": "qa-2548"
     },
     {
       "type": "qa",
@@ -30525,69 +28892,6 @@
     },
     {
       "type": "qa",
-      "chapter": "総論II 疫学",
-      "section": "抗酸菌感染症の疫学",
-      "question": "非結核性抗酸菌（nontuberculous mycobacteria: NTM）症の発病率は近年増加傾向である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論II",
-        "抗酸菌感染症の疫学",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 II 疫学",
-        "page": 2,
-        "image": "assets/reference_pages/s2_p002.webp",
-        "viewer": "reference-viewer.html?doc=s2&page=2"
-      },
-      "id": "qa-1382"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論II 疫学",
-      "section": "慢性閉塞性肺疾患（COPD）の疫学",
-      "question": "本邦での有病率は40歳以上において約8%である。",
-      "answer": "○",
-      "explanation": "有病率は8.4%と見積もられている（NICE study）。",
-      "tags": [
-        "総論II",
-        "慢性閉塞性肺疾患（COPD）の疫学",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 II 疫学",
-        "page": 3,
-        "image": "assets/reference_pages/s2_p003.webp",
-        "viewer": "reference-viewer.html?doc=s2&page=3"
-      },
-      "id": "qa-1383"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論II 疫学",
-      "section": "その他（SAS・IPF・HOT）",
-      "question": "特発性間質性肺炎の中で特発性肺線維症（idiopathic pulmonary fibrosis: IPF）は最も頻度が高い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論II",
-        "その他（SAS・IPF・HOT）",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 II 疫学",
-        "page": 3,
-        "image": "assets/reference_pages/s2_p003.webp",
-        "viewer": "reference-viewer.html?doc=s2&page=3"
-      },
-      "id": "qa-1384"
-    },
-    {
-      "type": "qa",
       "chapter": "総論III 主要徴候と身体所見",
       "section": "咳嗽・喀痰・血痰",
       "question": "COPD質問表（COPD assessment test: CAT）には咳嗽、喀痰のQOLへの影響を評価する項目がある。",
@@ -30757,153 +29061,6 @@
     {
       "type": "qa",
       "chapter": "総論IV 検査",
-      "section": "EBUS-TBNA",
-      "question": "最も多い合併症は出血である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "EBUS-TBNA",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 48,
-        "image": "assets/reference_pages/s4_p048.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=48"
-      },
-      "id": "qa-1393"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "EBUS-TBNA",
-      "question": "頸部気管から両側主気管支までの気道に接する非血管性病変が主な標的である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "EBUS-TBNA",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 47,
-        "image": "assets/reference_pages/s4_p047.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=47"
-      },
-      "id": "qa-1394"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "EBUS-TBNA",
-      "question": "合併症として縦隔炎は起こらない。",
-      "answer": "×",
-      "explanation": "頻度は低いものの、重症感染症をきたすことがある。",
-      "tags": [
-        "総論IV",
-        "EBUS-TBNA",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 48,
-        "image": "assets/reference_pages/s4_p048.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=48"
-      },
-      "id": "qa-1395"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "EBUS-TBNA",
-      "question": "鎮静薬はプロポフォールが第一に勧められている。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "EBUS-TBNA",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 47,
-        "image": "assets/reference_pages/s4_p047.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=47"
-      },
-      "id": "qa-1396"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "EBUS-TBNA",
-      "question": "#5のリンパ節腫脹は良い適応である。",
-      "answer": "×",
-      "explanation": "気道に接しているリンパ節が適応になる。",
-      "tags": [
-        "総論IV",
-        "EBUS-TBNA",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 47,
-        "image": "assets/reference_pages/s4_p047.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=47"
-      },
-      "id": "qa-1397"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "EBUS-TBNA",
-      "question": "肺門・縦隔リンパ節腫脹を伴うサルコイドーシスは良い適応である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "EBUS-TBNA",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 47,
-        "image": "assets/reference_pages/s4_p047.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=47"
-      },
-      "id": "qa-1398"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "EBUS-TBNA",
-      "question": "検体採取のため可能な限り太い針での施行が望ましい。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "EBUS-TBNA",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 47,
-        "image": "assets/reference_pages/s4_p047.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=47"
-      },
-      "id": "qa-1399"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
       "section": "気管支鏡下クライオバイオプシー",
       "question": "中枢性病変には適応はない。",
       "answer": "×",
@@ -30942,90 +29099,6 @@
         "viewer": "reference-viewer.html?doc=s4&page=13"
       },
       "id": "qa-1401"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "気管支鏡下クライオバイオプシー",
-      "question": "クライオプローブにより組織を灼熱して採取する方法である。",
-      "answer": "×",
-      "explanation": "凍結して採取する。",
-      "tags": [
-        "総論IV",
-        "気管支鏡下クライオバイオプシー",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 42,
-        "image": "assets/reference_pages/s4_p042.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=42"
-      },
-      "id": "qa-1402"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "局所麻酔下胸腔鏡検査",
-      "question": "高度の呼吸機能障害や低酸素血症の症例でも安全に施行可能である。",
-      "answer": "×",
-      "explanation": "検査中に肺は虚脱するため、施行困難なことが多い。",
-      "tags": [
-        "総論IV",
-        "局所麻酔下胸腔鏡検査",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 49,
-        "image": "assets/reference_pages/s4_p049.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=49"
-      },
-      "id": "qa-1403"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "局所麻酔下胸腔鏡検査",
-      "question": "生検は原則的に壁側胸膜から行う。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "局所麻酔下胸腔鏡検査",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 49,
-        "image": "assets/reference_pages/s4_p049.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=49"
-      },
-      "id": "qa-1404"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "CTガイド下肺針生検の合併症",
-      "question": "最も多い合併症は気胸である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "総論IV",
-        "CTガイド下肺針生検の合併症",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 48,
-        "image": "assets/reference_pages/s4_p048.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=48"
-      },
-      "id": "qa-1405"
     },
     {
       "type": "qa",
@@ -31173,48 +29246,6 @@
         "viewer": "reference-viewer.html?doc=s4&page=46"
       },
       "id": "qa-1412"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "睡眠呼吸モニター",
-      "question": "電極やモニターを装着し、最低5チャンネルの記録を行う。",
-      "answer": "×",
-      "explanation": "最低7チャンネルのモニターを装着する。",
-      "tags": [
-        "総論IV",
-        "睡眠呼吸モニター",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 89,
-        "image": "assets/reference_pages/s4_p089.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=89"
-      },
-      "id": "qa-1413"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "睡眠呼吸モニター",
-      "question": "無呼吸低呼吸指数が20の場合、軽症である。",
-      "answer": "×",
-      "explanation": "中等症である。",
-      "tags": [
-        "総論IV",
-        "睡眠呼吸モニター",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 89,
-        "image": "assets/reference_pages/s4_p089.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=89"
-      },
-      "id": "qa-1414"
     },
     {
       "type": "qa",
@@ -31782,132 +29813,6 @@
         "viewer": "reference-viewer.html?doc=s5&page=97"
       },
       "id": "qa-1441"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "在宅酸素療法（HOT）・呼吸療法",
-      "question": "高二酸化炭素血症をきたす患者には禁忌である。",
-      "answer": "×",
-      "explanation": "高二酸化炭素血症の存在が酸素療法の禁忌にはならない。",
-      "tags": [
-        "総論V",
-        "在宅酸素療法（HOT）・呼吸療法",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 47,
-        "image": "assets/reference_pages/s5_p047.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=47"
-      },
-      "id": "qa-1442"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "在宅酸素療法（HOT）・呼吸療法",
-      "question": "原因疾患として肺結核後遺症が最も多い。",
-      "answer": "×",
-      "explanation": "慢性閉塞性肺疾患が最も多い。",
-      "tags": [
-        "総論V",
-        "在宅酸素療法（HOT）・呼吸療法",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 95,
-        "image": "assets/reference_pages/s5_p095.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=95"
-      },
-      "id": "qa-1443"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "在宅酸素療法（HOT）・呼吸療法",
-      "question": "運動時の目標SpO2値は80%以上である。",
-      "answer": "×",
-      "explanation": "運動時のSpO2 90%（動脈血酸素分圧60 Torr）以上を目標とするのが一般的である。",
-      "tags": [
-        "総論V",
-        "在宅酸素療法（HOT）・呼吸療法",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 47,
-        "image": "assets/reference_pages/s5_p047.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=47"
-      },
-      "id": "qa-1444"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "在宅酸素療法（HOT）・呼吸療法",
-      "question": "高度慢性呼吸不全症例に対するHOTの適応は、動脈血酸素分圧60 Torr以下である。",
-      "answer": "×",
-      "explanation": "対象となる患者は動脈血酸素分圧55 Torr以下の者および動脈血酸素分圧60 Torr以下で睡眠時または運動負荷時に著しい低酸素血症を来たす者であって、医師がHOTを必要であると認めた者である。",
-      "tags": [
-        "総論V",
-        "在宅酸素療法（HOT）・呼吸療法",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 89,
-        "image": "assets/reference_pages/s5_p089.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=89"
-      },
-      "id": "qa-1445"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "感染症および炎症性疾患",
-      "question": "かぜ症候群の80~90%は細菌が原因である。",
-      "answer": "×",
-      "explanation": "ライノウイルスやコロナウイルスなどのウイルスが原因微生物全体の80~90%を占める。",
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "○×問題"
-      ],
-      "source_file": "1_感染症および炎症性疾患_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k1_p002.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=2"
-      },
-      "id": "qa-1446"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "感染症および炎症性疾患",
-      "question": "A群溶連菌による咽頭炎に対してはアモキシシリンによる治療が推奨される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "○×問題"
-      ],
-      "source_file": "1_感染症および炎症性疾患_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 3,
-        "image": "assets/reference_pages/k1_p003.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=3"
-      },
-      "id": "qa-1447"
     },
     {
       "type": "qa",
@@ -34115,6 +32020,280 @@
       "id": "qa-1552"
     },
     {
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "COPD",
+      "question": "COPD患者で認められやすい症状、所見、合併症はどれか。",
+      "answer": [
+        "a",
+        "b",
+        "e",
+        "f",
+        "h",
+        "k",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q"
+      ],
+      "explanation": "a（○）：呼気時の気道内圧を高め、末梢気道の虚脱を防ぐ効果が期待できる。\nb（○）：右心不全や低栄養状態により、浮腫がみられやすい。\nc（×）：Pickwick症候群は高度の肥満に伴う睡眠時無呼吸症候群およびその合併症を指す。\nd（×）：呼気時間の延長が特徴である。\ne（○）：肺気腫が高度になると減弱が目立つ。\nf（○）：吸気時に横隔膜の収縮に伴って、側胸壁が内側に陥没する。\ng（×）：間質性肺炎の所見である。COPDでは呼吸音の減弱が認められることがある。\nh（○）：身体機能障害や日常生活の制限、社会的な孤立感や疎外感などが原因となる。\ni（×）：ばち指がみられやすい。さじ状爪は鉄欠乏性貧血に特徴的な所見である。\nj（×）：食欲不振や体重減少が特徴である。\nk（○）：筋肉量が減少し、身体活動性の低下につながる。\nl（×）：樽状胸郭が有名である。\nm（○）：消化性潰瘍は20〜40%に合併するとされる。\nn（○）：横隔膜の平低化や胸郭拡大、横隔膜筋量減少などにより、下部食道括約筋の機能が低下する。\no（○）：COPD患者の約35%に合併するとも報告される。\np（○）：全身性炎症により糖代謝異常が惹起される。\nq（○）：呼吸努力に伴い、胸鎖乳突筋が肥厚する。",
+      "tags": [
+        "各論I",
+        "COPD",
+        "○×問題",
+        "選択肢統合"
+      ],
+      "source_file": "2_COPD.pdf",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 104,
+        "image": "assets/reference_pages/k1_p104.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=104"
+      },
+      "id": "qa-2549",
+      "choices": {
+        "a": "口すぼめ呼吸",
+        "b": "下腿浮腫",
+        "c": "Pickwick症候群",
+        "d": "吸気時間の延長",
+        "e": "声音振盪の減弱",
+        "f": "Hoover徴候",
+        "g": "吸気時のfine crackles",
+        "h": "抑うつ",
+        "i": "さじ状爪",
+        "j": "体重増加",
+        "k": "サルコペニア",
+        "l": "漏斗胸",
+        "m": "上部消化管潰瘍",
+        "n": "胃食道逆流症",
+        "o": "骨粗鬆症",
+        "p": "糖尿病",
+        "q": "胸鎖乳突筋の肥厚"
+      }
+    },
+    {
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "COPD",
+      "question": "COPDの胸部レントゲン所見として認められやすいものはどれか。",
+      "answer": [
+        "b",
+        "c",
+        "e",
+        "f",
+        "g"
+      ],
+      "explanation": "a（×）：気腫を反映して透過性は亢進する。\nb（○）：肺気腫・肺過膨張を反映した所見である。\nc（○）：肺過膨張を反映した所見である。\nd（×）：肺過膨張を反映して横隔膜平低化を認める。\ne（○）：滴状心を認めることもある。\nf（○）：肺過膨張を反映した所見である。\ng（○）：肺過膨張を反映した所見である。",
+      "tags": [
+        "各論I",
+        "COPD",
+        "○×問題",
+        "選択肢統合"
+      ],
+      "source_file": "2_COPD.pdf",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 104,
+        "image": "assets/reference_pages/k1_p104.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=104"
+      },
+      "id": "qa-2550",
+      "choices": {
+        "a": "肺野透過性の減弱",
+        "b": "肺野末梢の血管陰影の細小化",
+        "c": "肋間の拡大",
+        "d": "横隔膜の挙上",
+        "e": "心胸郭比の減少",
+        "f": "側面像で、胸骨後腔の拡大",
+        "g": "側面像で、心臓後腔の拡大"
+      }
+    },
+    {
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "COPD",
+      "question": "COPDの胸部CT所見として、適切なものはどれか。",
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "f"
+      ],
+      "explanation": "a（○）：空気のCT値は-1,000HU（Hounsfield Unit）である。\nb（○）：気腫の定量的解析における低吸収領域(LAA)の閾値設定として適切である。\nc（○）：肺野を6分割し、それぞれの領域において0〜4の5段階で肺気腫の程度を評価する方法である。\nd（×）：病理学的には細葉中心型肺気腫が多い。α₁-アンチトリプシン欠乏症では汎細葉型肺気腫がみられやすい。\ne（×）：上葉優位だが、胸膜下には病変が及びにくい。\nf（○）：気道病変を反映した所見である。\ng（×）：末梢気道病変優位型COPDの可能性がある。",
+      "tags": [
+        "各論I",
+        "COPD",
+        "○×問題",
+        "選択肢統合"
+      ],
+      "source_file": "2_COPD.pdf",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 104,
+        "image": "assets/reference_pages/k1_p104.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=104"
+      },
+      "id": "qa-2551",
+      "choices": {
+        "a": "ウィンドウレベルは-700HU〜-900HU程度に設定することが多い。",
+        "b": "ソフトウェアによる気腫の定量的解析では、-940HU〜-960HU以下を低吸収領域(LAA)と設定することが多い。",
+        "c": "古典的な肺気腫の視覚評価法としてGoddard分類がある。",
+        "d": "LAAは汎細葉型の分布を示すことが多い。",
+        "e": "気腫性病変は上葉の胸膜下優位にみられやすい。",
+        "f": "気道壁の肥厚と、気道内腔の狭小化を認める。",
+        "g": "気腫性病変が乏しい症例は、COPDと診断できない。"
+      }
+    },
+    {
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "COPD",
+      "question": "COPDの治療方針について、適切なものはどれか。",
+      "answer": [
+        "a",
+        "d",
+        "e"
+      ],
+      "explanation": "a（○）：CO₂ナルコーシスに注意して低濃度酸素から開始する。必要に応じて換気補助療法も検討される。\nb（×）：引火の危険があるため、まず禁煙を行う。\nc（×）：低酸素血症がない症例における在宅酸素療法の有用性は乏しく、保険適用上の問題も生じる。\nd（○）：終末期においては呼吸困難軽減のために、オピオイドの導入を行うことがある。\ne（○）：運動療法とセルフマネジメント教育が呼吸リハビリテーションの中核である。",
+      "tags": [
+        "各論I",
+        "COPD",
+        "○×問題",
+        "選択肢統合"
+      ],
+      "source_file": "2_COPD.pdf",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 104,
+        "image": "assets/reference_pages/k1_p104.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=104"
+      },
+      "id": "qa-2552",
+      "choices": {
+        "a": "II型呼吸不全に対して在宅酸素療法を導入する。",
+        "b": "現喫煙者に対して在宅酸素療法を導入する。",
+        "c": "SpO₂が常に90%以上保たれていても、呼吸困難感があれば在宅酸素療法を導入する。",
+        "d": "末期呼吸不全に対してモルヒネ製剤を投与する。",
+        "e": "呼吸リハビリテーションの中核は、運動療法とセルフマネジメント教育である。"
+      }
+    },
+    {
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "COPD",
+      "question": "安定期COPDの長期管理として、適切なものはどれか。",
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "f",
+        "h",
+        "j",
+        "k",
+        "l"
+      ],
+      "explanation": "a（○）：吸入指導による正確な吸入手技の習得が重要である。\nb（○）：LAMAとともに長時間作用性気管支拡張薬の中心となる。\nc（○）：増悪を繰り返す症例や喘息合併例で考慮される。\nd（○）：増悪を繰り返す症例や喘息合併例で考慮される。\ne（×）：有用性は乏しい。\nf（○）：その他にも多様な喀痰調整薬が用いられる。\ng（×）：気管支喘息などの治療薬である。\nh（○）：近年使用頻度は減っているが用いられる。\ni（×）：気管支喘息などの治療薬である。\nj（○）：肺炎の発症頻度を減少させることが示されている。\nk（○）：感染性の増悪を予防することが示されている。\nl（○）：COPDはCOVID-19重症化のリスク因子であり、ワクチン接種が特に推奨される。",
+      "tags": [
+        "各論I",
+        "COPD",
+        "○×問題",
+        "選択肢統合"
+      ],
+      "source_file": "2_COPD.pdf",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 104,
+        "image": "assets/reference_pages/k1_p104.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=104"
+      },
+      "id": "qa-2553",
+      "choices": {
+        "a": "長時間作用性抗コリン薬(LAMA)",
+        "b": "長時間作用性β₂刺激薬(LABA)",
+        "c": "吸入ステロイド薬(ICS)",
+        "d": "ICS/LAMA/LABA合剤",
+        "e": "経口ステロイド",
+        "f": "カルボシステイン",
+        "g": "ロイコトリエン受容体拮抗薬",
+        "h": "テオフィリン製剤",
+        "i": "抗IL-5モノクローナル抗体",
+        "j": "肺炎球菌ワクチン",
+        "k": "インフルエンザワクチン",
+        "l": "SARS-CoV-2ワクチン"
+      }
+    },
+    {
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "COPD",
+      "question": "COPD急性増悪に対する治療として、適切なものはどれか。",
+      "answer": [
+        "a",
+        "b",
+        "e"
+      ],
+      "explanation": "a（○）：第一選択薬である。\nb（○）：回復までの期間短縮が期待できる。\nc（×）：プレドニゾロン換算で30〜40mg/日程度が用いられる。\nd（×）：5〜7日間程度の投与が推奨される。\ne（○）：膿性痰があれば、特に抗菌薬の使用が推奨される。",
+      "tags": [
+        "各論I",
+        "COPD",
+        "○×問題",
+        "選択肢統合"
+      ],
+      "source_file": "2_COPD.pdf",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 104,
+        "image": "assets/reference_pages/k1_p104.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=104"
+      },
+      "id": "qa-2554",
+      "choices": {
+        "a": "短時間作用性β₂刺激薬(SABA)を吸入する。",
+        "b": "ステロイドの全身投与を行う。",
+        "c": "全身性ステロイドを投与する場合は、パルス療法を行う。",
+        "d": "全身性ステロイドは14日間を目安に投与する。",
+        "e": "抗菌薬を投与する。"
+      }
+    },
+    {
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "COPD",
+      "question": "COPDに喘息が合併していることを疑う特徴はどれか。",
+      "answer": [
+        "a",
+        "d",
+        "f",
+        "g"
+      ],
+      "explanation": "a（○）：若年発症の喘息既往は喘息合併を示唆する。\nb（×）：変動性（日内、日々、季節）の呼吸器症状は喘息に特徴的である。\nc（×）：FeNO>35ppbが喘息の特徴の目安となる。\nd（○）：気道可逆性は喘息の特徴である。\ne（×）：末梢血好酸球数 >5% あるいは >300/μL が喘息に特徴的な所見である。\nf（○）：通年性吸入抗原に対する特異的IgE高値も参考になる。\ng（○）：通年性アレルギー性鼻炎の合併は喘息合併を示唆する。",
+      "tags": [
+        "各論I",
+        "COPD",
+        "○×問題",
+        "選択肢統合"
+      ],
+      "source_file": "2_COPD.pdf",
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 104,
+        "image": "assets/reference_pages/k1_p104.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=104"
+      },
+      "id": "qa-2555",
+      "choices": {
+        "a": "若年時の喘息既往",
+        "b": "症状の変動が乏しい",
+        "c": "呼気中一酸化窒素濃度(FeNO)が15ppb未満",
+        "d": "気道可逆性試験陽性",
+        "e": "末梢血好酸球数 30/μL以上",
+        "f": "非特異的IgE高値",
+        "g": "通年性アレルギー性鼻炎の合併"
+      }
+    },
+    {
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
       "section": "気管支・細気管支疾患",
@@ -36213,13 +34392,14 @@
       "type": "mcq",
       "chapter": "各論I 気道・肺疾患",
       "section": "特発性間質性肺炎(IIPs)",
-      "question": "アメリカの研究グループによって提唱された重症度分類であるGAAモデルに含まれる項目として正しいものを選べ。",
+      "question": "アメリカの研究グループによって提唱された重症度分類であるGAPモデルに含まれる項目として正しいものを選べ。",
       "answer": [
         "a",
         "b",
-        "c"
+        "d",
+        "e"
       ],
-      "explanation": "a（○）：―\nb（○）：―\nc（○）：―\nd（×）：不可逆的な肺線維化のため治癒は期待できず、進行抑制が現実的な目的となる。",
+      "explanation": "GAPモデルはGender（性別）・Age（年齢）・Physiology（%FVC・%DLco）から算出し、IPFの予後を層別化する。\na（○）：年齢＝GAPのA（Age）。\nb（○）：性別＝GAPのG（Gender）。\nc（×）：安静時PaO2はGAPに含まれない（本邦の重症度分類で用いる項目）。\nd（○）：FVC（%FVC）＝GAPのP（Physiology）。\ne（○）：DLco（%DLco）＝GAPのP（Physiology）。\nf（×）：6分間歩行時の最低SpO2はGAPに含まれない（本邦の重症度分類で用いる項目）。\ng（×）：血清KL-6はGAPに含まれない。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -36235,11 +34415,35 @@
       },
       "id": "qa-1665",
       "choices": {
-        "a": "年齡",
-        "b": "FVC",
-        "c": "DLco",
-        "d": "IPFの治療目標は治癒である"
+        "a": "年齢",
+        "b": "性別",
+        "c": "安静時PaO2",
+        "d": "FVC",
+        "e": "DLco",
+        "f": "6分間歩行試験での最低SpO2値",
+        "g": "血清KL-6"
       }
+    },
+    {
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの治療目標は治癒である",
+      "answer": "×",
+      "explanation": "不可逆的な肺線維化のため治癒は期待できず、進行抑制が現実的な目的となる。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題"
+      ],
+      "source_file": "5_特発性間質性肺炎_一問一答.docx",
+      "reference": {
+        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
+        "page": 10,
+        "image": "assets/reference_pages/q5_p010.webp",
+        "viewer": "reference-viewer.html?doc=q5&page=10"
+      },
+      "id": "qa-1668"
     },
     {
       "type": "mcq",
