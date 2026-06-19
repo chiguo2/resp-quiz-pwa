@@ -46,9 +46,9 @@
       "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2052,
+      "qa": 2047,
       "mcq": 238,
-      "total": 2290
+      "total": 2285
     },
     "sections": [
       "COPD",
@@ -292,8 +292,8 @@
         "qa-1327"
       ]
     },
-    "total_questions": 2290,
-    "qa_count": 2052,
+    "total_questions": 2285,
+    "qa_count": 2047,
     "mcq_count": 238,
     "last_update": "2026-06-18"
   },
@@ -23383,7 +23383,7 @@
       "type": "qa",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "ICS＋LABA＋LAMAの合剤（トリプル吸入薬）は、慢性閉塞性肺疾患のみに有効である。",
+      "question": "吸入ステロイド＋長時間作用性β2刺激薬＋長時間作用性抗コリン薬の合剤は、慢性閉塞性肺疾患のみに有効である。",
       "answer": "×",
       "explanation": "当初はCOPDのみ保険適用だったが、その後気管支喘息にも保険適用された薬剤が複数登場した。",
       "tags": [
@@ -23572,7 +23572,7 @@
       "type": "qa",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "ニューモシスチス肺炎の予後は非HIV患者の方が、HIV患者よりも良い。",
+      "question": "ニューモシスチス肺炎の予後は非ヒト免疫不全ウイルス患者の方が、ヒト免疫不全ウイルス患者よりも良い。",
       "answer": "×",
       "explanation": "宿主の免疫が大きく関与し、免疫応答が強い非HIV患者の方が予後が悪い。",
       "tags": [
@@ -24112,7 +24112,7 @@
       "type": "qa",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "化学療法中に発生した無熱性好中球減少症には、G-CSFの治療的投与が必要である。",
+      "question": "化学療法の経過中に発生した無熱性好中球減少症には、顆粒球コロニー形成刺激因子（granulocyte-colony stimulating factor: G-CSF）の治療的投与が必要である。",
       "answer": "×",
       "explanation": "無熱性好中球減少症患者に対しルーチンのG-CSF治療的投与をすべきではない。",
       "tags": [
@@ -29041,27 +29041,6 @@
       "type": "qa",
       "chapter": "総論V 治療",
       "section": "喘息・COPD・抗菌薬",
-      "question": "吸入ステロイド＋長時間作用性β2刺激薬＋長時間作用性抗コリン薬の合剤は、慢性閉塞性肺疾患のみに有効である。",
-      "answer": "×",
-      "explanation": "当初、トリプル吸入薬は慢性閉塞性肺疾患のみに保険適用であったが、その後気管支喘息にも保険適用された薬剤が複数登場した。",
-      "tags": [
-        "総論V",
-        "喘息・COPD・抗菌薬",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 5,
-        "image": "assets/reference_pages/s5_p005.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=5"
-      },
-      "id": "qa-1422"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "喘息・COPD・抗菌薬",
       "question": "コリスチンはβ-ラクタム系、フルオロキノロン系、アミノ配糖体系の3系統の抗菌薬に耐性を示す感染症にのみ使用する。",
       "answer": "○",
       "explanation": "コリスチンはカルバペネム耐性腸内細菌科細菌などに対する切り札である。",
@@ -29078,27 +29057,6 @@
         "viewer": "reference-viewer.html?doc=s5&page=18"
       },
       "id": "qa-1423"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "抗酸菌症・COVID-19",
-      "question": "ニューモシスチス肺炎の予後は非ヒト免疫不全ウイルス患者の方が、ヒト免疫不全ウイルス患者よりも良い。",
-      "answer": "×",
-      "explanation": "ニューモシスチス肺炎の病態には宿主の免疫が大きく関与しており、免疫応答が強い非ヒト免疫不全ウイルス患者の方が予後が悪い。",
-      "tags": [
-        "総論V",
-        "抗酸菌症・COVID-19",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 20,
-        "image": "assets/reference_pages/s5_p020.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=20"
-      },
-      "id": "qa-1424"
     },
     {
       "type": "qa",
@@ -29204,27 +29162,6 @@
         "viewer": "reference-viewer.html?doc=s5&page=70"
       },
       "id": "qa-1429"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "肺癌薬物療法・放射線治療",
-      "question": "化学療法の経過中に発生した無熱性好中球減少症には、顆粒球コロニー形成刺激因子（granulocyte-colony stimulating factor: G-CSF）の治療的投与が必要である。",
-      "answer": "×",
-      "explanation": "無熱性好中球減少症患者に対し、ルーチンにG-CSFの治療的投与をすべきではない。",
-      "tags": [
-        "総論V",
-        "肺癌薬物療法・放射線治療",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 1,
-        "image": "assets/reference_pages/s5_p001.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=1"
-      },
-      "id": "qa-1430"
     },
     {
       "type": "qa",
@@ -29414,48 +29351,6 @@
         "viewer": "reference-viewer.html?doc=s5&page=78"
       },
       "id": "qa-1439"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "肺癌手術・免疫療法",
-      "question": "術後予測呼吸機能において術後予測1秒量<60%もしくは術後予測拡散能<60%の場合、簡易型運動負荷試験を行う。",
-      "answer": "○",
-      "explanation": "周術期リスクとして高いリスクを有すると判断されるため、簡易型運動負荷試験が推奨されている。",
-      "tags": [
-        "総論V",
-        "肺癌手術・免疫療法",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 51,
-        "image": "assets/reference_pages/s5_p051.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=51"
-      },
-      "id": "qa-1440"
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "肺癌手術・免疫療法",
-      "question": "間質性肺炎合併肺癌患者において、術前呼吸機能検査によって術後急性増悪の発症を予測することはできない。",
-      "answer": "×",
-      "explanation": "肺活量、%肺活量、肺拡散能と間質性肺炎の術後急性増悪との関連が報告されている。",
-      "tags": [
-        "総論V",
-        "肺癌手術・免疫療法",
-        "○×問題"
-      ],
-      "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 97,
-        "image": "assets/reference_pages/s5_p097.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=97"
-      },
-      "id": "qa-1441"
     },
     {
       "type": "qa",
