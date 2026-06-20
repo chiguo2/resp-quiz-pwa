@@ -46,9 +46,9 @@
       "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2182,
+      "qa": 2242,
       "mcq": 239,
-      "total": 2421
+      "total": 2481
     },
     "sections": [
       "COPD",
@@ -292,8 +292,8 @@
         "qa-1327"
       ]
     },
-    "total_questions": 2421,
-    "qa_count": 2182,
+    "total_questions": 2481,
+    "qa_count": 2242,
     "mcq_count": 239,
     "last_update": "2026-06-18"
   },
@@ -30678,1162 +30678,6 @@
     {
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "慢性閉塞性肺疾患(COPD)の罹患者数は日本で80万人ほどと推計される。",
-      "answer": "○",
-      "explanation": "これは実際に診断・治療を受けている数であり、NICE study等に基づく推計では潜在患者数は500万人以上とされる。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 100,
-        "image": "assets/reference_pages/k1_p100.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=100"
-      },
-      "id": "qa-1511"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、医療機関を受診していない潜在的な有病者が多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 100,
-        "image": "assets/reference_pages/k1_p100.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=100"
-      },
-      "id": "qa-1512"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、2019年の日本での死亡者数は約5,000人である。",
-      "answer": "×",
-      "explanation": "死亡者数は年間約1万数千人(1万6千〜1万8千人程度)であり、増加傾向にある。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 100,
-        "image": "assets/reference_pages/k1_p100.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=100"
-      },
-      "id": "qa-1513"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、2019年の世界での死亡者数は約320万人である。",
-      "answer": "○",
-      "explanation": "世界の死因の第3位(または上位)を占める重要な疾患である。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 100,
-        "image": "assets/reference_pages/k1_p100.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=100"
-      },
-      "id": "qa-1514"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、2019年の日本人男性での死亡原因として第8位である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 100,
-        "image": "assets/reference_pages/k1_p100.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=100"
-      },
-      "id": "qa-1515"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、2019年の世界の死亡原因として第10位である。",
-      "answer": "×",
-      "explanation": "世界では第3位の死亡原因である。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 100,
-        "image": "assets/reference_pages/k1_p100.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=100"
-      },
-      "id": "qa-1516"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPD患者の約90%に喫煙歴がある。",
-      "answer": "○",
-      "explanation": "最大の危険因子である。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 101,
-        "image": "assets/reference_pages/k1_p101.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=101"
-      },
-      "id": "qa-1517"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "バイオマス燃焼煙の吸入は COPD 発症の危険因子である。",
-      "answer": "○",
-      "explanation": "特に発展途上国における非喫煙者のCOPD原因として重要である。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 101,
-        "image": "assets/reference_pages/k1_p101.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=101"
-      },
-      "id": "qa-1518"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、喫煙者のうち約50%が発症する。",
-      "answer": "×",
-      "explanation": "喫煙者の15〜20%がCOPDを発症するとされている。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 101,
-        "image": "assets/reference_pages/k1_p101.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=101"
-      },
-      "id": "qa-1519"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、疾患感受性遺伝子として SERPINE が報告されている。",
-      "answer": "○",
-      "explanation": "α1-アンチトリプシン欠乏症など遺伝的要因も発症に関与する。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 101,
-        "image": "assets/reference_pages/k1_p101.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=101"
-      },
-      "id": "qa-1520"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、肺胞腔にはマクロファージと好中球の浸潤が目立つ。",
-      "answer": "○",
-      "explanation": "喫煙などの有害物質に対する異常な炎症反応が病態の基礎にある。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 101,
-        "image": "assets/reference_pages/k1_p101.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=101"
-      },
-      "id": "qa-1521"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、IL-17A は好中球性気道炎症の形成に寄与する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 101,
-        "image": "assets/reference_pages/k1_p101.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=101"
-      },
-      "id": "qa-1522"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDの診断において、スパイロメトリーによる気流閉塞の証明が必須である。",
-      "answer": "○",
-      "explanation": "気管支拡張薬吸入後のFEV1/FVC < 70%が診断基準となる。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 102,
-        "image": "assets/reference_pages/k1_p102.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=102"
-      },
-      "id": "qa-1523"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "FEV1/FVCが75%であればCOPDと診断できる。",
-      "answer": "×",
-      "explanation": "70%未満であることが必要である。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 102,
-        "image": "assets/reference_pages/k1_p102.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=102"
-      },
-      "id": "qa-1524"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDの重症度(病期)分類(GOLD分類)は、気管支拡張薬吸入後の%FEV1に基づく。",
-      "answer": "○",
-      "explanation": "GOLD 1(軽症)≧80%、GOLD 2(中等症)50-79%、GOLD 3(重症)30-49%、GOLD 4(最重症)<30%。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 102,
-        "image": "assets/reference_pages/k1_p102.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=102"
-      },
-      "id": "qa-1525"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDの症状評価には、mMRC息切れスケールやCAT(COPD Assessment Test)が用いられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 102,
-        "image": "assets/reference_pages/k1_p102.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=102"
-      },
-      "id": "qa-1526"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPD患者では、胸部X線検査で肺の過膨張(滴状心、横隔膜の平坦化など)がみられることが多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 102,
-        "image": "assets/reference_pages/k1_p102.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=102"
-      },
-      "id": "qa-1527"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、胸部CT検査(HRCT)は、気腫性病変(Low Attenuation Area: LAA)の評価に有用である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 102,
-        "image": "assets/reference_pages/k1_p102.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=102"
-      },
-      "id": "qa-1528"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPD患者では、肺拡散能(DLCO)が低下することが多い。",
-      "answer": "○",
-      "explanation": "肺胞壁の破壊による毛細血管床の減少を反映する。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 103,
-        "image": "assets/reference_pages/k1_p103.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=103"
-      },
-      "id": "qa-1529"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPD患者では、残気量(RV)が減少する。",
-      "answer": "×",
-      "explanation": "肺の過膨張により残気量や機能的残気量(FRC)は増加する。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 103,
-        "image": "assets/reference_pages/k1_p103.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=103"
-      },
-      "id": "qa-1530"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDの薬物療法の中心は、長時間作用性気管支拡張薬(LAMA、LABA)である。",
-      "answer": "○",
-      "explanation": "LAMA(長時間作用性抗コリン薬)やLABA(長時間作用性β2刺激薬)の単剤または併用が基本となる。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 103,
-        "image": "assets/reference_pages/k1_p103.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=103"
-      },
-      "id": "qa-1531"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "すべてのCOPD患者に対して、吸入ステロイド薬(ICS)の単独投与が推奨される。",
-      "answer": "×",
-      "explanation": "COPDに対するICSの単独投与は推奨されない。喘息合併(ACO)や増悪を繰り返す症例にLABA等と併用して用いられる。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 103,
-        "image": "assets/reference_pages/k1_p103.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=103"
-      },
-      "id": "qa-1532"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、LAMA/LABA配合薬は、単剤よりも呼吸機能や症状の改善効果が高い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 103,
-        "image": "assets/reference_pages/k1_p103.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=103"
-      },
-      "id": "qa-1533"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDの増悪(急性増悪)の主な原因は、気道感染(ウイルス、細菌)である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-1534"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPD増悪時には、短時間作用性気管支拡張薬(SABA)の吸入、全身性ステロイド投与、抗菌薬投与が行われる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-1535"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPD患者における禁煙は、疾患の進行(FEV1の経年低下)を抑制する最も確実な方法である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-1536"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "インフルエンザワクチンおよび肺炎球菌ワクチンの接種は、COPDの増悪予防に有効である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-1537"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、呼吸リハビリテーションは、運動耐容能の向上やQOLの改善、息切れの軽減に有効である。",
-      "answer": "○",
-      "explanation": "すべての病期の有症状患者に推奨される。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-1538"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "低酸素血症(PaO2 55Torr以下など)を伴う重症COPD患者に対する長期酸素療法(LTOT)は、生存率を改善する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-1539"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDに合併する全身併存症(体重減少、骨格筋機能不全、心血管疾患、骨粗鬆症、うつなど)の評価と管理が重要である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 105,
-        "image": "assets/reference_pages/k1_p105.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=105"
-      },
-      "id": "qa-1540"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPD患者では、肺癌の合併リスクが健常者よりも高い。",
-      "answer": "○",
-      "explanation": "喫煙という共通の危険因子があるため、定期的な肺癌スクリーニングが重要である。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 105,
-        "image": "assets/reference_pages/k1_p105.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=105"
-      },
-      "id": "qa-1541"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDと気管支喘息の合併病態をACO(Asthma and COPD Overlap)と呼ぶ。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 105,
-        "image": "assets/reference_pages/k1_p105.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=105"
-      },
-      "id": "qa-1542"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "ACOの診断基準には、気道可逆性の存在や呼気NO濃度(FeNO)の高値、血中・喀痰中好酸球の増加などが含まれる。",
-      "answer": "○",
-      "explanation": "変動性(日内、日々、季節)の呼吸器症状は喘息に特徴的である。FeNO>35ppbが喘息の特徴の目安となる。末梢血好酸球数>5%あるいは>300/μLが喘息に特徴的な所見である。通年性吸入抗原に対する特異的IgE高値やアレルギー性鼻炎の合併も参考になる。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 105,
-        "image": "assets/reference_pages/k1_p105.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=105"
-      },
-      "id": "qa-1543"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "ACOの治療において、吸入ステロイド薬(ICS)は使用すべきではない。",
-      "answer": "×",
-      "explanation": "ACOでは喘息の病態が混在しているため、ICSの使用が必須または強く推奨される(LABA等との併用で)。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 105,
-        "image": "assets/reference_pages/k1_p105.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=105"
-      },
-      "id": "qa-1544"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、気腫合併肺線維症(CPFE)は、上肺野の気腫性病変と下肺野の線維化を認める病態である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 105,
-        "image": "assets/reference_pages/k1_p105.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=105"
-      },
-      "id": "qa-1545"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、CPFEは、男性の重喫煙者で有病率が高い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 106,
-        "image": "assets/reference_pages/k1_p106.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=106"
-      },
-      "id": "qa-1546"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、CPFEでは、発症早期から高度の閉塞性換気障害を呈する。",
-      "answer": "×",
-      "explanation": "気腫による肺の過膨張と線維化による肺の縮小が相殺しあうため、肺活量(VC)や1秒量(FEV1)の低下は比較的軽度にとどまることが多い。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 106,
-        "image": "assets/reference_pages/k1_p106.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=106"
-      },
-      "id": "qa-1547"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、CPFEでは、高度の肺拡散能(DLCO)低下がみられる。",
-      "answer": "○",
-      "explanation": "換気機能の低下が軽度であるにもかかわらず、ガス交換障害(拡散能低下、低酸素血症)が著明となるのが特徴である。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 106,
-        "image": "assets/reference_pages/k1_p106.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=106"
-      },
-      "id": "qa-1548"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、CPFEは、特発性肺線維症単独よりも肺高血圧症の合併率が高い。",
-      "answer": "○",
-      "explanation": "肺高血圧症の合併は予後不良因子である。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 106,
-        "image": "assets/reference_pages/k1_p106.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=106"
-      },
-      "id": "qa-1549"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、CPFEでは、胸部聴診で肺底部に捻髪音(fine crackles)を聴取し、肺高血圧症合併時にはII音の肺動脈成分(IIp)の亢進を認める。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 106,
-        "image": "assets/reference_pages/k1_p106.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=106"
-      },
-      "id": "qa-1550"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、CPFEでは、約50%に肺癌の合併を認める。",
-      "answer": "○",
-      "explanation": "肺癌の合併率が非常に高く、重要な予後決定因子となる。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 106,
-        "image": "assets/reference_pages/k1_p106.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=106"
-      },
-      "id": "qa-1551"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDでは、CPFEに肺癌が合併した際は、原則として外科切除ではなく定位放射線治療を優先する。",
-      "answer": "×",
-      "explanation": "肺癌の手術等の侵襲的治療は、間質性肺炎の急性増悪のハイリスクとなるため慎重な適応判断が必要であるが、一律に定位照射を優先するわけではない。患者の呼吸機能や全身状態に応じて集学的治療を検討する。(※元の問題の解答が×のため)",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題"
-      ],
-      "source_file": "2_COPD_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 107,
-        "image": "assets/reference_pages/k1_p107.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=107"
-      },
-      "id": "qa-1552"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPD患者で認められやすい症状、所見、合併症はどれか。",
-      "answer": [
-        "a",
-        "b",
-        "e",
-        "f",
-        "h",
-        "k",
-        "m",
-        "n",
-        "o",
-        "p",
-        "q"
-      ],
-      "explanation": "a（○）：呼気時の気道内圧を高め、末梢気道の虚脱を防ぐ効果が期待できる。\nb（○）：右心不全や低栄養状態により、浮腫がみられやすい。\nc（×）：Pickwick症候群は高度の肥満に伴う睡眠時無呼吸症候群およびその合併症を指す。\nd（×）：呼気時間の延長が特徴である。\ne（○）：肺気腫が高度になると減弱が目立つ。\nf（○）：吸気時に横隔膜の収縮に伴って、側胸壁が内側に陥没する。\ng（×）：間質性肺炎の所見である。COPDでは呼吸音の減弱が認められることがある。\nh（○）：身体機能障害や日常生活の制限、社会的な孤立感や疎外感などが原因となる。\ni（×）：ばち指がみられやすい。さじ状爪は鉄欠乏性貧血に特徴的な所見である。\nj（×）：食欲不振や体重減少が特徴である。\nk（○）：筋肉量が減少し、身体活動性の低下につながる。\nl（×）：樽状胸郭が有名である。\nm（○）：消化性潰瘍は20〜40%に合併するとされる。\nn（○）：横隔膜の平低化や胸郭拡大、横隔膜筋量減少などにより、下部食道括約筋の機能が低下する。\no（○）：COPD患者の約35%に合併するとも報告される。\np（○）：全身性炎症により糖代謝異常が惹起される。\nq（○）：呼吸努力に伴い、胸鎖乳突筋が肥厚する。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "2_COPD.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-2549",
-      "choices": {
-        "a": "口すぼめ呼吸",
-        "b": "下腿浮腫",
-        "c": "Pickwick症候群",
-        "d": "吸気時間の延長",
-        "e": "声音振盪の減弱",
-        "f": "Hoover徴候",
-        "g": "吸気時のfine crackles",
-        "h": "抑うつ",
-        "i": "さじ状爪",
-        "j": "体重増加",
-        "k": "サルコペニア",
-        "l": "漏斗胸",
-        "m": "上部消化管潰瘍",
-        "n": "胃食道逆流症",
-        "o": "骨粗鬆症",
-        "p": "糖尿病",
-        "q": "胸鎖乳突筋の肥厚"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDの胸部レントゲン所見として認められやすいものはどれか。",
-      "answer": [
-        "b",
-        "c",
-        "e",
-        "f",
-        "g"
-      ],
-      "explanation": "a（×）：気腫を反映して透過性は亢進する。\nb（○）：肺気腫・肺過膨張を反映した所見である。\nc（○）：肺過膨張を反映した所見である。\nd（×）：肺過膨張を反映して横隔膜平低化を認める。\ne（○）：滴状心を認めることもある。\nf（○）：肺過膨張を反映した所見である。\ng（○）：肺過膨張を反映した所見である。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "2_COPD.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-2550",
-      "choices": {
-        "a": "肺野透過性の減弱",
-        "b": "肺野末梢の血管陰影の細小化",
-        "c": "肋間の拡大",
-        "d": "横隔膜の挙上",
-        "e": "心胸郭比の減少",
-        "f": "側面像で、胸骨後腔の拡大",
-        "g": "側面像で、心臓後腔の拡大"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDの胸部CT所見として、適切なものはどれか。",
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "f"
-      ],
-      "explanation": "a（○）：空気のCT値は-1,000HU（Hounsfield Unit）である。\nb（○）：気腫の定量的解析における低吸収領域(LAA)の閾値設定として適切である。\nc（○）：肺野を6分割し、それぞれの領域において0〜4の5段階で肺気腫の程度を評価する方法である。\nd（×）：病理学的には細葉中心型肺気腫が多い。α₁-アンチトリプシン欠乏症では汎細葉型肺気腫がみられやすい。\ne（×）：上葉優位だが、胸膜下には病変が及びにくい。\nf（○）：気道病変を反映した所見である。\ng（×）：末梢気道病変優位型COPDの可能性がある。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "2_COPD.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-2551",
-      "choices": {
-        "a": "ウィンドウレベルは-700HU〜-900HU程度に設定することが多い。",
-        "b": "ソフトウェアによる気腫の定量的解析では、-940HU〜-960HU以下を低吸収領域(LAA)と設定することが多い。",
-        "c": "古典的な肺気腫の視覚評価法としてGoddard分類がある。",
-        "d": "LAAは汎細葉型の分布を示すことが多い。",
-        "e": "気腫性病変は上葉の胸膜下優位にみられやすい。",
-        "f": "気道壁の肥厚と、気道内腔の狭小化を認める。",
-        "g": "気腫性病変が乏しい症例は、COPDと診断できない。"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDの治療方針について、適切なものはどれか。",
-      "answer": [
-        "a",
-        "d",
-        "e"
-      ],
-      "explanation": "a（○）：CO₂ナルコーシスに注意して低濃度酸素から開始する。必要に応じて換気補助療法も検討される。\nb（×）：引火の危険があるため、まず禁煙を行う。\nc（×）：低酸素血症がない症例における在宅酸素療法の有用性は乏しく、保険適用上の問題も生じる。\nd（○）：終末期においては呼吸困難軽減のために、オピオイドの導入を行うことがある。\ne（○）：運動療法とセルフマネジメント教育が呼吸リハビリテーションの中核である。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "2_COPD.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-2552",
-      "choices": {
-        "a": "II型呼吸不全に対して在宅酸素療法を導入する。",
-        "b": "現喫煙者に対して在宅酸素療法を導入する。",
-        "c": "SpO₂が常に90%以上保たれていても、呼吸困難感があれば在宅酸素療法を導入する。",
-        "d": "末期呼吸不全に対してモルヒネ製剤を投与する。",
-        "e": "呼吸リハビリテーションの中核は、運動療法とセルフマネジメント教育である。"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "安定期COPDの長期管理として、適切なものはどれか。",
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "d",
-        "f",
-        "h",
-        "j",
-        "k",
-        "l"
-      ],
-      "explanation": "a（○）：吸入指導による正確な吸入手技の習得が重要である。\nb（○）：LAMAとともに長時間作用性気管支拡張薬の中心となる。\nc（○）：増悪を繰り返す症例や喘息合併例で考慮される。\nd（○）：増悪を繰り返す症例や喘息合併例で考慮される。\ne（×）：有用性は乏しい。\nf（○）：その他にも多様な喀痰調整薬が用いられる。\ng（×）：気管支喘息などの治療薬である。\nh（○）：近年使用頻度は減っているが用いられる。\ni（×）：気管支喘息などの治療薬である。\nj（○）：肺炎の発症頻度を減少させることが示されている。\nk（○）：感染性の増悪を予防することが示されている。\nl（○）：COPDはCOVID-19重症化のリスク因子であり、ワクチン接種が特に推奨される。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "2_COPD.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-2553",
-      "choices": {
-        "a": "長時間作用性抗コリン薬(LAMA)",
-        "b": "長時間作用性β₂刺激薬(LABA)",
-        "c": "吸入ステロイド薬(ICS)",
-        "d": "ICS/LAMA/LABA合剤",
-        "e": "経口ステロイド",
-        "f": "カルボシステイン",
-        "g": "ロイコトリエン受容体拮抗薬",
-        "h": "テオフィリン製剤",
-        "i": "抗IL-5モノクローナル抗体",
-        "j": "肺炎球菌ワクチン",
-        "k": "インフルエンザワクチン",
-        "l": "SARS-CoV-2ワクチン"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPD急性増悪に対する治療として、適切なものはどれか。",
-      "answer": [
-        "a",
-        "b",
-        "e"
-      ],
-      "explanation": "a（○）：第一選択薬である。\nb（○）：回復までの期間短縮が期待できる。\nc（×）：プレドニゾロン換算で30〜40mg/日程度が用いられる。\nd（×）：5〜7日間程度の投与が推奨される。\ne（○）：膿性痰があれば、特に抗菌薬の使用が推奨される。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "2_COPD.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-2554",
-      "choices": {
-        "a": "短時間作用性β₂刺激薬(SABA)を吸入する。",
-        "b": "ステロイドの全身投与を行う。",
-        "c": "全身性ステロイドを投与する場合は、パルス療法を行う。",
-        "d": "全身性ステロイドは14日間を目安に投与する。",
-        "e": "抗菌薬を投与する。"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "COPD",
-      "question": "COPDに喘息が合併していることを疑う特徴はどれか。",
-      "answer": [
-        "a",
-        "d",
-        "f",
-        "g"
-      ],
-      "explanation": "a（○）：若年発症の喘息既往は喘息合併を示唆する。\nb（×）：変動性（日内、日々、季節）の呼吸器症状は喘息に特徴的である。\nc（×）：FeNO>35ppbが喘息の特徴の目安となる。\nd（○）：気道可逆性は喘息の特徴である。\ne（×）：末梢血好酸球数 >5% あるいは >300/μL が喘息に特徴的な所見である。\nf（○）：通年性吸入抗原に対する特異的IgE高値も参考になる。\ng（○）：通年性アレルギー性鼻炎の合併は喘息合併を示唆する。",
-      "tags": [
-        "各論I",
-        "COPD",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "2_COPD.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 104,
-        "image": "assets/reference_pages/k1_p104.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=104"
-      },
-      "id": "qa-2555",
-      "choices": {
-        "a": "若年時の喘息既往",
-        "b": "症状の変動が乏しい",
-        "c": "呼気中一酸化窒素濃度(FeNO)が15ppb未満",
-        "d": "気道可逆性試験陽性",
-        "e": "末梢血好酸球数 30/μL以上",
-        "f": "非特異的IgE高値",
-        "g": "通年性アレルギー性鼻炎の合併"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
       "section": "気管支・細気管支疾患",
       "question": "気管支拡張症(bronchiectasis: BE) における気道の拡張は解剖学的に可逆性である。",
       "answer": "×",
@@ -52471,6 +51315,1979 @@
         "PDF転記"
       ],
       "source_file": "4 アレルギー性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2716",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの罹患者数は日本で80万人ほどと推計される。",
+      "answer": "×",
+      "explanation": "500万人以上の罹患者がいると推定されている。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2717",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDは医療機関を受診していない潜在的な有病者が多い。",
+      "answer": "○",
+      "explanation": "日本で実際に治療されているのは数十万人である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2718",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "2019年の日本でのCOPDの死亡者数は約5,000人である。",
+      "answer": "×",
+      "explanation": "約18,000人である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2719",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "2019年の世界でのCOPDの死亡者数は約320万人である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2720",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "2019年の日本人男性でのCOPDは死亡原因として第8位である。",
+      "answer": "○",
+      "explanation": "女性の死亡者数は男性の1/5程度で少ない。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2721",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "2019年の世界のCOPDの死亡原因として第10位である。",
+      "answer": "×",
+      "explanation": "第3位であり、80%以上を低・中所得国が占める。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2722",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPD患者の約90%に喫煙歴がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2723",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "バイオマス燃焼煙の吸入はCOPD発症の危険因子である。",
+      "answer": "○",
+      "explanation": "PM10、PM2.5、NOxなどもリスクとなる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2724",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "喫煙者のうち約50%がCOPDを発症する。",
+      "answer": "×",
+      "explanation": "15〜20%程度である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2725",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの疾患感受性遺伝子としてSERPINE(SERPINA1)が報告されている。",
+      "answer": "○",
+      "explanation": "蛋白質分解酵素(セリンプロテアーゼ)の阻害因子産生に関わる遺伝子である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2726",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDでは肺胞腔にマクロファージと好中球の浸潤が目立つ。",
+      "answer": "○",
+      "explanation": "気道腔にも同様の変化がみられる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2727",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "IL-17Aは好中球性気道炎症の形成に寄与する。",
+      "answer": "○",
+      "explanation": "IL-1β、IL-6、TNF-αなどの関与が知られている。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2728",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDでは喀痰中IL-6の濃度が上昇している。",
+      "answer": "○",
+      "explanation": "IL-8やTNF-α濃度の上昇もみられる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2729",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "Toll様受容体4(TLR4)は気道炎症の惹起に寄与する。",
+      "answer": "○",
+      "explanation": "他にも多様なTLRの関与が報告されている。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2730",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDではIL-33やグループ2自然リンパ球(ILC2)の浸潤が特徴である。",
+      "answer": "×",
+      "explanation": "IL-33やILC2は主に気管支喘息における好酸球性気道炎症を惹起する因子である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2731",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPD重症例ではインフリキシマブの投与により、症状および呼吸機能の改善が示されている。",
+      "answer": "×",
+      "explanation": "好中球性気道炎症を良好に制御する生物学的製剤は未だ示されていない。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2732",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDではプロテアーゼとアンチプロテアーゼの均衡が崩れ、アンチプロテアーゼ優位に傾いている。",
+      "answer": "×",
+      "explanation": "プロテアーゼ活性がアンチプロテアーゼ活性を凌駕している。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2733",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "マトリックスメタロプロテイナーゼ(MMP)の活性化により、肺気腫の形成は促進される。",
+      "answer": "○",
+      "explanation": "MMP-1、MMP-8、MMP-9、MMP-12などの関与が示唆されている。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2734",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDでは喀痰中好中球エラスターゼは減少する。",
+      "answer": "×",
+      "explanation": "プロテアーゼ活性亢進を反映して、喀痰中では好中球エラスターゼ濃度が上昇している。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2735",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの発症には過剰な酸化ストレスが関与する。",
+      "answer": "○",
+      "explanation": "オキシダント・アンチオキシダント仮説と呼ばれる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2736",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDでは気管支粘膜下腺の増大と杯細胞の増生を認める。",
+      "answer": "○",
+      "explanation": "気道過分泌による喀痰症状を反映している。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2737",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの末梢肺では内腔や血管平滑筋の肥厚、炎症細胞の浸潤、壁の線維化がみられる。",
+      "answer": "○",
+      "explanation": "これらの病変は血管内皮の機能異常とともに、肺高血圧症や右心負荷の原因になる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2738",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの肺組織ではTc1型CD8陽性Tリンパ球の浸潤が特徴である。",
+      "answer": "○",
+      "explanation": "Th1型CD4細胞やTh17型CD4細胞もみられる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2739",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "Th2型CD4陽性T細胞の浸潤が目立つ例では、喘息合併の可能性を考慮する必要がある。",
+      "answer": "○",
+      "explanation": "2型炎症が目立つ症例では喘息のオーバーラップを考慮する。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2740",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "禁煙後は数日以内に気道炎症が改善する。",
+      "answer": "×",
+      "explanation": "気道炎症は長期間遷延することが知られている。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2741",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "妊娠時の母体の喫煙は、COPD発症のリスク因子である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2742",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "幼少期の重症呼吸器感染は、COPD発症のリスク因子である。",
+      "answer": "○",
+      "explanation": "アデノウイルスやRSウイルス感染との関連性が報告されている。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2743",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "ビタミンD製剤の使用はCOPD増悪のリスク因子である。",
+      "answer": "×",
+      "explanation": "ビタミンD欠乏がQOLの悪化などに関与しうる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2744",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDは喫煙とは独立した肺癌発症の危険因子である。",
+      "answer": "×",
+      "explanation": "非COPD喫煙者と比較して3〜6倍の肺癌発症リスクがあるとされている。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2745",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "肺癌患者の85%がCOPDを合併している。",
+      "answer": "×",
+      "explanation": "COPD合併率は40〜70%とされている。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2746",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPD患者の約7%が気管支喘息を合併する。",
+      "answer": "×",
+      "explanation": "合併率は15%以上とする報告が多い。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2747",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDでは肺機能検査で拘束性換気障害がみられる。",
+      "answer": "×",
+      "explanation": "肺拡散能の低下と閉塞性換気障害がみられる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2748",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの診断には対標準1秒量(%FEV1)が70%未満であることを用いる。",
+      "answer": "×",
+      "explanation": "診断基準には1秒率(FEV1/FVC)が70%未満であることを用いる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2749",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "スパイロメトリーの正常予測値は身長、体重、性別、年齢を用いて計算される。",
+      "answer": "×",
+      "explanation": "身長、年齢を用いて性別ごとに計算される。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2750",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "スパイロメトリーの正常予測値は世界共通である。",
+      "answer": "×",
+      "explanation": "日本人における予測値を用いる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2751",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "%FEV1≧70%であれば病期分類は0期である。",
+      "answer": "×",
+      "explanation": "%FEV1≧80%であれば病期分類はI期である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2752",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "50%≦%FEV1<70%であれば病期分類はI期である。",
+      "answer": "×",
+      "explanation": "50%≦%FEV1<80%であれば病期分類はII期である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2753",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "20%≦%FEV1<50%であれば病期分類はIII期である。",
+      "answer": "×",
+      "explanation": "30%≦%FEV1<50%であれば病期分類はIII期である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2754",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "%FEV1<30%であれば病期分類はIV期である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2755",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDのスパイロメトリーではV50/V25が増大する。",
+      "answer": "×",
+      "explanation": "呼気終末の気道虚脱を反映して、V50/V25が低下する。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2756",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDでは機能的残気量が増加する。",
+      "answer": "○",
+      "explanation": "呼気時の気流制限を反映した所見である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2757",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDのフロー・ボリューム曲線では下降脚が下に凸となる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2758",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "肺拡散能は貧血により上昇する。",
+      "answer": "×",
+      "explanation": "貧血により低下するため、ヘモグロビン濃度による補正を考慮する。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2759",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "気管支拡張薬の吸入後に1秒量が12%かつ200mL以上増加する場合はCOPDではない。",
+      "answer": "×",
+      "explanation": "喘息を合併している可能性があるが、COPDの診断に際して気道可逆性の有無や程度は問われない。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2760",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDでは呼気一酸化窒素濃度(FeNO)は上昇することが多い。",
+      "answer": "×",
+      "explanation": "酸化ストレスによりNOはニトロチロシンなどに代謝され、喘息非合併例では上昇しないことが多い。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2761",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDでは呼気中一酸化炭素(CO)濃度は上昇することが多い。",
+      "answer": "○",
+      "explanation": "禁煙後でも健常者よりも高値を示すことが多い。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2762",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "広域周波オシレーション法では、気道抵抗を含む呼吸抵抗[レジスタンス(R)]が上昇する。",
+      "answer": "○",
+      "explanation": "主に換気不均等を反映して、20Hzに比べて5HzのRが高くなるような周波数依存性がみられる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2763",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "広域周波オシレーション法では、弾性と慣性を反映する呼吸リアクタンス(X)は正側にシフトする。",
+      "answer": "×",
+      "explanation": "負側にシフトし、その結果、共振周波数も高くなる。この変化は呼気時により顕著に観察される。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2764",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "CAT質問表は症状やQOLに関する6項目を0〜30点で評価する。",
+      "answer": "×",
+      "explanation": "COPD Assessment Testであり、8項目を0〜40点で評価する。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2765",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "CAT以外にもIPAGやCOPD-PS、ACTなどの質問票がCOPDで使われる。",
+      "answer": "×",
+      "explanation": "ACT(Asthma Control Test)は喘息のコントロール状態を確認するための質問票である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2766",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "I型呼吸不全ではCO2ナルコーシスのリスクが高い。",
+      "answer": "×",
+      "explanation": "PaCO2>45 TorrのII型呼吸不全で高リスクである。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2767",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "喀痰中好中球数は気腫の程度や増悪頻度と強い相関がある。",
+      "answer": "×",
+      "explanation": "COPDでは喀痰中の好中球は増加するが、臨床指標との相関は限定的である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2768",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "喀痰中好酸球が多い症例では吸入ステロイドの反応性が良い。",
+      "answer": "○",
+      "explanation": "吸入ステロイドによる増悪頻度減少効果が報告されている。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2769",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "末梢血中と喀痰中の好酸球数には正の相関関係が認められる。",
+      "answer": "○",
+      "explanation": "末梢血中好酸球数を参考に、吸入ステロイドの適応を判断することが可能である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2770",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDでは末梢血中の白血球数は健常者よりも高値を示す。",
+      "answer": "○",
+      "explanation": "禁煙後でも健常者よりも高値を示すことが多い。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2771",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの心電図では肺性P波がみられる。",
+      "answer": "×",
+      "explanation": "COPD単独における肺高血圧症は軽度であることが多く、心電図による右房負荷の検出感度は低い。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2772",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDではβ遮断薬の投与は禁忌である。",
+      "answer": "×",
+      "explanation": "選択的β遮断薬は、虚血性心疾患・心不全合併例に対して使用することは可能である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2773",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "心不全合併例に対して長時間作用性抗コリン薬(long-acting muscarinic antagonist: LAMA)は禁忌である。",
+      "answer": "×",
+      "explanation": "心血管イベントの増加は明らかでなく、禁忌ではない。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2774",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "緑内障を合併する場合、全例でLAMAは禁忌である。",
+      "answer": "×",
+      "explanation": "閉塞隅角緑内障の症例では禁忌だが、それ以外の症例では安全に投与が可能である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2775",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "前立腺肥大症合併例には、全例でLAMAは禁忌である。",
+      "answer": "×",
+      "explanation": "排尿障害のない症例では慎重に使用可能である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2776",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "心不全合併例に対して長時間作用性β2刺激薬(long-acting β2-agonist: LABA)は禁忌である。",
+      "answer": "×",
+      "explanation": "頻脈性心疾患の合併例で注意は必要なものの、禁忌ではない。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2777",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "テオフィリン製剤による気管支拡張作用を得るためには、血中濃度を30〜40μg/mLにするよう調整する。",
+      "answer": "×",
+      "explanation": "有効血中濃度は5〜15μg/mLである。5μg/mL程度でも気道炎症や酸化ストレス軽減効果が期待でき、近年は投与の推奨レベルが低下している。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2778",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "テオフィリンには胃酸分泌亢進作用がある。",
+      "answer": "○",
+      "explanation": "消化性潰瘍の発症に注意が必要である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2779",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "軽症例ではテオフィリン単剤での管理も可能である。",
+      "answer": "×",
+      "explanation": "LAMAあるいはLABAの導入が優先される。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2780",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "軽症例は吸入ステロイド(inhaled corticosteroid: ICS)単剤での治療も可能である。",
+      "answer": "×",
+      "explanation": "LAMAあるいはLABAとの併用が前提である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2781",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "抗酸菌感染症合併例に対するICSの投与は望ましくない。",
+      "answer": "○",
+      "explanation": "抗酸菌症増悪が懸念される。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2782",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "明らかな喘息合併でなくても、末梢血好酸球数が100/μL以上であれば、LAMAやLABAにICSの上乗せを検討してよい。",
+      "answer": "○",
+      "explanation": "300/μL以上であれば積極的にICSの追加が検討される。3剤合剤製剤が近年は多く処方される。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2783",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "肺炎を反復する症例では、LAMAやLABAに加えて積極的にICSの上乗せを検討する。",
+      "answer": "×",
+      "explanation": "細菌性肺炎以外の増悪が多い症例ではICSによる増悪抑制が期待できるが、肺炎を反復する症例ではICSの上乗せにより肺炎の増悪が懸念される。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2784",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "吸入する力が弱い症例ではドライパウダー製剤を用いる。",
+      "answer": "×",
+      "explanation": "一般的にドライパウダー製剤よりも噴霧式製剤(pMDIやソフトミスト)の方が弱い吸入力で使用可能である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2785",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "LAMAやLABAの吸入後にはうがいが必須である。",
+      "answer": "×",
+      "explanation": "ICSではうがい不足により嗄声や口腔カンジダ症のリスクが高まるが、LAMAやLABAでは必須ではない(実臨床上ではうがいを指導することもある)。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2786",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "マクロライド系抗菌薬の少量長期投与療法により、急性増悪の抑制やQOLの向上が示されている。",
+      "answer": "○",
+      "explanation": "非結核性抗酸菌症をはじめとした薬剤耐性菌の出現に注意が必要だが、頻回増悪例で投与が検討される。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2787",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDは在宅酸素療法(HOT)導入時の基礎疾患として最多である。",
+      "answer": "○",
+      "explanation": "約45%がCOPDが基礎疾患である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2788",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "6分間歩行試験の主要評価項目は、最大歩行距離である。",
+      "answer": "○",
+      "explanation": "自分のペースで歩ける最長距離を測定し、運動耐容能の指標とすることが一次評価項目である。呼吸困難感、心拍数、SpO2などは副次評価項目となる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2789",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "安静時SpO2が93%がHOT導入の目安であり、症状や生命予後の改善効果が示されている。",
+      "answer": "×",
+      "explanation": "一般的にSpO2≦88%程度が目安と考えられ、中等度低酸素を呈する症例への早期導入はエビデンスに乏しい。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2790",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "安定期にPaCO2≧55Torrを示す症例では、非侵襲的陽圧換気療法(non-invasive positive pressure ventilation: NPPV)の導入が考慮される。",
+      "answer": "○",
+      "explanation": "安静時PaCO2<55Torrでも、高CO2血症を伴う増悪や夜間低換気を認める症例ではNPPVが考慮される。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2791",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "睡眠時無呼吸症候群の合併例では、必要に応じて持続陽圧呼吸療法とHOTを併用することができる。",
+      "answer": "○",
+      "explanation": "使用するデバイスによって、両者を併用することも可能である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2792",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "HOT使用者の飛行機への搭乗は禁忌である。",
+      "answer": "×",
+      "explanation": "飛行中は酸素流量を1〜2L/分増やすことが推奨される(搭乗は可能である)。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2793",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "HOTの使用時間は1日15〜18時間以上を原則とする。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2794",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "HOT使用者は鼻粘膜保護のため、加湿器の使用が推奨される。",
+      "answer": "×",
+      "explanation": "3L/分以下の経鼻吸入では不要と考えられる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2795",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "肺気腫が下葉優位の症例では、肺容量減量手術(LVRS)が検討される。",
+      "answer": "×",
+      "explanation": "上葉に気腫が偏在する症例が良い適応である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2796",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "重度のCOPDは肺移植の適応外である。",
+      "answer": "×",
+      "explanation": "国内での症例数は少ないが、適応疾患に含まれる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2797",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの終末期においては、アドバンス・ケア・プランニングに取り組むことが推奨される。",
+      "answer": "○",
+      "explanation": "悪性疾患と異なり、患者自身が疾患が死に向かうものと認識していないことがある。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2798",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDはホスピス・緩和ケア病棟利用の保険適用疾患である。",
+      "answer": "×",
+      "explanation": "保険適用は悪性腫瘍またはAIDSに限られる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2799",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "インフルエンザ菌、モラクセラ・カタラーリス、肺炎球菌が主要な細菌感染症の急性増悪の起因菌となる。",
+      "answer": "○",
+      "explanation": "重症例では緑膿菌が起因菌となる頻度が増加する。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2800",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "急性増悪のほとんどが細菌性肺炎によるものである。",
+      "answer": "×",
+      "explanation": "ウイルス感染や大気汚染も主要な原因となる。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2801",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "ICS使用例では、COVID-19急性増悪にはICSを休薬する。",
+      "answer": "×",
+      "explanation": "安定期の治療は継続することが推奨される。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-759",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPD患者で認められやすい症状、所見、合併症はどれか。",
+      "choices": {
+        "a": "口すぼめ呼吸",
+        "b": "下腿浮腫",
+        "c": "Pickwick症候群",
+        "d": "吸気時間の延長",
+        "e": "声音振盪の減弱",
+        "f": "Hoover徴候",
+        "g": "吸気時のfine crackles",
+        "h": "抑うつ",
+        "i": "さじ状爪",
+        "j": "体重増加",
+        "k": "サルコペニア",
+        "l": "漏斗胸",
+        "m": "上部消化管潰瘍",
+        "n": "胃食道逆流症",
+        "o": "骨粗鬆症",
+        "p": "糖尿病",
+        "q": "胸鎖乳突筋の肥厚"
+      },
+      "answer": [
+        "a",
+        "b",
+        "e",
+        "f",
+        "h",
+        "k",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q"
+      ],
+      "explanation": "c Pickwick症候群は高度肥満に伴う睡眠時無呼吸症候群、d 正しくは呼気時間の延長、g 吸気時のfine cracklesは間質性肺炎の所見、i さじ状爪は鉄欠乏性貧血の所見(COPDはばち指も少ない)、j 正しくは体重減少、l 正しくは樽状胸であり、これらはCOPDでは典型的でない。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-760",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの胸部レントゲン所見として認められやすいものはどれか。",
+      "choices": {
+        "a": "肺野透過性の減弱",
+        "b": "肺末梢の血管陰影の細小化",
+        "c": "肋間の拡大",
+        "d": "横隔膜の挙上",
+        "e": "心胸郭比の減少",
+        "f": "側面像で、胸骨後腔の拡大",
+        "g": "側面像で、心臓後腔の拡大"
+      },
+      "answer": [
+        "b",
+        "c",
+        "e",
+        "f",
+        "g"
+      ],
+      "explanation": "a 気腫を反映して肺野透過性は亢進する(減弱ではない)。d 肺膨張を反映して横隔膜は平低化を認める(挙上ではない)。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-761",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの胸部CT所見として、適切なものはどれか。",
+      "choices": {
+        "a": "ウィンドウレベルは−700HU〜−900HU程度に設定することが多い。",
+        "b": "ソフトウェアによる気腫の定量解析では、−940HU〜−960HU以下を低吸収領域(low attenuation area: LAA)と設定することが多い。",
+        "c": "古典的な肺気腫の視覚評価法としてGoddard分類がある。",
+        "d": "LAAは汎細葉型の分布を示すことが多い。",
+        "e": "気腫性病変は上葉の胸膜下優位にみられやすい。",
+        "f": "気道壁の肥厚と、気道内腔の狭小化を認める。",
+        "g": "気腫性病変が乏しい症例は、COPDと診断できない。"
+      },
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "f"
+      ],
+      "explanation": "d 病理学的には小葉中心型肺気腫が多い(α1-アンチトリプシン欠乏症では汎小葉型)。e 上葉優位だが胸膜下には病変が乏しい。g 気腫性病変が乏しくても末梢気道病変優位型COPDの可能性がある。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-762",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDの治療方針について、適切なものはどれか。",
+      "choices": {
+        "a": "II型呼吸不全に対して在宅酸素療法を導入する。",
+        "b": "現喫煙者に対して在宅酸素療法を導入する。",
+        "c": "SpO2が常に90%以上保たれていても、呼吸困難感があれば在宅酸素療法を導入する。",
+        "d": "末期呼吸不全に対してモルヒネ製剤を投与する。",
+        "e": "呼吸リハビリテーションの中核は、運動療法とセルフマネジメント教育である。"
+      },
+      "answer": [
+        "a",
+        "d",
+        "e"
+      ],
+      "explanation": "b 引火の危険があるため、まず禁煙を行う。c 低酸素血症がない症例における在宅酸素療法の有用性は乏しい(保険適用上の問題も生じる)。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-763",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "安定期COPDの長期管理として、適切なものはどれか。",
+      "choices": {
+        "a": "長時間作用性抗コリン薬(LAMA)",
+        "b": "長時間作用性β2刺激薬(LABA)",
+        "c": "吸入ステロイド薬(ICS)",
+        "d": "ICS/LAMA/LABA合剤",
+        "e": "経口ステロイド",
+        "f": "カルボシステイン",
+        "g": "ロイコトリエン受容体拮抗薬",
+        "h": "テオフィリン製剤",
+        "i": "抗IL-5モノクローナル抗体",
+        "j": "肺炎球菌ワクチン",
+        "k": "インフルエンザワクチン",
+        "l": "SARS-CoV-2ワクチン"
+      },
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "f",
+        "h",
+        "j",
+        "k",
+        "l"
+      ],
+      "explanation": "e 経口ステロイドは安定期長期管理での有用性は乏しい。g ロイコトリエン受容体拮抗薬、i 抗IL-5モノクローナル抗体は気管支喘息の治療薬である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-764",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPD急性増悪に対する治療として、適切なものはどれか。",
+      "choices": {
+        "a": "短時間作用性β2刺激薬(SABA)を吸入する。",
+        "b": "ステロイドの全身投与を行う。",
+        "c": "全身性ステロイドを投与する場合は、パルス療法を行う。",
+        "d": "全身性ステロイドは14日間を目安に投与する。",
+        "e": "抗菌薬を投与する。"
+      },
+      "answer": [
+        "a",
+        "b",
+        "e"
+      ],
+      "explanation": "c プレドニゾロン換算で30〜40mg/日程度が用いられる(パルス療法ではない)。d 5〜7日間程度の投与が推奨される。e 膿性痰があれば特に抗菌薬の使用が推奨される。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-765",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "慢性閉塞性肺疾患（COPD）",
+      "question": "COPDに喘息が合併していることを疑う特徴はどれか。",
+      "choices": {
+        "a": "若年時の喘息既往",
+        "b": "症状の変動が乏しい",
+        "c": "呼気中一酸化窒素濃度(FeNO)が15ppb未満",
+        "d": "気道可逆性試験陽性",
+        "e": "末梢血好酸球数 30/μL以上",
+        "f": "非特異的IgE高値",
+        "g": "通年性アレルギー性鼻炎の合併"
+      },
+      "answer": [
+        "a",
+        "d",
+        "f",
+        "g"
+      ],
+      "explanation": "b 変動性(日内・日々・季節)の呼吸器症状が喘息に特徴的である。c FeNO>35ppbが喘息の特徴の目安となる。e 末梢血好酸球数>5%あるいは>300/μLが喘息に特徴的な所見である。",
+      "tags": [
+        "各論I",
+        "慢性閉塞性肺疾患（COPD）",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2802",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "気腫合併肺線維症（CPFE）",
+      "question": "気腫合併肺線維症(CPFE)では上肺野の気腫性病変と下肺野の線維化を認める。",
+      "answer": "○",
+      "explanation": "UIP(usual interstitial pneumonia)またはf-NSIP(nonspecific interstitial pneumonia)パターンの線維化が典型的である。",
+      "tags": [
+        "各論I",
+        "気腫合併肺線維症（CPFE）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2803",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "気腫合併肺線維症（CPFE）",
+      "question": "気腫合併肺線維症(CPFE)は男性の喫煙者で有病率が高い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "気腫合併肺線維症（CPFE）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2804",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "気腫合併肺線維症（CPFE）",
+      "question": "気腫合併肺線維症(CPFE)は発症早期から高度の閉塞性換気障害を呈する。",
+      "answer": "×",
+      "explanation": "気流閉塞は目立たないことが多い(気腫と線維化の影響が相殺される)。",
+      "tags": [
+        "各論I",
+        "気腫合併肺線維症（CPFE）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2805",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "気腫合併肺線維症（CPFE）",
+      "question": "気腫合併肺線維症(CPFE)では高度の肺拡散能低下がみられる。",
+      "answer": "○",
+      "explanation": "したがって労作時の低酸素血症も顕著である。",
+      "tags": [
+        "各論I",
+        "気腫合併肺線維症（CPFE）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2806",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "気腫合併肺線維症（CPFE）",
+      "question": "気腫合併肺線維症(CPFE)は特発性肺線維症単独よりも肺高血圧症の合併率が高い。",
+      "answer": "○",
+      "explanation": "肺高血圧症の合併は予後不良因子である。",
+      "tags": [
+        "各論I",
+        "気腫合併肺線維症（CPFE）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2807",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "気腫合併肺線維症（CPFE）",
+      "question": "気腫合併肺線維症(CPFE)では胸部聴診でIIp音の亢進を認める。",
+      "answer": "○",
+      "explanation": "肺高血圧を反映した所見である。",
+      "tags": [
+        "各論I",
+        "気腫合併肺線維症（CPFE）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2808",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "気腫合併肺線維症（CPFE）",
+      "question": "気腫合併肺線維症(CPFE)では約50%に肺癌の合併を認める。",
+      "answer": "○",
+      "explanation": "組織型は扁平上皮癌が最多である。",
+      "tags": [
+        "各論I",
+        "気腫合併肺線維症（CPFE）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2809",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "気腫合併肺線維症（CPFE）",
+      "question": "気腫合併肺線維症(CPFE)の肺癌合併時には外科切除ではなく定位照射療法を優先する。",
+      "answer": "×",
+      "explanation": "肺線維症の合併により放射線肺臓炎のリスクが高く、定位照射は避けられることが多い。",
+      "tags": [
+        "各論I",
+        "気腫合併肺線維症（CPFE）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2810",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "喘息-COPDオーバーラップ（ACO）",
+      "question": "喘息-COPDオーバーラップ(ACO)はCOPD単独より臨床症状を認める頻度が高い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "喘息-COPDオーバーラップ（ACO）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2811",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "喘息-COPDオーバーラップ（ACO）",
+      "question": "ACOの診断基準は国際的に統一されている。",
+      "answer": "×",
+      "explanation": "日本呼吸器学会の示した診断基準はあるものの、国際的に広く用いられる基準は確立していない。",
+      "tags": [
+        "各論I",
+        "喘息-COPDオーバーラップ（ACO）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2812",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "喘息-COPDオーバーラップ（ACO）",
+      "question": "末梢血好酸球数が高値のCOPDはACOと診断できる。",
+      "answer": "×",
+      "explanation": "吸入ステロイドの適応にはなるが、ACOの診断は別途基準を満たす必要がある。",
+      "tags": [
+        "各論I",
+        "喘息-COPDオーバーラップ（ACO）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2813",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "喘息-COPDオーバーラップ（ACO）",
+      "question": "ACOは20〜30歳代での患者数が近年急増している。",
+      "answer": "×",
+      "explanation": "ACOの診断は基本的に40歳以上でなされる。",
+      "tags": [
+        "各論I",
+        "喘息-COPDオーバーラップ（ACO）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2814",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "喘息-COPDオーバーラップ（ACO）",
+      "question": "ACOは生物学的製剤の適応とはならない。",
+      "answer": "×",
+      "explanation": "喘息のコンポーネントに着目して、重症度に応じて生物学的製剤が選択される。",
+      "tags": [
+        "各論I",
+        "喘息-COPDオーバーラップ（ACO）",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2815",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "α1-アンチトリプシン欠乏症",
+      "question": "α1-アンチトリプシン欠乏症は指定難病である。",
+      "answer": "○",
+      "explanation": "指定難病231である。",
+      "tags": [
+        "各論I",
+        "α1-アンチトリプシン欠乏症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2816",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "α1-アンチトリプシン欠乏症",
+      "question": "α1-アンチトリプシン欠乏症は常染色体優性遺伝である。",
+      "answer": "×",
+      "explanation": "常染色体劣性遺伝である。",
+      "tags": [
+        "各論I",
+        "α1-アンチトリプシン欠乏症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2817",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "α1-アンチトリプシン欠乏症",
+      "question": "α1-アンチトリプシン欠乏症に対する血漿分画製剤が日本でも承認されている。",
+      "answer": "○",
+      "explanation": "2021年からα1-プロテイナーゼインヒビターの点滴補充療法が可能となった。",
+      "tags": [
+        "各論I",
+        "α1-アンチトリプシン欠乏症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "2 COPD.pdf",
       "images": []
     }
   ]
