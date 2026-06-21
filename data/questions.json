@@ -32790,559 +32790,6 @@
       }
     },
     {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "睡眠時無呼吸症候群(SAS)の成人男性の有病率は1〜2%である。",
-      "answer": "×",
-      "explanation": "3~7%程度である。男性では40~50歳代が半数以上を占めるが、女性では閉経後に増加する。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q12_p002.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=2"
-      },
-      "id": "qa-2191"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "閉塞性睡眠時無呼吸(OSA)では、無呼吸中にも呼吸努力を伴い、通常はいびきが存在する。",
-      "answer": "○",
-      "explanation": "単にSASと記した場合、閉塞性睡眠時無呼吸症候群を指すことも多い。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q12_p002.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=2"
-      },
-      "id": "qa-2192"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "中枢性睡眠時無呼吸(CSA)は無呼吸中に呼吸努力を伴わない。",
-      "answer": "○",
-      "explanation": "心不全や脳卒中患者でみられるチェーンストークス呼吸はCSAの一種である。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q12_p002.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=2"
-      },
-      "id": "qa-2193"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "無呼吸低呼吸指数(AHI)が20以上の閉塞性睡眠時無呼吸症候群は重症である。",
-      "answer": "×",
-      "explanation": "5≤AHI<15は軽症、15≤AHI<30は中等症、AHI≥30は重症である。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q12_p002.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=2"
-      },
-      "id": "qa-2194"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "OSAを対象とした質問紙として、エプワース眠気尺度などが用いられる。",
-      "answer": "○",
-      "explanation": "ベルリン質問紙や STOP-BANG 質問紙なども用いられる。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q12_p002.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=2"
-      },
-      "id": "qa-2195"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "ポリソムノグラフィ(PSG)でAHI≧15であればCPAPの適用と判断される。",
-      "answer": "×",
-      "explanation": "AHI≧20である。重症度とCPAP保険適用のレベルは基準が異なることに留意する。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q12_p002.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=2"
-      },
-      "id": "qa-2196"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "PSGでAHI<5であればSASの存在は否定的である。",
-      "answer": "○",
-      "explanation": "有症状でAHIが5以上の場合にSASと診断する。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q12_p002.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=2"
-      },
-      "id": "qa-2197"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "保険適用でCPAP療法を行うためにはPSGが必須である。",
-      "answer": "×",
-      "explanation": "簡易モニター検査にてAHI≧40かつ強い自覚症状があれば、保険適用でCPAP療法を導入可能である。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q12_p002.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=2"
-      },
-      "id": "qa-2198"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "OSAは2型糖尿病発症の独立した危険因子である。",
-      "answer": "○",
-      "explanation": "OSAそのものがインスリン抵抗性に関与すると示唆されている。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q12_p002.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=2"
-      },
-      "id": "qa-2199"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "5≤AHI<20で自覚症状のある症例は口腔内装置(OA)の良い適応である。",
-      "answer": "○",
-      "explanation": "OA療法によってQOLの改善や心血管リスクの低減を期待できる。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q12_p002.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=2"
-      },
-      "id": "qa-2200"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "OAの長期的副作用として、咬合異常がある。",
-      "answer": "○",
-      "explanation": "長期的な副作用に対するインフォームドコンセントが不可欠である。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q12_p004.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=4"
-      },
-      "id": "qa-2201"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "BMI 30kg/m2 以上の肥満症で、腹腔鏡下スリーブ状胃切除の保険適用となる。",
-      "answer": "×",
-      "explanation": "BMI 35kg/m2 以上の肥満症で適用となる。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q12_p004.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=4"
-      },
-      "id": "qa-2202"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "SAS ではアデノイド・ロ蓋扁桃肥大が主な原因となる。",
-      "answer": "○",
-      "explanation": "アデノイド・ロ蓋扁桃摘出術を検討する。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q12_p004.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=4"
-      },
-      "id": "qa-2203"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "CPAP 療法を行っていても日中に過度の眠気を伴うOSAS 症例では、モダフィニルの投与を検討する。",
-      "answer": "○",
-      "explanation": "覚醒を維持するための精神刺激薬であり、ナルコレプシーなどに適用がある。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q12_p004.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=4"
-      },
-      "id": "qa-2204"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "不眠を有する OSA 患者に対して、睡眠薬の処方は禁忌である。",
-      "answer": "×",
-      "explanation": "CPAP など OSAそのものに対する治療を優先すれば、睡眠薬の使用は可能である。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q12_p004.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=4"
-      },
-      "id": "qa-2205"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "PSG の検査項目に含まれるものはどれか。",
-      "answer": [
-        "b",
-        "c",
-        "d"
-      ],
-      "explanation": "a（×）：PSGに血圧測定は含まれない。\nb（○）：睡眠段階や覚醒反応などを把握する。\nc（○）：―\nd（○）：顎筋電図や前脛骨筋筋電図などを記録する。\ne（×）：食道内圧は一般に測定されない。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q12_p004.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=4"
-      },
-      "id": "qa-2206",
-      "choices": {
-        "a": "非観血的動脈圧",
-        "b": "脳波",
-        "c": "心電図",
-        "d": "筋電図",
-        "e": "食道内圧モニター"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "OSAに対する CPAP 療法について適切なものはどれか。",
-      "answer": [
-        "a",
-        "c",
-        "e"
-      ],
-      "explanation": "a（○）：―\nb（×）：一夜あたり4時間以上の使用を目標とする。\nc（○）：電話・オンライン診療などを挟んで3ヶ月ごとの受診まで延ばすことも可能であるが、原則としては毎月の受診が必要である。\nd（×）：適切な圧設定がなされていれば、両者に差はないものと考えられる。\ne（○）：―",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q12_p006.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=6"
-      },
-      "id": "qa-2211",
-      "choices": {
-        "a": "月々5,000円程度の自己負担金額となる。",
-        "b": "一夜あたり少なくとも7時間の使用が推奨される。",
-        "c": "原則的に毎月の受診が必要である。",
-        "d": "Auto CPAP は固定圧 CPAPよりも良好なアドヒアランスと治療効果が期待できる。",
-        "e": "AHI<5での管理を目標とする。"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "CSAの治療として適切なものはどれか。",
-      "answer": [
-        "a",
-        "b",
-        "d"
-      ],
-      "explanation": "a（○）：AHI≧20で保険適用となる。\nb（○）：AHI≧20で保険適用となる。\nc（×）：実臨床上は通常用いられない。\nd（○）：CSAの抑制効果は、高い順にASV → Bi-level PAP → CPAP →酸素療法である。\ne（×）：有用性を示唆した報告もあるが、実臨床上で推奨される治療ではない。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q12_p006.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=6"
-      },
-      "id": "qa-2216",
-      "choices": {
-        "a": "酸素療法",
-        "b": "CPAP",
-        "c": "Bi-level PAP",
-        "d": "ASV (adaptive servo ventilation)",
-        "e": "テオフィリン"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "過換気症候群。Chvostek 徴候を認める。",
-      "answer": "○",
-      "explanation": "耳介の前方を打腱器で軽く叩くと、顔面筋や眼輪筋が痙攣する。テタニー症状の一種である。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q12_p008.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=8"
-      },
-      "id": "qa-2221"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "Trousseau 徴候を認める。",
-      "answer": "○",
-      "explanation": "マンシェットで腕を圧迫すると手の筋肉が痙攣して屈曲する。テタニー症状の一種である。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q12_p008.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=8"
-      },
-      "id": "qa-2222"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "全例で速やかにペーパーバッグ再呼吸法を行う。",
-      "answer": "×",
-      "explanation": "安全性や有効性に疑問があり、身体的基礎疾患がなく過換気発作を反復する若年者にとどめるのが安全と考えられる。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q12_p008.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=8"
-      },
-      "id": "qa-2223"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "まずベンゾジアゼピン系抗不安薬を投与する。",
-      "answer": "×",
-      "explanation": "まずは基礎疾患の検索や、病状を説明して安心させることが重要である。そのうえで投薬を検討する。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q12_p008.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=8"
-      },
-      "id": "qa-2224"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "過換気後の無呼吸発作で低酸素血症となり、死亡することがある。",
-      "answer": "○",
-      "explanation": "十分な経過観察が必要である。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q12_p008.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=8"
-      },
-      "id": "qa-2225"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸調節障害",
-      "question": "若年健常者における過換気発作時の動脈血液ガス所見として想定されるものはどれか。",
-      "answer": [
-        "b",
-        "c",
-        "d",
-        "e"
-      ],
-      "explanation": "a（×）：PaO2 は高値を示す。\nb（○）：PaCO2 は低値を示す。\nc（○）：急性期に代償性の代謝性アシドーシスは認めない。\nd（○）：呼吸性アルカローシスによるアルカレミアを認める。\ne（○）：代謝性の因子は変動に乏しい。",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "12_呼吸調節障害_一問一答.docx",
-      "reference": {
-        "title": "第12章 呼吸調節障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q12_p008.webp",
-        "viewer": "reference-viewer.html?doc=q12&page=8"
-      },
-      "id": "qa-2226",
-      "choices": {
-        "a": "PaO2 70 Torr",
-        "b": "PaCO2 25 Torr",
-        "c": "HCO3- 24 mEq/L",
-        "d": "pH 7.55",
-        "e": "base excess (BE) 0 mEq/L"
-      }
-    },
-    {
       "type": "mcq",
       "chapter": "各論II 呼吸不全",
       "section": "呼吸不全",
@@ -54063,6 +53510,463 @@
         "PDF転記"
       ],
       "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3432",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "睡眠時無呼吸症候群(SAS)の成人男性の有病率は1〜2%である。",
+      "answer": "×",
+      "explanation": "3〜7%程度である。男性は40〜50歳代が半数以上を占めるが、女性は閉経後に増加する。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3433",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "閉塞性睡眠時無呼吸(obstructive sleep apnea: OSA)では、無呼吸中にも呼吸努力を伴い、通常いびきが存在する。",
+      "answer": "○",
+      "explanation": "単にSASと記した場合、閉塞性睡眠時無呼吸症候群を指すことも多い。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3434",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "中枢性睡眠時無呼吸(central sleep apnea: CSA)は、無呼吸中に呼吸努力を伴わない。",
+      "answer": "○",
+      "explanation": "心不全や脳卒中患者でみられるチェーンストークス呼吸はCSAの一種である。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3435",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "無呼吸低呼吸指数(apnea hypopnea index: AHI)が20以上の閉塞性睡眠時無呼吸症候群(OSAS)は重症である。",
+      "answer": "×",
+      "explanation": "5≦AHI<15は軽症、15≦AHI<30は中等症、AHI≧30は重症である。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3436",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "OSAを対象とした質問紙として、エプワース眠気尺度などが用いられる。",
+      "answer": "○",
+      "explanation": "ベルリン質問紙やSTOP-BANG質問紙、STOP質問紙なども用いられる。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3437",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "ポリソムノグラフィ(PSG)でAHI≧15であれば持続陽圧呼吸療法(CPAP)の適用と判断される。",
+      "answer": "×",
+      "explanation": "AHI≧20である。重症度とCPAP保険適用のレベルは基準が異なることに留意する。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3438",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "PSGでAHI<5であればSASの存在は否定的である。",
+      "answer": "○",
+      "explanation": "有症状でAHIが5以上の場合にSASと診断する。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3439",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "保険適用でCPAP療法を行うためにはPSGが必須である。",
+      "answer": "×",
+      "explanation": "簡易モニター検査にてAHI≧40の強い自覚症状があれば、保険適用でCPAP療法を導入可能である。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3440",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "OSAは2型糖尿病発症の独立した危険因子である。",
+      "answer": "○",
+      "explanation": "OSAと2型糖尿病双方に肥満や加齢などの共通危険因子があるものの、OSAそのものがインスリン抵抗性に関与すると示唆されている。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3441",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "5≦AHI<20で自覚症状のある症例には口腔内装置(oral appliance: OA)の良い適応であり、保険適用でOAを作成可能である。",
+      "answer": "○",
+      "explanation": "OA療法によってQOLの改善や心血管リスクの低減を期待できる。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3442",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "OAの長期的副作用として、咬合異常がある。",
+      "answer": "○",
+      "explanation": "長期的な副作用に対するインフォームドコンセントが不可欠である。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3443",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "body mass index (BMI) 30kg/m²以上の肥満症で、内科的治療の効果が不十分な場合、腹腔鏡下スリーブ状胃切除の保険適用となる。",
+      "answer": "×",
+      "explanation": "BMI 35kg/m²以上の肥満症で適用となる。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3444",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "小児のSASではアデノイド・口蓋扁桃肥大が主な原因となる。",
+      "answer": "○",
+      "explanation": "アデノイド・口蓋扁桃摘出術を検討する。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3445",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "CPAP療法を行っていても日中に過度の眠気を伴うOSAS症例では、モダフィニルの投与を検討する。",
+      "answer": "○",
+      "explanation": "覚醒を維持するための精神刺激薬であり、ナルコレプシーなどに適用がある。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3446",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "不眠を有するOSA患者に対して、睡眠薬の処方は禁忌である。",
+      "answer": "×",
+      "explanation": "CPAPなどOSAそのものに対する治療を優先すれば、睡眠薬の使用は可能である。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-813",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "PSGの検査項目に含まれるものはどれか。",
+      "choices": {
+        "a": "非観血的動脈圧",
+        "b": "脳波",
+        "c": "心電図",
+        "d": "筋電図",
+        "e": "食道内圧モニター"
+      },
+      "answer": [
+        "b",
+        "c",
+        "d"
+      ],
+      "explanation": "PSGには脳波(睡眠段階・覚醒反応)、心電図、筋電図(顎筋電図・前脛骨筋電図)などが含まれる。非観血的動脈圧(血圧測定)や食道内圧モニターは一般に含まれない。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-814",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "OSAに対するCPAP療法において適切なものはどれか。",
+      "choices": {
+        "a": "自己負担が3割の場合、月々5,000円程度の自己負担金額となる。",
+        "b": "一夜あたり少なくとも7時間の使用が推奨される。",
+        "c": "原則的に毎月の受診が必要である。",
+        "d": "Auto CPAPは固定圧CPAPよりも良好なアドヒアランスと治療効果が期待できる。",
+        "e": "AHI<5での管理を目標とする。"
+      },
+      "answer": [
+        "a",
+        "c",
+        "e"
+      ],
+      "explanation": "b 一夜あたり4時間以上の使用を目標とする。c 遠隔モニタリング等で3ヶ月ごとまで延ばすことも可能だが、原則としては毎月の受診が必要である。d 適切な圧設定がなされていれば、Auto CPAPと固定圧CPAPの両者に差はないものと考えられる。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-815",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "CSAの治療として適切なものはどれか。",
+      "choices": {
+        "a": "酸素療法",
+        "b": "CPAP",
+        "c": "Bi-level PAP",
+        "d": "ASV (adaptive servo ventilation)",
+        "e": "テオフィリン"
+      },
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "CSAの抑制効果は高い順にASV→Bi-level PAP→CPAP→酸素療法である。酸素療法・CPAP・ASVが適切。Bi-level PAPは実臨床上は通常用いられず、テオフィリンも実臨床上で推奨される治療ではない。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3447",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "過換気症候群ではChvostek徴候を認める。",
+      "answer": "○",
+      "explanation": "耳介の前方を打鍵器で軽く叩くと、顔面筋や眼輪筋が痙攣する。テタニー症状の一種である。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3448",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "過換気症候群ではTrousseau徴候を認める。",
+      "answer": "○",
+      "explanation": "マンシェットで腕を圧迫すると手の筋肉が痙攣し屈曲する。テタニー症状の一種である。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3449",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "過換気症候群では全例で速やかにペーパーバッグ再呼吸法を行う。",
+      "answer": "×",
+      "explanation": "安全性や有効性に疑問があり、少なくとも身体的基礎疾患がなく過換気発作を反復する若年者にとどめるのが安全と考えられる。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3450",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "過換気症候群ではまずベンゾジアゼピン系抗不安薬を投与する。",
+      "answer": "×",
+      "explanation": "まずは基礎疾患の検索や、病状を説明して安心させることが重要である。そのうえで投薬を検討する。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3451",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "過換気後の無呼吸発作で低酸素血症となり、死亡することがある。",
+      "answer": "○",
+      "explanation": "十分な経過観察が必要である。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-816",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸調節障害",
+      "question": "基礎疾患のない若年健常者における過換気発作時の動脈血液ガス所見として想定されるものはどれか。",
+      "choices": {
+        "a": "PaO2 70 Torr",
+        "b": "PaCO2 25 Torr",
+        "c": "HCO3- 24 mEq/L",
+        "d": "pH 7.55",
+        "e": "base excess (BE) 0 mEq/L"
+      },
+      "answer": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "explanation": "過換気では呼吸性アルカローシス(PaCO2低値、pH高値=アルカレミア)をきたす。急性期には代謝性の代償(HCO3-やBEの変動)は乏しいためHCO3- 24・BE 0は正常範囲。PaO2は高値を示すため70 Torr(低値)は想定されない。",
+      "tags": [
+        "各論I",
+        "呼吸調節障害",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "12 呼吸調節障害.pdf",
       "images": []
     }
   ]
