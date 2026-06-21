@@ -46,9 +46,9 @@
       "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2380,
+      "qa": 2379,
       "mcq": 259,
-      "total": 2639
+      "total": 2638
     },
     "sections": [
       "COPD",
@@ -292,8 +292,8 @@
         "qa-1327"
       ]
     },
-    "total_questions": 2639,
-    "qa_count": 2380,
+    "total_questions": 2638,
+    "qa_count": 2379,
     "mcq_count": 259,
     "last_update": "2026-06-18"
   },
@@ -30678,2455 +30678,6 @@
     {
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "男性の発症リスクは女性に比べて高い。",
-      "answer": "○",
-      "explanation": "欧米では1.5倍、日本では2.7倍と報告されている。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1616"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "ほとんどが50歳以上の成人に発症する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1617"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "病理組織パターンは通常型間質性肺炎(UIP)である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1618"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "発症時には乾性咳嗽や労作時呼吸困難はみられない",
-      "answer": "×",
-      "explanation": "発症時の主な症状である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1619"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "肺底部の捻髪音(fine crackles) は90%前後に聴取される",
-      "answer": "○",
-      "explanation": "軽症例においても80%前後と高率である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1620"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "ばち指は90%前後に認められる",
-      "answer": "×",
-      "explanation": "30~60%前後である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1621"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "チアノーゼ、肺性心、末梢性浮腫はIPFの末期に認められる",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1622"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "血液検査は IPFの確定診断に有用である",
-      "answer": "×",
-      "explanation": "確定診断に有用ではないが、本疾患を疑うきっかけや病態のモニタリングなどに有用なマーカーもある。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1623"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "血清 KL-6、SP-D、SP-Aが異常高値となる割合は90%前後である。",
-      "answer": "×",
-      "explanation": "約50%の症例で異常高値である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1624"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "血清LDHは上昇しない。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1625"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "急激な血清 KL-6 上昇がみられた場合、ニューモシスチス肺炎やサイトメガロウィルス肺炎を考慮する。",
-      "answer": "○",
-      "explanation": "B-D グルカンやCMV 抗原を測定する。悪性腫瘍(腺癌)の合併で血清 KL-6が上昇することにも注意が必要である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1626"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "胸部単純X線ではびまん性網状影が両側中下肺野、末梢側優位に広がり、多くは肺の容積減少を伴う。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1627"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "High-resolution computed tomography (HRCT) 像では両側下葉、背側、胸膜直下に優位に分布する蜂巣肺と網状影が重要である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q5_p002.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=2"
-      },
-      "id": "qa-1628"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "HRCT像での蜂巣肺はIPF に特異的な所見である。",
-      "answer": "×",
-      "explanation": "IPF以外にも線維性過敏性肺炎、膠原病関連間質性肺炎、アスベスト肺などでみられる。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1629"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "HRCT 像で牽引性気管支拡張が認められる。",
-      "answer": "○",
-      "explanation": "線維化の進行したIPFでみられる。また非特異性間質性肺炎(NSIP)でもみられる。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1630"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "線維化性 NSIPとの鑑別は容易である。",
-      "answer": "×",
-      "explanation": "NSIP が経過中 UIP 類似の画像を示すこともあり両者の鑑別は容易ではない。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1631"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "肺活量(VC)、努力性肺活量(FVC)、全肺気量 (TLC)の低下が認められる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1632"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "VCやTLCが減少した後に拡散能 (DLCO) が低下する。",
-      "answer": "×",
-      "explanation": "DLCO が低下した後にVCやTLCが低下する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1633"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "重症例では安静時でも動脈血酸素分圧 (PaO2) が低下し、肺胞気動脈血酸素分圧較差 (A-aDO2) が開大する。",
-      "answer": "○",
-      "explanation": "換気血流不均衡が生じる。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1634"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "重症例では6分間歩行試験中の SpO2 低下が著しい。",
-      "answer": "○",
-      "explanation": "運動することにより A-aDO2 が開大し PaO2 が低下するためである。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1635"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "6分間歩行試験は歩行障害を有する患者でも正確な評価が可能である。",
-      "answer": "×",
-      "explanation": "正確な評価はできない。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1636"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "6分間歩行試験では心不全に伴う呼吸不全の要素は排除できない。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1637"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "病勢の評価には定期的なFVC 測定が有用である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1638"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "厚生労働省の難病に指定されている。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1639"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPFの発症危険因子はどれか。",
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "d"
-      ],
-      "explanation": "a（○）：喫煙常習者のIPF 発症オッズ比は1.6~2.9である。\nb（○）：肺線維症の発症に影響するとの報告もある。\nc（○）：様々な環境曝露により発症リスクが上昇する。\nd（○）：高血糖や糖尿病は発症リスクを高めるとされている。\ne（×）：HLAとの明らかな関連は報告されておらず、SP-C遺伝子異常との関連が注目されている。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q5_p004.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=4"
-      },
-      "id": "qa-1640",
-      "choices": {
-        "a": "喫煙",
-        "b": "胃食道逆流症",
-        "c": "粉塵吸入",
-        "d": "糖尿病",
-        "e": "ヒト白血球抗原(HLA)"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPF の診断に際しては、原因の特定できるほかの間質性肺疾患を臨床的に除外する",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q5_p006.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=6"
-      },
-      "id": "qa-1645"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "確定診断には外科的肺生検 (surgical lung biopsy: SLB)が必須である",
-      "answer": "×",
-      "explanation": "HRCT 所見で典型的なUIP パターンを示す場合には、外科的肺生検(SLB)は必須ではない。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q5_p006.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=6"
-      },
-      "id": "qa-1646"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "臨床像、HRCT所見から IPFは診断可能である",
-      "answer": "○",
-      "explanation": "臨床的には主に clinical context of IPF を満たす症例でIPF が診断される。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q5_p006.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=6"
-      },
-      "id": "qa-1647"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "SLB が施行された症例では、HRCT所見とSLB所見の組み合わせで判断する",
-      "answer": "○",
-      "explanation": "診断のゴールドスタンダードとされている。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q5_p006.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=6"
-      },
-      "id": "qa-1648"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "呼吸器専門医、画像診断医、病理診断医が多職種で協議し総合的に判断することが重要である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q5_p006.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=6"
-      },
-      "id": "qa-1649"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "診断、予後評価に気管支肺胞洗浄は必須である",
-      "answer": "×",
-      "explanation": "診断や予後の推定に有効であるとはされていないが、他疾患の除外には有効な場合がある。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q5_p006.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=6"
-      },
-      "id": "qa-1650"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "気管支肺胞洗浄は他疾患を除外するために有効な場合がある",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q5_p006.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=6"
-      },
-      "id": "qa-1651"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "気管支肺胞洗浄液の細胞分画ではリンパ球比率が正常に近い",
-      "answer": "○",
-      "explanation": "非特異性間質性肺炎 (NSIP) や特発性器質化肺炎(COP) ではリンパ球比率は上昇する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q5_p006.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=6"
-      },
-      "id": "qa-1652"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPF を考慮すべき臨床像はどれか。",
-      "answer": [
-        "b",
-        "d"
-      ],
-      "explanation": "a（×）：―\nb（○）：IPF を疑う臨床背景(clinical context of IPF)は、・61歳以上・臨床的に明らかな環境や薬剤曝露がない・膠原病を示唆する所見がない のすべてを満たす病態とされている。\nc（×）：―\nd（○）：―\ne（×）：―",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q5_p006.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=6"
-      },
-      "id": "qa-1653",
-      "choices": {
-        "a": "41歳以上",
-        "b": "61歲以上",
-        "c": "長年にわたる鳥飼育歴がある",
-        "d": "明らかな薬剤曝露がない",
-        "e": "レイノー現象陽性"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "特発性肺線維症 (IPF)の本邦での重症度分類の項目として正しいものを選べ。",
-      "answer": [
-        "c",
-        "f"
-      ],
-      "explanation": "a（×）：―\nb（×）：―\nc（○）：―\nd（×）：―\ne（×）：―\nf（○）：―\ng（×）：―",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q5_p008.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=8"
-      },
-      "id": "qa-1658",
-      "choices": {
-        "a": "年齡",
-        "b": "性別",
-        "c": "安静時 PaO2",
-        "d": "努力性肺活量(FVC)",
-        "e": "拡散能 (DLCo)",
-        "f": "6分間歩行試験での最低 SpO2 値",
-        "g": "血清 KL-6"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "アメリカの研究グループによって提唱された重症度分類であるGAPモデルに含まれる項目として正しいものを選べ。",
-      "answer": [
-        "a",
-        "b",
-        "d",
-        "e"
-      ],
-      "explanation": "GAPモデルはGender（性別）・Age（年齢）・Physiology（%FVC・%DLco）から算出し、IPFの予後を層別化する。\na（○）：年齢＝GAPのA（Age）。\nb（○）：性別＝GAPのG（Gender）。\nc（×）：安静時PaO2はGAPに含まれない（本邦の重症度分類で用いる項目）。\nd（○）：FVC（%FVC）＝GAPのP（Physiology）。\ne（○）：DLco（%DLco）＝GAPのP（Physiology）。\nf（×）：6分間歩行時の最低SpO2はGAPに含まれない（本邦の重症度分類で用いる項目）。\ng（×）：血清KL-6はGAPに含まれない。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q5_p008.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=8"
-      },
-      "id": "qa-1665",
-      "choices": {
-        "a": "年齢",
-        "b": "性別",
-        "c": "安静時PaO2",
-        "d": "FVC",
-        "e": "DLco",
-        "f": "6分間歩行試験での最低SpO2値",
-        "g": "血清KL-6"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPFの治療目標は治癒である",
-      "answer": "×",
-      "explanation": "不可逆的な肺線維化のため治癒は期待できず、進行抑制が現実的な目的となる。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q5_p010.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=10"
-      },
-      "id": "qa-1668"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "特発性肺線維症(IPF) の慢性安定期の治療として適切なものを選べ。",
-      "answer": [
-        "a",
-        "b"
-      ],
-      "explanation": "a（○）：肺機能の低下を抑制する。また急性増悪を抑制する可能性も示されている。\nb（○）：―\nc（×）：―\nd（×）：国際臨床試験の結果から、これらの薬剤は使用しないことが推奨されている。\ne（×）：―",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q5_p010.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=10"
-      },
-      "id": "qa-1669",
-      "choices": {
-        "a": "ニンテダニブ",
-        "b": "ピルフェニドン",
-        "c": "Nアセチルシステイン (NAC) 経口療法",
-        "d": "副腎皮質ステロイド+免疫抑制剤",
-        "e": "副腎皮質ステロイド単剤"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "ピルフェニドンについて正しいのはどれか。",
-      "answer": [
-        "a",
-        "b",
-        "d"
-      ],
-      "explanation": "a（○）：―\nb（○）：―\nc（×）：体重減少がみられる。\nd（○）：適切な対応策をすれば多くの例で許容可能である。\ne（×）：―",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q5_p010.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=10"
-      },
-      "id": "qa-1674",
-      "choices": {
-        "a": "急性増悪などの急性期における治療効果は示されていない。",
-        "b": "主な有害事象に食欲不振などの消化器症状がある。",
-        "c": "体重増加がみられることが多い。",
-        "d": "光線過敏症が特徴的な有害事象である。",
-        "e": "過敏症がみられたらすぐに使用を中止する。"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "ニンテダニブについて正しいのはどれか。",
-      "answer": [
-        "a",
-        "c",
-        "d"
-      ],
-      "explanation": "a（○）：―\nb（×）：市販後調査では約10%である。\nc（○）：―\nd（○）：―",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q5_p012.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=12"
-      },
-      "id": "qa-1679",
-      "choices": {
-        "a": "主な有害事象は下痢である。",
-        "b": "半数以上に体重減少がみられる。",
-        "c": "重篤な有害事象に血栓塞栓症がある。",
-        "d": "重篤な有害事象に消化管穿孔がある。"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "特発性肺線維症 (IPF)の治療について、正しいものを選べ。",
-      "answer": [
-        "a",
-        "b",
-        "e"
-      ],
-      "explanation": "a（○）：喫煙は発症危険因子である。\nb（○）：―\nc（×）：生存率を向上させる根拠はないが、慢性呼吸不全を認める場合は在宅酸素療法が推奨される。\nd（×）：安静時と比べて労作時に高流量の酸素吸入を要する場合が多い。\ne（○）：国際ガイドラインでも弱く推奨されている。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q5_p012.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=12"
-      },
-      "id": "qa-1683",
-      "choices": {
-        "a": "禁煙は必須である",
-        "b": "感染予防として肺炎球菌ワクチン、インフルエンザワクチンの接種が推奨される。",
-        "c": "在宅酸素療法による長期酸素療法は生存率を向上させる",
-        "d": "在宅酸素療法を行う場合、安静時と労作時で流量の変更は必要ない。",
-        "e": "呼吸リハビリテーションは運動耐用能やQOLを改善する。"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "国際的にIPFの治療効果判定基準とされているものを選べ。",
-      "answer": [
-        "a",
-        "b",
-        "c"
-      ],
-      "explanation": "a（○）：特に呼吸困難や咳嗽。効果判定の際は、自覚症状、画像所見、呼吸機能検査の3項目が評価される。\nb（○）：―\nc（○）：―\nd（×）：―",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q5_p014.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=14"
-      },
-      "id": "qa-1688",
-      "choices": {
-        "a": "自覚症状",
-        "b": "胸部単純X線または HRCTでの陰影の程度",
-        "c": "呼吸機能検査",
-        "d": "Performance status"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPFの予後不良因子を選べ。",
-      "answer": [
-        "a",
-        "c",
-        "d",
-        "e"
-      ],
-      "explanation": "a（○）：―\nb（×）：男性の方が予後不良である。\nc（○）：―\nd（○）：予後規定因子の中で最も重要である。\ne（○）：―",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q5_p014.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=14"
-      },
-      "id": "qa-1692",
-      "choices": {
-        "a": "高齡",
-        "b": "女性",
-        "c": "観察開始時の呼吸困難",
-        "d": "FVCの経時的低下",
-        "e": "DLCO の経時的低下"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPF 急性増悪",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q5_p014.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=14"
-      },
-      "id": "qa-1697"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPF の合併症。急性増悪の年間発症率は約10%である。",
-      "answer": "○",
-      "explanation": "年間発症率は5~15%とされている。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q5_p014.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=14"
-      },
-      "id": "qa-1698"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "気胸・縦隔気腫を合併する頻度は低い。",
-      "answer": "×",
-      "explanation": "IPFでは合併しやすく、副腎皮質ステロイド使用によりさらに頻度は高くなる。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1699"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "肺癌の合併は健常者よりも少ない。",
-      "answer": "×",
-      "explanation": "IPF では10~30%に原発性肺癌を合併する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1700"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "肺アスペルギルス症や日和見感染を合併しうる。",
-      "answer": "○",
-      "explanation": "急性増悪後で副腎皮質ステロイドや免疫抑制剤を使用する場合は細菌性肺炎、ニューモシスチス肺炎、サイトメガロウイルス肺炎などのリスクが高くなる。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1701"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "高度の呼吸困難や SpO2 低下がみられた場合には肺高血圧症の合併を疑う。",
-      "answer": "○",
-      "explanation": "特に気腫合併間質性肺炎で合併頻度が高い。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1702"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "胃食道逆流症を合併することは少ない。",
-      "answer": "×",
-      "explanation": "IPF にしばしば合併し、IPFの発症や進行に関与することが示唆されている。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1703"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPF 急性増悪の発症頻度は呼吸機能障害の程度に無関係である。",
-      "answer": "×",
-      "explanation": "低肺機能であるほど発症率は上昇する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1704"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "病理像は基本的にはUIPに器質化肺炎が加わった像である。",
-      "answer": "×",
-      "explanation": "UIP にびまん性肺胞障害が加わった像である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1705"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "ステロイドパルス療法が施行される。",
-      "answer": "○",
-      "explanation": "ただし、十分なエビデンスがあるわけではない。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1706"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "初回急性増悪での死亡率は50~80%である。",
-      "answer": "○",
-      "explanation": "中央生存期間1.3ヶ月、改善例でも平均6ヶ月で死亡する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1707"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "日本ではIPFの死因の中で急性増悪が最多である。",
-      "answer": "○",
-      "explanation": "IPFの死因の約40%を占める。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1708"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPF 急性増悪の誘因となりうるものを選べ。",
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "d",
-        "e"
-      ],
-      "explanation": "a（○）：―\nb（○）：明らかな誘因なく、自然経過でも発症しうることにも注意が必要である。\nc（○）：―\nd（○）：―\ne（○）：―",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q5_p016.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=16"
-      },
-      "id": "qa-1709",
-      "choices": {
-        "a": "急速な副腎皮質ステロイド減量",
-        "b": "全身麻酔による手術",
-        "c": "気管支肺胞洗浄",
-        "d": "悪性腫瘍に対する化学療法",
-        "e": "放射線治療"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "日本で用いられる IPF 急性増悪の臨床診断基準に含まれるものはどれか。",
-      "answer": [
-        "b",
-        "c"
-      ],
-      "explanation": "a（×）：1ヶ月以内である。\nb（○）：―\nc（○）：基準は 10 Torr以上の低下である。\nd（×）：急性増悪診断の参考所見としては評価される。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q5_p018.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=18"
-      },
-      "id": "qa-1714",
-      "choices": {
-        "a": "3ヶ月以内の経過での呼吸困難增強",
-        "b": "HRCT 所見で蜂巣肺所見+新たなすりガラス影、浸潤影",
-        "c": "動脈血酸素分圧の低下",
-        "d": "血清 KL-6上昇"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "気腫合併肺線維症(CPFE)について。男性の喫煙者に多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q5_p018.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=18"
-      },
-      "id": "qa-1718"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "HRCTでは主に上葉に間質性肺炎、下葉に肺気腫が認められる。",
-      "answer": "×",
-      "explanation": "上葉に肺気腫、下葉に間質性肺炎が認められる。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q5_p018.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=18"
-      },
-      "id": "qa-1719"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "労作時呼吸困難はみられないことが多い。",
-      "answer": "×",
-      "explanation": "労作時呼吸困難がみられることが多い。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q5_p018.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=18"
-      },
-      "id": "qa-1720"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "FEV1 は病初期で保たれる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q5_p018.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=18"
-      },
-      "id": "qa-1721"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "FVC や FEV1の経年的低下は軽度にとどまる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q5_p018.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=18"
-      },
-      "id": "qa-1722"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "DLCoは低下しない。",
-      "answer": "×",
-      "explanation": "著明に低下する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q5_p018.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=18"
-      },
-      "id": "qa-1723"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "原発性肺癌の合併が多い。",
-      "answer": "○",
-      "explanation": "約50%に合併する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q5_p018.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=18"
-      },
-      "id": "qa-1724"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "肺高血圧の合併は少ない。",
-      "answer": "×",
-      "explanation": "合併は多く、肺癌と同様に予後不良である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1725"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "特発性間質性肺炎(IIPs)について。IPF は IIPs には分類されない。",
-      "answer": "×",
-      "explanation": "IPF も IIPs に分類される。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1726"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IIPs は原因を特定しえない間質性肺炎の総称である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1727"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "膠原病が原因のNSIP は IIPs に分類される。",
-      "answer": "×",
-      "explanation": "原因が明らかな場合はIIPs ではなく、膠原病関連間質性肺炎など原疾患に伴う間質性肺炎として診断される。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1728"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "既存の疾患概念に当てはまらない疾患は分類不能型と診断される。",
-      "answer": "○",
-      "explanation": "臨床・画像・病理データが不十分、画像・病理所見が複数パターンを呈する場合なども分類不能型と診断される。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1729"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "上葉優位型の肺線維症である idiopathic pleuroparenchymal fibroelastosis (IPPFE) は IIPs に分類される。",
-      "answer": "○",
-      "explanation": "稀なIIPsの1つとされている。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1730"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "日本では、IPFとは異なる重症度分類を用いる。",
-      "answer": "×",
-      "explanation": "IIPs では同じ重症度分類を用いる。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1731"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "疾患の挙動 (disease behavior) に応じて臨床分類と治療目標を定めることが推奨されている。",
-      "answer": "○",
-      "explanation": "特に発症様式や臨床経過が重要である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1732"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "特発性 NSIPと診断した症例の中で経過中に膠原病を発症する症例がある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1733"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "好発年齢は40~50歳代である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1734"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "男女比 7:3で男性に多い。",
-      "answer": "×",
-      "explanation": "男女比 3:7で女性に多い。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1735"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "喫煙者が60~70%である。",
-      "answer": "×",
-      "explanation": "非喫煙者が60~70%を占める。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q5_p020.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=20"
-      },
-      "id": "qa-1736"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "気管支肺胞洗浄で好中球比率が上昇する。",
-      "answer": "×",
-      "explanation": "リンパ球の比率が上昇する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q5_p022.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=22"
-      },
-      "id": "qa-1737"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "HRCTでは両側性、多発性のすりガラス影や浸潤影が認められる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q5_p022.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=22"
-      },
-      "id": "qa-1738"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "HRCT では蜂巣肺形成が特徴である。",
-      "answer": "×",
-      "explanation": "蜂巣肺形成は乏しく気管支血管束沿いの陰影が優位である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q5_p022.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=22"
-      },
-      "id": "qa-1739"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "HRCT では牽引性気管支拡張が認められる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q5_p022.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=22"
-      },
-      "id": "qa-1740"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "細胞浸潤の強いNSIP では副腎皮質ステロイドが有効な症例が多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q5_p022.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=22"
-      },
-      "id": "qa-1741"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "線維化性 NSIP では30%で原病関連死する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q5_p022.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=22"
-      },
-      "id": "qa-1742"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "予後はIPF と同様に不良である。",
-      "answer": "×",
-      "explanation": "IPFと比較すると予後は良好であるが、予後不良群も存在する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q5_p022.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=22"
-      },
-      "id": "qa-1743"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "経時的な呼吸機能低下は予後規定因子である。",
-      "answer": "○",
-      "explanation": "予後規定因子は他に組織学的分類、初診時の呼吸機能、年齢などがある。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q5_p022.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=22"
-      },
-      "id": "qa-1744"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "Interstitial pneumonia with autoimmune features (IPAF)について。いずれの膠原病の診断基準も満たさないが、膠原病を疑う症状や血清中の自己抗体が認められる間質性肺炎症例について、IPAF という診断基準が提唱されている。",
-      "answer": "○",
-      "explanation": "現時点ではあくまでも研究用の診断名である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q5_p022.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=22"
-      },
-      "id": "qa-1745"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPAFの診断基準に含まれる項目はどれか。",
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "f"
-      ],
-      "explanation": "a（○）：―\nb（○）：―\nc（○）：臨床ドメイン、血清学ドメイン、形態学ドメインのうち2つ以上のドメインを満たした場合にIPAFと診断される。\nd（×）：ANCAについては血管炎に関連しているため含まれていない。\ne（×）：UIPパターンは、その存在のみでは強く自己免疫疾患を示唆する病態ではないため、項目に含まれていない。\nf（○）：―",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q5_p022.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=22"
-      },
-      "id": "qa-1746",
-      "choices": {
-        "a": "レイノー現象",
-        "b": "抗核抗体高値",
-        "c": "リウマチ因子陽性",
-        "d": "MPO-ANCA 高値",
-        "e": "画像・病理所見での UIP パターン",
-        "f": "画像・病理所見でのNSIP パターン"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "特発性器質化肺炎(COP)について。性差はない。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1752"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "30~40歳代に好発する。",
-      "answer": "×",
-      "explanation": "50~60歳代に好発する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1753"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "患者数は非喫煙者の方が喫煙者よりも多い。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1754"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "ばち指はみられない。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1755"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "血痰が多い。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1756"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "画像所見では、気管支透亮像を伴う consolidation が両側に認められることが多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1757"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "気管支肺胞洗浄液中のリンパ球比率が上昇する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1758"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "気管支肺胞洗浄液中のCD4/8比が上昇する。",
-      "answer": "×",
-      "explanation": "低下する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1759"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "副腎皮質ステロイドでは効果が不十分のため免疫抑制剤を併用することが多い。",
-      "answer": "×",
-      "explanation": "副腎皮質ステロイドが著効する症例が多いが、難治例には免疫抑制剤を併用する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1760"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "副腎皮質ステロイド治療後も再発することが多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1761"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPPFE/上葉優位型肺線維症について。HRCTで病変の主座が両側上葉にある慢性線維化性間質性肺炎である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 24,
-        "image": "assets/reference_pages/q5_p024.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=24"
-      },
-      "id": "qa-1762"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPPFE は病因となる基礎病態や原因疾患を同定しえない原因不明のPPFEである。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1763"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "慢性期の移植片対宿主病は二次性のPPFEの原因と推定されている。",
-      "answer": "○",
-      "explanation": "他にシクロホスファミドなどの抗悪性腫瘍薬なども原因と推定されている。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1764"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "るいそうが認められる頻度は少ない。",
-      "answer": "×",
-      "explanation": "るいそうは特徴的な身体所見の1つである。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1765"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "扁平胸郭がしばしば認められる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1766"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "気胸を合併することは少ない。",
-      "answer": "×",
-      "explanation": "しばしば気胸を合併する",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1767"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "FVCは低下する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1768"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "残気率は低下する。",
-      "answer": "×",
-      "explanation": "残気率は増加する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1769"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "胸部単純X線では両側肺門の挙上がみられる。",
-      "answer": "○",
-      "explanation": "両側上葉の容積減少が原因である。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1770"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "胸部CTでは胸膜に直行する太い線状影や気管支血管束の肥厚がみられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1771"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "副腎皮質ステロイドが有効である。",
-      "answer": "×",
-      "explanation": "有効な治療薬は報告されていない。副腎皮質ステロイドの効果は否定的であり、さらに気胸のリスクを高めるため使用すべきではない。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1772"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "慢性経過中、感染症の合併は稀である。",
-      "answer": "×",
-      "explanation": "肺非結核性抗酸菌症や肺アスペルギルス症をしばしば合併する。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1773"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "特発性間質性肺炎(IIPs)",
-      "question": "IPF と同様に予後不良である場合がある。",
-      "answer": "○",
-      "explanation": "下葉にUIP パターンを有するPPFEはIPFよりも予後が悪いと報告されている。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題"
-      ],
-      "source_file": "5_特発性間質性肺炎_一問一答.docx",
-      "reference": {
-        "title": "第5章 特発性間質性肺炎(IIPs) 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q5_p026.webp",
-        "viewer": "reference-viewer.html?doc=q5&page=26"
-      },
-      "id": "qa-1774"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
       "section": "急性呼吸窮迫症候群・急性肺損傷",
       "question": "急性呼吸窮迫症候群(ARDS)の本態は肺の炎症とそれに伴う微小血管の透過性亢進型水腫である。",
       "answer": "○",
@@ -55788,6 +53339,2001 @@
         "選択肢統合"
       ],
       "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3053",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性肺線維症(IPF)の男性の発症リスクは女性に比べて高い。",
+      "answer": "○",
+      "explanation": "欧米では1.5倍、日本では2.7倍と報告されている。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3054",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性肺線維症(IPF)はほとんどが50歳以上の成人に発症する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3055",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性肺線維症(IPF)の画像・病理組織パターンは通常型間質性肺炎(usual interstitial pneumonia: UIP)である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3056",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性肺線維症(IPF)の発症時には乾性咳嗽や労作時呼吸困難はみられない。",
+      "answer": "×",
+      "explanation": "乾性咳嗽や労作時呼吸困難は発症時の主な症状である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3057",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性肺線維症(IPF)では肺底部の捻髪音(fine crackles)は90%前後に聴取される。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3058",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性肺線維症(IPF)ではばち指は90%前後に認められる。",
+      "answer": "×",
+      "explanation": "30〜60%前後である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3059",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "チアノーゼ、肺性心、末梢性浮腫はIPFの末期に認められる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3060",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "血液検査はIPFの確定診断に有用である。",
+      "answer": "×",
+      "explanation": "確定診断に有用ではないが、本疾患を疑うきっかけや病態のモニタリングなどに有用なマーカーもある。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3061",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "血清KL-6、SP-D、SP-AがIPFで異常高値となる割合は90%前後である。",
+      "answer": "○",
+      "explanation": "軽症例においても80%前後と高率である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3062",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFでは血清LDHは上昇しない。",
+      "answer": "×",
+      "explanation": "約50%の症例で異常高値である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3063",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "急激な血清KL-6上昇がみられた場合、ニューモシスチス肺炎やサイトメガロウイルス(cytomegalovirus: CMV)感染を考慮する。",
+      "answer": "○",
+      "explanation": "β-DグルカンやCMV抗原を測定する。悪性腫瘍(腺癌)の合併で血清KL-6が上昇することにも注意が必要である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3064",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの胸部単純X線では線状網状影が両側中下肺野、末梢側優位に広がり、多くは肺の容積減少を伴う。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3065",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFのHRCT像では両側下葉、背側、胸膜直下に優位に分布する蜂巣肺と網状影が重要である。",
+      "answer": "○",
+      "explanation": "慢性安定期のIPFではコンソリデーションやすりガラス影は稀である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3066",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "HRCT像での蜂巣肺はIPFに特異的な所見である。",
+      "answer": "×",
+      "explanation": "IPF以外にも線維性過敏性肺炎、膠原病関連間質性肺炎、アスベスト肺などでみられる。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3067",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFのHRCT像で牽引性気管支拡張が認められる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3068",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFと線維化性NSIPとの鑑別は容易である。",
+      "answer": "×",
+      "explanation": "線維化の進行したIPFでみられる所見は非特異性間質性肺炎(NSIP)でもみられる。NSIPが経過中にUIP類似の画像を示すこともあり、両者の鑑別は容易ではない。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3069",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFでは肺活量(VC)、努力性肺活量(FVC)、全肺気量(TLC)の低下が認められる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3070",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFではVCやTLCが減少した後に拡散能(DLco)が低下する。",
+      "answer": "×",
+      "explanation": "DLcoが低下した後にVCやTLCが低下する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3071",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "重症例では安静時でも動脈血酸素分圧(PaO2)が低下し、肺胞気動脈血酸素分圧較差(A-aDO2)が開大する。",
+      "answer": "○",
+      "explanation": "換気血流不均衡が生じる。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3072",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの重症例では6分間歩行試験中のSpO2低下が著しい。",
+      "answer": "○",
+      "explanation": "運動することによりA-aDO2が開大しPaO2が低下するためである。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3073",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "6分間歩行試験は歩行障害を有する患者でも正確な評価が可能である。",
+      "answer": "×",
+      "explanation": "歩行障害を有する患者では正確な評価はできない。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3074",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "6分間歩行試験では心不全に伴う呼吸不全の要素は排除できない。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3075",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの病勢の評価には定期的なFVC測定が有用である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3076",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFは厚生労働省の難病に指定されている。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-786",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの発症危険因子はどれか。",
+      "choices": {
+        "a": "喫煙",
+        "b": "胃食道逆流症",
+        "c": "粉塵吸入",
+        "d": "糖尿病",
+        "e": "ヒト白血球抗原(HLA)"
+      },
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "explanation": "喫煙常習者のIPF発症オッズ比は1.6〜2.9。胃食道逆流症・粉塵吸入(環境曝露)・高血糖/糖尿病も発症リスクを高める。HLAとの明らかな関連は報告されておらず、SP-C遺伝子異常との関連が注目されている。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3077",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの診断に際しては、原因の特定できるほかの間質性肺疾患を臨床的に除外する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3078",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの確定診断には外科的肺生検(surgical lung biopsy: SLB)が必須である。",
+      "answer": "×",
+      "explanation": "HRCT所見で典型的なUIPパターンを示す場合には、外科的肺生検(SLB)は必須ではない。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3079",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "臨床像、HRCT所見からIPFは診断可能である。",
+      "answer": "○",
+      "explanation": "臨床的にclinical context of IPFを満たす症例でIPFが診断される。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3080",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "SLBが施行された症例では、HRCT所見とSLB所見の組み合わせで判断する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3081",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "呼吸器専門医、画像診断医、病理診断医が多職種で協議し(multidisciplinary discussion: MDD)総合的に判断することが重要である。",
+      "answer": "○",
+      "explanation": "診断のゴールドスタンダードとされている。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3082",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの診断、予後評価に気管支肺胞洗浄は必須である。",
+      "answer": "×",
+      "explanation": "診断や予後の推定に有効であるとはされていないが、他疾患の除外には有効な場合がある。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3083",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "気管支肺胞洗浄は他疾患を除外するために有効な場合がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3084",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの気管支肺胞洗浄液の細胞分画ではリンパ球比率が正常に近い。",
+      "answer": "○",
+      "explanation": "非特異性間質性肺炎(NSIP)や特発性器質化肺炎(cryptogenic organizing pneumonia: COP)ではリンパ球比率は上昇する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-787",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFを考慮すべき臨床像はどれか。",
+      "choices": {
+        "a": "41歳以上",
+        "b": "61歳以上",
+        "c": "長年にわたる鳥飼育歴がある。",
+        "d": "明らかな薬剤曝露がない。",
+        "e": "レイノー現象陽性"
+      },
+      "answer": [
+        "b",
+        "d"
+      ],
+      "explanation": "IPFを疑う臨床背景(clinical context of IPF)は、61歳以上・臨床的に明らかな環境や薬剤曝露がない・膠原病を示唆する所見がない、のすべてを満たす病態とされている。鳥飼育歴は過敏性肺炎、レイノー現象は膠原病を示唆する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-788",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性肺線維症(IPF)の本邦での重症度分類の項目として正しいものを選べ。",
+      "choices": {
+        "a": "年齢",
+        "b": "性別",
+        "c": "安静時PaO2",
+        "d": "努力性肺活量(FVC)",
+        "e": "拡散能(DLco)",
+        "f": "6分間歩行試験での最低SpO2値",
+        "g": "血清KL-6"
+      },
+      "answer": [
+        "c",
+        "f"
+      ],
+      "explanation": "本邦のIPF重症度分類は、安静時PaO2と6分間歩行試験での最低SpO2値の2項目で判定される。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-789",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "アメリカの研究グループによって提唱された重症度分類であるGAPモデルに含まれる項目として正しいものを選べ。",
+      "choices": {
+        "a": "年齢",
+        "b": "性別",
+        "c": "安静時PaO2",
+        "d": "FVC",
+        "e": "DLco",
+        "f": "6分間歩行試験での最低SpO2値",
+        "g": "血清KL-6"
+      },
+      "answer": [
+        "a",
+        "b",
+        "d",
+        "e"
+      ],
+      "explanation": "GAPモデルはGender(性別)、Age(年齢)、Physiology(FVC・DLco)の項目で構成される。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3085",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの治療目標は治癒である。",
+      "answer": "×",
+      "explanation": "不可逆的な肺線維化のため治癒は期待できず、進行抑制が現実的な目的となる。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-790",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性肺線維症(IPF)の慢性安定期の治療として適切なものを選べ。",
+      "choices": {
+        "a": "ニンテダニブ",
+        "b": "ピルフェニドン",
+        "c": "Nアセチルシステイン(NAC)経口療法",
+        "d": "副腎皮質ステロイド+免疫抑制剤",
+        "e": "副腎皮質ステロイド単剤"
+      },
+      "answer": [
+        "a",
+        "b"
+      ],
+      "explanation": "ニンテダニブ・ピルフェニドン(抗線維化薬)は肺機能の低下を抑制し、急性増悪を抑制する可能性も示されている。副腎皮質ステロイド+免疫抑制剤は国際臨床試験の結果から使用しないことが推奨されている。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-791",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "ピルフェニドンについて正しいのはどれか。",
+      "choices": {
+        "a": "急性増悪などの急性期における治療効果は示されていない。",
+        "b": "主な有害事象に食欲不振などの消化器症状がある。",
+        "c": "体重増加がみられることが多い。",
+        "d": "光線過敏症が特徴的な有害事象である。",
+        "e": "光線過敏症がみられたらすぐに使用を中止する。"
+      },
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "c 体重減少がみられる。e 光線過敏症は適切な対応策をすれば多くの例で許容可能であり、すぐに中止する必要はない。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-792",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "ニンテダニブについて正しいのはどれか。",
+      "choices": {
+        "a": "主な有害事象は下痢である。",
+        "b": "半数以上に体重減少がみられる。",
+        "c": "光線過敏症が特徴的な有害事象である。",
+        "d": "重篤な有害事象に血栓塞栓症がある。",
+        "e": "重篤な有害事象に消化管穿孔がある。"
+      },
+      "answer": [
+        "a",
+        "d",
+        "e"
+      ],
+      "explanation": "b 体重減少は市販後調査では約10%である。c 光線過敏症はピルフェニドンに特徴的な有害事象である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-793",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性肺線維症(IPF)の治療について、正しいものを選べ。",
+      "choices": {
+        "a": "禁煙は必須である。",
+        "b": "感染予防として肺炎球菌ワクチン、インフルエンザワクチンの接種が推奨される。",
+        "c": "在宅酸素療法による長期酸素療法は生存率を向上させる。",
+        "d": "在宅酸素療法を行う場合、安静時と労作時で流量の変更は必要ない。",
+        "e": "呼吸リハビリテーションは運動耐用能やQOLを改善する。"
+      },
+      "answer": [
+        "a",
+        "b",
+        "e"
+      ],
+      "explanation": "c 在宅酸素療法が生存率を向上させる根拠はないが、慢性呼吸不全を認める場合は推奨される。d 安静時と比べて労作時に高流量の酸素吸入を要する場合が多く、流量の変更が必要である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-794",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "国際的にIPFの治療効果判定基準とされているものを選べ。",
+      "choices": {
+        "a": "自覚症状",
+        "b": "胸部単純X線またはHRCTでの陰影の程度",
+        "c": "呼吸機能検査",
+        "d": "Performance status",
+        "e": "血清KL-6"
+      },
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "explanation": "効果判定の際は、自覚症状(特に呼吸困難や咳嗽)、画像所見、呼吸機能検査(VCやDLco)の3項目が評価される。Performance statusや血清KL-6は効果判定基準には含まれていない。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-795",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの予後不良因子を選べ。",
+      "choices": {
+        "a": "高齢",
+        "b": "女性",
+        "c": "観察開始時の呼吸困難",
+        "d": "FVCの経時的低下",
+        "e": "DLcoの経時的低下",
+        "f": "IPF急性増悪"
+      },
+      "answer": [
+        "a",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "explanation": "男性の方が予後不良である。観察開始時の呼吸困難は予後規定因子の中で最も重要である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3086",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFの急性増悪の年間発症率は約10%である。",
+      "answer": "○",
+      "explanation": "年間発症率は5〜15%とされている。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3087",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFでは気胸・縦隔気腫を合併する頻度は低い。",
+      "answer": "×",
+      "explanation": "IPFでは合併しやすく、副腎皮質ステロイド使用によりさらに頻度は高くなる。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3088",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFでは肺癌の合併は健常者よりも少ない。",
+      "answer": "×",
+      "explanation": "IPFでは10〜30%に原発性肺癌を合併する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3089",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFでは肺アスペルギルス症や日和見感染を合併しうる。",
+      "answer": "○",
+      "explanation": "急性増悪後に副腎皮質ステロイドや免疫抑制剤を使用する場合は細菌性肺炎、ニューモシスチス肺炎、サイトメガロウイルス肺炎などのリスクが高くなる。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3090",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFで高度の呼吸困難やSpO2低下がみられた場合には肺高血圧症の合併を疑う。",
+      "answer": "○",
+      "explanation": "特に気腫合併間質性肺炎で合併頻度が高い。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3091",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFでは胃食道逆流症を合併することは少ない。",
+      "answer": "×",
+      "explanation": "IPFにしばしば合併し、IPFの発症や進行に関与することが示唆されている。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3092",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPF急性増悪の発症頻度は呼吸機能障害の程度と無関係である。",
+      "answer": "×",
+      "explanation": "低肺機能であるほど発症率は上昇する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3093",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPF急性増悪の病理像は基本的にはUIPに器質化肺炎が加わった像である。",
+      "answer": "×",
+      "explanation": "UIPにびまん性肺胞傷害(DAD)が加わった像である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3094",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPF急性増悪に対してステロイドパルス療法が施行される。",
+      "answer": "○",
+      "explanation": "ただし、十分なエビデンスがあるわけではない。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3095",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPF初回急性増悪での死亡率は50〜80%である。",
+      "answer": "○",
+      "explanation": "中央生存期間1.3ヶ月、改善例でも平均6ヶ月で死亡する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3096",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "日本ではIPFの死因の中で急性増悪が最多である。",
+      "answer": "○",
+      "explanation": "IPFの死因の約40%を占める。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-796",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPF急性増悪の誘因となりうるものを選べ。",
+      "choices": {
+        "a": "急速な副腎皮質ステロイド減量",
+        "b": "全身麻酔による手術",
+        "c": "気管支肺胞洗浄",
+        "d": "悪性腫瘍に対する化学療法",
+        "e": "放射線治療"
+      },
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "explanation": "いずれも急性増悪の誘因となりうる。明らかな誘因なく、自然経過でも発症しうることにも注意が必要である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-797",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "日本で用いられるIPF急性増悪の臨床診断基準に含まれるものはどれか。",
+      "choices": {
+        "a": "3ヶ月以内の経過での呼吸困難増強",
+        "b": "HRCT所見で蜂巣肺所見+新たなすりガラス影、浸潤影",
+        "c": "動脈血酸素分圧の低下",
+        "d": "血清KL-6上昇"
+      },
+      "answer": [
+        "b",
+        "c"
+      ],
+      "explanation": "a 1ヶ月以内の経過での呼吸困難増強である。c 基準は動脈血酸素分圧10Torr以上の低下である。d 血清KL-6上昇は急性増悪診断の参考所見としては評価されるが、診断基準には含まれない。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3097",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "気腫合併肺線維症(combined pulmonary fibrosis and emphysema: CPFE)は男性の喫煙者に多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3098",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "CPFEではHRCTで主に上葉に間質性肺炎、下葉に肺気腫が認められる。",
+      "answer": "×",
+      "explanation": "上葉に肺気腫、下葉に間質性肺炎が認められる。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3099",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "CPFEでは労作時呼吸困難はみられないことが多い。",
+      "answer": "×",
+      "explanation": "労作時呼吸困難がみられることが多い。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3100",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "CPFEではFEV1は病初期で保たれる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3101",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "CPFEではFVCやFEV1の経年的低下は軽度にとどまる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3102",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "CPFEではDLcoは低下しない。",
+      "answer": "×",
+      "explanation": "DLcoは著明に低下する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3103",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "CPFEでは原発性肺癌の合併が多い。",
+      "answer": "○",
+      "explanation": "約50%に合併する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3104",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "CPFEでは肺高血圧の合併は少ない。",
+      "answer": "×",
+      "explanation": "合併は多く、肺癌と同様に予後不良である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3105",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPFはIIPsには分類されない。",
+      "answer": "×",
+      "explanation": "IPFもIIPsに分類される。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3106",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IIPsは原因を特定しえない間質性肺炎の総称である。",
+      "answer": "○",
+      "explanation": "国際ガイドラインではIPF、特発性非特異性間質性肺炎(iNSIP)、特発性器質化肺炎(COP)などを含めた9つの疾患に分類される。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3107",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "膠原病が原因のNSIPはIIPsに分類される。",
+      "answer": "×",
+      "explanation": "原因が明らかな場合はIIPsではなく、膠原病関連間質性肺炎など原疾患に伴う間質性肺炎として診断される。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3108",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "既存の疾患概念に当てはまらない疾患は分類不能型と診断される。",
+      "answer": "○",
+      "explanation": "臨床・画像・病理データが不十分、または画像・病理所見が複数パターンを呈する場合なども分類不能型と診断される。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3109",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "上葉優位型の肺線維症であるidiopathic pleuroparenchymal fibroelastosis(IPPFE)はIIPsに分類される。",
+      "answer": "○",
+      "explanation": "稀なIIPsの1つとされている。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3110",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "日本では、IIPsはIPFとは異なる重症度分類を用いる。",
+      "answer": "×",
+      "explanation": "IIPsではIPFと同じ重症度分類を用いる。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3111",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "疾患の挙動(disease behavior)に応じて臨床分類と治療目標を定めることが推奨されている。",
+      "answer": "○",
+      "explanation": "特に発症様式や臨床経過が重要である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3112",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性NSIPと診断された症例の中で経過中に膠原病を発症する症例がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3113",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性NSIPの好発年齢は40〜50歳代である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3114",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性NSIPは男女比7:3で男性に多い。",
+      "answer": "×",
+      "explanation": "男女比3:7で女性に多い。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3115",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性NSIPは喫煙者が60〜70%である。",
+      "answer": "×",
+      "explanation": "非喫煙者が60〜70%を占める。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3116",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性NSIPでは気管支肺胞洗浄で好中球比率が上昇する。",
+      "answer": "×",
+      "explanation": "リンパ球の比率が上昇する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3117",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性NSIPのHRCTでは両側性、多発性のすりガラス影や浸潤影が認められる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3118",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性NSIPのHRCTでは蜂巣肺形成が特徴である。",
+      "answer": "×",
+      "explanation": "蜂巣肺形成は乏しく、気管支血管束沿いの陰影が優位である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3119",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性NSIPのHRCTでは牽引性気管支拡張が認められる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3120",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "細胞浸潤の強いNSIPでは副腎皮質ステロイドが有効な症例が多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3121",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "線維化性NSIPでは30%で原病関連死する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3122",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性NSIPの予後はIPFと同様に不良である。",
+      "answer": "×",
+      "explanation": "IPFと比較すると予後は良好であるが、予後不良例も存在する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3123",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性NSIPでは経時的な呼吸機能低下は予後規定因子である。",
+      "answer": "○",
+      "explanation": "予後規定因子は他に組織学的分類、初診時の呼吸機能、年齢などがある。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3124",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "いずれの膠原病の診断基準も満たさないが、膠原病を疑う症状や血清中の自己抗体が認められる間質性肺炎症例について、interstitial pneumonia with autoimmune features (IPAF)という診断基準が提唱されている。",
+      "answer": "○",
+      "explanation": "現時点ではあくまでも研究用の診断名である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-798",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPAFの診断基準に含まれる項目はどれか。",
+      "choices": {
+        "a": "レイノー現象",
+        "b": "抗核抗体高値",
+        "c": "リウマチ因子陽性",
+        "d": "MPO-ANCA高値",
+        "e": "画像・病理所見でのUIPパターン",
+        "f": "画像・病理所見でのNSIPパターン"
+      },
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "f"
+      ],
+      "explanation": "臨床ドメイン・血清学ドメイン・形態学ドメインのうち2つ以上を満たした場合にIPAFと診断される。ANCAは血管炎に関連するため、またUIPパターンはその存在のみでは強く自己免疫疾患を示唆する病態ではないため、項目に含まれていない。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "選択肢統合",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3125",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性器質化肺炎(COP)は性差はない。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3126",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性器質化肺炎(COP)は30〜40歳代に好発する。",
+      "answer": "×",
+      "explanation": "50〜60歳代に好発する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3127",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性器質化肺炎(COP)の患者数は非喫煙者の方が喫煙者よりも多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3128",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性器質化肺炎(COP)ではばち指はみられない。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3129",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性器質化肺炎(COP)では血痰が多い。",
+      "answer": "×",
+      "explanation": "COPでは血痰は多くない。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3130",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性器質化肺炎(COP)の画像所見では、気管支透亮像を伴うconsolidationが両側に認められることが多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3131",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性器質化肺炎(COP)では気管支肺胞洗浄液中のリンパ球比率が上昇する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3132",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性器質化肺炎(COP)では気管支肺胞洗浄液中のCD4/8比が上昇する。",
+      "answer": "×",
+      "explanation": "CD4/8比は低下する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3133",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性器質化肺炎(COP)では副腎皮質ステロイドでは効果が不十分のため免疫抑制剤を併用することが多い。",
+      "answer": "×",
+      "explanation": "副腎皮質ステロイドが著効する症例が多いが、難治例には免疫抑制剤を併用する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3134",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "特発性器質化肺炎(COP)は副腎皮質ステロイド治療後も再発することが多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3135",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEはHRCTで病変の主座が両側上葉にある慢性線維化性間質性肺炎である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3136",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "idiopathic pleuroparenchymal fibroelastosis(IPPFE)は病因となる基礎病態や原因疾患を同定しえない原因不明のPPFEである。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3137",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "慢性期の移植片対宿主病は二次性のPPFEの原因と推定されている。",
+      "answer": "○",
+      "explanation": "他にシクロホスファミドなどの抗悪性腫瘍薬なども原因と推定されている。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3138",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEではるいそうが認められる頻度は少ない。",
+      "answer": "×",
+      "explanation": "るいそうは特徴的な身体所見の1つである。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3139",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEでは扁平胸郭がしばしば認められる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3140",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEでは気胸を合併することは少ない。",
+      "answer": "×",
+      "explanation": "しばしば気胸を合併する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3141",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEではFVCは低下する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3142",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEでは残気率は低下する。",
+      "answer": "×",
+      "explanation": "残気率は増加する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3143",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEの胸部単純X線では両側肺門の挙上がみられる。",
+      "answer": "○",
+      "explanation": "両側上葉の容積減少が原因である。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3144",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEの胸部CTでは胸膜に直行する太い線状影や気管支血管束の肥厚がみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3145",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEでは副腎皮質ステロイドが有効である。",
+      "answer": "×",
+      "explanation": "有効な治療薬は報告されていない。副腎皮質ステロイドの効果は否定的であり、さらに気胸のリスクを高めるため使用すべきではない。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3146",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEでは慢性経過中、感染症の合併は稀である。",
+      "answer": "×",
+      "explanation": "肺非結核性抗酸菌症や肺アスペルギルス症をしばしば合併する。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3147",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "特発性間質性肺炎(IIPs)",
+      "question": "IPPFEはIPFと同様に予後不良である場合がある。",
+      "answer": "○",
+      "explanation": "下葉にUIPパターンを有するPPFEはIPFよりも予後が悪いと報告されている。",
+      "tags": [
+        "各論I",
+        "特発性間質性肺炎(IIPs)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
       "images": []
     }
   ]
