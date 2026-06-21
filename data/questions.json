@@ -46,9 +46,9 @@
       "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2371,
-      "mcq": 262,
-      "total": 2633
+      "qa": 2367,
+      "mcq": 263,
+      "total": 2630
     },
     "sections": [
       "COPD",
@@ -292,9 +292,9 @@
         "qa-1327"
       ]
     },
-    "total_questions": 2633,
-    "qa_count": 2371,
-    "mcq_count": 262,
+    "total_questions": 2630,
+    "qa_count": 2367,
+    "mcq_count": 263,
     "last_update": "2026-06-18"
   },
   "items": [
@@ -31518,619 +31518,6 @@
     {
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "薬剤性肺障害では、必ず肺野にすりガラス影や浸潤影がみられる。",
-      "answer": "×",
-      "explanation": "浸潤影がみられることもあり、画像所見は多彩である。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q7_p002.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=2"
-      },
-      "id": "qa-1815"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "現在内服していない薬剤でも、過去に遡って内服歴を確認する必要がある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q7_p002.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=2"
-      },
-      "id": "qa-1816"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "総合感冒薬で薬剤性肺障害を発症した既往のある患者に、アセトアミノフェンは安全に処方可能である。",
-      "answer": "×",
-      "explanation": "総合感冒薬にはアセトアミノフェン配合剤があり注意が必要である。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q7_p002.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=2"
-      },
-      "id": "qa-1817"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "薬剤性肺障害は医師が処方した薬物に限る。",
-      "answer": "×",
-      "explanation": "医師が処方した薬剤以外の市販薬、生薬、健康食品などすべてを含む。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q7_p002.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=2"
-      },
-      "id": "qa-1818"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "薬剤性肺障害の発症に関連するリスクはどれか。",
-      "answer": [
-        "c",
-        "d",
-        "e"
-      ],
-      "explanation": "a（×）：高齢者(60歳以上)の方がリスクが高い。\nb（×）：喫煙者はリスクが高い。\nc（○）：―\nd（○）：―\ne（○）：―",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q7_p002.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=2"
-      },
-      "id": "qa-1819",
-      "choices": {
-        "a": "若年者(20歳未満)",
-        "b": "非喫煙歴",
-        "c": "既存の肺病変",
-        "d": "肺手術後",
-        "e": "肺への放射線照射"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "画像的にびまん性肺胞傷害 (DAD) パターンを呈する薬剤性肺障害は予後不良である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q7_p002.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=2"
-      },
-      "id": "qa-1824"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "日本人の薬剤性肺障害は総じて軽度である。",
-      "answer": "×",
-      "explanation": "日本人にはDAD パターンを示す薬剤性肺障害の発生頻度が高い。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q7_p002.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=2"
-      },
-      "id": "qa-1825"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "薬剤性肺障害の発症に関連するリスクはどれか。",
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "d"
-      ],
-      "explanation": "a（○）：―\nb（○）：―\nc（○）：―\nd（○）：―\ne（×）：一般的に誘発検査は勧められない。その薬剤が患者にとって必要で、かつ誘発試験の安全性が確保される場合にのみ考慮する。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q7_p002.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=2"
-      },
-      "id": "qa-1826",
-      "choices": {
-        "a": "原因となる薬剤の摂取歴がある。",
-        "b": "薬剤に起因する臨床病型の報告がある。",
-        "c": "他の原因疾患が否定される。",
-        "d": "薬剤の中止により病態が改善する。",
-        "e": "再投与により増悪する確認が必須である。"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "薬剤性肺障害の血液検査では末梢血白血球数が減少する。",
-      "answer": "×",
-      "explanation": "増加することが多い。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q7_p004.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=4"
-      },
-      "id": "qa-1831"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "血清C反応性蛋白 (CRP) や乳酸脱水素酵素 (LDH)が上昇する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q7_p004.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=4"
-      },
-      "id": "qa-1832"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "血清 Krebs von den Lungen-6 (KL-6)、surfactant protein A (SP-A) や SP-Dは診断補助や病勢モニタリングに有用である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q7_p004.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=4"
-      },
-      "id": "qa-1833"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "DAD パターンでは血清KL-6、SP-D、SP-Aが上昇する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q7_p004.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=4"
-      },
-      "id": "qa-1834"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "器質化肺炎 (OP) パターンでは血清 KL-6は上昇するが、SP-D、SP-Aは正常であることが多い。",
-      "answer": "×",
-      "explanation": "血清中のKL-6は正常であるが、SP-D、SP-Aが上昇することが多い。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q7_p004.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=4"
-      },
-      "id": "qa-1835"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "薬剤リンパ球刺激試験(drug induced lymphocyte stimulation test: DLST)は患者の末梢血中Tリンパ球と被疑薬を混合してTリンパ球への H-thymidine の取り込みを測定することで、Tリンパ球の増殖能を定量評価する検査である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q7_p004.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=4"
-      },
-      "id": "qa-1836"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "DLSTの薬剤性肺障害全体の陽性率は30%程度である。",
-      "answer": "×",
-      "explanation": "67%と報告されている。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q7_p004.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=4"
-      },
-      "id": "qa-1837"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "DLSTの偽陽性率、偽陰性率は低い。",
-      "answer": "×",
-      "explanation": "偽陽性、偽陰性が多いとされ、DLSTのみで薬剤性肺障害を診断するのは不可能であり、総合的な判断が必要である。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q7_p004.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=4"
-      },
-      "id": "qa-1838"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "薬剤性 DAD パターンでは広範な浸潤影やすりガラス陰影に牽引性気管支拡張などの構造改変所見がみられるのが特徴である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1839"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "疾患と気管支肺胞洗浄液(BALF)所見との組み合わせ。肺胞蛋白症 - 白濁したBALF",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1840"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "肺胞出血 - 血性のBALF",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1841"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "過敏性肺炎 - BALF 中の好中球增多",
-      "answer": "×",
-      "explanation": "リンパ球増多がみられる。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1842"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "BALF 中の好酸球増多やリンパ球減少がみられる場合、副腎皮質ステロイドの治療効果が期待できる。",
-      "answer": "×",
-      "explanation": "好酸球増多やリンパ球増多がみられる場合、副腎皮質ステロイドの治療効果が期待できる。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1843"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "免疫チェックポイント阻害薬における薬剤性肺障害の特徴。腫瘍周囲のすりガラス陰影",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1844"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "薬剤投与1年後以降の遅発性に起こることはない",
-      "answer": "×",
-      "explanation": "遅発性に起こることもあり、注意が必要である。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1845"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "タバコについて。2020年4月から全ての飲食店で原則屋内禁煙となった。",
-      "answer": "○",
-      "explanation": "2020年4月に改正健康増進法が全面施行され、屋内は原則禁煙となった。飲食店の屋内で喫煙可能である場合は、店舗入り口に標識が掲出されている。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1846"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "新型タバコ(非燃焼・加熱式タバコや電子タバコ) はニコチンが含まれておらず、依存性はない。",
-      "answer": "×",
-      "explanation": "新型タバコは、従来の燃焼式タバコに比べてタールが削減されているが、依存性物質であるニコチンやその他の有害物質を吸引する製品である。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1847"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "呼吸器学会は電子タバコの使用を推奨していない。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1848"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "再喫煙の多くは、禁煙開始後3ヶ月以降に発生する。",
-      "answer": "×",
-      "explanation": "禁煙開始後3ヶ月以内に発生する。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1849"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "薬剤・化学物質・放射線による肺障害",
-      "question": "肺癌に対する放射線治療中に放射線性肺炎を発症した場合、すぐに副腎皮質ステロイドによる治療を開始する。",
-      "answer": "×",
-      "explanation": "発症直後からの治療ではなく、経過観察中に呼吸困難や低酸素血症が出現した場合に治療を開始し、放射線性肺線維症への進展を抑制する。",
-      "tags": [
-        "各論I",
-        "薬剤・化学物質・放射線による肺障害",
-        "○×問題"
-      ],
-      "source_file": "7_薬剤化学物質放射線_一問一答.docx",
-      "reference": {
-        "title": "第7章 薬剤・化学物質・放射線による肺障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q7_p006.webp",
-        "viewer": "reference-viewer.html?doc=q7&page=6"
-      },
-      "id": "qa-1850"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
       "section": "じん肺症",
       "question": "じん肺とは、粉じんを吸入することによって肺に生じた線維增殖性変化を主体とする疾病である。",
       "answer": "○",
@@ -53967,6 +53354,465 @@
         "選択肢統合"
       ],
       "source_file": "12 呼吸調節障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3452",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "薬剤性肺障害では、必ず肺野にすりガラス影や浸潤影がみられる。",
+      "answer": "×",
+      "explanation": "浸潤影がみられることもあり、画像所見は多彩である。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3453",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "現在内服していない薬剤でも、過去に遡って内服歴を確認する必要がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3454",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "総合感冒薬で薬剤性肺障害を発症した既往のある患者に、アセトアミノフェンは安全に処方可能である。",
+      "answer": "×",
+      "explanation": "総合感冒薬にはアセトアミノフェン配合剤があり注意が必要である。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3455",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "薬剤性肺障害は医師が処方した薬物に限る。",
+      "answer": "×",
+      "explanation": "医師が処方した薬剤以外の市販薬、生薬、健康食品などすべてを含む。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-817",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "薬剤性肺障害の発症に関連するリスクはどれか。",
+      "choices": {
+        "a": "若年者(20歳未満)",
+        "b": "非喫煙歴",
+        "c": "既存の肺病変",
+        "d": "肺手術後",
+        "e": "肺への放射線照射"
+      },
+      "answer": [
+        "c",
+        "d",
+        "e"
+      ],
+      "explanation": "既存の肺病変・肺手術後・肺への放射線照射はリスクとなる。年齢は高齢者(60歳以上)、喫煙は喫煙者の方がリスクが高い。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3456",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "画像的にびまん性肺胞傷害(DAD)パターンを呈する薬剤性肺障害は予後不良である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3457",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "日本人の薬剤性肺障害は総じて軽度である。",
+      "answer": "×",
+      "explanation": "日本人にはDADパターンを示す薬剤性肺障害の発生頻度が高い。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-818",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "薬剤性肺障害の診断に関連する項目はどれか。",
+      "choices": {
+        "a": "原因となる薬剤の摂取歴がある。",
+        "b": "薬剤に起因する臨床病型の報告がある。",
+        "c": "他の原因疾患が否定される。",
+        "d": "薬剤の中止により病態が改善する。",
+        "e": "再投与により増悪する確認が必須である。"
+      },
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "explanation": "再投与(誘発検査)は一般的に勧められず、必須ではない。その薬剤が患者にとって必要で、かつ誘発試験の安全性が確保される場合にのみ考慮する。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3458",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "薬剤性肺障害の血液検査では末梢血白血球数が減少する。",
+      "answer": "×",
+      "explanation": "増加することが多い。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3459",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "薬剤性肺障害では血清C反応性蛋白(CRP)や乳酸脱水素酵素(LDH)が上昇する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3460",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "血清Krebs von den Lungen-6 (KL-6)、surfactant protein A (SP-A)やSP-Dは薬剤性肺障害の診断補助や病勢モニタリングに有用である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3461",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "DADパターンでは血清KL-6、SP-D、SP-Aが上昇する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3462",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "器質化肺炎(OP)パターンでは血清KL-6は上昇するが、SP-D、SP-Aは正常であることが多い。",
+      "answer": "×",
+      "explanation": "血清中のKL-6は正常であるが、SP-D、SP-Aが上昇することが多い。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3463",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "薬剤リンパ球刺激試験(drug induced lymphocyte stimulation test: DLST)は患者の末梢血のTリンパ球と被疑薬を混合してTリンパ球への3H-thymidineの取り込みを測定することで、Tリンパ球の増殖能を定量評価する検査である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3464",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "DLSTの薬剤性肺障害全体の陽性率は30%程度である。",
+      "answer": "×",
+      "explanation": "67%と報告されている。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3465",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "DLSTの偽陽性率、偽陰性率は低い。",
+      "answer": "×",
+      "explanation": "偽陽性、偽陰性が多いとされ、DLSTのみで薬剤性肺障害を診断するのは不可能であり、総合的な判断が必要である。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3466",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "薬剤性DADパターンでは広範な浸潤影やすりガラス陰影に牽引性気管支拡張などの構造改変所見がみられるのが特徴である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-819",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "疾患と気管支肺胞洗浄液(BALF)所見との組み合わせで正しいものはどれか。",
+      "choices": {
+        "a": "肺胞蛋白症 — 白濁したBALF",
+        "b": "肺胞出血 — 血性のBALF",
+        "c": "過敏性肺炎 — BALF中の好中球増多",
+        "d": "薬剤性肺障害で副腎皮質ステロイドの治療効果が期待できる — BALF中の好酸球増多やリンパ球減少"
+      },
+      "answer": [
+        "a",
+        "b"
+      ],
+      "explanation": "c 過敏性肺炎ではBALF中のリンパ球増多がみられる。d BALF中の好酸球増多やリンパ球増多がみられる場合に副腎皮質ステロイドの治療効果が期待できる。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3467",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "免疫チェックポイント阻害薬における薬剤性肺障害の特徴として、腫瘍周囲のすりガラス陰影がある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3468",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "免疫チェックポイント阻害薬による薬剤性肺障害は、薬剤投与1年以降の遅発性に起こることはない。",
+      "answer": "×",
+      "explanation": "遅発性に起こることもあり、注意が必要である。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3469",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "2020年4月から全ての飲食店で原則屋内禁煙となった。",
+      "answer": "○",
+      "explanation": "2020年4月に改正健康増進法が全面施行され、屋内は原則禁煙となった。飲食店の屋内で喫煙可能な場合は、店舗入口に標識が掲示される。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3470",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "新型タバコ(非燃焼・加熱式タバコや電子タバコ)はニコチンが含まれておらず、依存性がない。",
+      "answer": "×",
+      "explanation": "新型タバコは燃焼式タバコに比べてタール(粒子成分)が削減されているが、依存性物質であるニコチンやその他の有害物質を吸引する製品である。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3471",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "呼吸器学会は電子タバコの使用を推奨していない。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3472",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "再喫煙の多くは、禁煙開始後3ヶ月以降に発生する。",
+      "answer": "×",
+      "explanation": "禁煙開始3ヶ月以内に発生する。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3473",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "薬剤・化学物質・放射線による肺障害",
+      "question": "肺癌に対する放射線治療中に放射線性肺炎を発症した場合、すぐに副腎皮質ステロイドによる治療を開始する。",
+      "answer": "×",
+      "explanation": "発症直後からの治療ではなく、経過観察中に呼吸困難や低酸素血症が出現した場合に治療を開始し、放射線性肺線維症への進展を抑制する。",
+      "tags": [
+        "各論I",
+        "薬剤・化学物質・放射線による肺障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
       "images": []
     }
   ]
