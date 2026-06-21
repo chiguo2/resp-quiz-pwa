@@ -46,9 +46,9 @@
       "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2339,
-      "mcq": 239,
-      "total": 2578
+      "qa": 2380,
+      "mcq": 259,
+      "total": 2639
     },
     "sections": [
       "COPD",
@@ -292,9 +292,9 @@
         "qa-1327"
       ]
     },
-    "total_questions": 2578,
-    "qa_count": 2339,
-    "mcq_count": 239,
+    "total_questions": 2639,
+    "qa_count": 2380,
+    "mcq_count": 259,
     "last_update": "2026-06-18"
   },
   "items": [
@@ -39833,1245 +39833,6 @@
     {
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "BRCA1/2遺伝子変異は、乳癌や卵巣癌と関連が深いが、肺癌での意義は確立していない。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q11_p026.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=26"
-      },
-      "id": "qa-2132"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "RET融合遺伝子は、肺癌には全くみられない。",
-      "answer": "×",
-      "explanation": "非小細胞肺癌の約1~2%にみられ、セルペルカチニブなどの標的治療薬がある。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q11_p026.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=26"
-      },
-      "id": "qa-2133"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "METエクソン14スキッピング変異に対して、テポチニブやカプマチニブが有効である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q11_p026.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=26"
-      },
-      "id": "qa-2134"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "NTRK融合遺伝子陽性の固形癌(肺癌を含む)に対して、エヌトレクチニブなどが使用可能である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 26,
-        "image": "assets/reference_pages/q11_p026.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=26"
-      },
-      "id": "qa-2135"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "KRAS遺伝子変異は、肺癌において現在標的治療薬が存在しない。",
-      "answer": "×",
-      "explanation": "KRAS G12C変異に対するソトラシブなどが承認されている。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2136"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "免疫関連有害事象(irAE)として発症した間質性肺疾患に対しては、副腎皮質ステロイドが第一選択となることが多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2137"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "サイトカイン放出症候群(CRS)は、肺癌の通常の化学療法で頻発する。",
-      "answer": "×",
-      "explanation": "CAR-T細胞療法などで問題となることが多く、一般的な肺癌の化学療法では稀である。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2138"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺癌骨転移の診断には、骨シンチグラフィやPET-CT、MRIが有用である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2139"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺癌の脳転移に対して、定位放射線治療(ガンマナイフなど)は禁忌である。",
-      "answer": "×",
-      "explanation": "個数やサイズによっては全脳照射よりも推奨される重要な治療選択肢である。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2140"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "多発脳転移による神経症状がある場合、ステロイドの投与により脳浮腫の軽減を図る。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2141"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "脊髄浸潤や馬尾圧迫症状(悪性脊髄髄膜圧迫症候群)が疑われる場合、緊急でMRI検査とステロイド投与・放射線治療や手術を検討する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2142"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺癌患者の深部静脈血栓症(DVT)予防には、アスピリン単独投与が最も推奨される。",
-      "answer": "×",
-      "explanation": "抗凝固薬(ヘパリン、DOACなど)が推奨される。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2143"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "Trousseau症候群は、悪性腫瘍に伴う血液凝固異常により多発性脳梗塞などを引き起こす病態である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2144"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺癌の胸水貯留により呼吸困難が強い場合、胸腔穿刺による排液が症状緩和に有効である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2145"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "悪性胸水に対する胸膜癒着術には、ペニシリンが最もよく用いられる。",
-      "answer": "×",
-      "explanation": "タルク、ピシバニール(OK-432)、ミノサイクリンなどが用いられる。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 28,
-        "image": "assets/reference_pages/q11_p028.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=28"
-      },
-      "id": "qa-2146"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "悪性心囊水貯留による心タンポナーデは、直ちに心囊穿刺・ドレナージが必要な緊急病態である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2147"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "末期がん患者におけるせん妄に対しては、抗精神病薬の投与や環境調整が行われる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2148"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "予後が数日以内の患者に対しても、経管栄養によるカロリー補給を最大限行うべきである。",
-      "answer": "×",
-      "explanation": "過剰な輸液や栄養は苦痛(浮腫、胸水、気道分泌物増加など)を増強する可能性があるため、適切な見極めが必要である。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2149"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "アドバンス・ケア・プランニング(ACP)は、患者の価値観や希望を家族や医療従事者と前もって話し合うプロセスである。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2150"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "DNAR(Do Not Attempt Resuscitation)の指示は、患者本人の意思に基づいて決定されるのが原則である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2151"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺癌の病理診断において、TTF-1は腺癌のマーカーとして有用である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2152"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "p40は、腺癌のマーカーとして有用である。",
-      "answer": "×",
-      "explanation": "扁平上皮癌のマーカーとして有用である。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2153"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "Napsin Aは、肺腺癌の診断に有用な免疫染色マーカーである。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2154"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "CD56、Synaptophysin、Chromogranin Aは、扁平上皮癌で陽性となる。",
-      "answer": "×",
-      "explanation": "神経内分泌腫瘍(小細胞癌など)で陽性となる。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2155"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "Ki-67標識率は、腫瘍細胞の増殖能を反映し、神経内分泌腫瘍の悪性度評価(カルチノイドと小細胞癌/大細胞神経内分泌癌の鑑別など)に用いられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2156"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "大細胞神経内分泌癌(LCNEC)は、非小細胞肺癌に分類されるが、小細胞肺癌に準じた治療が行われることが多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 30,
-        "image": "assets/reference_pages/q11_p030.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=30"
-      },
-      "id": "qa-2157"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺芽腫は、良性腫瘍である。",
-      "answer": "×",
-      "explanation": "まれな悪性腫瘍であり、上皮性成分と間葉性成分の双方が悪性像を示す。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2158"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "過誤腫は、肺の良性腫瘍の中で最も頻度が高い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2159"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "過誤腫のCT所見として、空洞形成が特徴的である。",
-      "answer": "×",
-      "explanation": "ポップコーン状の石灰化や脂肪成分の混在が特徴的である。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2160"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "硬化性肺胞細胞腫(旧称:硬化性血管腫)は、女性に多い良性腫瘍である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2161"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "孤立性線維性腫瘍(SFT)は、胸膜から発生することが多い腫瘍である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2162"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "SFTはすべて悪性である。",
-      "answer": "×",
-      "explanation": "多くは良性であるが、一部に悪性のもの(悪性SFT)が存在する。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2163"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺動静脈瘻は、遺伝性出血性毛細血管拡張症(オスラー病)に合併することがある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2164"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺動静脈瘻の治療は、無症状であっても必ず開胸手術を行うべきである。",
-      "answer": "×",
-      "explanation": "カテーテルによるコイル塞栓術が第一選択となることが多い。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2165"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺動静脈瘻の合併症として、脳膿瘍や脳梗塞などの奇異性塞栓症がある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2166"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺気腫は、肺癌の発生リスクを高める独立した因子である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2167"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "間質性肺炎の合併は、肺癌の手術および薬物療法の予後を改善させる。",
-      "answer": "×",
-      "explanation": "術後急性増悪や薬剤性肺障害のリスクとなり、予後不良因子である。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 32,
-        "image": "assets/reference_pages/q11_p032.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=32"
-      },
-      "id": "qa-2168"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺結核の瘢痕部に肺癌が発生することがある(瘢痕癌)。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2169"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "受動喫煙防止対策として、健康増進法の一部を改正する法律が施行されている。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2170"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "ドセタキセル単剤は、喀血をきたした肺扁平上皮癌患者の治療選択肢となる。",
-      "answer": "○",
-      "explanation": "喀血を起こす症例にラムシルマブは投与できないため。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2171"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "ラムシルマブ単剤は、喀血をきたした肺扁平上皮癌患者に推奨される。",
-      "answer": "×",
-      "explanation": "ラムシルマブは抗VEGFR2抗体で出血リスクがある。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2172"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "カルボプラチン+パクリタキセル+ベバシズマブは、喀血をきたした肺扁平上皮癌患者に推奨される。",
-      "answer": "×",
-      "explanation": "ベバシズマブは扁平上皮癌および喀血のある症例には禁忌である。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2173"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "ベバシズマブ単剤は、喀血をきたした肺扁平上皮癌患者に推奨される。",
-      "answer": "×",
-      "explanation": "禁忌である。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2174"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "カルボプラチン+パクリタキセル+ベバシズマブ+アテゾリズマブは、喀血をきたした肺扁平上皮癌患者に推奨される。",
-      "answer": "×",
-      "explanation": "ベバシズマブが含まれるため禁忌。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2175"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "ALK融合遺伝子陽性肺癌の初回治療として、アレクチニブが推奨される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2176"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "ALK融合遺伝子陽性肺癌の初回治療として、セリチニブが選択肢となる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2177"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "ALK融合遺伝子陽性肺癌の初回治療として、オシメルチニブが推奨される。",
-      "answer": "×",
-      "explanation": "オシメルチニブはEGFR遺伝子変異陽性肺癌に対する薬である。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2178"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "ALK融合遺伝子陽性肺癌の初回治療として、ロルラチニブが推奨される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 34,
-        "image": "assets/reference_pages/q11_p034.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=34"
-      },
-      "id": "qa-2179"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "ALK融合遺伝子陽性肺癌の初回治療として、ブリグチニブが推奨される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2180"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺癌治療における集学的治療とは、手術、放射線、薬物療法などを組み合わせて行う治療である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2181"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "免疫チェックポイント阻害薬の効果は、すべての患者で投与開始直後から直ちに現れる。",
-      "answer": "×",
-      "explanation": "効果発現までに時間がかかる場合や、一時的な腫瘍増大(Pseudoprogression)を示す場合もある。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2182"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "緩和ケアチームは、医師、看護師、薬剤師などの多職種で構成される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2183"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "モルヒネの投与経路は静脈内注射のみである。",
-      "answer": "×",
-      "explanation": "経口、持続皮下注、静注など多様な経路がある。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2184"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "フェンタニルは、モルヒネと比べて便秘の副作用が少ない傾向がある。",
-      "answer": "○",
-      "explanation": "貼付剤なども普及している。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2185"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "オキシコドンは、モルヒネと同様に強オピオイドに分類される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2186"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "神経障害性疼痛には、オピオイド単独で十分な効果が得られることが多い。",
-      "answer": "×",
-      "explanation": "プレガバリンやデュロキセチンなどの鎮痛補助薬の併用が必要となることが多い。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2187"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "終末期における持続的な深い鎮静(Palliative sedation)は、耐え難い苦痛を緩和するための最終手段として検討される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2188"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "医療用麻薬の処方には、麻薬施用者免許が必要である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2189"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "呼吸器新生物",
-      "question": "肺癌の5年生存率は、他のがん(胃癌や大腸癌など)と比較して非常に高い。",
-      "answer": "×",
-      "explanation": "肺癌全体の5年生存率は他のがんに比べて依然として低く、予後不良な疾患である。",
-      "tags": [
-        "各論I",
-        "呼吸器新生物",
-        "○×問題"
-      ],
-      "source_file": "11_呼吸器新生物_一問一答_Part3.docx",
-      "reference": {
-        "title": "第11章 呼吸器新生物 問題・解説",
-        "page": 36,
-        "image": "assets/reference_pages/q11_p036.webp",
-        "viewer": "reference-viewer.html?doc=q11&page=36"
-      },
-      "id": "qa-2190"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
       "section": "呼吸調節障害",
       "question": "睡眠時無呼吸症候群(SAS)の成人男性の有病率は1〜2%である。",
       "answer": "×",
@@ -54785,6 +53546,2248 @@
         "PDF転記"
       ],
       "source_file": "3 気管支・細気管支の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2953",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "受動喫煙は肺癌の発症リスクにならない。",
+      "answer": "×",
+      "explanation": "受動喫煙も肺癌発症リスクである。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2954",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "女性の場合、喫煙は肺癌の発症リスクでない。",
+      "answer": "×",
+      "explanation": "女性も男性と同様に喫煙は肺癌の発症リスクである。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2955",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "扁平上皮癌は男性に多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2956",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺癌病期分類第8版において、原発巣の横隔膜浸潤はT4である。",
+      "answer": "○",
+      "explanation": "T4は原発巣が腫瘍径7cm以上、または横隔膜・縦隔・心臓・大血管・気管・反回神経・食道・椎体・気管分岐部に浸潤と定義されている。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2957",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺癌病期分類第8版において、同側他肺葉内の肺転移はT4である。",
+      "answer": "○",
+      "explanation": "対側肺転移はM1a、同一肺葉内転移はT3である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2958",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺癌病期分類第8版において、原発巣の肋骨浸潤はT4である。",
+      "answer": "×",
+      "explanation": "肋骨浸潤はT3である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2959",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "標的病変の径和が30%以上小さくなった場合、Response Evaluation Criteria in Solid Tumors (RECIST)による評価は部分奏効(Partial Response: PR)である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2960",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "標的病変の径和が20%以上増大していれば、RECISTによる評価は進行(Progressive Disease: PD)である。",
+      "answer": "○",
+      "explanation": "その他、「新規病変の出現」もRECIST PDである。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2961",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "術前化学放射線療法で腫瘍のviabilityが50%以下に低下した場合、組織学的効果判定のgradeはEf1bである。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2962",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺尖部胸壁浸潤癌では顔面の多量発汗が起こる。",
+      "answer": "×",
+      "explanation": "肺尖部胸壁浸潤では疼痛の他、Horner症候群による同側の縮瞳・顔面の発汗低下、眼瞼下垂、眼球陥凹がみられる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2963",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "syndrome of inappropriate antidiuretic hormone secretion (SIADH)は小細胞癌で起こりやすい。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2964",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "Cushing症候群は小細胞癌で起こりやすい。",
+      "answer": "○",
+      "explanation": "SIADHや異所性ACTH症候群の他、Lambert-Eaton症候群も小細胞癌で多くみられる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2965",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺性肥大性骨関節症は小細胞癌で起こりやすい。",
+      "answer": "×",
+      "explanation": "肺性肥大性骨関節症は腺癌で多くみられる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2966",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "腫瘍随伴症候群のうち、白血球増加症は小細胞癌で多くみられる。",
+      "answer": "×",
+      "explanation": "大細胞癌で多くみられる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2967",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺芽腫は肺肉腫様腫瘍の一種である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2968",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "粘表皮癌は肺肉腫様腫瘍の一種である。",
+      "answer": "×",
+      "explanation": "肺肉腫様腫瘍には肺芽腫の他に多形癌、紡錘細胞癌、巨細胞癌が含まれる(粘表皮癌は含まれない)。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2969",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "大細胞神経内分泌癌ではChromatogranin Aが染色される。",
+      "answer": "○",
+      "explanation": "Chromatogranin A以外の神経内分泌腫瘍のマーカーとしてはSynaptophysinやCD56がある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2970",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "免疫染色においてCK7+、CK20-、TTF-1+の際は転移性肺腫瘍を疑う。",
+      "answer": "×",
+      "explanation": "CK7+、CK20-、TTF-1+は原発性肺癌を疑う所見である。大腸癌肺転移の場合はCK7-、CK20+となる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2971",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "免疫染色においてp40+、CK5/6+の際は大細胞癌を強く疑う。",
+      "answer": "×",
+      "explanation": "p40+、CK5/6+は扁平上皮癌を強く疑う所見である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2972",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺腺癌においてmicropapillary patternは予後不良である。",
+      "answer": "○",
+      "explanation": "腺癌のうちmicropapillary patternやsolid patternは予後不良である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2973",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "acinar patternではKRAS遺伝子変異が検出されることがある。",
+      "answer": "×",
+      "explanation": "KRAS遺伝子変異はinvasive mucinous patternでみられることがある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2974",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "次世代シーケンス(next generation sequencing: NGS)による肺癌の遺伝子検査は手術検体でのみ可能である。",
+      "answer": "×",
+      "explanation": "気管支鏡検体、CTガイド下生検の検体、血液検体でも実施可能である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2975",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "凍結検体でのみ、NGSによる検査が可能である。",
+      "answer": "×",
+      "explanation": "NGSはホルマリン固定パラフィン包埋検体でも可能である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2976",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "EGFR遺伝子変異のリキッドバイオプシーは、保険適応内で検査可能である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2977",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "リキッドバイオプシーでEGFR遺伝子変異陽性であった場合、EGFRチロシンキナーゼ阻害薬(EGFR-TKI)を使用できる。",
+      "answer": "○",
+      "explanation": "リキッドバイオプシーは組織生検に比べて感度は劣るが、患者への侵襲は少ない。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2978",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "小細胞癌で血清CEAが上昇している場合、カルボプラチン+パクリタキセルが第一選択となる。",
+      "answer": "×",
+      "explanation": "小細胞癌の化学療法(プラチナ製剤+エトポシド±アテゾリズマブまたはデュルバルマブ、もしくはプラチナ製剤+イリノテカン)が適応となる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2979",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "EGFR ex19欠失もしくはL858R陽性ではパフォーマンスステータス(PS)4でもゲフィチニブの投与が考慮される。",
+      "answer": "○",
+      "explanation": "ゲフィチニブはPS4でも適応がある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2980",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "EGFR ex19欠失もしくはL858R陽性では一次治療でエルロチニブと血管新生阻害薬の併用が選択肢となる。",
+      "answer": "○",
+      "explanation": "エルロチニブはベバシズマブやラムシルマブとの併用が可能である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2981",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "EGFR ex20挿入変異ではEGFR-TKIが奏功する。",
+      "answer": "×",
+      "explanation": "EGFR-TKIの効果が乏しいため、EGFR ex20挿入変異には推奨されない。ドライバー遺伝子変異陰性非小細胞肺癌に準じた治療が適応となる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2982",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "オシメルチニブは一次治療でもT790M遺伝子変異陽性例のみでしか使用できない。",
+      "answer": "×",
+      "explanation": "オシメルチニブはT790M陽性でなくとも、EGFR遺伝子変異陽性であれば一次治療で使用できる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2983",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "ALK融合遺伝子陽性例ではダコミチニブを投与できる。",
+      "answer": "×",
+      "explanation": "ダコミチニブはEGFR-TKIである。ALK融合遺伝子陽性肺癌にはアレクチニブ、セリチニブ、クリゾチニブ、ロルラチニブ、ブリグチニブが適応となる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2984",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "ALK融合遺伝子陽性例ではロルラチニブが一次治療から使用できる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2985",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "アレクチニブでは味覚障害、筋肉痛、皮疹の他に間質性肺炎の有害事象にも注意が必要である。",
+      "answer": "○",
+      "explanation": "クリゾチニブでは視覚障害・消化器毒性、セリチニブでは消化器毒性・肝機能障害の有害事象がみられる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2986",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "ロルラチニブは認知機能低下が重篤な有害事象として報告されている。",
+      "answer": "○",
+      "explanation": "認知機能障害の他、ロルラチニブに特徴的な有害事象として高コレステロール血症、高トリグリセリド血症、浮腫がある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2987",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "エヌトレクチニブはROS-1融合遺伝子陽性非小細胞肺癌に有効である。",
+      "answer": "○",
+      "explanation": "エヌトレクチニブはROS-1融合遺伝子陽性例やNTRK融合遺伝子陽性例で使用される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2988",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "ROS-1融合遺伝子変異陽性例ではダブラフェニブ+トラメチニブによる治療が推奨される。",
+      "answer": "×",
+      "explanation": "ダブラフェニブ+トラメチニブはBRAF遺伝子変異陽性例で適応がある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2989",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "非小細胞肺癌に対する検査と治療において、保険適応となっているドライバー遺伝子変異はEGFR、ALK、ROS-1、BRAF、NTRKなどである。",
+      "answer": "×",
+      "explanation": "MET ex14 skippingに対してテポチニブやカプマチニブが保険適応となるなど、METも保険適応ドライバー遺伝子に含まれる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2990",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "テポチニブの主な毒性は末梢浮腫、消化器症状、血清クレアチニン上昇である。",
+      "answer": "○",
+      "explanation": "カプマチニブも同様に末梢浮腫、消化器症状などの毒性がある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2991",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "中心型早期肺癌は病巣が3cm以下のものが含まれる。",
+      "answer": "×",
+      "explanation": "中心型早期肺癌は病巣の長径が2cm以下で、内視鏡的に可視できる気管から亜区域支まで限局するものである。1cm以下では光線力学的療法(Photodynamic Therapy: PDT)が推奨される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2992",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "中心型早期肺癌には腺癌が含まれる。",
+      "answer": "×",
+      "explanation": "中心型早期肺癌は組織学的に扁平上皮癌であることが基準に含まれる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2993",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "PD-L1 tumor proportion score (TPS) 50%以上の場合は一次治療でニボルマブ単剤が適応となる。",
+      "answer": "×",
+      "explanation": "PD-L1 TPS 50%以上の場合はペムブロリズマブ単剤、ニボルマブ+イピリムマブ併用、もしくはプラチナ製剤併用療法±PD-1/PD-L1阻害薬が一次治療で適応となる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2994",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "PD-L1 1〜49%では一次治療でペムブロリズマブ単剤が適応となる。",
+      "answer": "○",
+      "explanation": "ペムブロリズマブの一次治療はPD-L1 1%以上で適応がある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2995",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "一次治療において、プラチナ製剤併用療法+ペムブロリズマブ/アテゾリズマブはPD-L1発現率に関係なく適応となる。",
+      "answer": "○",
+      "explanation": "ニボルマブ+プラチナ製剤ダブレットのレジメンはPD-L1陰性例での適応となるが、他のレジメンはPD-L1発現に関係なく使用可能である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2996",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "ニボルマブ+イピリムマブ併用療法はPD-L1発現率に関係なく適応となる。",
+      "answer": "○",
+      "explanation": "ニボルマブ+イピリムマブ併用療法はPD-L1陰性でも適応がある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2997",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "ニボルマブ+イピリムマブ併用療法はPS2以上でも推奨される。",
+      "answer": "×",
+      "explanation": "PS良好例でのみ適応があり、PS2以上では推奨されない。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2998",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "ニボルマブ+イピリムマブ併用療法では、肺障害の有害事象はみられない。",
+      "answer": "×",
+      "explanation": "他の免疫チェックポイント阻害薬と同様に、肺障害、胃腸傷害、内分泌傷害、皮疹などの免疫関連有害事象がみられる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-2999",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "ベバシズマブの併用は75歳以下の非高齢者やPS 0-1の症例で推奨される。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3000",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "ベバシズマブは扁平上皮癌への投与が推奨される。",
+      "answer": "×",
+      "explanation": "出血リスクがあるため、ベバシズマブは扁平上皮癌への投与は行わない。空洞病変、大血管への浸潤、出血の既往もベバシズマブ使用時の出血リスクである。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3001",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "ドセタキセル+ラムシルマブ併用療法は扁平上皮癌を含む非小細胞肺癌で適応である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3002",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "浸潤性粘液腺癌では化学療法が奏功する。",
+      "answer": "×",
+      "explanation": "浸潤性粘液腺癌では化学療法の効果が乏しく、予後不良である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3003",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "切除不能III期では化学放射線療法施行後、デュルバルマブの維持療法を2年行うことが推奨される。",
+      "answer": "×",
+      "explanation": "デュルバルマブの維持療法は1年行うことが推奨される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3004",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "デュルバルマブ投与中に肺障害の有害事象を発症した場合、その重症度に関係なく投薬を中止する。",
+      "answer": "×",
+      "explanation": "肺障害はgrade1であれば、慎重に経過をみながらデュルバルマブの投与継続が可能である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3005",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "化学療法と同時併用の放射線療法の場合、V20が50%以下であれば肺障害のリスクが低い。",
+      "answer": "×",
+      "explanation": "V20が40%以上であればgrade2以上の肺障害のリスクが高く、25〜30%以上であれば肺障害自体のリスクが高くなる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3006",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "強度変調放射線治療(intensity modulated radiation therapy: IMRT)は腫瘍やリスク臓器の形状に合わせた複雑な線量分布を作成できる高精度の放射線治療である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3007",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "IIIA期では、N0-1であれば外科的切除が推奨される。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3008",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "IIIA期においてN2が疑われる場合は、組織学的診断が推奨される。",
+      "answer": "○",
+      "explanation": "超音波気管支鏡ガイド下針生検(EBUS-TBNA)での術前の組織学的診断が推奨される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3009",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "T3N0-1の胸壁もしくは心膜浸潤例では外科的切除は推奨されない。",
+      "answer": "×",
+      "explanation": "胸壁合併もしくは心膜合併切除が推奨される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3010",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺尖部胸壁浸潤癌においては術後化学療法が推奨される。",
+      "answer": "×",
+      "explanation": "肺尖部胸壁浸潤癌に対しては術前化学放射線療法が推奨される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3011",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "EGFR遺伝子変異陽性の非小細胞肺癌病理病期II-III期では術後EGFR-TKIによる補助化学療法が推奨される。",
+      "answer": "×",
+      "explanation": "EGFR-TKIによる術後補助化学療法は、現時点では肺癌ガイドラインで推奨されていない。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3012",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "病変全体径1cm以上の非小細胞肺癌I A-B/II Aの完全切除例では術後UFT(テガフール・ウラシル)の内服が推奨される。",
+      "answer": "×",
+      "explanation": "病変全体径2cm以上の症例では、術後UFTの内服が推奨されている。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3013",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "I A期で病変径2cm以下であれば縮小手術(区域切除または楔状切除)を検討してもよい。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3014",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺癌の根治手術後も禁煙が推奨されている。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3015",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "カルチノイド、腺様囊胞癌、粘表皮癌のような低悪性度腫瘍では、手術は推奨されない。",
+      "answer": "×",
+      "explanation": "切除可能であれば肺癌に準じた外科的治療が推奨される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3016",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "光線力学的療法(PDT)の適応は内視鏡的に腫瘍の全範囲を確認しうることが必要である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3017",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "病的骨折の危険性のない骨転移や、脊椎転移で脊髄が圧迫されている脊椎転移では外科的治療は禁忌である。",
+      "answer": "×",
+      "explanation": "これらの病態では外科治療が推奨される。明らかな症状がなくても放射線治療を行うことが推奨される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3018",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺癌骨転移の際に使用するデノスマブで注意すべき有害事象には、高Ca血症と顎骨壊死がある。",
+      "answer": "×",
+      "explanation": "デノスマブでは顎骨壊死、低Ca血症のリスクがある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3019",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "原発性肺癌に合併する髄膜癌腫症には、放射線治療が奏功する。",
+      "answer": "×",
+      "explanation": "髄膜癌腫症に対しては放射線治療、化学療法ともに効果が乏しく、予後不良である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3020",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "限局型小細胞肺癌は全例で外科的治療が優先される。",
+      "answer": "×",
+      "explanation": "I A-II A期のみが手術適応となりうる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3021",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "小細胞肺癌の手術症例では術後化学療法が推奨される。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3022",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "限局型小細胞肺癌でPS2では化学放射線療法が推奨される。",
+      "answer": "○",
+      "explanation": "PS0〜2の限局型小細胞肺癌では化学放射線療法が推奨される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3023",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "限局型小細胞肺癌の同時化学放射線療法で推奨される加速過分割照射は、総線量60Gyが標準である。",
+      "answer": "×",
+      "explanation": "加速過分割照射は総線量45Gyが標準である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3024",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "限局型小細胞肺癌の同時化学放射線療法で推奨されるレジメンは、プラチナ製剤+エトポシドである。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3025",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "PS0-1、70歳以下の限局型小細胞肺癌の同時化学放射線療法ではプラチナ製剤+エトポシドに免疫チェックポイント阻害薬の併用を検討する。",
+      "answer": "×",
+      "explanation": "限局型小細胞肺癌に対する同時化学放射線療法では、プラチナ製剤+エトポシドに免疫チェックポイント阻害薬の併用は行わない。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3026",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "PS0-1、70歳以下の限局型小細胞肺癌の同時化学放射線療法後に抗PD-L1抗体による維持療法の投与が有効である。",
+      "answer": "×",
+      "explanation": "同時化学放射線療法後に抗PD-L1抗体による維持療法の適応があるのは非小細胞肺癌のみである(2022年3月時点)。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3027",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "進展型小細胞肺癌でPS2ではプラチナ製剤併用療法に加えて抗PD-L1抗体の上乗せが推奨される。",
+      "answer": "×",
+      "explanation": "PS0〜1であれば積極的に検討される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3028",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "間質性肺炎合併患者に対するイリノテカンの投与は禁忌である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3029",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "イリノテカン投与中は、嘔吐や下痢などの消化器毒性がみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3030",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "進展型小細胞肺癌でPS0-2、71歳以上ではプラチナ製剤併用の化学療法は推奨されない。",
+      "answer": "×",
+      "explanation": "71歳以上でもシスプラチンの一括投与が可能であれば、シスプラチン投与が推奨される。不可能であれば、シスプラチン分割投与やカルボプラチンのレジメンを検討する。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3031",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "小細胞癌のrefractory relapseでは抗PD-L1抗体の投与が推奨される。",
+      "answer": "×",
+      "explanation": "小細胞癌のrefractory relapseではアムルビシンの投与を検討する。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3032",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "sensitive relapseに対するシスプラチン+エトポシド+イリノテカンの併用療法では、顆粒球コロニー形成刺激因子(G-CSF)製剤の予防投与で発熱性好中球減少症の頻度が10%以下に抑えられる。",
+      "answer": "×",
+      "explanation": "G-CSF予防的投与下でも発熱性好中球減少症の頻度が31%と高い。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3033",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "限局型小細胞肺癌に対する同時化学放射線療法が奏功した場合、60Gy/30frの予防的全脳照射が検討される。",
+      "answer": "×",
+      "explanation": "通常、25Gy/10frもしくは30Gy/15fr程度の予防的全脳照射が検討される。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3034",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "高頻度マイクロサテライト不安定性(MSI-High)を有する非小細胞肺癌では、ペムブロリズマブが承認されている。",
+      "answer": "○",
+      "explanation": "MSI-highを有する固形癌に対してはペムブロリズマブが承認されている(臓器横断的適応)。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3035",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "肺神経内分泌腫瘍に対してはエベロリムスが承認されている。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3036",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "腺様囊胞癌では喫煙はリスク因子ではない。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3037",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "腺様囊胞癌は男性に多い。",
+      "answer": "×",
+      "explanation": "男女差はみられない。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3038",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "腺様囊胞癌は健診で発見されることが多い。",
+      "answer": "×",
+      "explanation": "胸部レントゲンやCTでは指摘が難しいことが多い。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3039",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "腺様囊胞癌の病理像としては篩状構造が特徴的であり、その他に腺管状、充実性胞巣もみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3040",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "腺様囊胞癌は低悪性度腫瘍であり、遠隔転移をすることはない。",
+      "answer": "×",
+      "explanation": "腺様囊胞癌は気管支粘膜下に浸潤することが多く、リンパ節転移の他、肺転移などの遠隔転移も多い。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3041",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "血管肉腫の肺転移では血腫を生じることがある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3042",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "転移性肺腫瘍の外科治療では、全例でリンパ節郭清を行うことが推奨されている。",
+      "answer": "×",
+      "explanation": "全例では推奨されない。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3043",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "オリゴメタスターシスとは単発転移であり、局所療法で制御できる転移を指す。",
+      "answer": "×",
+      "explanation": "オリゴメタスターシスの転移数については明確な定義はないが、一般に3〜5個以内の転移を指す。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3044",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "わが国の転移性肺腫瘍切除例における最多の原発腫瘍は、肝臓癌である。",
+      "answer": "×",
+      "explanation": "転移性肺腫瘍切除例における最多の原発腫瘍は、大腸癌である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3045",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "カルチノイドは喫煙がリスクである。",
+      "answer": "×",
+      "explanation": "喫煙との関連はない。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3046",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "カルチノイドは神経内分泌腫瘍に分類され、肺癌の1〜2%を占める。",
+      "answer": "○",
+      "explanation": "化学療法を実施する場合は、小細胞癌に準じて治療されることが多い。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3047",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "カルチノイドは定型カルチノイドが70〜80%を占める。",
+      "answer": "○",
+      "explanation": "核分裂像数と壊死の有無により定型と非定型に分けられる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3048",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "過誤腫は肺の良性腫瘍で最も多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3049",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "過誤腫は50〜60歳代の男性に多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3050",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "硬化性肺胞上皮腫ではCTでnotchを伴う分葉状の結節やポップコーン様の石灰化が特徴的である。",
+      "answer": "×",
+      "explanation": "CTでnotchを伴う分葉状の結節やポップコーン様の石灰化がみられるのは、過誤腫の特徴である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3051",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "硬化性肺胞上皮腫は中年女性に多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3052",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "炎症性偽腫瘍ではALK融合遺伝子が約50%程度で陽性となる。",
+      "answer": "○",
+      "explanation": "炎症性偽腫瘍ではALK融合遺伝子が陽性となることがある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-766",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "65歳男性、PS 0、右上葉に3cmの結節影あり、経気管支肺生検で肺腺癌と診断された。#4R、#7にリンパ節転移あり、遠隔転移なし。EGFR-、ALK-、PD-L1 95%であった。この症例で正しい治療を選べ。",
+      "choices": {
+        "a": "化学放射線療法後、抗PD-L1抗体による維持療法",
+        "b": "右上葉切除+リンパ節郭清",
+        "c": "ペムブロリズマブ単剤投与",
+        "d": "殺細胞性抗癌剤",
+        "e": "殺細胞性抗癌剤と免疫チェックポイント阻害薬の併用療法"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "clinical T1cN2M0 stage IIIAである。N2については外科的治療と化学放射線療法の選択で議論が分かれるところではあるが、化学放射線療法→デュルバルマブの維持療法の長期生存が報告されており、標準治療となっている。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-767",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "71歳男性、50年×20本の喫煙歴あり。血痰が出現したため気管支鏡検査を施行したところ、右上葉枝入口部に気管支内腔に突出する長径2cmの隆起性腫瘤を認めた。次のうち原因として考えられる疾患を2つ選べ。",
+      "choices": {
+        "a": "原発性肺腺癌",
+        "b": "原発性肺扁平上皮癌",
+        "c": "肺胞上皮癌",
+        "d": "神経内分泌大細胞癌",
+        "e": "原発性小細胞癌"
+      },
+      "answer": [
+        "b",
+        "e"
+      ],
+      "explanation": "気管支原発の腫瘍としては原発性肺扁平上皮癌、小細胞癌、腺様囊胞癌などが挙げられる(中枢気道・喫煙関連)。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-768",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "70歳女性、PS 1。1年前にEGFR ex19欠失陽性の原発性肺癌 stage IVと診断され、エルロチニブの内服を開始したが、肝転移の増大を認めた。次に行うこととして誤っているものを1つ選べ。",
+      "choices": {
+        "a": "エルロチニブ投与前の検体でT790Mを検索する。",
+        "b": "血液検体を用いたリキッドバイオプシーでT790Mが陽性だった場合、オシメルチニブを開始する。",
+        "c": "CTやMRIで全身転移の検索を再度行う。",
+        "d": "殺細胞性抗癌剤を投与する。",
+        "e": "カルボプラチン+ペメトレキセドを投与する。"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "T790Mの検索は、エルロチニブの治療効果がなくなった後の検体を用いるべきである(投与前ではない)。リキッドバイオプシーの結果は治療方針に反映可能である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-769",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "68歳女性、PS1。EGFR ex21 L858R陽性原発性肺腺癌 stage IVに対して一次治療オシメルチニブ投与中に血小板8.3万/μLに低下した。肝障害はない。易出血性の病変や併存症はない。CT検査では腫瘍縮小がみられ、RECIST評価で部分奏効(Partial Response: PR)であった。対応として正しいものを1つ選べ。",
+      "choices": {
+        "a": "オシメルチニブにカルボプラチン+ペメトレキセドを追加する。",
+        "b": "オシメルチニブを継続する。",
+        "c": "G-CSF製剤を投与する。",
+        "d": "血小板を輸血する。",
+        "e": "骨髄生検を行う。"
+      },
+      "answer": [
+        "b"
+      ],
+      "explanation": "本症例では血小板減少はgrade1であり、血液検査のフォローアップをしながらオシメルチニブを継続し、慎重に経過をみていく。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-770",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "70歳女性、右上葉に1.1cmのすりガラス陰影(ground glass opacity: GGO)あり。1年後のCTのフォローアップで増大はみられなかった。最も考えられる疾患を1つ選べ。",
+      "choices": {
+        "a": "肺小細胞癌",
+        "b": "肺大細胞癌",
+        "c": "大腸癌肺転移",
+        "d": "異型腺腫様過形成",
+        "e": "腺様囊胞癌"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "異型腺腫様過形成は前浸潤性病変・前癌病変の1つであり、CT所見で淡いGGOを呈する。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-771",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "65歳男性、PS1。もともと両側肺底部に蜂巣肺があり、間質性肺炎と診断されていた。フォローアップのレントゲンで左下葉に腫瘤影を認め、精査の結果、肺扁平上皮癌と診断された。間質性肺炎合併肺癌で正しいものを1つ選べ。",
+      "choices": {
+        "a": "間質性肺炎の80%に肺癌を合併する。",
+        "b": "抗PD-1抗体は禁忌である。",
+        "c": "イリノテカンは禁忌である。",
+        "d": "EGFR-TKIは禁忌である。",
+        "e": "組織型としては腺癌が多い。"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "a 特発性間質性肺炎の10〜20%程度に肺癌が合併する。c 間質性肺炎合併肺癌で禁忌となる薬剤はイリノテカン、アムルビシン、ゲムシタビンである。e 組織型としては扁平上皮癌が多い。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-772",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "68歳男性、PS1。喀痰の精査で肺扁平上皮癌 clinical T3N2M0 stage IIIBと診断され、シスプラチン+ドセタキセル2コースと同時放射線療法を受けた。治療終了時のCT検査では腫瘍の縮小とgrade1の放射線肺臓炎がみられた。ドライバー遺伝子変異なし、PD-L1 50%。その後の地固め療法として正しいものを1つ選べ。",
+      "choices": {
+        "a": "デュルバルマブ",
+        "b": "ドセタキセルの地固め療法2コース後にデュルバルマブ",
+        "c": "シスプラチン+ドセタキセルを計4コースまで投与後にデュルバルマブ",
+        "d": "ペムブロリズマブ単剤",
+        "e": "grade1の放射線肺臓炎が出現したため、地固め療法は実施しない。"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "同時化学放射線療法で、化学療法2コース投与後にデュルバルマブ(抗PD-L1抗体)の地固め療法を開始するのが標準である。grade1の放射線肺臓炎であれば慎重に経過をみた上でデュルバルマブを継続する。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-773",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "72歳女性、PS1。肺腺癌 stage IV EGFR ex21 L858R陽性に対してアファチニブを投与されていたが、3ヶ月前に肺内転移の増大があり、RECIST評価でPDとなった。1ヶ月前に同部位に対してTBLBによる再生検を受けたところ、L858R+、T790M-であった。血漿を用いたリキッドバイオプシーではL858R+、T790M+であった。次のうち正しいものを2つ選べ。",
+      "choices": {
+        "a": "組織検体による検査結果よりもリキッドバイオプシーの検査結果の方が信頼性が低いため、T790M陽性は判断できない。",
+        "b": "肺病変の再生検では癌細胞は採取できていなかった。",
+        "c": "オシメルチニブの治療を検討する。",
+        "d": "リキッドバイオプシーが陽性であり、循環腫瘍細胞のDNAが検出されたと考えられる。"
+      },
+      "answer": [
+        "c",
+        "d"
+      ],
+      "explanation": "リキッドバイオプシーでT790Mが陽性であるため、二次治療としてオシメルチニブを開始するのが望ましい。L858R陽性であり、癌細胞は採取できていると考えられる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "4択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-774",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "60歳男性、PS0、肺腺癌 stage IV、ドライバー遺伝子変異陰性、PD-L1 10%、多発脳転移あり。初回治療として正しいものを1つ選べ。",
+      "choices": {
+        "a": "シスプラチン+エトポシド",
+        "b": "エルロチニブ+ベバシズマブ",
+        "c": "カルボプラチン+エトポシド+ニボルマブ",
+        "d": "シスプラチン+TS-1+ニボルマブ",
+        "e": "シスプラチン+ペメトレキセド+ペムブロリズマブ"
+      },
+      "answer": [
+        "e"
+      ],
+      "explanation": "切除不能肺腺癌・ドライバー遺伝子変異なし・PD-L1 1%以上の初回治療の選択肢としては、プラチナ製剤+ペメトレキセド+ペムブロリズマブ、ニボルマブ+イピリムマブ、カルボプラチン+(ナブ)パクリタキセル+アテゾリズマブ(±ベバシズマブ)、ペムブロリズマブ単剤、イピリムマブ+ニボルマブ、殺細胞性抗癌剤などがある。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-775",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "85歳男性、肺扁平上皮癌 stage IVに対して初回治療ペムブロリズマブ10コース投与により治療効果判定は完全奏効(Complete Response: CR)であったが、活気不良となった。意識障害なし、血清Na低値、血糖80mg/dL、ACTH高値、血漿コルチゾール低値、TSH正常、FT4正常。正しい対応を1つ選べ。",
+      "choices": {
+        "a": "インスリン療法開始",
+        "b": "チラーヂン開始",
+        "c": "ヒドロコルチゾンの内服開始",
+        "d": "メルカゾール内服開始",
+        "e": "50%グルコース40mL静注"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "免疫関連有害事象による副腎不全を疑う所見であり、ヒドロコルチゾンの内服を開始する。また内分泌負荷試験が必要である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-776",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "82歳男性、1ヶ月前から両側下腿浮腫・疼痛、両膝・足関節痛が出現した。胸部画像検査で右肺に3cmの結節影を認め、精査の結果、肺癌 stage IIの診断となった。この症例(肥大性肺骨関節症)について誤っているものを1つ選べ。",
+      "choices": {
+        "a": "原発腫瘍の切除により症状は改善する。",
+        "b": "骨シンチが診断に有用である。",
+        "c": "小細胞肺癌に合併しやすい。",
+        "d": "ばち指もみられやすい。",
+        "e": "骨膜新生が亢進する。"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "肥大性肺骨関節症は肺腺癌で多くみられる(小細胞肺癌ではない)。その他の選択肢は正しい。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-777",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "60歳男性、PS1。レントゲンで右肺尖部に腫瘤影を認めた。精査の結果、肺尖部胸壁に浸潤する5cmの腫瘤影があり、肺扁平上皮癌 clinical T3N0M0 stage IIBと診断された。化学放射線療法後に手術が予定されていたが、化学放射線療法終了後にgrade1の放射線肺臓炎を発症した。対応として正しいものを1つ選べ。",
+      "choices": {
+        "a": "手術は行わず、化学療法のみを継続する。",
+        "b": "放射線治療を追加する。",
+        "c": "免疫チェックポイント阻害薬の投与を開始する。",
+        "d": "手術を施行する。",
+        "e": "呼吸状態や画像所見の増悪がないかを慎重に経過観察する。"
+      },
+      "answer": [
+        "e"
+      ],
+      "explanation": "肺尖部胸壁浸潤癌は術前化学放射線療法後の外科的切除が標準治療である。術前化学放射線療法の際に生じた放射線肺臓炎については一定の見解はないが、まずは呼吸状態や画像所見の増悪がないかを慎重に経過観察するのが妥当と考えられる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-778",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "69歳男性、PS0、肺腺癌 stage IIBに対して右下葉切除・リンパ節郭清施行後。ドライバー遺伝子変異検索の結果、ALK融合遺伝子陽性であった。併存症なし。術後補助療法として正しいものを1つ選べ。",
+      "choices": {
+        "a": "アレクチニブ",
+        "b": "カルボプラチン+パクリタキセル",
+        "c": "放射線療法",
+        "d": "シスプラチン+ビノレルビン",
+        "e": "シスプラチン+ビノレルビン+放射線療法"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "stage II期以上の術後補助化学療法としてはシスプラチン+ビノレルビンが標準治療である。現在のところ、ドライバー遺伝子変異は術後補助化学療法の治療選択に影響しない。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-779",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "60歳女性、喫煙歴なし。気管支鏡検査で正常気管支上皮に覆われるなだらかなポリープ状の結節状腫瘤を気管内に認めた。PETでは気管病変にのみ集積を認めた。診断として最も考えられるものを1つ選べ。",
+      "choices": {
+        "a": "扁平上皮癌",
+        "b": "腎癌の気管転移",
+        "c": "乳頭腫",
+        "d": "小細胞肺癌",
+        "e": "腺様囊胞癌"
+      },
+      "answer": [
+        "e"
+      ],
+      "explanation": "喫煙歴のない患者の気管腫瘍であり、正常気管支上皮に覆われる(粘膜下発生)気管支鏡所見からも腺様囊胞癌が疑われる。乳頭腫は上皮組織より発生するため、正常気管上皮は保たれない。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-780",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "66歳男性、PS1、肺腺癌 stage IV、ドライバー遺伝子変異陰性、PD-L1 10%。多発肝転移と骨転移あり。初回治療として誤っているものを1つ選べ。",
+      "choices": {
+        "a": "カルボプラチン+ナブパクリタキセル+ペムブロリズマブ",
+        "b": "ペムブロリズマブ単剤",
+        "c": "シスプラチン+ペメトレキセド+ペムブロリズマブ",
+        "d": "カルボプラチン+パクリタキセル+ベバシズマブ",
+        "e": "カルボプラチン+ペメトレキセド"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "カルボプラチン+(ナブ)パクリタキセル+ペムブロリズマブは扁平上皮癌に対する治療である。本症例は腺癌であり、ペメトレキセドやベバシズマブを含むレジメンが候補となる。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-781",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "65歳女性、肺腺癌 stage IV、ALK融合遺伝子陽性であり、一次治療アレクチニブ投与後、RECIST評価でPDとなった。二次治療として誤っているものを1つ選べ。",
+      "choices": {
+        "a": "ロルラチニブ",
+        "b": "シスプラチン+ペメトレキセド+アテゾリズマブ",
+        "c": "シスプラチン+ペメトレキセド",
+        "d": "エヌトレクチニブ",
+        "e": "セリチニブ"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "肺癌領域では、エヌトレクチニブはNTRKもしくはROS-1陽性の症例に適応となる(ALK陽性例には用いない)。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-782",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "70歳男性、stage IVの肺扁平上皮癌に対してドセタキセル+ラムシルマブ投与中に喀血が出現した。現時点での治療効果判定はPRである。今後の治療として正しいものを1つ選べ。",
+      "choices": {
+        "a": "ドセタキセル単剤",
+        "b": "ラムシルマブ単剤",
+        "c": "カルボプラチン+パクリタキセル+ベバシズマブ",
+        "d": "ベバシズマブ単剤",
+        "e": "カルボプラチン+パクリタキセル+ベバシズマブ+アテゾリズマブ"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "喀血を起こす症例にラムシルマブは投与できない。ベバシズマブは喀血を起こしやすく、もともと扁平上皮癌には適応がない。よってドセタキセル単剤を継続する。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-783",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "45歳女性、PS1。肺腺癌 stage IV、ALK融合遺伝子陽性と診断された。初回治療として誤っているものを1つ選べ。",
+      "choices": {
+        "a": "アレクチニブ",
+        "b": "セリチニブ",
+        "c": "オシメルチニブ",
+        "d": "ロルラチニブ",
+        "e": "ブリグチニブ"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "ブリグチニブとロルラチニブが新しくALK融合遺伝子陽性肺癌で承認された。オシメルチニブはEGFR遺伝子変異陽性例に有効であり、ALK陽性例には用いない。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-784",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "75歳男性、PS1、肺腺癌 stage IV、MET ex14 skipping陽性と診断され、初回治療としてテポチニブが開始された。起こりうる頻度の高い有害事象として誤っているものを1つ選べ。",
+      "choices": {
+        "a": "高コレステロール血症",
+        "b": "末梢性浮腫",
+        "c": "胃腸障害",
+        "d": "血清リパーゼ増加",
+        "e": "肝逸脱酵素上昇"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "脂質異常症(高コレステロール血症)はロルラチニブでの報告が多い。末梢性浮腫・胃腸障害・血清リパーゼ増加・肝逸脱酵素上昇はMET阻害薬であるテポチニブやカプマチニブで多い有害事象である。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-785",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "呼吸器新生物",
+      "question": "60歳男性、PS1、肺腺癌 stage IV、ドライバー遺伝子変異なし、PD-L1 5%と診断された。初回治療として適切なものを2つ選べ。",
+      "choices": {
+        "a": "ニボルマブ+イピリムマブ",
+        "b": "カルボプラチン+ゲムシタビン+ニボルマブ",
+        "c": "シスプラチン+ペメトレキセド+ニボルマブ",
+        "d": "シスプラチン+ペメトレキセド+ニボルマブ+イピリムマブ",
+        "e": "カルボプラチン+パクリタキセル+ニボルマブ+イピリムマブ"
+      },
+      "answer": [
+        "a",
+        "d"
+      ],
+      "explanation": "ニボルマブ+イピリムマブ±プラチナダブレットはPD-L1発現に関係なく適応がある。カルボプラチン+パクリタキセルを含むレジメンは扁平上皮癌のレジメンである(本症例は腺癌)。",
+      "tags": [
+        "各論I",
+        "呼吸器新生物",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "11 呼吸器新生物.pdf",
       "images": []
     }
   ]
