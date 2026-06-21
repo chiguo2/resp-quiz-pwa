@@ -31516,667 +31516,6 @@
       "id": "qa-1814"
     },
     {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺とは、粉じんを吸入することによって肺に生じた線維增殖性変化を主体とする疾病である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q9_p002.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=2"
-      },
-      "id": "qa-1969"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、超合金肺の原因はアルミニウムである。",
-      "answer": "×",
-      "explanation": "コバルト、タングステンである。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q9_p002.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=2"
-      },
-      "id": "qa-1970"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、有機粉じんにはカビ、花粉、綿、サトウキビ、コルクの粉じんなどがある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q9_p002.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=2"
-      },
-      "id": "qa-1971"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "溶接作業で急性肺障害をきたすことがある",
-      "answer": "○",
-      "explanation": "高温で気化した金属が空気中で冷却され凝固し、金属ヒュームとなる。これを吸入し肺水腫やびまん性肺胞障害をきたす。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q9_p002.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=2"
-      },
-      "id": "qa-1972"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "職業肺と職業の組み合わせで正しいものはどれか。",
-      "answer": [
-        "a",
-        "b",
-        "d",
-        "e"
-      ],
-      "explanation": "a（○）：―\nb（○）：―\nc（×）：造船業では、特にボイラー室などの船内作業者に石綿関連肺疾患の発症が多い。\nd（○）：―\ne（○）：―",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q9_p002.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=2"
-      },
-      "id": "qa-1973",
-      "choices": {
-        "a": "珪肺 - 採石業",
-        "b": "石綿肺- 建設業",
-        "c": "アルミニウム肺-造船業",
-        "d": "滑石(タルク) 肺 - ゴム製造業",
-        "e": "ベリリウム肺-精密機器製造業"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "珪肺の粒状影、結節影は上肺野に生じやすい。",
-      "answer": "×",
-      "explanation": "曝露後長期間経過した珪肺で生じる。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q9_p002.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=2"
-      },
-      "id": "qa-1978"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、農夫肺ではリンパ節の卵殻状石灰化をきたす。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q9_p004.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=4"
-      },
-      "id": "qa-1979"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、胸膜プラークは肺尖に生じやすい。",
-      "answer": "×",
-      "explanation": "胸膜プラークは下部侧壁~後壁、傍脊椎領域、横隔膜部に多く、肺尖部や肋骨横隔膜角部には稀である。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q9_p004.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=4"
-      },
-      "id": "qa-1980"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "石綿肺の網状影は上肺野優位に生じる。",
-      "answer": "×",
-      "explanation": "下肺野外側優位である。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q9_p004.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=4"
-      },
-      "id": "qa-1981"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "胸膜プラークは石綿の高濃度曝露で生じる。",
-      "answer": "×",
-      "explanation": "低濃度曝露でも生じるため、職業曝露だけではなく環境曝露でも生じうる。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q9_p004.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=4"
-      },
-      "id": "qa-1982"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、胸膜プラークは癌化しない。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q9_p004.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=4"
-      },
-      "id": "qa-1983"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、びまん性胸膜肥厚は、広範囲に胸膜肥厚を呈し、拘束性換気障害をきたす。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q9_p004.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=4"
-      },
-      "id": "qa-1984"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "びまん性胸膜肥厚は、多くが良性石綿胸水に続発する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q9_p004.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=4"
-      },
-      "id": "qa-1985"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "石綿肺は曝露から40年以上経過してから発症する。",
-      "answer": "×",
-      "explanation": "多くは曝露後10~20年で生じる。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q9_p004.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=4"
-      },
-      "id": "qa-1986"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "石綿肺は曝露中止後も徐々に線維化が進行する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q9_p004.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=4"
-      },
-      "id": "qa-1987"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "石綿肺は低濃度曝露でも生じる。",
-      "answer": "×",
-      "explanation": "良性石綿胸水、びまん性胸膜肥厚、石綿肺、石綿肺癌は高濃度曝露で生じる。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q9_p004.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=4"
-      },
-      "id": "qa-1988"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、中皮腫は高濃度曝露がないと生じない。",
-      "answer": "×",
-      "explanation": "胸膜プラークと中皮腫は低濃度曝露でも発症する。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q9_p006.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=6"
-      },
-      "id": "qa-1989"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "国内在住環境下では中皮腫の原因は石綿であり、中皮腫の罹患は即、石綿曝露によるものと診断される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q9_p006.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=6"
-      },
-      "id": "qa-1990"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "中皮腫、石綿肺癌は減少傾向である。",
-      "answer": "×",
-      "explanation": "潜伏期が長いため2040年頃まで増加すると見込まれている。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q9_p006.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=6"
-      },
-      "id": "qa-1991"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺法、労災補償。じん肺の管理区分は、粉じん職歴、呼吸困難度などから管理1~4に分類される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q9_p006.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=6"
-      },
-      "id": "qa-1992"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺管理区分の決定は主治医が行う。",
-      "answer": "×",
-      "explanation": "患者が申請し、都道府県労働局で行われる。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q9_p006.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=6"
-      },
-      "id": "qa-1993"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、管理2以上の者は、健康管理手帳の交付を申請でき、公費で健康診断を受けられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q9_p006.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=6"
-      },
-      "id": "qa-1994"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、管理4の者、および管理2または3の者で肺結核、結核性胸膜炎、続発性気胸などを合併すると療養の対象となり労災補償が受けられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q9_p006.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=6"
-      },
-      "id": "qa-1995"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、療養の対象になると、療養補償給付として治療費や入院費の給付が受けられる。",
-      "answer": "○",
-      "explanation": "その他状況に応じて、休業補償、傷病年金などが支給される。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q9_p006.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=6"
-      },
-      "id": "qa-1996"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "職業曝露以外でアスベスト関連疾患に罹患した場合は、補償制度はない。",
-      "answer": "×",
-      "explanation": "労災認定は受けられないが、石綿健康被害救済制度の適応になりうる。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q9_p006.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=6"
-      },
-      "id": "qa-1997"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "珪肺は全身性のステロイド投与が奏効する。",
-      "answer": "×",
-      "explanation": "じん肺の根治的治療はない。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q9_p006.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=6"
-      },
-      "id": "qa-1998"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "じん肺症では、慢性ベリリウム肺はサルコイドーシスに類似した病態を呈する。",
-      "answer": "○",
-      "explanation": "少量のベリリウム曝露でも感作が成立し、非乾酪性肉芽腫を生じる。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q9_p008.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=8"
-      },
-      "id": "qa-1999"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "珪肺では ANCA関連血管炎をきたしやすい。",
-      "answer": "○",
-      "explanation": "シリカ、石綿の曝露者でANCA関連血管炎の発症率が高いという報告がある。",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q9_p008.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=8"
-      },
-      "id": "qa-2000"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "70歳男性。反復する胸水貯留、建築業従事。診断として可能性が高いものはどれか。",
-      "answer": [
-        "a"
-      ],
-      "explanation": "a（○）：石綿曝露以外に胸水貯留の原因がなく、数ヶ月で自然軽快する。\nb（×）：―\nc（×）：―\nd（×）：―",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q9_p008.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=8"
-      },
-      "id": "qa-2001",
-      "choices": {
-        "a": "良性石綿胸水",
-        "b": "結核性胸膜炎",
-        "c": "悪性胸膜中皮腫",
-        "d": "うっ血性心不全"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "じん肺症",
-      "question": "65歳男性。石綿吹付作業に従事、原発性肺癌疑い。正しいものはどれか。",
-      "answer": [
-        "d"
-      ],
-      "explanation": "a（×）：石綿吹付作業など高濃度曝露は1年で肺癌リスクが2倍になる。\nb（×）：石綿肺などの合併がなくても、石綿小体または石綿線維が一定数以上認められれば労災補償の対象になる可能性がある。\nc（×）：一般の肺癌と変わらないため、肺癌患者では詳細な吸入歴の聴取が重要である。\nd（○）：―",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "9_じん肺症_一問一答.docx",
-      "reference": {
-        "title": "第9章 じん肺症 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q9_p008.webp",
-        "viewer": "reference-viewer.html?doc=q9&page=8"
-      },
-      "id": "qa-2005",
-      "choices": {
-        "a": "原発性肺癌は石綿曝露歴とは無関係である。",
-        "b": "石綿肺や胸膜プラークがないため、労災補償は受けられない。",
-        "c": "石綿肺癌は発生部位、病理組織型に特徴がある。",
-        "d": "病理検査の際、石綿小体の検索を行う。"
-      }
-    },
-    {
       "type": "mcq",
       "chapter": "各論II 呼吸不全",
       "section": "呼吸不全",
@@ -53813,6 +53152,545 @@
         "PDF転記"
       ],
       "source_file": "7 薬剤、化学物質、放射線による肺障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3474",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "じん肺とは、粉じんを吸入することによって肺に生じた線維増殖性変化を主体とする疾病である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3475",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "超合金肺の原因はアルミニウムである。",
+      "answer": "×",
+      "explanation": "コバルト、タングステンである。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3476",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "有機粉じんにはカビ、花粉、綿、サトウキビ、コルクの粉じんなどがある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3477",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "溶接作業で急性肺障害をきたしたことがある。",
+      "answer": "○",
+      "explanation": "高温で気化した金属が空気中で冷却され凝固し、金属ヒュームとなる。これを吸入し肺水腫やびまん性肺胞障害をきたす。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-820",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "職業肺と職業の組み合わせで正しいものはどれか。",
+      "choices": {
+        "a": "珪肺 — 採石業",
+        "b": "石綿肺 — 建設業",
+        "c": "アルミニウム肺 — 造船業",
+        "d": "滑石(タルク)肺 — ゴム製造業",
+        "e": "ベリリウム肺 — 精密機器製造業"
+      },
+      "answer": [
+        "a",
+        "b",
+        "d",
+        "e"
+      ],
+      "explanation": "造船業では特にボイラー室などの船内作業者に石綿関連肺疾患の発症が多い(アルミニウム肺ではない)。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3478",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "珪肺の粒状影、結節影は上肺野に生じやすい。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3479",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "農夫肺ではリンパ節の卵殻状石灰化をきたす。",
+      "answer": "×",
+      "explanation": "卵殻状石灰化は曝露後長期間経過した珪肺で生じる。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3480",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "胸膜プラークは肺尖に生じやすい。",
+      "answer": "×",
+      "explanation": "胸膜プラークは下部側壁〜後壁、横隔膜領域、横隔膜頂部に多く、肺尖部や肋骨横隔膜角部には稀である。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3481",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "石綿肺の網状影は上肺野優位に生じる。",
+      "answer": "×",
+      "explanation": "下肺野外側優位である。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3482",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "胸膜プラークは石綿の高濃度曝露で生じる。",
+      "answer": "×",
+      "explanation": "低濃度曝露でも生じるため、職業曝露だけではなく環境曝露でも生じる。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3483",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "胸膜プラークは癌化しない。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3484",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "びまん性胸膜肥厚は、広範囲に胸膜肥厚を呈し、拘束性換気障害をきたす。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3485",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "びまん性胸膜肥厚は、多くは良性石綿胸水に続発する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3486",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "石綿肺は曝露から40年以上経過してから発症する。",
+      "answer": "×",
+      "explanation": "多くは曝露後10〜20年で生じる。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3487",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "石綿肺は曝露中止後も徐々に線維化が進行する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3488",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "石綿肺は低濃度曝露でも生じる。",
+      "answer": "×",
+      "explanation": "良性石綿胸水、びまん性胸膜肥厚、石綿肺、石綿肺癌は高濃度曝露で生じる。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3489",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "中皮腫は高濃度曝露がないと生じない。",
+      "answer": "×",
+      "explanation": "胸膜プラークと中皮腫は低濃度曝露でも発症する。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3490",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "国内在住環境下では中皮腫の原因は石綿であり、中皮腫の罹患は石綿曝露によるものと診断される。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3491",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "中皮腫、石綿肺は減少傾向である。",
+      "answer": "×",
+      "explanation": "潜伏期が長いため2040年頃まで増加すると見込まれている。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3492",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "じん肺の管理区分は、粉じん職歴、呼吸困難度、胸部レントゲン分類、呼吸機能検査、動脈血ガス分析の結果などから、管理1〜4に分類される。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3493",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "じん肺管理区分の決定は主治医が行う。",
+      "answer": "×",
+      "explanation": "患者が申請し、都道府県労働局で行われる。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3494",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "じん肺管理2以上の者は、健康管理手帳の交付を申請でき、公費で健康診断を受けられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3495",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "管理4の者、および管理2または3の者で肺結核、結核性胸膜炎、続発性気胸、続発性気管支炎、続発性気管支拡張症、原発性肺癌のいずれかを合併すると、療養の対象となり労災補償が受けられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3496",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "療養の対象になると、療養補償給付として治療費や入院費の給付が受けられる。",
+      "answer": "○",
+      "explanation": "その他状況に応じて、休業補償、傷病年金、障害補償、介護補償、遺族補償および葬祭料などが支給される。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3497",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "職業曝露以外でアスベスト関連疾患に罹患した場合は、補償制度はない。",
+      "answer": "×",
+      "explanation": "労災認定は受けられないが、石綿健康被害救済制度の適応になりうる。患者家族や工場の近隣住民に適応された事例がある。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3498",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "珪肺は全身性のステロイド投与が奏効する。",
+      "answer": "×",
+      "explanation": "じん肺の根治的治療法はない。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3499",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "慢性ベリリウム肺はサルコイドーシスに類似した病態を呈する。",
+      "answer": "○",
+      "explanation": "少量のベリリウム曝露でも感作が成立し、肺、リンパ節、皮膚などに非乾酪性肉芽腫を生じる。HLAなど宿主側因子の関与が示唆されている。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3500",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "珪肺ではANCA関連血管炎をきたしやすい。",
+      "answer": "○",
+      "explanation": "シリカ、石綿の曝露者でANCA関連血管炎の発症率が高いという報告がある。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-821",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "70歳男性。健診で少量の左胸水貯留を指摘された。症状はなく、その他に指摘された異常はない。3年前、5年前にそれぞれ同様の右胸水、左胸水貯留がみられたが、どちらも数ヶ月で自然軽快した。18〜65歳まで建築業、ビルの解体業に従事している。診断として可能性が高いものはどれか。",
+      "choices": {
+        "a": "良性石綿胸水",
+        "b": "結核性胸膜炎",
+        "c": "悪性胸膜中皮腫",
+        "d": "うっ血性心不全"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "石綿曝露以外に胸水貯留の原因がなく、胸水確認後3年以内に悪性腫瘍を認めないことが条件。胸水は両側に反復することもあるが、数ヶ月で自然軽快する。悪性腫瘍合併の可能性もあるため、経過観察は必要である。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-822",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "じん肺症",
+      "question": "65歳男性。25〜35歳まで石綿吹付作業に従事していたが、石綿肺や胸膜プラークはない。健診で異常影を指摘され、原発性肺癌の可能性が強く疑われる。正しいものはどれか。",
+      "choices": {
+        "a": "原発性肺癌は石綿曝露歴とは無関係である。",
+        "b": "石綿肺や胸膜プラークがないため、労災補償は受けられない。",
+        "c": "石綿肺癌は発生部位、病理組織型に特徴がある。",
+        "d": "病理検査の際、石綿小体の検索を行う。"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "a 石綿吹付作業など高濃度曝露は1年、造船・建築など中等度曝露は5〜10年で肺癌リスクが2倍になる。b 石綿肺や胸膜プラークの合併がなくても、肺組織や気管支肺胞洗浄液から石綿小体または石綿線維が一定数以上認められれば労災補償の対象になる可能性がある。c 石綿肺癌は一般の肺癌と変わらないため、詳細な吸入歴の聴取が重要である。",
+      "tags": [
+        "各論I",
+        "じん肺症",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "9 塵肺症.pdf",
       "images": []
     }
   ]
