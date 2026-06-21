@@ -33953,699 +33953,6 @@
     },
     {
       "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "特発性縦隔気腫は若年痩せ型男性に多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k5_p002.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=2"
-      },
-      "id": "qa-2485"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "症状としては心音亢進と Hamman 兆候がみられる。",
-      "answer": "×",
-      "explanation": "心音低下とHamman 兆候がみられる。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k5_p002.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=2"
-      },
-      "id": "qa-2486"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "魚骨の誤嚥により起こることがある。",
-      "answer": "×",
-      "explanation": "気管裂傷ではなく、食道裂傷による場合は食事により縦隔膿瘍に至るため、早期の食事再開は不可能である。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k5_p002.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=2"
-      },
-      "id": "qa-2487"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "特発性であれば早期に食事再開が可能である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k5_p002.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=2"
-      },
-      "id": "qa-2488"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "確定診断には気管支鏡検査が必要である。",
-      "answer": "×",
-      "explanation": "気管支鏡検査は必須ではない。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k5_p002.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=2"
-      },
-      "id": "qa-2489"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "胸腺腫。遠隔転移があれば、正岡分類 IVA期である",
-      "answer": "×",
-      "explanation": "正岡分類IVA 期は胸膜・心膜播種、IVB期はリンパ行性、血行性転移である。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2490"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "肉眼的に心膜、大血管、肺に浸潤していれば正岡分類Ⅲ期である",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2491"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "顕微鏡的に被膜浸潤があればIIB期である",
-      "answer": "×",
-      "explanation": "IIA期である。IIB期は肉眼的に周囲の脂肪組織や被膜に浸潤があるもの、I期は肉眼的にも組織学的にも被膜浸潤がないものを指す。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2492"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "正岡分類Ⅲ期は手術適応である",
-      "answer": "○",
-      "explanation": "完全切除が可能であれば隣接臓器合併切除も考慮される。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2493"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "6割に重症筋無力症を合併する。",
-      "answer": "×",
-      "explanation": "胸腺腫の2~3割に重症筋無力症を合併する。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2494"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "高ガンマグロブリン症を合併するものはGood 症候群と呼ばれる。",
-      "answer": "×",
-      "explanation": "Good 症候群は胸腺腫に低ガンマグロブリン血症を合併した症候群である。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2495"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "切除不能例に対して行う化学療法の第一選択はアンスラサイクリン系を含むレジメンを考慮する。",
-      "answer": "○",
-      "explanation": "アンスラサイクリン系とプラチナ製剤併用のレジメンを第一選択として考慮する。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2496"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "完全切除不能であった正岡分類Ⅲ期に対しては、術後放射線療法を行う。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2497"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "切除不能例に対してカルボプラチン+パクリタキセルは適応がない。",
-      "answer": "×",
-      "explanation": "シスプラチンやアンスラサイクリン系が使用できない場合、考慮される。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2498"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "レンバチニブの適応がある。",
-      "answer": "×",
-      "explanation": "胸腺癌ではマルチキナーゼ阻害薬であるレンバチニブの適応がある。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2499"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "WHO分類 B型は腫瘍上皮細胞が紡錘形~卵円形である。",
-      "answer": "×",
-      "explanation": "WHO分類 B型は腫瘍上皮細胞が類円形~多角形である。(Type A is spindle/oval)",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2500"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "WHO分類 B1はB3に比べてリンパ球の割合が多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2501"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "WHO分類C型は胸腺癌である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k5_p004.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=4"
-      },
-      "id": "qa-2502"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "胸腺癌。組織型は腺癌が多い。",
-      "answer": "×",
-      "explanation": "扁平上皮癌が多い。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k5_p005.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=5"
-      },
-      "id": "qa-2503"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "化学療法はシスプラチン+ペメトレキセドが第一選択である。",
-      "answer": "×",
-      "explanation": "カルボプラチン+パクリタキセルが考慮される。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k5_p005.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=5"
-      },
-      "id": "qa-2504"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "完全切除された 期胸腺癌では術後放射線治療を行われる",
-      "answer": "○",
-      "explanation": "IⅡ~Ⅲ期の胸腺癌では完全切除でも術後放射線療法が考慮される。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k5_p005.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=5"
-      },
-      "id": "qa-2505"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "縦隔上部の上縁は左腕頭静脈が気管正中線と交差する高さである",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k5_p005.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=5"
-      },
-      "id": "qa-2506"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "縦隔上部には甲状腺腫、甲状腺囊胞、リンパ管腫が好発する",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k5_p005.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=5"
-      },
-      "id": "qa-2507"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "後縦隔には心膜囊胞や気管原性嚢胞が好発する",
-      "answer": "×",
-      "explanation": "後縦隔には神経原性腫瘍や囊胞性神経鞘が好発する。心膜囊胞や気管原性囊胞は中縦隔に好発する。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k5_p005.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=5"
-      },
-      "id": "qa-2508"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "悪性胚細胞性腫瘍は男性に好発する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k5_p006.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=6"
-      },
-      "id": "qa-2509"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "非精上皮腫性胚細胞性腫瘍は、絨毛癌、卵黄囊腫瘍、胎児性癌、混合型胚細胞性腫瘍に分けられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k5_p006.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=6"
-      },
-      "id": "qa-2510"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "精上皮腫は化学療法に不応である。",
-      "answer": "×",
-      "explanation": "精上皮腫は化学療法で治癒が得られることが多く、5年生存率は90%を超える。悪性胚細胞性腫瘍で最も多い。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k5_p006.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=6"
-      },
-      "id": "qa-2511"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "精上皮腫では血清-フェトプロテイン (AFP) が上昇する。",
-      "answer": "×",
-      "explanation": "AFP は卵黄囊腫瘍、胎児性癌で上昇する。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k5_p006.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=6"
-      },
-      "id": "qa-2512"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "縦隔における神経原生腫瘍は肋間神経由来のものが多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 8,
-        "image": "assets/reference_pages/k5_p008.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=8"
-      },
-      "id": "qa-2513"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "成人の神経原性腫瘍は悪性が多い。",
-      "answer": "×",
-      "explanation": "成人では良性が多く、小児では悪性が多い。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 8,
-        "image": "assets/reference_pages/k5_p008.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=8"
-      },
-      "id": "qa-2514"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "58歳男性。発熱、咽頭痛、頸部痛。CTで頸部~縦隔に膿瘍。正しいものを選べ。",
-      "answer": [
-        "a",
-        "c"
-      ],
-      "explanation": "a（○）：―\nb（×）：縦隔膿瘍は外科的ドレナージが必要となることが多く、致死的な経過を辿ることが多い。\nc（○）：―\nd（×）：致死的な経過を辿ることが多い。\ne（×）：嫌気性菌が原因となることが多い。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 10,
-        "image": "assets/reference_pages/k5_p010.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=10"
-      },
-      "id": "qa-2515",
-      "choices": {
-        "a": "治療中、定期的にCT撮影が必要である。",
-        "b": "抗菌薬による保存的加療で改善することが多い。",
-        "c": "外科的ドレナージが推奨される。",
-        "d": "致死的な経過をたどることはほとんどない。",
-        "e": "好気性菌が原因となることが多い。"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論V 縦隔疾患",
-      "section": "縦隔疾患",
-      "question": "65歳男性、前縦隔に3cm大の内部均一な腫瘍、低グロブリン血症。誤っているものを1つ選べ。",
-      "answer": [
-        "c"
-      ],
-      "explanation": "a（○）：胸腺腫に伴うため正しい。\nb（○）：胸腺腫に低グロブリン血症が合併したGood 症候群である。\nc（×）：重篤な感染症を伴い、予後不良である。\nd（○）：正しい。\ne（○）：正しい。",
-      "tags": [
-        "各論V",
-        "縦隔疾患",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "各論_縦隔疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 11,
-        "image": "assets/reference_pages/k5_p011.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=11"
-      },
-      "id": "qa-2520",
-      "choices": {
-        "a": "重症筋無力症を精査すべきである。",
-        "b": "診断は Good 症候群である。",
-        "c": "予後良好である。",
-        "d": "MRIや PET での精査が有用である。",
-        "e": "グロブリンの補充が有効な例がある。"
-      }
-    },
-    {
-      "type": "qa",
       "chapter": "各論VI 胸郭・胸壁の疾患",
       "section": "胸郭・胸壁の疾患",
       "question": "漏斗胸。遺伝性疾患に生じることがある",
@@ -53558,6 +52865,601 @@
         "PDF転記"
       ],
       "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3532",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "特発性縦隔気腫は若年瘦せ型男性に多い。",
+      "answer": "○",
+      "explanation": "特発性縦隔気腫は若年の瘦せ型男性に多くみられる。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "特発性縦隔気腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3533",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "特発性縦隔気腫の症状としては心音亢進とHamman兆候がみられる。",
+      "answer": "×",
+      "explanation": "心音低下とHamman兆候がみられる。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "特発性縦隔気腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3534",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "特発性縦隔気腫は魚骨の誤嚥により起こることがある。",
+      "answer": "○",
+      "explanation": "魚骨の誤嚥(食道損傷)により縦隔気腫が起こることがある。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "特発性縦隔気腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3535",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "特発性縦隔気腫であれば早期に食事再開が可能である。",
+      "answer": "○",
+      "explanation": "気管裂傷ではなく食道裂傷による場合は、食事により縦隔膿瘍に至るため、早期の食事再開は不可能である。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "特発性縦隔気腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3536",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "特発性縦隔気腫の確定診断には気管支鏡検査が必要である。",
+      "answer": "×",
+      "explanation": "気管支鏡検査は必須ではない。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "特発性縦隔気腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3537",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "胸腺腫で遠隔転移があれば、正岡分類IVA期である。",
+      "answer": "×",
+      "explanation": "正岡分類IVA期は胸膜・心膜播種、IVB期はリンパ行性・血行性転移である。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3538",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "胸腺腫で肉眼的に心膜、大血管、肺に浸潤していれば正岡分類III期である。",
+      "answer": "○",
+      "explanation": "肉眼的に心膜・大血管・肺などの周囲臓器に浸潤していれば正岡分類III期である。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3539",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "胸腺腫で顕微鏡的に被膜浸潤があればIIB期である。",
+      "answer": "×",
+      "explanation": "IIA期である。IIB期は肉眼的に周囲の脂肪組織や被膜に浸潤があるもの、I期は肉眼的にも組織学的にも被膜浸潤がないものを指す。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3540",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "正岡分類III期は手術適応である。",
+      "answer": "○",
+      "explanation": "完全切除が可能であれば隣接臓器合併切除も考慮される。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3541",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "胸腺腫の6割に重症筋無力症を合併する。",
+      "answer": "×",
+      "explanation": "胸腺腫の2〜3割に重症筋無力症を合併する。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3542",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "高ガンマグロブリン血症を合併するものはGood症候群と呼ばれる。",
+      "answer": "×",
+      "explanation": "Good症候群は胸腺腫に低ガンマグロブリン血症を合併した症候群である。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3543",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "完全切除不能であった正岡分類III期に対しては、術後放射線療法を行う。",
+      "answer": "○",
+      "explanation": "完全切除不能であった正岡分類III期に対しては術後放射線療法を行う。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3544",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "切除不能例に対して行う化学療法の第一選択はアンスラサイクリン系を含むレジメンを考慮する。",
+      "answer": "○",
+      "explanation": "アンスラサイクリン系とプラチナ製剤併用のレジメンを第一選択として考慮する。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3545",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "切除不能例に対してカルボプラチン+パクリタキセルは適応がない。",
+      "answer": "×",
+      "explanation": "シスプラチンやアンスラサイクリン系が使用できない場合に、カルボプラチン+パクリタキセルが考慮される。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3546",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "胸腺腫にはレンバチニブの適応がある。",
+      "answer": "×",
+      "explanation": "胸腺癌ではマルチキナーゼ阻害薬であるレンバチニブの適応がある。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3547",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "WHO分類B型は腫瘍上皮細胞が紡錘形〜卵円形である。",
+      "answer": "×",
+      "explanation": "WHO分類B型は腫瘍上皮細胞が類円形〜多角形である。紡錘形〜卵円形はA型である。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3548",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "WHO分類B1はB3に比べてリンパ球の割合が多い。",
+      "answer": "○",
+      "explanation": "WHO分類B1はB3に比べてリンパ球の割合が多い。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3549",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "WHO分類C型は胸腺癌である。",
+      "answer": "○",
+      "explanation": "WHO分類C型は胸腺癌である。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺腫",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3550",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "胸腺癌の組織型は腺癌が多い。",
+      "answer": "×",
+      "explanation": "胸腺癌は扁平上皮癌が多い。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺癌",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3551",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "胸腺癌の化学療法はシスプラチン+ペメトレキセドが第一選択である。",
+      "answer": "×",
+      "explanation": "カルボプラチン+パクリタキセルが考慮される。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺癌",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3552",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "完全切除されたI期胸腺癌では術後放射線治療が行われる。",
+      "answer": "×",
+      "explanation": "II〜III期の胸腺癌では完全切除でも術後放射線療法が考慮される。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "胸腺癌",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3553",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "縦隔上部の上線は左腕頭静脈が気管正中線と交差する高さである。",
+      "answer": "○",
+      "explanation": "縦隔上部の上線は左腕頭静脈が気管正中線と交差する高さである。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "縦隔区分",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3554",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "縦隔上部には甲状腺腫、甲状腺嚢胞、リンパ管腫が好発する。",
+      "answer": "○",
+      "explanation": "縦隔上部には甲状腺腫、甲状腺嚢胞、リンパ管腫が好発する。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "縦隔区分",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3555",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "後縦隔には心膜嚢胞や気管原性嚢胞が好発する。",
+      "answer": "×",
+      "explanation": "後縦隔には神経原性腫瘍や神経腸管嚢胞が好発する。心膜嚢胞や気管原性嚢胞は中縦隔に好発する。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "縦隔区分",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3556",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "悪性胚細胞性腫瘍は男性に好発する。",
+      "answer": "○",
+      "explanation": "悪性胚細胞性腫瘍は男性に好発する。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "悪性胚細胞性腫瘍",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3557",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "非精上皮腫性胚細胞性腫瘍は、絨毛癌、卵黄嚢腫瘍、胎児性癌、混合型胚細胞性腫瘍に分けられる。",
+      "answer": "○",
+      "explanation": "非精上皮腫性胚細胞性腫瘍は、絨毛癌、卵黄嚢腫瘍、胎児性癌、混合型胚細胞性腫瘍に分けられる。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "悪性胚細胞性腫瘍",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3558",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "精上皮腫は化学療法に不応である。",
+      "answer": "×",
+      "explanation": "精上皮腫は化学療法が奏効することが多く、5年生存率は90%を超える。悪性胚細胞性腫瘍で最も多い。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "悪性胚細胞性腫瘍",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3559",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "精上皮腫では血清α-フェトプロテイン(AFP)が上昇する。",
+      "answer": "×",
+      "explanation": "AFPは卵黄嚢腫瘍、胎児性癌で上昇する。精上皮腫では上昇しない。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "悪性胚細胞性腫瘍",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3560",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "縦隔における神経原性腫瘍は肋間神経由来のものが多い。",
+      "answer": "○",
+      "explanation": "縦隔における神経原性腫瘍は肋間神経由来のものが多い。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "神経原性腫瘍",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3561",
+      "type": "qa",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "成人の神経原性腫瘍は悪性が多い。",
+      "answer": "×",
+      "explanation": "成人では良性が多く、小児では悪性が多い。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "神経原性腫瘍",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-825",
+      "type": "mcq",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "58歳男性。1週間前より発熱、咽頭痛があり、3日前から頸部痛・胸痛が出現した。胸部CTで頸部から縦隔にかけて膿瘍を認めた。正しいものを2つ選べ。",
+      "choices": {
+        "a": "治療中、定期的にCT撮影が必要である。",
+        "b": "抗菌薬による保存的加療で改善することが多い。",
+        "c": "外科的ドレナージが推奨される。",
+        "d": "致死的な経過をたどることはほとんどない。",
+        "e": "好気性菌が原因となることが多い。"
+      },
+      "answer": [
+        "a",
+        "c"
+      ],
+      "explanation": "縦隔膿瘍は外科的ドレナージが必要となることが多く、致死的な経過を辿ることが多い。原因菌は嫌気性菌が多い。治療中は定期的にCT撮影で経過を追う必要がある。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "縦隔膿瘍",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-826",
+      "type": "mcq",
+      "chapter": "各論V 縦隔疾患",
+      "section": "縦隔疾患",
+      "question": "65歳男性。健診で胸部異常陰影を指摘された。CTでは前縦隔に3cm大の内部均一な腫瘍を認め、低γグロブリン血症も認めた。本例について誤っているものを1つ選べ。",
+      "choices": {
+        "a": "重症筋無力症を精査すべきである。",
+        "b": "診断はGood症候群である。",
+        "c": "予後良好である。",
+        "d": "MRIやPETでの精査が有用である。",
+        "e": "γグロブリンの補充が有効な例がある。"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "胸腺腫に低γグロブリン血症が合併したGood症候群である。重篤な感染症を伴い、予後不良である。",
+      "tags": [
+        "各論V",
+        "縦隔疾患",
+        "Good症候群",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "V 縦隔疾患.pdf",
       "images": []
     }
   ]
