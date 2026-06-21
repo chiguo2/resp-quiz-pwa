@@ -46,9 +46,9 @@
       "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2379,
-      "mcq": 260,
-      "total": 2639
+      "qa": 2370,
+      "mcq": 262,
+      "total": 2632
     },
     "sections": [
       "COPD",
@@ -292,9 +292,9 @@
         "qa-1327"
       ]
     },
-    "total_questions": 2639,
-    "qa_count": 2379,
-    "mcq_count": 260,
+    "total_questions": 2632,
+    "qa_count": 2370,
+    "mcq_count": 262,
     "last_update": "2026-06-18"
   },
   "items": [
@@ -32792,2387 +32792,6 @@
     {
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺毛細血管には平滑筋が存在する。",
-      "answer": "×",
-      "explanation": "毛細血管は平滑筋を欠く。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2009"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "低酸素性肺血管攣縮は換気血流比を増悪する。",
-      "answer": "×",
-      "explanation": "ガス交換の効率の悪い肺胞への血流を低下させることで換気血流比を改善させようとする生理的な反応である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2010"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "低酸素性肺血管攣縮は主に肺静脈が収縮することによりもたらされる。",
-      "answer": "○",
-      "explanation": "肺の小動脈の平滑筋が収縮することによって生じる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2011"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "立位において、肺尖部では肺胞気圧の方が肺動静脈圧より高い。",
-      "answer": "○",
-      "explanation": "逆に肺底部では肺動静脈圧が肺胞気圧を上回る。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2012"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "トロンボキサン A₂ (Thromboxane A2: TXA₂)は血管拡張作用を有する。",
-      "answer": "×",
-      "explanation": "血管収縮作用を有する。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2013"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "イソプロテレノールは血管拡張作用を有する。",
-      "answer": "○",
-      "explanation": "Bアドレナリン受容体作動薬であり、B2受容体を刺激することで血管拡張作用を有する。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2014"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺循環系の圧は体循環系と比べておよそ1/3の低圧系である。",
-      "answer": "○",
-      "explanation": "平均大動脈圧の100mmHgに対し平均肺動脈圧は15mmHg ほどで1/5~1/6 となっている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2015"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "有効肺血管床の30%が障害されると肺動脈圧の上昇がみられる。",
-      "answer": "○",
-      "explanation": "有効血管床の50~60%が障害されると肺動脈圧の上昇が出現するとされている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2016"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺性心では心電図のII、III、aVF 誘導でP波の増高がみられる。",
-      "answer": "○",
-      "explanation": "右室肥大に伴う V1~V3 誘導の著明なR波と V4~V6 誘導の深いS波、右房負荷に伴う II、III、aVF誘導でのP波の増高がみられる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2017"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺血栓塞栓症の心電図では特徴的なS1Q3T3 パターンが半数以上で認められる。",
-      "answer": "×",
-      "explanation": "出現頻度は11~28%で少ない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2018"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺水腫の胸部レントゲン所見の特徴。Kerley's B line",
-      "answer": "○",
-      "explanation": "広義間質の肥厚を反映した下肺野末梢に認める線状影を指す。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2019"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "Reversed halo sign",
-      "answer": "×",
-      "explanation": "中心部のすりガラス陰影をリング状に取り囲むように高吸収域が認められるもので、器質化肺炎などでみられるCT所見である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q10_p002.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=2"
-      },
-      "id": "qa-2020"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "Perivascular cuffing sign",
-      "answer": "○",
-      "explanation": "肺血管周囲の間質の肥厚による所見である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2021"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "Vanishing tumor",
-      "answer": "○",
-      "explanation": "肺うっ血により葉間に胸水が貯留し腫瘤状にみえるもので、原因の改善とともに消失する。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2022"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "左心不全による肺水腫の原因は、毛細血管静水圧の上昇である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2023"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "癌性リンパ管症による肺水腫の原因は、毛細血管透過性の亢進である。",
-      "answer": "×",
-      "explanation": "主にリンパ管の閉塞が原因となっている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2024"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "再膨張性肺水腫は、毛細血管透過性の亢進である。",
-      "answer": "○",
-      "explanation": "虚脱肺が引き延ばされることによる間質圧の低下や血管内皮障害による血管透過性の亢進が原因とされる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2025"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "ARDS による肺水腫の原因は、毛細血管透過性の亢進である。",
-      "answer": "○",
-      "explanation": "敗血症や尿毒症などが毛細血管透過性の亢進による肺水腫を引き起こす。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2026"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "高地肺水腫は、間質圧の低下によって生じる。",
-      "answer": "×",
-      "explanation": "低酸素性肺血管攣縮による肺動脈圧の上昇が原因と考えられている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2027"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "神経原性肺水腫は、交感神経系の活動亢進に伴う肺毛細血管圧の上昇に起因する。",
-      "answer": "○",
-      "explanation": "外傷による脳損傷やくも膜下出血によって神経原性の肺水腫が生じる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2028"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺動脈性肺高血圧症(PAH)において発現が低下しているもの。可溶性グアニル酸シクラーゼ(sGC)",
-      "answer": "○",
-      "explanation": "sGCは血管平滑筋でGTPからcGMPの産生を促進し、血管拡張をもたらすもので、PAHでは発現が低下している。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2029"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "エンドセリン",
-      "answer": "×",
-      "explanation": "ET受容体に結合して血管収縮作用をもたらす。PAHでは発現亢進がみられる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2030"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "内皮型一酸化窒素合成酵素(eNOS)",
-      "answer": "○",
-      "explanation": "PAHでは eNOS の発現の低下がみられる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q10_p004.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=4"
-      },
-      "id": "qa-2031"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "ホスホジエステラーゼ5 (PDE-5)",
-      "answer": "×",
-      "explanation": "PDE-5 は cGMPを分解することで血管収縮に寄与する。PAHでは増加が病態の一因として考えられている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q10_p006.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=6"
-      },
-      "id": "qa-2032"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "プロスタサイクリン(PGI2)",
-      "answer": "○",
-      "explanation": "PGI2 は血管拡張作用を示す。PAHでは低下が認められる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q10_p006.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=6"
-      },
-      "id": "qa-2033"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "膠原病に伴う肺高血圧症は1群(肺動脈性肺高血圧症)に分類される。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q10_p006.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=6"
-      },
-      "id": "qa-2034"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "動脈管開存症による肺高血圧症は2群(左心系疾患に伴う肺高血圧症)に分類される。",
-      "answer": "×",
-      "explanation": "先天性心疾患は1群に分類される。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q10_p006.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=6"
-      },
-      "id": "qa-2035"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "門脈圧亢進症による肺高血圧症は5群(詳細不明、多因子の機序による肺高血圧症)に分類される。",
-      "answer": "×",
-      "explanation": "1群に分類される。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q10_p006.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=6"
-      },
-      "id": "qa-2036"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "骨髄増殖性疾患による肺高血圧症は1群(肺動脈性肺高血圧症)に分類される。",
-      "answer": "×",
-      "explanation": "5群に分類される。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q10_p006.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=6"
-      },
-      "id": "qa-2037"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺高血圧症の中で最も多いのは3群(肺疾患および/または低酸素血症に伴う肺高血圧症)である。",
-      "answer": "×",
-      "explanation": "2群の左心系疾患に伴う肺高血圧症が最も多いとされている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q10_p006.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=6"
-      },
-      "id": "qa-2038"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "次の膠原病の中で肺高血圧症をきたすことが少ないものはどれか。",
-      "answer": [
-        "b"
-      ],
-      "explanation": "a（×）：約10%に合併するとされる。\nb（○）：高安動脈炎では合併が知られているが、巨細胞性動脈炎では稀であり一般的ではない。\nc（×）：7%に合併するとの報告がある。\nd（×）：2~4%程度に合併し、主要な原因である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q10_p006.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=6"
-      },
-      "id": "qa-2039",
-      "choices": {
-        "a": "強皮症(SSc)",
-        "b": "側頭動脈炎",
-        "c": "混合性結合組織病(MCTD)",
-        "d": "全身性エリテマトーデス(SLE)"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "安静時の平均肺動脈圧が20mmHgを超えるものを肺高血圧症とする。",
-      "answer": "○",
-      "explanation": "2018年のニース会議で定義が変更された。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2043"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "三尖弁閉鎖不全症は肺高血圧症をきたすことがある",
-      "answer": "×",
-      "explanation": "三尖弁逆流は肺高血圧症に続発することはあるが、原因とはならない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2044"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "僧帽弁閉鎖不全症は肺高血圧症をきたすことがある",
-      "answer": "○",
-      "explanation": "左心不全から肺高血圧症をきたす。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2045"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "心タンポナーデは肺高血圧症をきたすことがある",
-      "answer": "×",
-      "explanation": "右心不全を起こすが、基本的に肺高血圧症を起こすことはない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2046"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺血栓塞栓症は肺高血圧症をきたすことがある",
-      "answer": "○",
-      "explanation": "慢性肺血栓塞栓症による肺高血圧症は臨床分類で4群に分類され原因の1つである。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2047"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "フェンフルラミンは肺動脈性肺高血圧症の原因となる",
-      "answer": "○",
-      "explanation": "食欲抑制薬であり、PAH を誘発することが知られている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2048"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "イマチニブは肺動脈性肺高血圧症の原因となる",
-      "answer": "×",
-      "explanation": "臨床試験では肺血管拡張作用を示したが、副作用の問題から承認には至らなかった。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2049"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "ダサチニブは肺動脈性肺高血圧症の原因となる",
-      "answer": "○",
-      "explanation": "PAHや胸水貯留を引き起こすことが報告されている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2050"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "インターフェロンは肺動脈性肺高血圧症の原因となる",
-      "answer": "○",
-      "explanation": "インターフェロンはPAHを誘発することがある。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2051"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "膠原病による肺動脈性肺高血圧症の予後は特発性肺動脈性肺高血圧よりも良好である。",
-      "answer": "×",
-      "explanation": "予後不良である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2052"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺高血圧症と考えられる症例では、換気血流シンチグラフィを行う。",
-      "answer": "○",
-      "explanation": "鑑別に有用である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q10_p008.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=8"
-      },
-      "id": "qa-2053"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺高血圧症と考えられる症例では、呼気一酸化窒素 (NO)の測定を行う。",
-      "answer": "×",
-      "explanation": "主に気管支喘息で用いられる検査である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2054"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺高血圧症と考えられる症例では、HIV検査を行う。",
-      "answer": "○",
-      "explanation": "HIV感染症に伴う肺高血圧症を鑑別するのに有用である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2055"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺高血圧症と考えられる症例では、腹部超音波検査を行う。",
-      "answer": "○",
-      "explanation": "門脈圧亢進症に起因する肺高血圧症を鑑別するのに有用である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2056"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺高血圧症を疑った場合、ガリウムシンチグラフィが診断に有用である。",
-      "answer": "×",
-      "explanation": "特に必須の検査ではない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2057"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺高血圧症が存在する場合、重症度に関わらず在宅酸素療法が保険適応である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2058"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "マシテンタンはエンドセリン受容体拮抗薬である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2059"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "リオシグアトはNO 非依存性にcGMP を増加させる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2060"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "リオシグアトは肺動脈性肺高血圧症には保険適応がない。",
-      "answer": "×",
-      "explanation": "2015年に肺動脈性肺高血圧症にも適応が拡大された。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2061"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "エポプロステノールは持続静注型のプロスタサイクリン製剤である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2062"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "エポプロステノールは慢性血栓塞栓性肺高血圧症にも保険適応がある。",
-      "answer": "×",
-      "explanation": "2021年現在保険適応は肺動脈性肺高血圧症のみである。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2063"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺高血圧症を合併することが少ない呼吸器疾患はどれか。",
-      "answer": [
-        "a"
-      ],
-      "explanation": "a（○）：一般的に喘息と肺高血圧症の関連はない。\nb（×）：診断時に8~15%、進行すると30~50%が肺高血圧症を呈する。\nc（×）：20%程度が合併する。\nd（×）：stage IVの患者では最大90%の症例で合併。\ne（×）：肺高血圧症の合併が多い。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q10_p010.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=10"
-      },
-      "id": "qa-2064",
-      "choices": {
-        "a": "気管支喘息",
-        "b": "特発性肺線維症",
-        "c": "睡眠時無呼吸症候群",
-        "d": "COPD",
-        "e": "気腫合併肺線維症(CPFE)"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺疾患に伴う肺高血圧症の治療としてエンドセリン拮抗薬は有用である。",
-      "answer": "×",
-      "explanation": "一般的に肺疾患に伴う肺高血圧症に対する肺血管拡張薬の有用性は示されていない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q10_p012.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=12"
-      },
-      "id": "qa-2069"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "呼吸不全を伴う肺疾患に伴う肺高血圧症の治療として酸素療法は有用である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q10_p012.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=12"
-      },
-      "id": "qa-2070"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "SLEに伴う肺高血圧症には免疫抑制剤が第一選択である",
-      "answer": "○",
-      "explanation": "免疫抑制剤の効果が期待できる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q10_p012.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=12"
-      },
-      "id": "qa-2071"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "強皮症に伴う肺高血圧症には免疫抑制剤が第一選択である",
-      "answer": "×",
-      "explanation": "強皮症に伴う肺高血圧症は免疫抑制剤の有効性は期待できず、肺血管拡張薬による治療を行う。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_前半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q10_p012.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=12"
-      },
-      "id": "qa-2072"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺血栓塞栓症。血管内皮障害が発症に関わっている。",
-      "answer": "○",
-      "explanation": "主な誘発因子としてVirchowの3徴が挙げられる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q10_p012.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=12"
-      },
-      "id": "qa-2073"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "発症24時間以内のものを急性肺血栓塞栓症とよぶ。",
-      "answer": "×",
-      "explanation": "概ね発症2週間以内のものが急性肺血栓塞栓症とされる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q10_p012.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=12"
-      },
-      "id": "qa-2074"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "検査前の臨床的確率の評価法として Wells スコアが用いられる。",
-      "answer": "○",
-      "explanation": "ジュネーブ・スコアなども知られている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q10_p012.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=12"
-      },
-      "id": "qa-2075"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "臨床重症度分類では心電図所見が重要である。",
-      "answer": "×",
-      "explanation": "血行動態と心臓超音波検査での右心負荷所見を元に分類される。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2076"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "急性期の治療にエドキサバンを用いることができる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2077"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "急性期の治療にクロピドグレルを用いることができる。",
-      "answer": "×",
-      "explanation": "抗血小板薬は急性肺血栓塞栓症の治療とならない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2078"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "急性肺血栓塞栓症でショック状態の場合、初期治療としてカテコラミンの投与を検討する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2079"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "急性肺血栓塞栓症でショック状態の場合、初期治療として抗凝固療法に加えて血栓溶解療法の併用を検討する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2080"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "急性肺血栓塞栓症でショック状態の場合、初期治療としてカテーテルによる血栓除去療法を検討する。",
-      "answer": "×",
-      "explanation": "初期治療として選択することは適切でない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2081"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "深部静脈血栓症(DVT)。発生率は年々増加している",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2082"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "大腿静脈より中枢側のDVTを中枢型とする",
-      "answer": "×",
-      "explanation": "膝窩静脈より中枢型のものが中枢型、膝窩静脈以遠が末梢型とされる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2083"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "臨床的に低確率で血清 D-dimer 値が正常であれば、DVTは否定的である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2084"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "右下肢よりも左下肢で多く発生する",
-      "answer": "○",
-      "explanation": "左総腸骨静脈が右総腸骨動脈に圧迫されるためといわれている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2085"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "中枢型 DVTの初期治療にアピキサバンを用いることができる",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q10_p014.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=14"
-      },
-      "id": "qa-2086"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "末梢型 DVTであっても抗凝固療法が必要である",
-      "answer": "×",
-      "explanation": "2週間以内に中枢進展がなければ無症候性で低リスクの場合は経過観察が選択される。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q10_p016.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=16"
-      },
-      "id": "qa-2087"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "深部静脈血栓症の危険因子として最も高いものはどれか。",
-      "answer": [
-        "d"
-      ],
-      "explanation": "a（×）：弱い危険因子である\nb（×）：中等度の危険因子である。\nc（×）：弱い危険因子である。\nd（○）：血栓性素因は強い危険因子である。\ne（×）：中等度の危険因子である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q10_p016.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=16"
-      },
-      "id": "qa-2088",
-      "choices": {
-        "a": "肥満",
-        "b": "悪性腫瘍",
-        "c": "エストロゲン(ピル)",
-        "d": "高リン脂質抗体症候群",
-        "e": "長期臥床"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "慢性血栓塞栓性肺高血圧症 (CTEPH)。50%は急性例が慢性化したものである。",
-      "answer": "×",
-      "explanation": "数%と考えられている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q10_p016.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=16"
-      },
-      "id": "qa-2093"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "3ヶ月以上抗凝固療法を継続しても慢性的に肺高血圧症を呈している場合に診断となる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q10_p016.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=16"
-      },
-      "id": "qa-2094"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "女性に多い。",
-      "answer": "○",
-      "explanation": "女3:男1で女性に多い。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q10_p016.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=16"
-      },
-      "id": "qa-2095"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "好発年齢は50歳代である。",
-      "answer": "×",
-      "explanation": "70歳代が発症のピークで、60歳代がそれに次ぐ。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q10_p016.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=16"
-      },
-      "id": "qa-2096"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "プロテインCやプロテインSの欠損は原因の1つとなる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q10_p016.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=16"
-      },
-      "id": "qa-2097"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "胸部CTで肺野がモザイクパターンを呈することがある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q10_p016.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=16"
-      },
-      "id": "qa-2098"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "外科的肺動脈內膜摘除術を施行後1年経過して再発を認めなければ、抗凝固療法は中止可能である。",
-      "answer": "×",
-      "explanation": "永続的な抗凝固療法が必要である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2099"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "高度の右室機能不全がある場合は、肺動脈内膜摘除術の適応とはならない。",
-      "answer": "×",
-      "explanation": "右室機能不全は手術適応除外の要因とはならない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2100"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "外科的手術適応のない場合、バルーン肺動脈拡張術の適応となる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2101"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "外科的手術適応のない場合、血栓溶解療法の適応となる。",
-      "answer": "×",
-      "explanation": "慢性期の治療としては選択されない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2102"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "バルーン肺動脈拡張術の最も多い術中・術後合併症は肺動脈穿孔である。",
-      "answer": "×",
-      "explanation": "最も多い術後合併症は肺障害である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2103"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "抗凝固療法としてエドキサバンを用いることができる。",
-      "answer": "×",
-      "explanation": "DOACの有効性や安全性を示すエビデンスは現時点では存在しない。ワルファリンが選択される。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2104"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺血管拡張薬としてマシテンタンが保険適応となっている。",
-      "answer": "×",
-      "explanation": "2021年現在は保険適応があるのは肺動脈性肺高血圧症のみである。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2105"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺血管拡張薬としてリオシグアトが保険適応となっている。",
-      "answer": "○",
-      "explanation": "CTEPH に唯一適応を有する肺血管拡張薬である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2106"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "PTTM。原発巣において発生した微小血栓が肺動脈に到達することで生じる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2107"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "多くは緩徐に発症し、生命予後は良好である。",
-      "answer": "×",
-      "explanation": "致死的な経過をたどることが多い。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2108"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "PTTM による肺高血圧症は、臨床分類で4群に分類される。",
-      "answer": "×",
-      "explanation": "5群に分類されている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 18,
-        "image": "assets/reference_pages/q10_p018.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=18"
-      },
-      "id": "qa-2109"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "扁平上皮癌より腺癌での発症が多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2110"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "原発腫瘍では肺癌が最も多い。",
-      "answer": "×",
-      "explanation": "胃癌が最多である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2111"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "スワンガンツカテーテルを用いた肺動脈血細胞診が診断に有用である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2112"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "遺伝性出血性毛細血管拡張症。伴性劣性遺伝である。",
-      "answer": "×",
-      "explanation": "常染色体優性遺伝であり、性差はない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2113"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "激しい鼻出血を呈することがある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2114"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "特徴的な皮疹として紫斑がある。",
-      "answer": "×",
-      "explanation": "皮膚・粘膜の毛細血管拡張病変が特徴である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2115"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺動静脈奇形がある場合、高い山や飛行機の移動、激しい運動は禁止する。",
-      "answer": "×",
-      "explanation": "重症度によるため一律に禁止する理由とはならない。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2116"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺動静脈奇形がある場合、スキューバダイビングは禁止する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2117"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "脳の造影CTやMRI検査を施行する。",
-      "answer": "○",
-      "explanation": "約20%に合併するため。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2118"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "未治療の脳動静脈奇形がある場合は、避妊を勧める。",
-      "answer": "×",
-      "explanation": "妊娠による初めての頭蓋内出血は増えないとされている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2119"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺高血圧症を呈することがある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 20,
-        "image": "assets/reference_pages/q10_p020.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=20"
-      },
-      "id": "qa-2120"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "消化管出血をきたすことは少ない。",
-      "answer": "×",
-      "explanation": "約4割に貧血の原因となる程度の消化管出血を認める。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2121"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "流入血管が3mm以上の肺動静脈瘻の治療は手術による切除が第一選択である。",
-      "answer": "×",
-      "explanation": "カテーテル治療が侵襲性などの点から第一選択である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2122"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺分画症。肺葉内肺分画症は、正常気管支との交通を有する。",
-      "answer": "×",
-      "explanation": "正常気管支との交通を持たない異常肺組織である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2123"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺葉外分画症は、固有の臓側胸膜をもつ。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2124"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺葉内肺分画症が肺葉外肺分画症よりも多い。",
-      "answer": "○",
-      "explanation": "約8割が肺葉内肺分画症とされる。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2125"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺葉内肺分画症は下行大動脈から血流を受け、大部分は奇静脈や下大静脈に還流する。",
-      "answer": "×",
-      "explanation": "肺葉内は肺静脈に還流することが多い。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2126"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "合併奇形は肺葉外肺分画症に多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2127"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺葉外肺分画症は呼吸器感染症を繰り返すことが多い。",
-      "answer": "×",
-      "explanation": "肺葉内肺分画症である。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2128"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "左下葉が肺葉内肺分画症の好発部位である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2129"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "肺葉内肺分画症は無症状であれば経過観察可能である。",
-      "answer": "×",
-      "explanation": "無症状であっても呼吸器感染症を起こす可能性が高く、手術が推奨されている。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2130"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "肺循環障害",
-      "question": "無症状で合併症のない肺葉外肺分画症は経過観察可能である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題"
-      ],
-      "source_file": "10_肺循環障害_一問一答_後半.docx",
-      "reference": {
-        "title": "第10章 肺循環障害 問題・解説",
-        "page": 22,
-        "image": "assets/reference_pages/q10_p022.webp",
-        "viewer": "reference-viewer.html?doc=q10&page=22"
-      },
-      "id": "qa-2131"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
       "section": "呼吸調節障害",
       "question": "睡眠時無呼吸症候群(SAS)の成人男性の有病率は1〜2%である。",
       "answer": "×",
@@ -54942,6 +52561,1843 @@
         "PDF転記"
       ],
       "source_file": "8 全身疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3246",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺毛細血管には平滑筋が存在する。",
+      "answer": "×",
+      "explanation": "毛細血管は平滑筋を欠く。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3247",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "低酸素性肺血管攣縮は換気血流比を増悪する。",
+      "answer": "×",
+      "explanation": "ガス交換の効率の悪い肺胞への血流を低下させることで換気血流比を改善させようとする生理的な反応である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3248",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "低酸素性肺血管攣縮は主に肺静脈が収縮することによりもたらされる。",
+      "answer": "×",
+      "explanation": "肺の小動脈の平滑筋が収縮することによって生じる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3249",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "立位において、肺尖部では肺胞気圧の方が肺動脈圧より高い。",
+      "answer": "○",
+      "explanation": "逆に肺底部では肺動脈圧が肺胞気圧を上回る。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3250",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "トロンボキサンA2(Thromboxane A2: TXA2)は血管拡張作用を有する。",
+      "answer": "×",
+      "explanation": "血管収縮作用を有する。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3251",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "イソプロテレノールは血管拡張作用を有する。",
+      "answer": "○",
+      "explanation": "βアドレナリン受容体作動薬であり、β2受容体を刺激することで血管拡張作用を有する。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3252",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺循環の圧は体循環系に比べておよそ1/3の低圧系である。",
+      "answer": "○",
+      "explanation": "平均体動脈圧の約100mmHgに対し平均肺動脈圧は15mmHgほどで、1/5〜1/6となっている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3253",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "有効肺血管床の30%が障害されると肺動脈圧の上昇がみられる。",
+      "answer": "×",
+      "explanation": "有効血管床の50〜60%が障害されると肺動脈圧の上昇が出現するとされている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3254",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺性心では心電図のII、III、aVF誘導でP波の増高がみられる。",
+      "answer": "○",
+      "explanation": "右室肥大に伴うV1〜V2誘導の著明なR波とV5〜V6誘導の深いS波、右房負荷に伴うII、III、aVF誘導のP波の増高がみられる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3255",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺血栓塞栓症の心電図では特徴的なS1Q3T3パターンが半数以上で認められる。",
+      "answer": "×",
+      "explanation": "I誘導の深いS波とIII誘導のQ波・陰性T波を指すS1Q3T3パターンは肺塞栓症の特徴的な心電図とされるが、その出現頻度は11〜28%と少ない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-805",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺水腫の胸部レントゲン所見の特徴として正しいものはどれか。",
+      "choices": {
+        "a": "Kerley's B line",
+        "b": "Reversed halo sign",
+        "c": "Perivascular cuffing sign",
+        "d": "Vanishing tumor"
+      },
+      "answer": [
+        "a",
+        "c",
+        "d"
+      ],
+      "explanation": "a Kerley's B lineは広義間質の肥厚を反映した下肺野末梢の線状影。c Perivascular cuffing signは肺血管周囲の間質肥厚。d Vanishing tumorは葉間に貯留した胸水が腫瘤影にみえるもの。b Reversed halo signは器質化肺炎などでみられるCT所見である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3256",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "左心不全による肺水腫の原因は、毛細血管静水圧の上昇である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3257",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "癌性リンパ管症による肺水腫の原因は、毛細血管透過性の亢進である。",
+      "answer": "×",
+      "explanation": "主にリンパ管の閉塞が原因となっている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3258",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "再膨張性肺水腫は、毛細血管透過性の亢進である。",
+      "answer": "○",
+      "explanation": "虚脱肺が引き延ばされることによる間質圧の低下や血管内皮障害による血管透過性の亢進が原因とされる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3259",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "ARDSによる肺水腫の原因は、毛細血管透過性の亢進である。",
+      "answer": "○",
+      "explanation": "他に、敗血症や尿毒症などが毛細血管透過性の亢進による肺水腫を引き起こす。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3260",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "高地肺水腫は、間質圧の低下によって生じる。",
+      "answer": "×",
+      "explanation": "低酸素性肺血管攣縮による肺動脈圧の上昇が原因と考えられている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3261",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "神経原性肺水腫は、交感神経系の活動亢進に伴う肺毛細血管圧の上昇に起因する。",
+      "answer": "○",
+      "explanation": "外傷による頭部損傷やくも膜下出血によって神経原性の肺水腫が生じる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-806",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺動脈性肺高血圧症(pulmonary arterial hypertension: PAH)において発現が低下していると考えられるものを3つ選べ。",
+      "choices": {
+        "a": "可溶性グアニル酸シクラーゼ(soluble guanylate cyclase: sGC)",
+        "b": "エンドセリン1",
+        "c": "内皮型一酸化窒素合成酵素(endothelial nitric oxide synthase: eNOS)",
+        "d": "ホスホジエステラーゼ5(phosphodiesterase-5: PDE-5)",
+        "e": "プロスタサイクリン(プロスタグランジンI2)(prostaglandin I2: PGI2)"
+      },
+      "answer": [
+        "a",
+        "c",
+        "e"
+      ],
+      "explanation": "PAHではsGC・eNOS・PGI2(血管拡張系)の発現が低下している。一方、ET-1(b)の発現亢進やPDE-5(d)の増加がみられる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3262",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "膠原病に伴う肺高血圧症は1群(肺動脈性肺高血圧症)に分類される。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3263",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "動脈管開存症や心室中隔欠損症などの先天性心疾患による肺血流の増加による肺高血圧症をきたすが、それらは1群(肺動脈性肺高血圧症)に分類される。",
+      "answer": "○",
+      "explanation": "左右シャントによる肺血流の増加から肺高血圧症をきたす。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3264",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "門脈圧亢進症による肺高血圧症は5群(詳細不明、多因子の機序による肺高血圧症)に分類される。",
+      "answer": "×",
+      "explanation": "門脈圧亢進症による肺高血圧症は1群(肺動脈性肺高血圧症)に分類される。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3265",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "骨髄増殖性疾患による肺高血圧症は5群(詳細不明、多因子の機序による肺高血圧症)に分類される。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3266",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺高血圧症の中で最も多いのは3群(肺疾患および/または低酸素血症に伴う肺高血圧症)である。",
+      "answer": "×",
+      "explanation": "2群(左心系疾患に伴う肺高血圧症)が最も多いとされている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-807",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "次の膠原病の中で肺高血圧症をきたすことが少ないものはどれか。",
+      "choices": {
+        "a": "強皮症(systemic sclerosis: SSc)",
+        "b": "側頭動脈炎",
+        "c": "混合性結合組織病(mixed connective tissue disease: MCTD)",
+        "d": "全身性エリテマトーデス(systemic lupus erythematosus: SLE)",
+        "e": "シェーグレン症候群"
+      },
+      "answer": [
+        "b"
+      ],
+      "explanation": "巨細胞性動脈炎(側頭動脈炎)による肺高血圧症は稀であり一般的ではない。SSc(約10%)・MCTD(7%)・SLE(2〜4%)・シェーグレン症候群はいずれも肺高血圧症の原因となる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3267",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "安静時の平均肺動脈圧が20mmHgを超えるものを肺高血圧症とする。",
+      "answer": "○",
+      "explanation": "2018年のニース会議で、肺高血圧症の定義が従来の安静時平均肺動脈圧≧25mmHgから>20mmHgに変更された。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3268",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "三尖弁閉鎖不全症は肺高血圧症をきたすことがある。",
+      "answer": "×",
+      "explanation": "三尖弁逆流は肺高血圧症に続発することはあるが、原因とはならない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3269",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "僧帽弁閉鎖不全症は肺高血圧症をきたすことがある。",
+      "answer": "○",
+      "explanation": "左心不全から肺高血圧症をきたす。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3270",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "心タンポナーデは肺高血圧症をきたすことがある。",
+      "answer": "×",
+      "explanation": "心タンポナーデは右心不全をきたす疾患であり、静脈圧の上昇をきたすものの肺高血圧症を起こすことはない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3271",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺血栓塞栓症は肺高血圧症をきたすことがある。",
+      "answer": "○",
+      "explanation": "慢性肺血栓塞栓症による肺高血圧症は臨床分類で4群(肺動脈血栓による肺高血圧症)に分類される原因の1つである。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3272",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "フェンフルラミンは肺動脈性肺高血圧症の原因となる。",
+      "answer": "○",
+      "explanation": "食欲抑制薬であるアミノレックスやフェンフルラミンはPAHを誘発することが知られている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3273",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "イマチニブは肺動脈性肺高血圧症の原因となる。",
+      "answer": "×",
+      "explanation": "イマチニブは肺高血圧症の治療薬として期待されたこともあり、臨床試験では肺血管拡張作用を示したが、副作用の問題から承認には至らなかった。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3274",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "ダサチニブは肺動脈性肺高血圧症の原因となる。",
+      "answer": "○",
+      "explanation": "ダサチニブは慢性骨髄性白血病の治療薬であるが、PAHや胸水貯留を引き起こすことが報告されている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3275",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "インターフェロンαは肺動脈性肺高血圧症の原因となる。",
+      "answer": "○",
+      "explanation": "インターフェロンα・βはPAHを誘発することがある。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3276",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "膠原病による肺動脈性肺高血圧症の予後は特発性肺動脈性肺高血圧症よりも良好である。",
+      "answer": "×",
+      "explanation": "膠原病による肺動脈性肺高血圧症は特発性肺動脈性肺高血圧症よりも予後不良である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3277",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺高血圧症と考えられる症例では、換気血流シンチグラフィを行う。",
+      "answer": "○",
+      "explanation": "肺動脈性肺高血圧症もしくは慢性血栓塞栓性肺高血圧症、ならびに換気障害型肺疾患に伴う肺高血圧の鑑別に有用である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3278",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺高血圧症と考えられる症例では、呼気一酸化窒素(NO)の測定を行う。",
+      "answer": "×",
+      "explanation": "呼気一酸化窒素は主に気道炎症で用いられる検査である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3279",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺高血圧症と考えられる症例では、HIV検査を行う。",
+      "answer": "○",
+      "explanation": "HIV感染症に伴う肺高血圧症を鑑別するのに有用である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3280",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺高血圧症と考えられる症例では、腹部超音波検査を行う。",
+      "answer": "○",
+      "explanation": "門脈圧亢進症に起因する肺高血圧症を鑑別するのに有用である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3281",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺高血圧症を疑った場合、ガリウムシンチグラフィが診断に有用である。",
+      "answer": "×",
+      "explanation": "肺高血圧症の診断や鑑別において特に必須の検査ではない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3282",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺高血圧症が存在する場合、重症度に関わらず在宅酸素療法が保険適応である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3283",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "マシテンタンはエンドセリン受容体拮抗薬である。",
+      "answer": "○",
+      "explanation": "エンドセリン受容体拮抗薬には他に、ボセンタン、アンブリセンタンがある。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3284",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "リオシグアトはNO非依存性にcGMPを増加させる。",
+      "answer": "○",
+      "explanation": "内因性NOに対するsGC(可溶性グアニル酸シクラーゼ)の反応性を高める作用に加え、sGCを直接的に活性化させることでNO非依存性にcGMPを増加させる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3285",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "リオシグアトは肺動脈性肺高血圧症には保険適応がない。",
+      "answer": "×",
+      "explanation": "当初は慢性肺血栓塞栓性肺高血圧症の治療薬として保険適応とされていたが、2015年に肺動脈性肺高血圧症にも適応が拡大された。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3286",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "エポプロステノールは持続静注型のプロスタサイクリン製剤である。",
+      "answer": "○",
+      "explanation": "他に、同じプロスタサイクリン系であるトレプロスチニルが持続静注または持続皮下注製剤として用いられている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3287",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "エポプロステノールは慢性肺血栓塞栓性肺高血圧症にも保険適応がある。",
+      "answer": "×",
+      "explanation": "実臨床では重症例で用いられることもあるが、2021年現在保険適応は肺動脈性肺高血圧症のみである。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-808",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺高血圧症を合併することが少ない呼吸器疾患は次のうちどれか。",
+      "choices": {
+        "a": "気管支喘息",
+        "b": "特発性肺線維症",
+        "c": "睡眠時無呼吸症候群",
+        "d": "COPD",
+        "e": "気腫合併肺線維症(combined pulmonary fibrosis and emphysema: CPFE)"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "一般的に喘息と肺高血圧症の関連は低い。特発性肺線維症(8〜50%)・睡眠時無呼吸症候群(約20%)・COPD・CPFEはいずれも肺高血圧症の合併が多い。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3288",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺疾患に伴う肺高血圧症の治療にエンドセリン拮抗薬は有用である。",
+      "answer": "×",
+      "explanation": "2021年に発表された間質性肺炎に対する吸入トレプロスチニルの有効性を示す報告を除き、一般的に肺疾患に伴う肺高血圧症に対する肺血管拡張薬の有用性は示されていない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3289",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "呼吸不全を伴う肺疾患に伴う肺高血圧症の治療として酸素療法は有用である。",
+      "answer": "○",
+      "explanation": "肺疾患に伴う肺高血圧症の治療は、原疾患に対する治療と低酸素症例に対する酸素療法が基本である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3290",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "SLEに伴う肺高血圧症には免疫抑制剤が第一選択である。",
+      "answer": "○",
+      "explanation": "膠原病に伴う肺高血圧症に対しては免疫抑制剤の効果が期待できる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3291",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "強皮症に伴う肺高血圧症には免疫抑制剤が第一選択である。",
+      "answer": "×",
+      "explanation": "強皮症に伴う肺高血圧症は免疫抑制剤の有効性は期待できず、肺血管拡張薬による治療を行う。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3292",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺血栓塞栓症は血管内皮障害が発症に関わっている。",
+      "answer": "○",
+      "explanation": "主な誘発因子として血流の停滞、血管内皮障害、血液凝固能亢進のVirchowの3徴が挙げられる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3293",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "発症24時間以内のものを急性肺血栓塞栓症とよぶ。",
+      "answer": "×",
+      "explanation": "概ね発症2週間以内のものが急性肺血栓塞栓症とされる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3294",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺血栓塞栓症の検査前の臨床的確率の評価法としてWellsスコアが用いられる。",
+      "answer": "○",
+      "explanation": "同様に発症確率の評価方法としてジュネーブ・スコア、改訂ジュネーブ・スコアが知られている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3295",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺血栓塞栓症の臨床重症度分類は心電図所見が重要である。",
+      "answer": "×",
+      "explanation": "臨床重症度分類は血行動態と心臓超音波検査での右心負荷所見を元に分類される。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3296",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "急性肺血栓塞栓症の急性期の治療にエドキサバンを用いることができる。",
+      "answer": "○",
+      "explanation": "ヘパリン、ワルファリンの他、直接作用型抗凝固薬(DOAC)のうちリバーロキサバン、アピキサバン、エドキサバンは急性肺血栓塞栓症に対する適応がある。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3297",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "急性肺血栓塞栓症の急性期の治療にクロピドグレルを用いることができる。",
+      "answer": "×",
+      "explanation": "抗血小板薬は急性肺血栓塞栓症の治療とならない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3298",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "急性肺血栓塞栓症でショック状態の場合、初期治療としてカテコラミンの投与を検討する。",
+      "answer": "○",
+      "explanation": "心拍出量低下・低血圧例に対するカテコラミンは2017年の肺血栓塞栓症のガイドライン(日本循環器学会)でもクラスIIaとして推奨されている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3299",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "急性肺血栓塞栓症でショック状態の場合、初期治療として抗凝固療法に加えて血栓溶解療法の併用を検討する。",
+      "answer": "○",
+      "explanation": "ショックを伴う重症例は血栓溶解療法の適応となるが、出血の合併症に注意する必要がある。我が国で保険適応があるのはモンテプラーゼ(t-PA)のみである。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3300",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "急性肺血栓塞栓症でショック状態の場合、初期治療としてカテーテルによる血栓除去療法を検討する。",
+      "answer": "×",
+      "explanation": "カテーテル治療は様々な内科的治療を行ったにもかかわらず不安定な血行動態が持続する患者が適応であり、初期治療として選択することは適切でない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3301",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "深部静脈血栓症(deep venous thrombosis: DVT)の発生率は年々増加している。",
+      "answer": "○",
+      "explanation": "2006年の厚生労働省のアンケート調査では年間14,674人と推計され、増加傾向である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3302",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "大腿静脈より中枢側のDVTを中枢型とする。",
+      "answer": "×",
+      "explanation": "膝窩静脈より中枢側のものが中枢型、膝窩静脈以遠が末梢型とされる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3303",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "臨床的に低確率で血清D-dimer値が正常であれば、DVTは否定的である。",
+      "answer": "○",
+      "explanation": "逆に臨床的に高確率の場合は、血清D-dimer値が正常であっても否定はできない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3304",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "DVTは右下肢よりも左下肢で多く発生する。",
+      "answer": "○",
+      "explanation": "左総腸骨静脈が右総腸骨動脈に圧迫されるためといわれている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3305",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "中枢型DVTの初期治療にアピキサバンを用いることができる。",
+      "answer": "○",
+      "explanation": "アピキサバンを含むDOACは初期治療から用いることができる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3306",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "末梢型DVTであっても抗凝固療法が必要である。",
+      "answer": "×",
+      "explanation": "2週間以内に中枢進展がなければその後の進展はないとされ、無症候性で低リスクの場合は経過観察が選択される。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-809",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "深部静脈血栓症の危険因子として最も高いものはどれか。",
+      "choices": {
+        "a": "肥満",
+        "b": "悪性腫瘍",
+        "c": "エストロゲン(ピル)",
+        "d": "高リン脂質抗体症候群",
+        "e": "長期臥床"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "高リン脂質抗体症候群などの血栓性素因は強い危険因子である。肥満・エストロゲンは弱い危険因子、悪性腫瘍・長期臥床は中等度の危険因子である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3307",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "慢性血栓塞栓性肺高血圧症(CTEPH)の50%は急性例が慢性化したものである。",
+      "answer": "×",
+      "explanation": "急性例が慢性化するのは数%と考えられている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3308",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "3ヶ月以上抗凝固療法を継続しても慢性的に肺高血圧症を呈している場合にCTEPHの診断となる。",
+      "answer": "○",
+      "explanation": "適切な抗凝固療法を3〜6ヶ月継続しても慢性的に肺高血圧が存在している場合にCTEPHの診断となる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3309",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "CTEPHは女性に多い。",
+      "answer": "○",
+      "explanation": "女3:男1で女性に多い。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3310",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "CTEPHの好発年齢は50歳代である。",
+      "answer": "×",
+      "explanation": "70歳代が発症のピークで、60歳代がそれに次ぐ。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3311",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "プロテインCやプロテインSの欠損はCTEPHの原因の1つとなる。",
+      "answer": "○",
+      "explanation": "深部静脈血栓やプロテインC、プロテインS欠損などの凝固能異常が背景に存在し、稀に反復して血栓塞栓症を起こすことで生じる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3312",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "CTEPHでは胸部CTで肺野がモザイクパターンを呈することがある。",
+      "answer": "○",
+      "explanation": "血流低下が低吸収域、血流増加部位が高吸収域となりモザイクパターンを呈する例が報告されている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3313",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "CTEPHで外科的肺動脈内膜除去術を施行後1年経過して再発を認めなければ、抗凝固療法は中止可能である。",
+      "answer": "×",
+      "explanation": "in situでの血栓形成機序の関与も考えられており、手術やバルーン肺動脈拡張術などの治療の実施の有無に関わらず、永続的な抗凝固療法が必要である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3314",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "高度の右室機能不全がある場合は、肺動脈内膜除去術の適応とはならない。",
+      "answer": "×",
+      "explanation": "手術により肺高血圧が改善すれば右室拡大や壁運動は改善するため、右室機能不全は手術適応除外の要因とはならない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3315",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "CTEPHで外科的手術適応のない場合、バルーン肺動脈拡張術の適応となる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3316",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "CTEPHで外科的手術適応のない場合、血栓溶解療法の適応となる。",
+      "answer": "×",
+      "explanation": "経過中に急性の肺塞栓の合併が疑われる場合には検討されることもあるが、慢性期の治療としては選択されない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3317",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "バルーン肺動脈拡張術の最も多い術中・術後合併症は肺動脈穿孔である。",
+      "answer": "×",
+      "explanation": "最も多い術後合併症は肺障害(再灌流性肺水腫)である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3318",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "CTEPHの抗凝固療法としてエドキサバンを用いることができる。",
+      "answer": "×",
+      "explanation": "ワルファリンが選択される。エドキサバンを含む直接作用型抗凝固薬(DOAC)の有効性や安全性を示すエビデンスは現時点では存在しない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3319",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "CTEPHの肺血管拡張薬としてマシテンタンが保険適応となっている。",
+      "answer": "×",
+      "explanation": "マシテンタンはCTEPHに対しても有効であることが報告されているが、2021年現在保険適応があるのは肺動脈性肺高血圧症のみである。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3320",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "CTEPHの肺血管拡張薬としてリオシグアトが保険適応となっている。",
+      "answer": "○",
+      "explanation": "CTEPHに唯一適応を有する肺血管拡張薬である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3321",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺腫瘍血栓性微小血管症(pulmonary tumor thrombotic microangiopathy: PTTM)は、原発巣で発生した微小血栓が肺動脈に到達することで生じる。",
+      "answer": "×",
+      "explanation": "末梢肺動脈壁に腫瘍細胞が付着し、腫瘍による塞栓だけでなく、血管内膜の線維性肥厚や血栓形成を引き起こすことで肺高血圧症に至る病態である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3322",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "PTTMは多くは緩徐に発症し、生命予後は良好である。",
+      "answer": "×",
+      "explanation": "急激に進行する呼吸不全、右心不全のため致死的な経過をたどることが多い。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3323",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "PTTMによる肺高血圧症は、臨床分類で4群に分類される。",
+      "answer": "×",
+      "explanation": "5群に分類されている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3324",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "PTTMは扁平上皮癌より腺癌での発症が多い。",
+      "answer": "○",
+      "explanation": "組織型では腺癌が最多である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3325",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "PTTMの原発腫瘍では肺癌が最も多い。",
+      "answer": "×",
+      "explanation": "原発腫瘍としては胃癌が最多である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3326",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "PTTMではスワンガンツカテーテルを用いた肺動脈血細胞診が診断に有用である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3327",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "遺伝性出血性毛細血管拡張症は伴性劣性遺伝である。",
+      "answer": "×",
+      "explanation": "常染色体優性遺伝であり、性差はない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3328",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "遺伝性出血性毛細血管拡張症では激しい鼻出血を呈することがある。",
+      "answer": "○",
+      "explanation": "時として輸血を要する程の激しい鼻出血が生じる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3329",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "遺伝性出血性毛細血管拡張症の特徴的な皮疹として紫斑がある。",
+      "answer": "×",
+      "explanation": "皮膚・粘膜の毛細血管拡張病変が特徴である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3330",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "遺伝性出血性毛細血管拡張症で肺動静脈奇形がある場合、高い山や飛行機の移動、激しい運動は禁忌である。",
+      "answer": "×",
+      "explanation": "肺動静脈瘻が存在すると気圧の低い高地でSpO2の低下から息切れやチアノーゼが生じる例があるが、重症度によるため一律に禁止する理由とはならない。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3331",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "遺伝性出血性毛細血管拡張症で肺動静脈奇形がある場合、スキューバダイビングは禁忌である。",
+      "answer": "○",
+      "explanation": "体に高い水圧がかかることで動静脈瘻内に気泡が生じ脳梗塞をきたす可能性があるため、避けるべきとされる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3332",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "遺伝性出血性毛細血管拡張症では脳の造影CTやMRI検査を施行する。",
+      "answer": "○",
+      "explanation": "約20%で脳動静脈奇形を合併するといわれており、スクリーニングが必要である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3333",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "遺伝性出血性毛細血管拡張症で未治療の脳動静脈奇形がある場合は、避妊を勧める。",
+      "answer": "×",
+      "explanation": "殆どの妊娠出産は安全で、流産や奇形発生率も通常の妊娠と変わらず、また脳動静脈奇形があっても妊娠による初めての頭蓋内出血は増えないとされている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3334",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "遺伝性出血性毛細血管拡張症では肺高血圧症を呈することがある。",
+      "answer": "○",
+      "explanation": "肺血管の狭窄の他に、肝臓の動静脈瘻による心負荷を介した門脈圧亢進症で肺高血圧症が生じる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3335",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "遺伝性出血性毛細血管拡張症では消化管出血をきたすことは少ない。",
+      "answer": "×",
+      "explanation": "約7割に消化管毛細血管拡張症を呈し、約4割に貧血の原因となる程度の消化管出血を認める。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3336",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "流入血管が3mm以上の肺動静脈瘻の治療は手術による切除が第一選択である。",
+      "answer": "×",
+      "explanation": "コイル塞栓などのカテーテル治療が侵襲性の低さの点から第一選択である。カテーテル治療が困難な複雑性・多発性の動静脈瘻の場合に手術が検討される。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3337",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺葉内肺分画症は、正常気管支との交通を有する。",
+      "answer": "×",
+      "explanation": "肺分画症は正常気管支との交通を持たない異常肺組織である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3338",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺葉外分画症は、固有の臓側胸膜をもつ。",
+      "answer": "○",
+      "explanation": "正常肺葉内に存在する肺葉内肺分画症と、正常肺葉外に存在し固有の臓側胸膜を持つ肺葉外肺分画症に分類される。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3339",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺葉内肺分画症が肺葉外肺分画症よりも多い。",
+      "answer": "○",
+      "explanation": "約8割が肺葉内肺分画症とされる。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3340",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺葉内肺分画症は下行大動脈から血流を受け、大部分は奇静脈や下大静脈に還流する。",
+      "answer": "×",
+      "explanation": "肺葉内肺分画症は肺静脈に還流することが多い。奇静脈や下大静脈(体静脈)に還流することが多いのは肺葉外肺分画症である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3341",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "合併奇形は肺葉外肺分画症に多い。",
+      "answer": "○",
+      "explanation": "肺葉外肺分画症は横隔膜ヘルニアや心奇形を高率に合併するため、小児期に発見されることが多い。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3342",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺葉外肺分画症は呼吸器感染症を繰り返すことが多い。",
+      "answer": "×",
+      "explanation": "呼吸器感染症を反復することが多いのは肺葉内肺分画症である。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3343",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "左下葉が肺葉内肺分画症の好発部位である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3344",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "肺葉内肺分画症は無症状であれば経過観察可能である。",
+      "answer": "×",
+      "explanation": "無症状であっても呼吸器感染症を起こす可能性が高く、手術が推奨されている。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3345",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "肺循環障害",
+      "question": "無症状で合併症のない肺葉外肺分画症は経過観察可能である。",
+      "answer": "○",
+      "explanation": "無症状の肺葉外肺分画症は経過観察されることもある。",
+      "tags": [
+        "各論I",
+        "肺循環障害",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "10 肺循環障害.pdf",
       "images": []
     }
   ]
