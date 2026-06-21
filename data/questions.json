@@ -31516,718 +31516,6 @@
       "id": "qa-1814"
     },
     {
-      "type": "mcq",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "癌性胸水に対して胸腔ドレナージを実施した後に、再膨張性肺水腫を疑う両側肺のうっ血と意識障害 (JCS Ⅱ-30) が出現した。リザーバーマスク 10L/分による酸素投与でも酸素化を維持できない場合の正しい呼吸管理方法はどれか。",
-      "answer": [
-        "e"
-      ],
-      "explanation": "a（×）：意識障害が出現しており、現行治療では救命できなくなる危険性が高い。デバイスとの同調困難と考えられるため、早期の気管挿管、人工呼吸器管理が望ましい。\nb（×）：―\nc（×）：―\nd（×）：―\ne（○）：呼吸不全をきたしており、迅速な診断と治療が必要である。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 2,
-        "image": "assets/reference_pages/k2_p002.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=2"
-      },
-      "id": "qa-2329",
-      "choices": {
-        "a": "高流量鼻カニュラ酸素療法",
-        "b": "リザーバーマスク継続",
-        "c": "分離肺換気",
-        "d": "非侵襲的陽圧換気療法",
-        "e": "気管挿管"
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "既往歴のない2歳の男児。枝豆を食事中に泣き出した、その後呼吸の異常がみられたため救急外来を受診した。右肺にwheeze を聴取、鼻カニュラ1L/分下のSpO2 96%であった。胸部単純写真では異常がみられなかった。対応として正しいものはどれか。",
-      "answer": [
-        "d"
-      ],
-      "explanation": "a（×）：―\nb（×）：―\nc（×）：喘息の合併は否定できないものの、既往がない場合は否定的である。原因検索と正確な診断が重要である。\nd（○）：―",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 2,
-        "image": "assets/reference_pages/k2_p002.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=2"
-      },
-      "id": "qa-2334",
-      "choices": {
-        "a": "経過観察",
-        "b": "鎮静をかけて CTを撮影する",
-        "c": "短時間作用型 β2刺激薬の吸入とステロイド薬の点滴静注",
-        "d": "気管支鏡検査実施の準備のため、麻酔科医に連絡をとる"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "間質性肺炎では肺胞と動脈血の間で拡散障害が起こる。",
-      "answer": "○",
-      "explanation": "肺胞毛細血管膜の肥厚による拡散障害が起こる。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 2,
-        "image": "assets/reference_pages/k2_p002.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=2"
-      },
-      "id": "qa-2338"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "肺水腫では肺胞と動脈血の間での拡散障害は起こりにくい。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 2,
-        "image": "assets/reference_pages/k2_p002.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=2"
-      },
-      "id": "qa-2339"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "メトヘモグロビン血症の患者では、 SpO2 は実際よりも高く表示される。",
-      "answer": "×",
-      "explanation": "SpO2 は実際よりも低く表示される。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 2,
-        "image": "assets/reference_pages/k2_p002.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=2"
-      },
-      "id": "qa-2340"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "右左シャントによる呼吸不全をきたしている場合、酸素投与を行ってもSpO2の上昇が得られにくい。",
-      "answer": "○",
-      "explanation": "肺胞によるガス交換が不可能となるため、酸素投与による呼吸不全の改善が期待しにくい。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 2,
-        "image": "assets/reference_pages/k2_p002.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=2"
-      },
-      "id": "qa-2341"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "急性心不全では、platypnea-orthodeoxia syndrome をきたすことがある。",
-      "answer": "×",
-      "explanation": "platypnea-orthodeoxia syndrome は卵円孔開存症、心房中隔欠損症、肝硬変、肝肺症候群などの疾患でみられることがある。臥位から座位または立位になった際に低酸素血症をきたす病態である。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 2,
-        "image": "assets/reference_pages/k2_p002.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=2"
-      },
-      "id": "qa-2342"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "肝肺症候群では、platypnea-orthodeoxia syndrome をきたすことがある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 2,
-        "image": "assets/reference_pages/k2_p002.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=2"
-      },
-      "id": "qa-2343"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "ARDS による急性呼吸不全には1回換気量を制限した呼吸が有効である。",
-      "answer": "○",
-      "explanation": "1回換気量とプラトー圧を制限する肺保護換気戦略として、低容量換気が勧められる。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2344"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "ARDS では肺血管抵抗が低下する。",
-      "answer": "×",
-      "explanation": "肺血管の攣縮、肺胞領域の組織破壊による器質的狭窄、肺微小血栓による血管閉塞、肺梗塞、肺水腫による血管系の圧排などにより、肺血管抵抗は上昇する。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2345"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "ARDSによる急性呼吸不全の管理中は、高二酸化炭素血症を回避する。",
-      "answer": "×",
-      "explanation": "一般的には動脈血 pH 7.25 以上であれば、高 PaCO2 血症を許容し、過剰な換気の回避を優先する (permissive hypercapnia)。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2346"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "ARDS の重症度は PaO2/FiO2 と呼気終末陽圧(PEEP) により分類される。",
-      "answer": "○",
-      "explanation": "ベルリン定義で改訂された。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2347"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "ARDS の死亡率は10~30%である。",
-      "answer": "×",
-      "explanation": "ARDS の死亡率は近年改善傾向にあるものの、30~58% と依然として高い。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2348"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "ARDS では循環動態が安定している症例においては水分制限を行い、水分バランスをドライサイドに保つ。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2349"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "成人ARDS 患者において人工呼吸を実施する際、プラトー圧は可能な限り高く設定する。",
-      "answer": "×",
-      "explanation": "プラトー圧は 30 cmH2O 以下となるように設定する。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2350"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "L型 COVID-19 肺炎には、腹臥位による呼吸法は有効ではない。",
-      "answer": "×",
-      "explanation": "H型だけでなく、L型COVID-19肺炎にも有効である。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2351"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "COVID-19肺炎による人工呼吸管理が必要な急性呼吸不全には、副腎皮質ステロイドの使用が推奨されている。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2352"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "H型 COVID-19肺炎には、1回換気量制限が必要である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2353"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "COVID-19 肺炎患者に気管挿管を実施する際は、直前にバッグマスクで十分な換気を行う。",
-      "answer": "×",
-      "explanation": "エアロゾル感染のリスクを減らすために、鎮静薬、鎮痛薬、筋弛緩薬をほぼ同時に連続投与し、バッグマスクは行わない迅速導入気管挿管(rapid sequence induction)が推奨される。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4"
-      },
-      "id": "qa-2354"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "アスピリン喘息患者の発作にステロイド薬の全身投与を行う場合、コハク酸エステル型ステロイドを使用する。",
-      "answer": "○",
-      "explanation": "喘息発作を悪化させる危険性があるため、リン酸エステル型ステロイドを 使用する。(The text says it should use succinate to avoid risk from phosphate. so ○)",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 7,
-        "image": "assets/reference_pages/k2_p007.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=7"
-      },
-      "id": "qa-2355"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "間質性肺炎合併肺癌患者に対する術後急性増悪の予防には、副腎皮質ステロイドが有効である。",
-      "answer": "×",
-      "explanation": "術後急性増悪の予防投薬(抗線維化薬を除く)は行わないことが推奨されている。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 7,
-        "image": "assets/reference_pages/k2_p007.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=7"
-      },
-      "id": "qa-2356"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "特発性肺線維症の死因で最も多いのは急性増悪である。",
-      "answer": "○",
-      "explanation": "約40%と報告されている。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 7,
-        "image": "assets/reference_pages/k2_p007.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=7"
-      },
-      "id": "qa-2357"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "特発性肺線維症慢性安定期には副腎皮質ステロイド単独療法が有効である。",
-      "answer": "×",
-      "explanation": "使用しないことが推奨されている。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 7,
-        "image": "assets/reference_pages/k2_p007.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=7"
-      },
-      "id": "qa-2358"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "特発性肺線維症慢性安定期には呼吸リハビリテーションが有効である。",
-      "answer": "○",
-      "explanation": "運動耐容能やQOLの改善効果が期待できる。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 7,
-        "image": "assets/reference_pages/k2_p007.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=7"
-      },
-      "id": "qa-2359"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "在宅酸素療法導入の原因疾患の中で、最も多いのはCOPD である。",
-      "answer": "○",
-      "explanation": "COPD、間質性肺疾患(肺線維症など)、肺結核後遺症の順に多い。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 8,
-        "image": "assets/reference_pages/k2_p008.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=8"
-      },
-      "id": "qa-2360"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "免疫不全、免疫抑制下の急性呼吸不全患者は非侵襲的陽圧換気療法(NPPV) の良い適応である。",
-      "answer": "○",
-      "explanation": "挿管、人工呼吸器管理に移行する頻度を低下させる。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 8,
-        "image": "assets/reference_pages/k2_p008.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=8"
-      },
-      "id": "qa-2361"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "COPD 増悪時の換気補助療法の第一選択は、侵襲的陽圧換気療法である。",
-      "answer": "×",
-      "explanation": "第一選択は非侵襲的陽圧換気療法である。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 8,
-        "image": "assets/reference_pages/k2_p008.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=8"
-      },
-      "id": "qa-2362"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "肺高血圧症では、動脈血酸素分圧の値に関わらず、在宅酸素療法の社会保険適用となる。",
-      "answer": "○",
-      "explanation": "肺高血圧症以外の、慢性呼吸不全、慢性心不全、チアノーゼ型先天性心疾患では、動脈血酸素分圧や重症度などの基準がある。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 8,
-        "image": "assets/reference_pages/k2_p008.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=8"
-      },
-      "id": "qa-2363"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "無筋症性皮膚筋炎では慢性進行型の間質性肺炎を合併する。",
-      "answer": "×",
-      "explanation": "急速進行性間質性肺炎を高頻度に合併する。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 10,
-        "image": "assets/reference_pages/k2_p010.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=10"
-      },
-      "id": "qa-2364"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "無筋症性皮膚筋炎では血清フェリチンが病勢のマーカーとなる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 10,
-        "image": "assets/reference_pages/k2_p010.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=10"
-      },
-      "id": "qa-2365"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "逆ゴットロン徴候は無筋症性皮膚筋炎に特徴的な皮膚病変である。",
-      "answer": "○",
-      "explanation": "手指屈側や手掌の鉄棒まめ様の皮疹である。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 10,
-        "image": "assets/reference_pages/k2_p010.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=10"
-      },
-      "id": "qa-2366"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "肥満低換気症候群に持続陽圧呼吸療法(CPAP) を実施する場合、nasal bilevel CPAPや auto CPAP を検討する。",
-      "answer": "○",
-      "explanation": "高圧の CPAP が必要な場合やタイトレーションが困難な場合に nasal bilevel CPAP や auto CPAP を考慮することが推奨されている。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 10,
-        "image": "assets/reference_pages/k2_p010.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=10"
-      },
-      "id": "qa-2367"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論II 呼吸不全",
-      "section": "呼吸不全",
-      "question": "肋骨骨折やフレイルチェストによる換気障害に対して、NPPVは禁忌である。",
-      "answer": "×",
-      "explanation": "内固定と呼ばれ、良い適応である。",
-      "tags": [
-        "各論II",
-        "呼吸不全",
-        "○×問題"
-      ],
-      "source_file": "各論_呼吸不全_一問一答.docx",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 10,
-        "image": "assets/reference_pages/k2_p010.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=10"
-      },
-      "id": "qa-2368"
-    },
-    {
       "type": "qa",
       "chapter": "各論III 胸膜疾患",
       "section": "胸膜疾患",
@@ -53691,6 +52979,585 @@
         "選択肢統合"
       ],
       "source_file": "9 塵肺症.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-823",
+      "type": "mcq",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "癌性胸水に対して胸腔ドレナージを実施した後に、再膨張性肺水腫を疑う両側肺のうっ血と意識障害(JCS II-30)が出現した。リザーバーマスク10L/分による酸素投与でも酸素化を維持できない場合の正しい呼吸管理方法はどれか。",
+      "choices": {
+        "a": "高流量鼻カニュラ酸素療法",
+        "b": "リザーバーマスク継続",
+        "c": "分離肺換気",
+        "d": "非侵襲的陽圧換気療法",
+        "e": "気管挿管"
+      },
+      "answer": [
+        "e"
+      ],
+      "explanation": "意識障害が出現しており、現行治療では救命できなくなる危険性が高い。デバイスとの同調困難と考えられるため、早期の気管挿管、人工呼吸器管理が望ましい。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-824",
+      "type": "mcq",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "既往歴のない2歳の男児。枝豆を食事中に泣き出した。その後呼吸の異常がみられたため救急外来を受診した。右肺にwheezeを聴取し、鼻カニュラ1L/分でのSpO2 96%であった。胸部単純写真では異常がみられなかった。対応として正しいものはどれか。",
+      "choices": {
+        "a": "経過観察",
+        "b": "鎮静をかけてCTを撮影する。",
+        "c": "短時間作用型β2刺激薬の吸入とステロイド薬の点滴静注",
+        "d": "気管支鏡検査実施の準備のため、麻酔科医に連絡をとる。"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "枝豆の誤嚥(気道異物)が疑われ、呼吸不全をきたしており迅速な診断と治療が必要である。喘息の合併は否定できないものの既往がない場合は否定的であり、原因検索と正確な診断が重要である。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3501",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "間質性肺炎では肺胞と動脈血の間で拡散障害が起こる。",
+      "answer": "○",
+      "explanation": "間質(肺胞壁)の肥厚により肺胞と動脈血の間の拡散障害が生じる。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3502",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "肺水腫では肺胞と動脈血の間での拡散障害は起こりにくい。",
+      "answer": "×",
+      "explanation": "肺胞毛細血管膜の肥厚による拡散障害が起こる。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3503",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "メトヘモグロビン血症の患者では、SpO2は実際よりも高く表示される。",
+      "answer": "×",
+      "explanation": "SpO2は実際よりも低く表示される。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3504",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "右左シャントによる呼吸不全をきたしている場合、酸素投与を行ってもSpO2の上昇が得られにくい。",
+      "answer": "○",
+      "explanation": "肺胞によるガス交換が不可能となるため、酸素投与による呼吸不全の改善が期待しにくい。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3505",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "急性心不全では、platypnea-orthodeoxia syndromeをきたすことがある。",
+      "answer": "×",
+      "explanation": "platypnea-orthodeoxia syndromeは卵円孔開存症、心房中隔欠損症、肝硬変、肝肺症候群などの疾患でみられることがある。臥位から座位または立位になった際に低酸素血症をきたす病態である。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3506",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "肝肺症候群では、platypnea-orthodeoxia syndromeをきたすことがある。",
+      "answer": "○",
+      "explanation": "肝肺症候群はplatypnea-orthodeoxia syndromeの代表的な原因疾患の一つである。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3507",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "ARDSによる急性呼吸不全には1回換気量を制限した呼吸が有効である。",
+      "answer": "○",
+      "explanation": "1回換気量とプラトー圧を制限する肺保護換気戦略として、低容量換気が勧められる。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3508",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "ARDSでは肺血管抵抗が低下する。",
+      "answer": "×",
+      "explanation": "肺血管の攣縮、肺胞領域の組織破壊による器質的狭窄、肺微小血栓による血管閉塞、肺梗塞、肺水腫による血管系の圧排などにより、肺血管抵抗は上昇する。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3509",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "ARDSによる急性呼吸不全の管理では、高二酸化炭素血症を回避する。",
+      "answer": "×",
+      "explanation": "一般的には動脈血pH 7.25以上であれば、高PaCO2血症を許容し、過剰な換気の回避を優先する(permissive hypercapnia)。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3510",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "ARDSの重症度はPaO2/FiO2と呼気終末陽圧(positive end-expiratory pressure: PEEP)により分類される。",
+      "answer": "○",
+      "explanation": "ベルリン定義で改訂された。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3511",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "ARDSの死亡率は10〜30%である。",
+      "answer": "×",
+      "explanation": "ARDSの死亡率は近年改善傾向にあるものの、30〜58%と依然として高い。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3512",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "ARDSで循環動態が安定している症例においては水分制限を行い、水分バランスをドライサイドに保つ。",
+      "answer": "○",
+      "explanation": "循環動態が安定している症例では水分制限を行い、水分バランスをドライサイドに保つ。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3513",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "成人ARDS患者において人工呼吸を実施する際、プラトー圧は可能な限り高く設定する。",
+      "answer": "×",
+      "explanation": "プラトー圧は30 cmH2O以下となるように設定する。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3514",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "L型COVID-19肺炎には、腹臥位による呼吸法は有効ではない。",
+      "answer": "×",
+      "explanation": "H型だけでなく、L型COVID-19肺炎にも腹臥位療法は有効である。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3515",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "COVID-19肺炎による人工呼吸管理が必要な急性呼吸不全には、副腎皮質ステロイドの使用が推奨されている。",
+      "answer": "○",
+      "explanation": "COVID-19肺炎による人工呼吸管理が必要な急性呼吸不全には、副腎皮質ステロイドの使用が推奨されている。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3516",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "H型COVID-19肺炎には、1回換気量制限が必要である。",
+      "answer": "○",
+      "explanation": "H型COVID-19肺炎では1回換気量制限(肺保護換気)が必要である。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3517",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "COVID-19肺炎患者に気管挿管を実施する際は、直前にバッグマスクで十分な換気を行う。",
+      "answer": "×",
+      "explanation": "エアロゾル感染のリスクを減らすため、鎮静薬・鎮痛薬・筋弛緩薬をほぼ同時に連続投与し、バッグマスクは行わない迅速導入気管挿管(rapid sequence induction)が推奨される。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3518",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "アスピリン喘息患者の発作にステロイド薬の全身投与を行う場合、コハク酸エステル型ステロイドを使用する。",
+      "answer": "×",
+      "explanation": "喘息発作を悪化させる危険性があるため、リン酸エステル型ステロイドを使用する。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3519",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "間質性肺炎合併肺癌患者に対する術後急性増悪の予防には、副腎皮質ステロイドが有効である。",
+      "answer": "×",
+      "explanation": "術後急性増悪の予防投薬(抗線維化薬を除く)は行わないことが推奨されている。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3520",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "特発性肺線維症の死因で最も多いのは急性増悪である。",
+      "answer": "○",
+      "explanation": "特発性肺線維症の死因として急性増悪が最も多く、約40%と報告されている。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3521",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "特発性肺線維症慢性安定期には副腎皮質ステロイド単独療法が有効である。",
+      "answer": "×",
+      "explanation": "副腎皮質ステロイド単独療法は使用しないことが推奨されている。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3522",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "特発性肺線維症慢性安定期には呼吸リハビリテーションが有効である。",
+      "answer": "○",
+      "explanation": "呼吸リハビリテーションにより運動耐容能やQOLの改善効果が期待できる。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3523",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "在宅酸素療法導入の原因疾患の中で、最も多いのはCOPDである。",
+      "answer": "○",
+      "explanation": "COPD、間質性肺疾患(肺線維症など)、肺結核後遺症の順に多い。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3524",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "免疫不全、免疫抑制下の急性呼吸不全患者は非侵襲的陽圧換気療法(noninvasive positive pressure ventilation: NPPV)の良い適応である。",
+      "answer": "○",
+      "explanation": "NPPVは挿管・人工呼吸器管理に移行する頻度を低下させる。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3525",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "COPD増悪時の換気補助療法の第一選択は、侵襲的陽圧換気療法である。",
+      "answer": "×",
+      "explanation": "第一選択は非侵襲的陽圧換気療法(NPPV)である。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3526",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "肺高血圧症では、動脈血酸素分圧の値に関わらず、在宅酸素療法の社会保険適用となる。",
+      "answer": "○",
+      "explanation": "肺高血圧症では動脈血酸素分圧の値に関わらず社会保険適用となる。肺高血圧症以外の慢性呼吸不全・慢性心不全・チアノーゼ型先天性心疾患では、動脈血酸素分圧や重症度などの基準がある。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3527",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "無筋症性皮膚筋炎では慢性進行型の間質性肺炎を合併する。",
+      "answer": "×",
+      "explanation": "急速進行性間質性肺炎を高頻度に合併する。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3528",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "無筋症性皮膚筋炎では血清フェリチンが病勢のマーカーとなる。",
+      "answer": "○",
+      "explanation": "無筋症性皮膚筋炎では血清フェリチンが病勢のマーカーとなる。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3529",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "逆ゴットロン徴候は無筋症性皮膚筋炎に特徴的な皮膚病変である。",
+      "answer": "○",
+      "explanation": "逆ゴットロン徴候は手指屈側や手掌の鉄棒まめ様の皮疹である。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3530",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "肥満低換気症候群に持続陽圧呼吸療法(continuous positive airway pressure: CPAP)を実施する場合、nasal bilevel CPAPやauto CPAPを検討する。",
+      "answer": "○",
+      "explanation": "高圧のCPAPが必要な場合やタイトレーションが困難な場合に、nasal bilevel CPAPやauto CPAPを考慮することが推奨されている。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3531",
+      "type": "qa",
+      "chapter": "各論II 呼吸不全",
+      "section": "呼吸不全",
+      "question": "肋骨骨折やフレイルチェストによる換気障害に対して、NPPVは禁忌である。",
+      "answer": "×",
+      "explanation": "NPPVは内固定(internal pneumatic stabilization)と呼ばれ、良い適応である。",
+      "tags": [
+        "各論II",
+        "呼吸不全",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "II 呼吸不全.pdf",
       "images": []
     }
   ]
