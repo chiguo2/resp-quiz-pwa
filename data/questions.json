@@ -46,9 +46,9 @@
       "2_COPD.pdf"
     ],
     "counts": {
-      "qa": 2370,
+      "qa": 2371,
       "mcq": 262,
-      "total": 2632
+      "total": 2633
     },
     "sections": [
       "COPD",
@@ -292,8 +292,8 @@
         "qa-1327"
       ]
     },
-    "total_questions": 2632,
-    "qa_count": 2370,
+    "total_questions": 2633,
+    "qa_count": 2371,
     "mcq_count": 262,
     "last_update": "2026-06-18"
   },
@@ -33343,1888 +33343,6 @@
       }
     },
     {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "リンパ脈管筋腫症(LAM)。肺機能検査で拘束性換気障害がみられる。",
-      "answer": "×",
-      "explanation": "肺機能検査では肺拡散能の低下と閉塞性換気障害がみられる。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2231"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "血痰がみられることがある。",
-      "answer": "○",
-      "explanation": "無症状の症例から咳嗽、血痰、喘鳴がみられる症例まで様々である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2232"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "血尿がみられることがある。",
-      "answer": "○",
-      "explanation": "腎血管筋脂肪腫に伴う症状として、血尿、貧血、腹痛がみられることがある。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2233"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "多発性硬化症に合併して発症することがある。",
-      "answer": "×",
-      "explanation": "結節性硬化症(TSC) に伴って発生することがある。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2234"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "女性のみが発症する。",
-      "answer": "×",
-      "explanation": "TSC-LAM は男性でも発症する。また、稀に孤発性LAM も男性に発症する。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2235"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "病理組織学的特徴は、平滑筋様細胞の増殖とリンパ管の消失である。",
-      "answer": "×",
-      "explanation": "LAM 細胞の増殖とリンパ管の新生が特徴である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2236"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "気管支鏡検査では十分な肺組織の採取は困難であり、病理学的診断ができない。",
-      "answer": "×",
-      "explanation": "経気管支肺生検やクライオ生検によって、LAM細胞の検出が可能である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2237"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "乳び胸水中にLAM 細胞はみられない。",
-      "answer": "×",
-      "explanation": "LAM 細胞クラスターは乳び胸水や乳び腹水中にもみられる。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2238"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "病理学的診断には、D2-40染色が有用である。",
-      "answer": "○",
-      "explanation": "D2-40はリンパ管内皮に特異的なモノクローナル抗体である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2239"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "シロリムスは肺機能の悪化を抑制する効果がある。",
-      "answer": "○",
-      "explanation": "他にも乳び胸水や乳び腹水を減少させる、腎血管筋脂肪腫を縮小させるなどの効果が報告されている。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2240"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "血清 VEGF-D はバイオマーカーとして有用である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2241"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "Birt-Hogg-Dubé 症候群(BHDS)。腎腫瘍の家族歴の聴取が重要である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2242"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "神経鞘腫の家族歴の聴取が重要である。",
-      "answer": "×",
-      "explanation": "神経鞘腫の合併は特徴的ではない。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 2,
-        "image": "assets/reference_pages/q13_p002.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=2"
-      },
-      "id": "qa-2243"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "顔面、頸部、上半身を中心に線維毛包腫がみられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q13_p004.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=4"
-      },
-      "id": "qa-2244"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肺囊胞は上葉優位にみられる。",
-      "answer": "×",
-      "explanation": "BHDS の肺囊胞は下肺野の縦隔側優位に分布し、肺動脈や肺静脈に接することが特徴である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q13_p004.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=4"
-      },
-      "id": "qa-2245"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "腎腫瘍の組織型は、主にclear cell carcinoma である。",
-      "answer": "×",
-      "explanation": "chromophobe 腫瘍または chromophobe 腫瘍と oncocytoma の混合型が主体である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q13_p004.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=4"
-      },
-      "id": "qa-2246"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "遺伝性囊胞性肺疾患はどれか。",
-      "answer": [
-        "a",
-        "b"
-      ],
-      "explanation": "a（○）：―\nb（○）：―\nc（×）：遺伝性疾患ではない。\nd（×）：遺伝性嚢胞性疾患ではない。\ne（×）：遺伝性嚢胞性疾患ではない。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q13_p004.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=4"
-      },
-      "id": "qa-2247",
-      "choices": {
-        "a": "BHDS",
-        "b": "LAM",
-        "c": "ランゲルハンス細胞組織球症(LCH)",
-        "d": "Sjögren 症候群",
-        "e": "アミロイドーシス"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肺胞蛋白症(PAP)。続発性 PAPが約50%を占める。",
-      "answer": "×",
-      "explanation": "自己免疫性PAPが約90%を占める。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q13_p004.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=4"
-      },
-      "id": "qa-2252"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "骨髄異形成症候群は続発性 PAPの原因疾患の1つである。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q13_p004.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=4"
-      },
-      "id": "qa-2253"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "自己免疫性 PAPの原因は抗 M-CSF抗体である",
-      "answer": "×",
-      "explanation": "抗GM-CSF抗体が原因である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q13_p004.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=4"
-      },
-      "id": "qa-2254"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "先天性 PAPの原因として、surfactant protein (SP) -B遺伝子の異常がある",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 4,
-        "image": "assets/reference_pages/q13_p004.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=4"
-      },
-      "id": "qa-2255"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "血清CEAが上昇する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2256"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "血清 KL-6が上昇する",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2257"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "気管支肺胞洗浄液が米のとぎ汁様となる",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2258"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "患者の2/3が無症状である。",
-      "answer": "×",
-      "explanation": "約1/3が無症状と報告されている。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2259"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "気管支肺胞洗浄液中に泡沫状マクロファージがみられる",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2260"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "重症例では肺機能検査で拘束性換気障害と拡散能の低下がみられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2261"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "PAPには全肺洗浄が有効である",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2262"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "PAP には G-CSF 皮下注が有効である",
-      "answer": "×",
-      "explanation": "GM-CSFの吸入療法が試みられている。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2263"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "PAP には去痰薬が有効である",
-      "answer": "×",
-      "explanation": "有効性は確立していない。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2264"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "PAPには副腎皮質ステロイドが有効である",
-      "answer": "×",
-      "explanation": "有効性は示されていない。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2265"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "線毛不動症候群。内臓逆位、慢性副鼻腔炎、気管支拡張症が3徴候である",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2266"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "男性不妊の原因となるが、女性不妊の原因にはならない。",
-      "answer": "×",
-      "explanation": "卵管や子宮機能異常により、女性不妊の原因にもなる。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 6,
-        "image": "assets/reference_pages/q13_p006.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=6"
-      },
-      "id": "qa-2267"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肺機能検査では主に拘束性換気障害がみられる。",
-      "answer": "×",
-      "explanation": "閉塞性換気障害をきたす。末期には拘束性換気障害もみられる。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2268"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "遺伝することはない。",
-      "answer": "×",
-      "explanation": "主に常染色体劣性遺伝する。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2269"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "鼻腔一酸化窒素濃度が低値となる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2270"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "再膨張性肺水腫は胸腔穿刺後6時間以降に起こりやすい。",
-      "answer": "×",
-      "explanation": "胸腔穿刺後1~2時間以内に起こりやすい。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2271"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "再膨張性肺水腫は胸水や気胸による肺の虚脱が長時間であるほど起こりやすい。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2272"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "気胸ドレナージ後の再膨張性肺水腫は、病側のみに発症する。",
-      "answer": "×",
-      "explanation": "時に両側例もみられる。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2273"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "多中心性キャッスルマン病(MCD)。多クローン性の高ガンマグロブリン血症がみられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2274"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "血漿中の VEGFが低下する。",
-      "answer": "×",
-      "explanation": "上昇し、浮腫や胸腹水を生じる。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2275"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "AA アミロイドーシスを合併することがある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2276"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "TAFRO 症候群では肝脾腫がみられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2277"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "一部のMCDの発症にはヒトヘルペスウイルス6型が関与している。",
-      "answer": "×",
-      "explanation": "8型である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2278"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "MCDにはトシリズマブが有効である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 8,
-        "image": "assets/reference_pages/q13_p008.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=8"
-      },
-      "id": "qa-2279"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "MCDにはエタネルセプトが有効である。",
-      "answer": "×",
-      "explanation": "TNF受容体へのシグナル伝達を阻害する。エタネルセプトが有効であるという記載は誤りでトシリズマブが有効。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2280"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "MCDにはメポリズマブが有効である。",
-      "answer": "×",
-      "explanation": "難治性喘息に有効である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2281"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "マルファン症候群。常染色体劣性遺伝病である。",
-      "answer": "×",
-      "explanation": "常染色体優性遺伝病であり...",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2282"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "水晶体偏位を合併しやすい。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2283"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "大動脈解離を合併しやすい。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2284"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肺癌を合併しやすい。",
-      "answer": "×",
-      "explanation": "肺癌の合併が多いとの報告はない。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2285"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "くも状指がみられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2286"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "易感染性である。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2287"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "Meigs 症候群。悪性の卵巣腫瘍に合併する。",
-      "answer": "×",
-      "explanation": "原疾患は主に良性の卵巣腫瘍とされている。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2288"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "胸水は右側にみられやすい。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2289"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "胸水は卵巣腫瘍を除去すると消失する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2290"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "血液透析が有効である。",
-      "answer": "×",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2291"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肝肺症候群。肺内血管の拡張がみられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 10,
-        "image": "assets/reference_pages/q13_p010.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=10"
-      },
-      "id": "qa-2292"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肝硬変を伴う重症肝疾患のみに合併する病態である。",
-      "answer": "×",
-      "explanation": "肝硬変を伴わないこともある。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q13_p012.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=12"
-      },
-      "id": "qa-2293"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肺内シャントの検査にはコントラスト心エコーが有用であり、右心房に気泡が到達後3心拍以内に左心房に気泡が到達した場合、肝肺症候群による肺内シャントを疑う。",
-      "answer": "×",
-      "explanation": "3心拍以内に到達した場合は心内シャントの存在が示唆される。肝肺症候群では3心拍以降に到達する。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q13_p012.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=12"
-      },
-      "id": "qa-2294"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "臥位と比較して立位・座位で呼吸困難が増悪する。",
-      "answer": "○",
-      "explanation": "platypnea-orthodeoxia syndrome がみられる。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q13_p012.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=12"
-      },
-      "id": "qa-2295"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肝移植で呼吸不全が改善する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q13_p012.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=12"
-      },
-      "id": "qa-2296"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肉芽腫を形成する疾患はどれか。",
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "d"
-      ],
-      "explanation": "a（○）：乾酪壊死を伴わない類上皮細胞肉芽腫の形成が特徴である。\nb（○）：病理学的に肉芽腫がみられ、時に乾酪壞死を伴う。\nc（○）：病理学的な特徴の1つとして疎な肉芽腫の形成がみられる。\nd（○）：気管支中心性の肉芽腫がみられる。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q13_p012.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=12"
-      },
-      "id": "qa-2297",
-      "choices": {
-        "a": "サルコイドーシス",
-        "b": "抗酸菌症",
-        "c": "過敏性肺炎",
-        "d": "アレルギー性気管支肺アスペルギルス症"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "遺伝性出血性末梢血管拡張症。男性のみに発症する。",
-      "answer": "×",
-      "explanation": "明らかな性差はない。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q13_p012.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=12"
-      },
-      "id": "qa-2301"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "鼻出血の頻度が高い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q13_p012.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=12"
-      },
-      "id": "qa-2302"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "口腔粘膜に毛細血管拡張を認める。",
-      "answer": "○",
-      "explanation": "皮膚粘膜の末梢血管拡張が4徴候の1つであるが、口腔内にもみられる。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 12,
-        "image": "assets/reference_pages/q13_p012.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=12"
-      },
-      "id": "qa-2303"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "常染色体優性遺伝する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q13_p014.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=14"
-      },
-      "id": "qa-2304"
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肺胞出血の副作用に注意が必要である薬剤はどれか。",
-      "answer": [
-        "a",
-        "b",
-        "d"
-      ],
-      "explanation": "a（○）：抗癌剤の中では、マイトマイシンCやシクロスポリンも報告が多い。\nb（○）：抗てんかん薬の中では、カルバマゼピンも報告が多い。\nc（×）：単独投与では肺胞出血のリスクは低い。\nd（○）：抗不整脈薬の中では、硫酸キニジンも報告が多い。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題",
-        "選択肢統合"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q13_p014.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=14"
-      },
-      "id": "qa-2305",
-      "choices": {
-        "a": "メトトレキサート",
-        "b": "フェニトイン",
-        "c": "ボリコナゾール",
-        "d": "塩酸アミオダロン"
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "Goodpasture 症候群。抗 GBM抗体は糸球体基底膜のV型コラーゲンに対する自己抗体である。",
-      "answer": "×",
-      "explanation": "IV型コラーゲンに対する自己抗体である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q13_p014.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=14"
-      },
-      "id": "qa-2309"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "血清の抗 GBM抗体値は、疾患活動性の指標になる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q13_p014.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=14"
-      },
-      "id": "qa-2310"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "治療には副腎皮質ステロイド単独療法を行う。",
-      "answer": "×",
-      "explanation": "副腎皮質ステロイド、免疫抑制剤、血漿交換療法の併用が推奨されている。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q13_p014.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=14"
-      },
-      "id": "qa-2311"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "治療反応性が良く、腎予後は良い。",
-      "answer": "×",
-      "explanation": "急速進行性糸球体腎炎の中で最も腎予後が悪い。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q13_p014.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=14"
-      },
-      "id": "qa-2312"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "palisading granuloma は多発血管炎性肉芽腫症に特異性の高い病理学的特徴である。",
-      "answer": "○",
-      "explanation": "中心部の壊死を柵状に組織球と巨細胞が取り囲む所見である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q13_p014.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=14"
-      },
-      "id": "qa-2313"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "本邦では、多発血管炎性肉芽腫症の約30~60%がMPO-ANCA 陽性である。",
-      "answer": "×",
-      "explanation": "PR3-ANCA陽性の血管炎のほとんどは多発血管炎性肉芽腫症であり、特異度が高い。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q13_p014.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=14"
-      },
-      "id": "qa-2314"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "メポリズマブは好酸球性多発血管炎性肉芽腫症に有効である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q13_p014.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=14"
-      },
-      "id": "qa-2315"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "IgG4 関連呼吸器疾患。血清IgG4のカットオフ値は135mg/dL以上である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 14,
-        "image": "assets/reference_pages/q13_p014.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=14"
-      },
-      "id": "qa-2316"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "画像的特徴には、肺門縦隔リンパ節腫大は含まれない。",
-      "answer": "×",
-      "explanation": "肺門縦隔リンパ節腫大、気管支壁の肥厚なども特徴として挙げられている。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2317"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "画像的特徴には、胸膜病変は含まれない。",
-      "answer": "×",
-      "explanation": "胸膜病変が画像所見上の特徴として挙げられている。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2318"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "血清IgE は高値となることが多い。",
-      "answer": "○",
-      "explanation": "IgG4、IgE ともにTh2 タイプのサイトカインによって産生誘導される。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2319"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "副腎皮質ステロイド治療に対する反応性は良好である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2320"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "気管支結石症の原因は、北米ではコクシジオイデス症が多い。",
-      "answer": "×",
-      "explanation": "北米ではヒストプラズマ症が原因として多い。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2321"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "日本では、気管支結石症は中葉枝に多い。",
-      "answer": "○",
-      "explanation": "日本では肺門リンパ節結核が多い。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2322"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肺胞微石症は末期腎不全による高リン血症が原因である。",
-      "answer": "×",
-      "explanation": "リンの運搬蛋白をコードする SLC34A2 が責任遺伝子の常染色体劣性遺伝疾患である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2323"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "肺胞微石症では肺胞内にリン酸カルシウムを主成分とする微小結石が蓄積する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2324"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "特発性肺鉄血症の治療には副腎皮質ステロイドを用いる。",
-      "answer": "○",
-      "explanation": "副腎皮質ステロイドや免疫抑制剤に一定の効果が期待されている。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2325"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "嚢胞性線維症は常染色体優性遺伝性疾患であり、欧米白人種に多い。",
-      "answer": "×",
-      "explanation": "CFTR遺伝子変異を原因とする、常染色体劣性遺伝性疾患である。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2326"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "嚢胞性線維症では膵臓の外分泌機能不全がみられる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2327"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "その他(比較的稀な肺疾患)",
-      "question": "嚢胞性線維症では汗の塩化物イオン濃度が上昇する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題"
-      ],
-      "source_file": "13_その他比較的稀な肺疾患_一問一答.docx",
-      "reference": {
-        "title": "第13章 その他(比較的稀な肺疾患) 問題・解説",
-        "page": 16,
-        "image": "assets/reference_pages/q13_p016.webp",
-        "viewer": "reference-viewer.html?doc=q13&page=16"
-      },
-      "id": "qa-2328"
-    },
-    {
       "type": "mcq",
       "chapter": "各論II 呼吸不全",
       "section": "呼吸不全",
@@ -54398,6 +52516,1553 @@
         "PDF転記"
       ],
       "source_file": "10 肺循環障害.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3346",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "リンパ脈管筋腫症(LAM)では肺機能検査で拘束性換気障害がみられる。",
+      "answer": "×",
+      "explanation": "肺機能検査では拡散能の低下と閉塞性換気障害がみられる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3347",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "リンパ脈管筋腫症(LAM)では血痰がみられることがある。",
+      "answer": "○",
+      "explanation": "無症状の症例から咳嗽、血痰、喀痰がみられる症例まで様々である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3348",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "リンパ脈管筋腫症(LAM)では血尿がみられることがある。",
+      "answer": "○",
+      "explanation": "腎血管筋脂肪腫に伴う症状として、血尿、貧血、腰痛がみられることがある。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3349",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "リンパ脈管筋腫症(LAM)は多発性硬化症に合併して発症することがある。",
+      "answer": "×",
+      "explanation": "結節性硬化症(tuberous sclerosis complex: TSC)に伴って発生することがある(TSC-LAM)。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3350",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "リンパ脈管筋腫症(LAM)は女性のみが発症する。",
+      "answer": "×",
+      "explanation": "TSC-LAMは男性でも発症する。また、稀に孤発性LAMも男性に発症する。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3351",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "リンパ脈管筋腫症(LAM)の病理組織学的特徴は、平滑筋様細胞(LAM細胞)の増殖とリンパ管の消失である。",
+      "answer": "×",
+      "explanation": "LAM細胞の増殖とリンパ管の新生が特徴である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3352",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "リンパ脈管筋腫症(LAM)は気管支鏡検査では十分な肺組織の採取は困難であり、病理学的診断ができない。",
+      "answer": "×",
+      "explanation": "経気管支肺生検やクライオ生検によって、LAM細胞の検出が可能である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3353",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "リンパ脈管筋腫症(LAM)では乳び胸水中にLAM細胞はみられない。",
+      "answer": "×",
+      "explanation": "LAM細胞クラスターは乳び胸水や乳び腹水中にもみられる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3354",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "リンパ脈管筋腫症(LAM)の病理学的診断には、D2-40染色が有用である。",
+      "answer": "○",
+      "explanation": "D2-40はリンパ管内皮に特異的なモノクローナル抗体である。その他にα-SMA、HMB45、ER、PRなどの免疫染色が有用である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3355",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "シロリムスはLAMの肺機能の悪化を抑制する効果がある。",
+      "answer": "○",
+      "explanation": "他にも乳び胸水や乳び腹水を減少させる、腎血管筋脂肪腫を縮小させるなどの効果が報告されている。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3356",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "血清vascular endothelial growth factor (VEGF)-DはLAMのバイオマーカーとして有用である。",
+      "answer": "○",
+      "explanation": "LAM細胞はVEGF-CやVEGF-Dを強く発現しており、研究レベルであるが血清VEGF-Dがバイオマーカーとして有用である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3357",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Birt-Hogg-Dubé症候群(BHDS)では腎腫瘍の家族歴の聴取が重要である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3358",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Birt-Hogg-Dubé症候群(BHDS)では神経鞘腫の家族歴の聴取が重要である。",
+      "answer": "×",
+      "explanation": "神経鞘腫の合併は特徴的ではない。腎腫瘍、肺囊胞や自然気胸、皮膚病変、副甲状腺腫瘍などの合併が特徴である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3359",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Birt-Hogg-Dubé症候群(BHDS)では顔面、頸部、上半身を中心に線維毛包腫がみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3360",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Birt-Hogg-Dubé症候群(BHDS)の肺囊胞は上葉優位にみられる。",
+      "answer": "×",
+      "explanation": "BHDSの肺囊胞は下肺野の縦隔側優位に分布し、肺動脈や肺静脈に接することが特徴である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3361",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Birt-Hogg-Dubé症候群(BHDS)の腎腫瘍の組織型は、主にclear cell carcinomaである。",
+      "answer": "×",
+      "explanation": "腎腫瘍の病理組織型はchromophobe腫瘍、またはchromophobe腫瘍とoncocytomaの混合型が主体である。両側に発生することがある。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-810",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "遺伝性囊胞性肺疾患はどれか。",
+      "choices": {
+        "a": "BHDS",
+        "b": "LAM",
+        "c": "ランゲルハンス細胞組織球症(Langerhans cell histiocytosis: LCH)",
+        "d": "Sjögren症候群",
+        "e": "アミロイドーシス"
+      },
+      "answer": [
+        "a",
+        "b"
+      ],
+      "explanation": "BHDSは第17染色体のfolliculin遺伝子、LAMはTSC1/TSC2が原因遺伝子であり遺伝性囊胞性肺疾患である。LCHは遺伝性疾患ではなく、Sjögren症候群・アミロイドーシスでも稀に囊胞が形成されるが遺伝性囊胞性疾患ではない。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3362",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "肺胞蛋白症(PAP)は続発性PAPが約50%を占める。",
+      "answer": "×",
+      "explanation": "自己免疫性PAPが約90%を占める。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3363",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "骨髄異形成症候群は続発性PAPの原因疾患の1つである。",
+      "answer": "○",
+      "explanation": "骨髄異形成症候群、悪性リンパ腫などの血液疾患に伴い発症することがある。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3364",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "自己免疫性PAPの原因は抗M-CSF抗体である。",
+      "answer": "×",
+      "explanation": "抗GM-CSF抗体が原因である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3365",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "先天性PAPの原因として、surfactant protein (SP)-B遺伝子の異常がある。",
+      "answer": "○",
+      "explanation": "その他に、SP-C、ATP-binding cassette A3 (ABCA3)遺伝子の異常やGM-CSFレセプターの遺伝子変異がある。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3366",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPでは血清CEAが上昇する。",
+      "answer": "○",
+      "explanation": "血清中、肺胞洗浄液中のCEAが上昇する。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3367",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPでは血清KL-6が上昇する。",
+      "answer": "○",
+      "explanation": "血清SP-A、SP-D、シフラ、LDHも上昇する。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3368",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPでは気管支肺胞洗浄液が米のとぎ汁様となる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3369",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPでは間質性肺炎を合併することがある。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3370",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPでは患者の2/3が無症状である。",
+      "answer": "×",
+      "explanation": "約1/3が無症状と報告されている。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3371",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPでは気管支肺胞洗浄液中に泡沫状マクロファージがみられる。",
+      "answer": "○",
+      "explanation": "末梢気腔内にはPAS染色、SP-A免疫染色陽性の細顆粒状物質もみられる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3372",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPの重症例では肺機能検査で拘束性換気障害と拡散能の低下がみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3373",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPには全肺洗浄が有効である。",
+      "answer": "○",
+      "explanation": "洗浄療法(全肺洗浄あるいは区域洗浄)が有効である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3374",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPにはG-CSF皮下注が有効である。",
+      "answer": "×",
+      "explanation": "試験的治療法としてGM-CSFの吸入療法が試みられている。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3375",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPには去痰薬が有効である。",
+      "answer": "×",
+      "explanation": "アンブロキソールなどが使用されることがあるが、有効性は確立していない。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3376",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "PAPには副腎皮質ステロイドが有効である。",
+      "answer": "×",
+      "explanation": "副腎皮質ステロイドの有効性は示されていない。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3377",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "線毛不動症候群(immotile cilia syndrome)は内臓逆位、慢性副鼻腔炎、気管支拡張症が3徴候である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3378",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "線毛不動症候群は男性不妊の原因となるが、女性不妊の原因にはならない。",
+      "answer": "×",
+      "explanation": "精子の運動機能不全による男性不妊を起こすほか、卵管や子宮機能異常により女性不妊の原因にもなる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3379",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "線毛不動症候群では肺機能検査で主に拘束性換気障害がみられる。",
+      "answer": "×",
+      "explanation": "肺の過膨張やair trappingの影響で閉塞性換気障害をきたす。末期には拘束性換気障害もみられる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3380",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "線毛不動症候群は遺伝することはない。",
+      "answer": "×",
+      "explanation": "主に常染色体劣性遺伝する。発症に関連する40以上の原因遺伝子が報告されている。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3381",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "線毛不動症候群では鼻腔一酸化窒素濃度が低値となる。",
+      "answer": "○",
+      "explanation": "鼻腔一酸化窒素濃度検査は侵襲が少なく、感度・特異度が高いため、欧米のガイドラインでも推奨されている。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3382",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "再膨張性肺水腫は胸腔穿刺後6時間以降に起こりやすい。",
+      "answer": "×",
+      "explanation": "胸腔穿刺後1〜2時間以内に起こりやすい。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3383",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "再膨張性肺水腫は胸水や気胸による肺の虚脱が長時間であるほど起こりやすい。",
+      "answer": "○",
+      "explanation": "再膨張性肺水腫は長時間虚脱した肺の急速伸展に伴い引き起こされる肺水腫の病態である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3384",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "気胸ドレナージ後の再膨張性肺水腫は、病側に発症する。",
+      "answer": "○",
+      "explanation": "ほとんどが病側のみであり、時に両側例もみられる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3385",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "多中心性キャッスルマン病(MCD)では多クローン性の高ガンマグロブリン血症がみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3386",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "MCDでは血漿中のvascular endothelial growth factor (VEGF)が低下する。",
+      "answer": "×",
+      "explanation": "血漿VEGFは上昇し、浮腫や胸水を生じる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3387",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "MCDではAAアミロイドーシスを合併することがある。",
+      "answer": "○",
+      "explanation": "AAアミロイドーシス、腎障害、間質性肺炎などを合併すると予後不良となる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3388",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "TAFRO症候群では肝脾腫がみられる。",
+      "answer": "○",
+      "explanation": "TAFRO症候群は血小板減少(Thrombocytopenia)、全身性浮腫/胸水/腹水(Anasarca)、発熱(Fever)、骨髄細網線維化(Reticulin fibrosis)、臓器腫大/肝腫大/脾腫/リンパ節腫大(Organomegaly)を特徴とし、MCDと臨床像が類似することがある。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3389",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "一部のMCDの発症にはヒトヘルペスウイルス6型が関与している。",
+      "answer": "×",
+      "explanation": "MCDの発症に関与するヒトヘルペスウイルスは8型である(HHV8関連MCD)。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3390",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "MCDにはトシリズマブが有効である。",
+      "answer": "○",
+      "explanation": "抗IL-6受容体抗体であるトシリズマブが有効である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3391",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "MCDにはエタネルセプトが有効である。",
+      "answer": "×",
+      "explanation": "エタネルセプトは可溶性TNFα/LTαレセプター製剤であり、TNF受容体へのシグナル伝達を阻害する薬剤である(MCDに対する有効性は示されていない)。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3392",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "MCDにはメポリズマブが有効である。",
+      "answer": "×",
+      "explanation": "メポリズマブは抗IL-5抗体であり、難治性喘息に有効である(MCDの治療薬ではない)。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3393",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "マルファン症候群は常染色体劣性遺伝病である。",
+      "answer": "×",
+      "explanation": "常染色体優性遺伝病であり、原因遺伝子としてフィブリリン1、TGFβ受容体1、2などが報告されている。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3394",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "マルファン症候群は水晶体偏位を合併しやすい。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3395",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "マルファン症候群は大動脈解離を合併しやすい。",
+      "answer": "○",
+      "explanation": "大動脈瘤、大動脈解離を合併することがある。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3396",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "マルファン症候群は肺癌を合併しやすい。",
+      "answer": "×",
+      "explanation": "肺癌の合併が多いとの報告はない。漏斗胸、気胸を合併することがある。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3397",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "マルファン症候群ではくも状指がみられる。",
+      "answer": "○",
+      "explanation": "側弯症、扁平足もみられる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3398",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "マルファン症候群は易感染性である。",
+      "answer": "×",
+      "explanation": "易感染性は特徴ではない。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3399",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Meigs症候群は悪性の卵巣腫瘍に合併する。",
+      "answer": "×",
+      "explanation": "原疾患は主に良性の卵巣腫瘍(線維腫、莢膜細胞腫、顆粒膜細胞腫、Brenner腫瘍)とされている。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3400",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Meigs症候群では胸水は右側にみられやすい。",
+      "answer": "○",
+      "explanation": "胸水は右側に多く、時に両側や左側にもみられる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3401",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Meigs症候群では胸水は卵巣腫瘍を除去すると消失する。",
+      "answer": "○",
+      "explanation": "Meigs症候群の特徴の1つである。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3402",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Meigs症候群では血液透析が有効である。",
+      "answer": "×",
+      "explanation": "原因となる卵巣腫瘍の摘出が治療の基本であり、血液透析は有効ではない。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3403",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "肝肺症候群では肺内血管の拡張がみられる。",
+      "answer": "○",
+      "explanation": "慢性肝疾患、酸素化障害、肺内血管拡張が3徴である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3404",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "肝肺症候群は肝硬変を伴う重度肝疾患のみに合併する病態である。",
+      "answer": "×",
+      "explanation": "肝硬変を伴わないこともある。肝疾患の重症度と肝肺症候群の重症度は相関しない。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3405",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "肝肺症候群の肺内シャントの検査にはコントラスト心エコーが有用であり、右心房に気泡が到達後3心拍以内に左心房に気泡が到達した場合、肝肺症候群による肺内シャントを疑う。",
+      "answer": "×",
+      "explanation": "コントラスト心エコーで3心拍以内に左心房に気泡が到達した場合は心房中隔欠損症や卵円孔開存などの心内シャントを示唆する。肝肺症候群では3〜6心拍以内に左心房に気泡が到達する。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3406",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "肝肺症候群では臥位と比較して立位・座位で呼吸困難が増悪する。",
+      "answer": "○",
+      "explanation": "platypnea-orthodeoxia syndromeがみられる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3407",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "肝肺症候群は肝移植で呼吸不全が改善する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-811",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "以下のうち、肉芽腫を形成する疾患はどれか。",
+      "choices": {
+        "a": "サルコイドーシス",
+        "b": "抗酸菌症",
+        "c": "過敏性肺炎",
+        "d": "アミロイドーシス",
+        "e": "アレルギー性気管支肺アスペルギルス症"
+      },
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "e"
+      ],
+      "explanation": "サルコイドーシス(乾酪壊死を伴わない類上皮細胞肉芽腫)、抗酸菌症(時に乾酪壊死を伴う肉芽腫)、過敏性肺炎(疎な肉芽腫)、ABPA(気管支中心性の肉芽腫)は肉芽腫を形成する。アミロイドーシスは肉芽腫を形成しない。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "5択",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3408",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "遺伝性出血性末梢血管拡張症は男性のみに発症する。",
+      "answer": "×",
+      "explanation": "明らかな性差はない。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3409",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "遺伝性出血性末梢血管拡張症は鼻出血の頻度が高い。",
+      "answer": "○",
+      "explanation": "反復する鼻出血は4徴候の1つである。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3410",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "遺伝性出血性末梢血管拡張症は口腔粘膜に毛細血管拡張を認める。",
+      "answer": "○",
+      "explanation": "皮膚粘膜の末梢血管拡張は4徴候の1つであるが、口腔内にもみられ、口腔内出血をきたす。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3411",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "遺伝性出血性末梢血管拡張症は常染色体優性遺伝する。",
+      "answer": "○",
+      "explanation": "4徴候の残りは内臓病変(胃腸末梢血管拡張、肺・肝・脳・脊髄の動静脈奇形)である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "mcq-812",
+      "type": "mcq",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "以下のうち、肺胞出血の副作用に注意が必要である薬剤はどれか。",
+      "choices": {
+        "a": "メトトレキサート",
+        "b": "フェニトイン",
+        "c": "ボリコナゾール",
+        "d": "塩酸アミオダロン"
+      },
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "メトトレキサート(抗癌剤)、フェニトイン(抗てんかん薬)、塩酸アミオダロン(抗不整脈薬)は肺胞出血の副作用に注意が必要である。ボリコナゾールはワルファリンと併用で出血リスクを高めるが、単独投与では肺胞出血のリスクは低い。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "PDF転記",
+        "選択肢統合"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3412",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Goodpasture症候群の抗GBM抗体は糸球体基底膜のIV型コラーゲンに対する自己抗体である。",
+      "answer": "○",
+      "explanation": "肺胞出血や急速進行性糸球体腎炎を引き起こすGoodpasture症候群で検出される。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3413",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Goodpasture症候群では血清の抗GBM抗体値は、疾患活動性の指標になる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3414",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Goodpasture症候群の治療には副腎皮質ステロイド単独療法を行う。",
+      "answer": "×",
+      "explanation": "副腎皮質ステロイド、免疫抑制剤(シクロホスファミド)、血漿交換療法の併用が推奨される。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3415",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "Goodpasture症候群は治療反応性が良く、腎予後は良い。",
+      "answer": "×",
+      "explanation": "急速進行性糸球体腎炎の中で最も腎予後が悪い。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3416",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "palisading granulomaは多発血管炎性肉芽腫症に特異性の高い病理学的特徴である。",
+      "answer": "○",
+      "explanation": "中心壊死を柵状に組織球と巨細胞が取り囲む所見である。地図状壊死や多核巨細胞を伴う肉芽腫性病変などもみられる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3417",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "本邦では、多発血管炎性肉芽腫症の約30〜60%がMPO-ANCA陽性である。",
+      "answer": "○",
+      "explanation": "好酸球性多発血管炎性肉芽腫症では50〜70%がMPO-ANCA陽性である。一方、PR3-ANCA陽性の血管炎のほとんどは多発血管炎性肉芽腫症であり、特異度が高い。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3418",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "メポリズマブは好酸球性多発血管炎性肉芽腫症に有効である。",
+      "answer": "○",
+      "explanation": "好酸球性多発血管炎性肉芽腫症では1回300mgを4週間ごと皮下注射する(難治性喘息では1回100mgを4週間ごと皮下注射)。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3419",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "IgG4関連呼吸器疾患の診断基準における、血清IgG4のカットオフ値は135mg/dL以上である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3420",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "IgG4関連呼吸器疾患の診断基準における画像的特徴には、肺門縦隔リンパ節腫大は含まれない。",
+      "answer": "×",
+      "explanation": "肺門縦隔リンパ節腫大、気管支壁/気管支血管束の肥厚、小葉間隔壁の肥厚、結節影、浸潤影、胸膜病変が画像所見上の特徴として挙げられている。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3421",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "IgG4関連呼吸器疾患の診断基準における画像的特徴には、胸膜病変は含まれない。",
+      "answer": "×",
+      "explanation": "胸膜病変も画像所見上の特徴に含まれる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3422",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "IgG4関連呼吸器疾患では血清IgEは高値となることが多い。",
+      "answer": "○",
+      "explanation": "IgG4、IgEともにTh2タイプのサイトカインによって産生誘導される。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3423",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "IgG4関連呼吸器疾患は副腎皮質ステロイド治療に対する反応性は良好である。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3424",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "気管支結石症の原因は、北米ではコクシジオイデス症が多い。",
+      "answer": "×",
+      "explanation": "北米ではヒストプラズマ症が原因で多い。日本では肺門リンパ節結核に伴うものが多い。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3425",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "日本では、気管支結石症は中葉枝に多い。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3426",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "肺胞微石症は末期腎不全による高リン血症が原因である。",
+      "answer": "×",
+      "explanation": "リンの輸送蛋白をコードするSLC34A2が責任遺伝子の常染色体劣性遺伝疾患である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3427",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "肺胞微石症では肺胞内にリン酸カルシウムを主成分とする微小結石が蓄積する。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3428",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "特発性肺ヘモジデローシスの治療は副腎皮質ステロイドを用いる。",
+      "answer": "○",
+      "explanation": "明確なエビデンスはないが、副腎皮質ステロイドや免疫抑制剤に一定の効果が期待されている。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3429",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "囊胞性線維症は常染色体優性遺伝性疾患であり、欧米白人種に多い。",
+      "answer": "×",
+      "explanation": "CFTR遺伝子変異を原因とする、常染色体劣性遺伝性疾患である。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3430",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "囊胞性線維症では膵臓の外分泌機能不全がみられる。",
+      "answer": "○",
+      "explanation": "",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3431",
+      "type": "qa",
+      "chapter": "各論I 気道・肺疾患",
+      "section": "その他(比較的稀な肺疾患)",
+      "question": "囊胞性線維症では汗の塩化物イオン濃度が上昇する。",
+      "answer": "○",
+      "explanation": "その他、慢性副鼻腔炎、肝硬変、先天性両側精管欠損症などを合併する。男性不妊の原因にもなる。",
+      "tags": [
+        "各論I",
+        "その他(比較的稀な肺疾患)",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
       "images": []
     }
   ]
