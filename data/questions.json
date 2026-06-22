@@ -33532,426 +33532,6 @@
       "id": "qa-2464"
     },
     {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "漏斗胸。遺伝性疾患に生じることがある",
-      "answer": "○",
-      "explanation": "特定の遺伝子は示されていないが、約40%で家族歴を有し、遺伝性疾患の側面も有する。Marfan 症候群などの結合組織病に伴うこともある。原因としては肋軟骨部の過成長などが考えられているが、コンセンサスを得た見解はない。また、男性が女性の3倍多い。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k6_p006.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=6"
-      },
-      "id": "qa-2525"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "審美的な面が主に問題となり、基本的に息切れや肺活量の低下をきたすことはない。",
-      "answer": "×",
-      "explanation": "審美的な面による心理的な障害も問題となるが、拘束性障害に由来する労作時の息切れ、胸痛、動悸などの症状が問題となることもある。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k6_p006.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=6"
-      },
-      "id": "qa-2526"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "心電図では右脚ブロックや右軸偏位、V1でのP波の陰転化がみられる。",
-      "answer": "○",
-      "explanation": "心電図変化は心臓の左方への偏位や圧迫の影響と考えられている。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k6_p006.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=6"
-      },
-      "id": "qa-2527"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "手術適応の判断には、肺の前後径と、胸骨後面と椎骨前面の距離の比をみた Haller index が用いられる",
-      "answer": "×",
-      "explanation": "Haller index は胸腔の横径と、胸骨後面と椎骨前面の距離の比をみたもので、3.25以上を手術適応とする基準が一般的に用いられる。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k6_p006.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=6"
-      },
-      "id": "qa-2528"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "漏斗胸に対する手術は、成長期の小児に行われるものであり、成人例には効果がないため適応とはならない",
-      "answer": "×",
-      "explanation": "成人例に対する手術も有効であることが示されている。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k6_p006.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=6"
-      },
-      "id": "qa-2529"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "フレイルチェスト(動揺胸郭)。肋骨1本のみの骨折でも生じることがある。",
-      "answer": "×",
-      "explanation": "2本以上の連続する肋骨 (肋軟骨)が2か所以上で骨折することで胸郭が不安定となり、吸気時に陥凹・呼気時に突出する奇異性呼吸がみられるのがフレイルチェストである。肋骨1本のみの骨折では通常フレイルチェストをきたすことはない。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k6_p002.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=2"
-      },
-      "id": "qa-2530"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "両側肋軟骨骨折と胸骨骨折の合併例でも生じることがある。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k6_p002.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=2"
-      },
-      "id": "qa-2531"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "呼吸不全を呈している場合に行われる内固定術では、NPPV(非侵襲的陽圧換気)を用いることもできる。",
-      "answer": "○",
-      "explanation": "気管挿管下での人工呼吸管理だけでなくNPPVを用いることもでき、日本における NPPV ガイドラインでも推奨されている。但し、意識障害や顔面外傷による装着困難、排痰困難例などでは気管挿管もしくは気管切開による人工呼吸管理を選択すべきである。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k6_p002.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=2"
-      },
-      "id": "qa-2532"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "肋骨の変形が強い場合でも、観血的肋骨固定(外固定術)は生存率やQOLの改善に寄与しないことから推奨されていない。",
-      "answer": "×",
-      "explanation": "成人患者において、外固定術は非手術例と比較して死亡率の低下や人工呼吸期間の短縮などが示されており、ガイドラインでは弱い推奨となっている。従って、変形の大きい症例には外固定術も適応となる。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k6_p002.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=2"
-      },
-      "id": "qa-2533"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "重症例では、疼痛管理法として持続硬膜外麻酔が推奨されている。",
-      "answer": "○",
-      "explanation": "フレイルチェストは一般的に強い疼痛を伴い、疼痛による換気量の低下から呼吸不全が増悪するため除痛は必須となる。麻薬などの鎮痛薬の全身投与の他、重症例では持続硬膜外麻酔が推奨されている。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k6_p002.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=2"
-      },
-      "id": "qa-2534"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "外傷性血胸。胸腔ドレナージ施行時に500mLの血液が吸引された場合、開胸での止血術の適応となる。",
-      "answer": "×",
-      "explanation": "大量血胸の開胸止血術の適応として、①胸腔ドレナージ施行時1000mL以上の血液を吸引、②開始1時間で1500 mL以上、③2~4時間で200mL/時以上の出血の持続、などの基準がある。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k6_p005.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=5"
-      },
-      "id": "qa-2535"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "ドレナージ施行後から200 mL/時の出血が数時間持続している場合、開胸での止血術の適応となる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k6_p005.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=5"
-      },
-      "id": "qa-2536"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "鈍的外傷の場合、出血量よりもバイタルサインなど生理学的異常に基づいて開胸止血術の適応を判断することが望ましい。",
-      "answer": "○",
-      "explanation": "鈍的外傷では出血量に基づいて止血を要することが少なかったことを根拠として推奨となっている。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k6_p005.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=5"
-      },
-      "id": "qa-2537"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "肺挫傷は、受傷直後からX線で明瞭な変化を認めることが特徴的である。",
-      "answer": "×",
-      "explanation": "受傷直後には酸素化の低下があっても明らかな異常陰影を示さないことがあり、受傷数時間以内に明らかになることが多い。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k6_p004.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=4"
-      },
-      "id": "qa-2538"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "胸部鈍的外傷による気管損傷は、頸部気管の損傷であることが多い。",
-      "answer": "○",
-      "explanation": "80%以上は気管分岐部から2.5cm 以内の損傷であるとされる。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k6_p004.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=4"
-      },
-      "id": "qa-2539"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "気管損傷の診断に気管支鏡検査は有用である。",
-      "answer": "○",
-      "explanation": "CTの3D再構成などを用いて診断される例もあるが、気管支鏡検査が最も確定的な診断法である。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k6_p004.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=4"
-      },
-      "id": "qa-2540"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "気管損傷では、膜様部側のみの損傷かつ持続的な空気漏出がない場合においても、原則的に外科的治療が必要となる。",
-      "answer": "×",
-      "explanation": "鈍的外傷では膜様部を中心とした損傷であることが多い。1/3周以下の損傷であり、かつ挫滅・虚血部分が存在しない場合には保存的加療も選択される。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k6_p004.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=4"
-      },
-      "id": "qa-2541"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "開放性気胸を認めた場合、直ちに開放創を閉鎖する。",
-      "answer": "×",
-      "explanation": "開放性気胸治療の基本は、胸腔ドレーンの留置後に開放創を閉鎖する。胸腔ドレナージを施行せずに創閉鎖を行った場合、肺損傷合併例では緊張性気胸を招く恐れがある。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k6_p006.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=6"
-      },
-      "id": "qa-2542"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "開放性気胸に対する胸腔ドレーン挿入は創部から挿入するのが適切である。",
-      "answer": "×",
-      "explanation": "創部とは別の部位から挿入する。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k6_p006.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=6"
-      },
-      "id": "qa-2543"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "胸郭・胸壁の疾患",
-      "question": "外傷性の横隔膜損傷は左側に多い。",
-      "answer": "○",
-      "explanation": "右側は肝臓に保護されているため、65~80%が左側の損傷といわれている。高率に腹腔内臓器損傷を合併する。",
-      "tags": [
-        "各論VI",
-        "胸郭・胸壁の疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_胸郭_胸壁疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k6_p006.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=6"
-      },
-      "id": "qa-2544"
-    },
-    {
       "id": "qa-2556",
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
@@ -53400,6 +52980,366 @@
         "PDF転記"
       ],
       "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3582",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "漏斗胸は遺伝性疾患に生じることがある。",
+      "answer": "○",
+      "explanation": "特定の遺伝子は同定されていないが、約40%で家族歴を有し、遺伝性疾患の側面もある。Marfan症候群などの結合組織病に伴うこともある。男性が女性の約3倍多い。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "漏斗胸",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3583",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "漏斗胸は審美的な面が主に問題となり、基本的に息切れや肺活量の低下をきたすことはない。",
+      "answer": "×",
+      "explanation": "審美的な面による心理的な障害も問題となるが、拘束性障害に由来する労作時の息切れ、胸痛、動悸などの症状が問題となることもある。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "漏斗胸",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3584",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "漏斗胸の心電図では右脚ブロックや右軸偏位、V1でのP波の陰転化がみられる。",
+      "answer": "○",
+      "explanation": "心電図変化は心臓の左方への偏位や圧迫の影響と考えられている。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "漏斗胸",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3585",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "漏斗胸の手術適応の判断には、肺の前後径と、胸骨後面と椎骨前面の距離の比をみたHaller indexが用いられる。",
+      "answer": "×",
+      "explanation": "Haller indexは胸郭の横径と、胸骨後面〜椎骨前面の距離の比をみたもので、3.25以上が手術適応となる基準として一般的に用いられる。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "漏斗胸",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3586",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "漏斗胸に対する手術は、成長期の小児に行われるものであり、成人例には効果がないため適応とはならない。",
+      "answer": "×",
+      "explanation": "成人例に対する手術も有効であることが示されている。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "漏斗胸",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3587",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "フレイルチェスト(動揺胸郭)は肋骨1本のみの骨折でも生じることがある。",
+      "answer": "×",
+      "explanation": "2本以上の連続する肋骨(肋軟骨)が2か所以上で骨折することで胸郭が不安定となり、吸気時に陥凹・呼気時に突出する奇異性呼吸がみられるのがフレイルチェストである。肋骨1本のみの骨折では通常フレイルチェストをきたすことはない。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "フレイルチェスト",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3588",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "フレイルチェストは両側肋軟骨骨折と胸骨骨折の合併例でも生じることがある。",
+      "answer": "○",
+      "explanation": "両側肋軟骨骨折と胸骨骨折の合併例でもフレイルチェストを生じることがある。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "フレイルチェスト",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3589",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "呼吸不全を呈している場合に行われる内固定術では、NPPV(非侵襲的陽圧換気)を用いることもできる。",
+      "answer": "○",
+      "explanation": "気管挿管下での人工呼吸管理だけでなくNPPVを用いることもでき、日本のNPPVガイドラインでも推奨されている。但し、意識障害や顔面外傷による装着困難例などでは気管挿管もしくは気管切開による人工呼吸管理を選択すべきである。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "フレイルチェスト",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3590",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "肋骨の変形が強い場合でも、観血的肋骨固定(外固定術)は生存率やQOLを改善しないことから推奨されない。",
+      "answer": "×",
+      "explanation": "成人患者において、外固定術は非手術例と比較して死亡率の低下や人工呼吸期間の短縮などが示されており、2017年のEAST(The Eastern Association for the Surgery of Trauma)ガイドラインでは弱い推奨となっている。変形の大きい症例には外固定術も適応となる。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "フレイルチェスト",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3591",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "重症例では、疼痛管理法として持続硬膜外麻酔が推奨されている。",
+      "answer": "○",
+      "explanation": "フレイルチェストは強い疼痛を伴い、疼痛による換気量低下から呼吸不全が増悪するため鎮痛は必須となる。麻薬などの鎮痛薬の全身投与のほか、重症例では持続硬膜外麻酔が推奨されている。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "フレイルチェスト",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3592",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "外傷性血胸では、胸腔ドレナージ施行時に500mLの血液が吸引された場合、開胸での止血術の適応となる。",
+      "answer": "×",
+      "explanation": "大量血胸の開胸止血術の適応として、①胸腔ドレナージ施行時1000mL以上、②開始1時間で1500mL以上、③2〜4時間で200mL/時以上の出血の持続、④持続する輸血が必要、の4項目がエキスパートオピニオンとして提唱されている。単純に出血量のみでは適応とはならない。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "外傷性血胸",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3593",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "ドレナージ施行後から200mL/時の出血が数時間持続している場合、開胸での止血術の適応となる。",
+      "answer": "○",
+      "explanation": "2〜4時間で200mL/時以上の出血が持続する場合は開胸止血術の適応となる。バイタルサインが不安定で出血が持続している徴候があれば適応となる。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "外傷性血胸",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3594",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "鈍的外傷の場合、出血量よりもバイタルサインなど生理学的異常に基づいて開胸止血術の適応を判断することが望ましい。",
+      "answer": "○",
+      "explanation": "EASTのガイドラインでは、穿通性外傷と比較して鈍的外傷では出血量に基づいて止血を要することが少なかったことを根拠として、このような推奨となっている。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "外傷性血胸",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3595",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "肺挫傷は、受傷直後からX線で明瞭な変化を認めることが特徴的である。",
+      "answer": "×",
+      "explanation": "受傷直後は明らかな異常陰影を示さないことがあり、受傷数時間以内に明らかになることが多い。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "胸部外傷",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3596",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "胸部鈍的外傷による気管損傷は、頸部気管の損傷であることが多い。",
+      "answer": "×",
+      "explanation": "気管損傷の80%以上は気管分岐部から2.5cm以内の損傷であるとされる。胸腔ドレナージを行っても虚脱が改善しない気胸や持続的な空気漏出がみられる場合に気管・気管支損傷を疑う。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "気管損傷",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3597",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "気管損傷の診断に気管支鏡検査は有用である。",
+      "answer": "○",
+      "explanation": "CTの3D再構成などで診断される例もあるが、気管支鏡検査が最も確定的な診断法である。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "気管損傷",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3598",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "気管損傷では、膜様部側のみの損傷かつ持続的な空気漏出がない場合においても、原則的に外科的治療が必要となる。",
+      "answer": "×",
+      "explanation": "鈍的外傷は膜様部を中心とした損傷であることが多く、1/3周以下の損傷でかつ虚血部が存在しない場合には保存的加療も選択される。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "気管損傷",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3599",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "開放性気胸を認めた場合、直ちに開放創を閉鎖する。",
+      "answer": "×",
+      "explanation": "開放性気胸治療の基本は、胸腔ドレーンを留置した後に開放創を閉鎖することである。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "開放性気胸",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3600",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "開放性気胸に対する胸腔ドレーン挿入は創部から挿入するのが適切である。",
+      "answer": "×",
+      "explanation": "創部とは別の部位から挿入する。胸腔ドレナージを施行せずに創閉鎖を行った場合、緊張性気胸を招く恐れがある。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "開放性気胸",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3601",
+      "type": "qa",
+      "chapter": "各論VI 胸郭・胸壁の疾患",
+      "section": "胸郭・胸壁の疾患",
+      "question": "外傷性の横隔膜損傷は左側に多い。",
+      "answer": "○",
+      "explanation": "右側は肝臓に保護されているため、65〜80%が左側の損傷といわれている。高率に腹腔内臓器損傷を合併する。",
+      "tags": [
+        "各論VI",
+        "胸郭・胸壁の疾患",
+        "横隔膜損傷",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "VI 胸郭、胸壁の疾患.pdf",
       "images": []
     }
   ]
