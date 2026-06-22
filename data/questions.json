@@ -32486,8 +32486,8 @@
       "chapter": "各論III 胸膜疾患",
       "section": "胸膜疾患",
       "question": "「石綿による肺癌」の労災認定において、石綿吹付作業は石綿曝露作業の中で最も高濃度の作業であり、5年以上の従事歴があれば、画像所見と関係なく、認定の対象となる。",
-      "answer": "×",
-      "explanation": "(False based on context, standard typically requires imaging or pathological findings as well)",
+      "answer": "○",
+      "explanation": "石綿吹付作業は石綿曝露作業の中で最も高濃度の作業であり、5年以上の従事歴があれば、画像所見と関係なく認定の対象となる。",
       "tags": [
         "各論III",
         "胸膜疾患",
@@ -33347,8 +33347,8 @@
       "chapter": "各論III 胸膜疾患",
       "section": "胸膜疾患",
       "question": "悪性胸水の予後予測には胸水中 LDH、PS、胸水中の好中球/リンパ球比率(NLR)、腫瘍の組織型によるスコアリングが有用である。",
-      "answer": "○",
-      "explanation": "悪性胸水の予後予測に有用とされるLENT scoreでは、これらを予後予測因子として評価する。",
+      "answer": "×",
+      "explanation": "予後予測に有用なLENT scoreでは、胸水中LDH、PS、血液中のNLR(好中球/リンパ球比率)、腫瘍の組織型を予後予測因子として評価する。NLRは胸水中ではなく血液中の値を用いる。",
       "tags": [
         "各論III",
         "胸膜疾患",
