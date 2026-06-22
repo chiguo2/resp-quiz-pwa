@@ -1,4 +1,4 @@
-const CACHE_NAME = 'resp-quiz-cache-v18-kakuronI-refs-3';
+const CACHE_NAME = 'resp-quiz-cache-v19-kakuronI-refs-4';
 const CORE_ASSETS = [
   './','./index.html','./style.css','./app.js','./manifest.json','./icon.svg',
   './reference-viewer.html','./reference-viewer.css','./reference-viewer.js',
