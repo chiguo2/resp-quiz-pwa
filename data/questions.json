@@ -33533,426 +33533,6 @@
     },
     {
       "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "横隔神経は主に第7頸椎から出る。",
-      "answer": "×",
-      "explanation": "第3~5頸椎から出る。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k4_p002.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=2"
-      },
-      "id": "qa-2465"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "横隔神経は鎖骨下動静脈の間を下り、肺門部の前方を通り横隔膜に到達する。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k4_p002.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=2"
-      },
-      "id": "qa-2466"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "両側性横隔神経麻痺は、全身性の筋力低下をきたす疾患の部分症としてみられることが多い。",
-      "answer": "○",
-      "explanation": "神経筋疾患や開心術などが原因となりうる。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k4_p002.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=2"
-      },
-      "id": "qa-2467"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "両側性横隔神経麻痺では起坐呼吸が特徴である。",
-      "answer": "○",
-      "explanation": "仰臥位で悪化する呼吸困難と奇異性呼吸が特徴である。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k4_p002.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=2"
-      },
-      "id": "qa-2468"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "片側性横隔神経麻痺は腫瘍などによる機械的圧迫が原因であることが多い。",
-      "answer": "○",
-      "explanation": "他に外傷、頸部~腹部の手術の合併症、感染などが原因となる。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k4_p002.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=2"
-      },
-      "id": "qa-2469"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "後縦隔に発生した神経原性腫瘍では、ほとんどの例で横隔神経麻痺がみられる。",
-      "answer": "×",
-      "explanation": "後縦隔腫瘍では横隔神経麻痺はみられないことが多いが、時に交感神経の圧迫により Horner 症候群を伴うことがある。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k4_p002.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=2"
-      },
-      "id": "qa-2470"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "横隔神経麻痺では、胸部単純写真は臥位での撮影の方が診断しやすい。",
-      "answer": "○",
-      "explanation": "立位の撮影では呼気時に腹部の呼息筋により横隔膜を挙上させることができるが、臥位では横隔膜に対する重力の影響がなくなり横隔神経麻痺を診断しやすくなる。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k4_p002.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=2"
-      },
-      "id": "qa-2471"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "横隔神経麻痺ではFEV1 が著しく低下する。",
-      "answer": "×",
-      "explanation": "特に臥位において、肺活量が低下する。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k4_p002.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=2"
-      },
-      "id": "qa-2472"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "横隔神経麻痺では最大吸気圧、最大呼気圧ともに低下する。",
-      "answer": "○",
-      "explanation": "両側性の横隔神経麻痺では、最大吸気圧は正常値の65%、最大呼気圧は40%まで低下する。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 2,
-        "image": "assets/reference_pages/k4_p002.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=2"
-      },
-      "id": "qa-2473"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "横隔膜の三裂孔は大動脈裂孔、食道裂孔、大静脈孔である。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k4_p004.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=4"
-      },
-      "id": "qa-2474"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "傍食道型食道裂孔ヘルニアでは逆流性食道炎をきたしやすい。",
-      "answer": "×",
-      "explanation": "滑脱型食道裂孔ヘルニアの場合にきたしやすい。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k4_p004.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=4"
-      },
-      "id": "qa-2475"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "症状を伴う食道裂孔ヘルニアでは、酸分泌抑制薬や抗コリン薬を用いる。",
-      "answer": "×",
-      "explanation": "抗コリン薬は禁忌である。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k4_p004.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=4"
-      },
-      "id": "qa-2476"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "食道裂孔ヘルニアに対しては全例で食道裂孔縫縮術が適応となる。",
-      "answer": "×",
-      "explanation": "内科的治療抵抗性の食道炎、食道潰瘍などを認める場合に食道裂孔縫縮術が適応となる。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k4_p004.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=4"
-      },
-      "id": "qa-2477"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "Bochdalek 孔ヘルニアは非外傷性横隔膜ヘルニアの中では最も頻度が高い。",
-      "answer": "○",
-      "explanation": "新生児期に発症し先天奇形を伴うことが多く、出生直後から強いチアノーゼを伴う呼吸困難を呈する。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k4_p006.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=6"
-      },
-      "id": "qa-2478"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "Bochdalek 孔ヘルニアは成人してから発症することが多い。",
-      "answer": "×",
-      "explanation": "約10%の症例で成人になるまで無症状または軽症である。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k4_p006.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=6"
-      },
-      "id": "qa-2479"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "Bochdalek 孔ヘルニアは左側に多い。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k4_p006.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=6"
-      },
-      "id": "qa-2480"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "Morgagni 孔ヘルニアは左側に多い。",
-      "answer": "×",
-      "explanation": "右側に多い。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k4_p006.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=6"
-      },
-      "id": "qa-2481"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "先天性横隔膜弛緩症は胎生期の横隔膜形成不全により生じる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 8,
-        "image": "assets/reference_pages/k4_p008.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=8"
-      },
-      "id": "qa-2482"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "後天性横隔膜弛緩症は、横隔神経症障害や横隔膜の鈍的外傷で生じる。",
-      "answer": "○",
-      "explanation": "",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 8,
-        "image": "assets/reference_pages/k4_p008.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=8"
-      },
-      "id": "qa-2483"
-    },
-    {
-      "type": "qa",
-      "chapter": "各論IV 横隔膜疾患",
-      "section": "横隔膜疾患",
-      "question": "横隔膜弛緩症では、片側全体に及ぶ場合には右側全体の挙上が多い。",
-      "answer": "×",
-      "explanation": "片側全体に及ぶ場合には左側全体の挙上が多く、部分性では右の一部が挙上することが多い。",
-      "tags": [
-        "各論IV",
-        "横隔膜疾患",
-        "○×問題"
-      ],
-      "source_file": "各論_横隔膜疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 8,
-        "image": "assets/reference_pages/k4_p008.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=8"
-      },
-      "id": "qa-2484"
-    },
-    {
-      "type": "qa",
       "chapter": "各論VI 胸郭・胸壁の疾患",
       "section": "胸郭・胸壁の疾患",
       "question": "漏斗胸。遺伝性疾患に生じることがある",
@@ -53460,6 +53040,366 @@
         "選択肢統合"
       ],
       "source_file": "V 縦隔疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3562",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "横隔神経は主に第7頸椎から出る。",
+      "answer": "×",
+      "explanation": "横隔神経は主に第3〜5頸椎(C3〜C5)から出る。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔神経麻痺",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3563",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "横隔神経は鎖骨下動静脈の間を下り、肺門部の前方を通り横隔膜に到達する。",
+      "answer": "○",
+      "explanation": "横隔神経は鎖骨下動静脈の間を下り、肺門部の前方を通り横隔膜に到達する。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔神経麻痺",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3564",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "両側性横隔神経麻痺は、全身性の筋力低下をきたす疾患の部分症としてみられることが多い。",
+      "answer": "○",
+      "explanation": "神経筋疾患や開心術などが原因となりうる。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔神経麻痺",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3565",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "両側性横隔神経麻痺では起坐呼吸が特徴である。",
+      "answer": "×",
+      "explanation": "仰臥位で悪化する呼吸困難と奇異性呼吸が特徴である。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔神経麻痺",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3566",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "片側性横隔神経麻痺は腫瘍などによる機械的圧迫が原因であることが多い。",
+      "answer": "○",
+      "explanation": "他に外傷、頭部〜腹部の手術の合併症、感染なども原因となる。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔神経麻痺",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3567",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "後縦隔に発生した神経原性腫瘍では、ほとんどの例で横隔神経麻痺がみられる。",
+      "answer": "×",
+      "explanation": "後縦隔腫瘍では横隔神経麻痺はみられないことが多いが、時に交感神経の圧迫によりHorner症候群を伴うことがある。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔神経麻痺",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3568",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "横隔神経麻痺では、胸部単純写真は臥位での撮影の方が診断しやすい。",
+      "answer": "○",
+      "explanation": "立位の撮影では呼気時に腹部の呼息筋により横隔膜を挙上させることができるが、臥位では横隔膜に対する重力の影響がなくなり横隔神経麻痺を診断しやすくなる。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔神経麻痺",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3569",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "横隔神経麻痺ではFEV1が著しく低下する。",
+      "answer": "×",
+      "explanation": "拘束性換気障害を呈し、特に臥位において肺活量が低下する。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔神経麻痺",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3570",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "横隔神経麻痺では最大吸気圧、最大呼気圧ともに低下する。",
+      "answer": "○",
+      "explanation": "両側性の横隔神経麻痺では、最大吸気圧は正常値の65%、最大呼気圧は40%まで低下する。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔神経麻痺",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3571",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "横隔膜の三裂孔は大動脈裂孔、食道裂孔、大静脈孔である。",
+      "answer": "○",
+      "explanation": "横隔膜の三裂孔は大動脈裂孔、食道裂孔、大静脈孔である。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "食道裂孔ヘルニア",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3572",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "傍食道型食道裂孔ヘルニアでは逆流性食道炎をきたしやすい。",
+      "answer": "×",
+      "explanation": "逆流性食道炎は滑脱型食道裂孔ヘルニアの場合にきたしやすい。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "食道裂孔ヘルニア",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3573",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "症状を伴う食道裂孔ヘルニアでは、酸分泌抑制薬や抗コリン薬を用いる。",
+      "answer": "×",
+      "explanation": "抗コリン薬は禁忌である。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "食道裂孔ヘルニア",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3574",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "食道裂孔ヘルニアに対しては全例で食道裂孔縫縮術が適応となる。",
+      "answer": "×",
+      "explanation": "内科的治療抵抗性の食道炎、食道潰瘍などを認める場合に食道裂孔縫縮術が適応となる。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "食道裂孔ヘルニア",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3575",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "Bochdalek孔ヘルニアは非外傷性横隔膜ヘルニアの中では最も頻度が高い。",
+      "answer": "○",
+      "explanation": "Bochdalek孔ヘルニアは非外傷性横隔膜ヘルニアの中では最も頻度が高い。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔膜ヘルニア",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3576",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "Bochdalek孔ヘルニアは成人してから発症することが多い。",
+      "answer": "×",
+      "explanation": "新生児期に発症し先天奇形を伴うことが多く、出生直後から強いチアノーゼを伴う呼吸困難を呈する。約10%の症例で成人になるまで無症状または軽症である。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔膜ヘルニア",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3577",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "Bochdalek孔ヘルニアは左側に多い。",
+      "answer": "○",
+      "explanation": "Bochdalek孔ヘルニアは左側に多い。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔膜ヘルニア",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3578",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "Morgagni孔ヘルニアは左側に多い。",
+      "answer": "×",
+      "explanation": "Morgagni孔ヘルニアは右側に多い。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔膜ヘルニア",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3579",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "先天性横隔膜弛緩症は胎生期の横隔膜形成不全により生じる。",
+      "answer": "○",
+      "explanation": "先天性横隔膜弛緩症は胎生期の横隔膜形成不全により生じる。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔膜弛緩症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3580",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "後天性横隔膜弛緩症は、横隔神経障害や横隔膜の鈍的外傷で生じる。",
+      "answer": "○",
+      "explanation": "後天性横隔膜弛緩症は、横隔神経障害や横隔膜の鈍的外傷で生じる。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔膜弛緩症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
+      "images": []
+    },
+    {
+      "id": "qa-3581",
+      "type": "qa",
+      "chapter": "各論IV 横隔膜疾患",
+      "section": "横隔膜疾患",
+      "question": "横隔膜弛緩症では、片側全体に及ぶ場合には右側全体の挙上が多い。",
+      "answer": "×",
+      "explanation": "片側全体に及ぶ場合には左側全体の挙上が多く、部分性では右の一部分が挙上することが多い。",
+      "tags": [
+        "各論IV",
+        "横隔膜疾患",
+        "横隔膜弛緩症",
+        "○×問題",
+        "PDF転記"
+      ],
+      "source_file": "IV 横隔膜疾患.pdf",
       "images": []
     }
   ]
