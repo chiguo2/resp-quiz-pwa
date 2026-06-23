@@ -25,6 +25,7 @@
           <option value="qa">一問一答</option>
           <option value="mcq">5択</option>
           <option value="wrong">累積で間違えた問題</option>
+          <option value="noted">メモ・要確認した問題</option>
         </select>
       </label>
 
@@ -84,6 +85,13 @@
         <button id="correctBtn" class="success">○ 正解</button>
         <button id="nextBtn">次へ</button>
       </div>
+      <div id="noteBox" class="note-box hidden">
+        <div class="note-head">
+          <button id="flagBtn" type="button" class="note-flag">🚩 要確認にする</button>
+          <small id="noteStatus" class="note-status"></small>
+        </div>
+        <textarea id="noteInput" class="note-input" rows="2" placeholder="この問題へのメモ（例：解説が誤っている／参照ページがずれている など）。自動保存されます。"></textarea>
+      </div>
     </section>
 
     <section id="resultPanel" class="panel result hidden">
@@ -106,9 +114,20 @@
     </section>
 
     <section class="panel utility">
+      <details id="notesDetails">
+        <summary>🚩 メモ・要確認した問題（<span id="notesCount">0</span>）</summary>
+        <div class="utility-buttons">
+          <button id="reviewNotedBtn" class="secondary">これらを復習</button>
+          <button id="exportNotesBtn" class="ghost">メモをエクスポート</button>
+        </div>
+        <div id="notesList" class="notes-list"></div>
+      </details>
+    </section>
+
+    <section class="panel utility">
       <details>
         <summary>使い方・データ管理</summary>
-        <p>一問一答は「答を表示」してから自己採点します。5択は選択肢を毎回シャッフルして表示します。選択肢をタップすると自動採点します。複数選択問題では選択肢を複数タップしてから「解答する」を押します。写真付きの過去問は問題文の下に必要な図表を表示します。解答表示後の「教科書の該当解説を開く」から、添付PDFの対応ページを閲覧専用画面で参照できます。設定した問題数が終わると結果画面を表示し、今回間違えた問題だけを復習できます。</p>
+        <p>一問一答は「答を表示」してから自己採点します。5択は選択肢を毎回シャッフルして表示します。選択肢をタップすると自動採点します。複数選択問題では選択肢を複数タップしてから「解答する」を押します。写真付きの過去問は問題文の下に必要な図表を表示します。解答表示後の「教科書の該当解説を開く」から、添付PDFの対応ページを閲覧専用画面で参照できます。設定した問題数が終わると結果画面を表示し、今回間違えた問題だけを復習できます。各問題には「🚩 要確認」フラグとメモを残せます（解説の誤りや参照ページのずれを見つけたときの目印に。自動保存されます）。残したメモは上の「🚩 メモ・要確認した問題」から一覧・復習・エクスポートでき、モードの「メモ・要確認した問題」でまとめて出題できます。</p>
         <div class="utility-buttons">
           <button id="exportBtn" class="ghost">成績をエクスポート</button>
           <button id="resetBtn" class="ghost danger-text">成績をリセット</button>

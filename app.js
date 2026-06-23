@@ -21,6 +21,12 @@ const getStats = () => {
 };
 const setStats = s => localStorage.setItem(statsKey, JSON.stringify(s));
 
+const notesKey = 'respQuizNotes.v1';
+const getNotes = () => { try { return JSON.parse(localStorage.getItem(notesKey)) || {}; } catch(e){ return {}; } };
+const setNotes = n => localStorage.setItem(notesKey, JSON.stringify(n));
+const hasNote = n => !!(n && ((n.text && n.text.trim()) || n.flag));
+const getNote = id => getNotes()[id] || null;
+
 function shuffle(arr){
   const a=[...arr];
   for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}
@@ -126,6 +132,7 @@ function baseFiltered(){
   if(mode==='qa') arr=arr.filter(x=>x.type==='qa');
   if(mode==='mcq') arr=arr.filter(x=>x.type==='mcq');
   if(mode==='wrong') arr=arr.filter(x=>stats[x.id]?.wrong>0);
+  if(mode==='noted'){ const notes=getNotes(); arr=arr.filter(x=>hasNote(notes[x.id])); }
   if($('orderSelect').value==='random') arr=shuffle(arr);
   return arr;
 }
@@ -181,11 +188,70 @@ function renderWrongList(){
   }
 }
 
+function saveCurrentNote(){
+  if(!current) return;
+  const notes = getNotes();
+  const text = $('noteInput').value.trim();
+  const flag = $('flagBtn').classList.contains('on');
+  if(!text && !flag){ delete notes[current.id]; }
+  else { notes[current.id] = { text, flag, updated: new Date().toISOString() }; }
+  setNotes(notes);
+  updateNoteIndicator();
+  updateNotesCount();
+}
+
+function updateNoteIndicator(){
+  const n = current ? getNote(current.id) : null;
+  const flagged = !!n?.flag;
+  $('flagBtn').classList.toggle('on', flagged);
+  $('flagBtn').textContent = flagged ? '🚩 要確認を解除' : '🚩 要確認にする';
+  const bits = [];
+  if(flagged) bits.push('要確認');
+  if(n?.text?.trim()) bits.push('メモあり');
+  $('noteStatus').textContent = bits.length ? '（'+bits.join('・')+'）' : '';
+  $('badge').classList.toggle('flagged', flagged || !!n?.text?.trim());
+}
+
+function renderNoteUI(){
+  if(!current){ $('noteBox').classList.add('hidden'); return; }
+  $('noteBox').classList.remove('hidden');
+  const n = getNote(current.id);
+  $('noteInput').value = n?.text || '';
+  updateNoteIndicator();
+}
+
+function notedItems(){
+  const notes = getNotes();
+  return Object.keys(notes)
+    .filter(id => hasNote(notes[id]))
+    .map(id => ({ id, note: notes[id], item: data.find(x => x.id === id) }))
+    .filter(x => x.item)
+    .sort((a,b) => (b.note.updated||'').localeCompare(a.note.updated||''));
+}
+
+function updateNotesCount(){ $('notesCount').textContent = notedItems().length; }
+
+function renderNotesList(){
+  const wrap = $('notesList');
+  wrap.innerHTML = '';
+  const list = notedItems();
+  if(!list.length){ wrap.innerHTML = '<p class="notes-empty">メモ・要確認した問題はありません。問題画面で「🚩 要確認」やメモを残すとここに表示されます。</p>'; return; }
+  for(const { id, note, item } of list){
+    const div = document.createElement('div');
+    div.className = 'note-item';
+    const flag = note.flag ? '🚩 ' : '';
+    const memo = note.text?.trim() ? `<small class="note-memo">📝 ${escapeHtml(note.text)}</small>` : '';
+    div.innerHTML = `<b>${flag}${escapeHtml(item.section || '')}</b><p>${escapeHtml((item.question || '').slice(0, 90))}</p>${memo}<button type="button" class="mini ghost-light note-del" data-id="${escapeHtml(id)}">この記録を削除</button>`;
+    wrap.appendChild(div);
+  }
+}
+
 function showCard(){
   $('choices').innerHTML=''; $('imageBox').innerHTML=''; $('imageBox').classList.add('hidden'); $('answerBox').classList.add('hidden'); $('answerBox').textContent='';
   $('submitMcqBtn').classList.add('hidden');
   if(!queue.length){
-    $('badge').textContent='対象なし'; $('progress').textContent=''; $('question').textContent='条件に合う問題がありません。';
+    $('badge').textContent='対象なし'; $('badge').classList.remove('flagged'); $('progress').textContent=''; $('question').textContent='条件に合う問題がありません。';
+    $('noteBox').classList.add('hidden');
     $('showBtn').classList.add('hidden'); $('wrongBtn').classList.add('hidden'); $('correctBtn').classList.add('hidden'); $('nextBtn').classList.add('hidden'); return;
   }
   if(index >= queue.length){ finishSession(); return; }
@@ -200,6 +266,7 @@ function showCard(){
   $('correctBtn').classList.toggle('hidden', current.type!=='qa');
   $('nextBtn').classList.remove('hidden');
   if(current.type==='mcq') renderChoices(current);
+  renderNoteUI();
 }
 
 function renderChoices(item){
@@ -330,10 +397,36 @@ $('exportBtn').onclick=()=>{
 };
 $('resetBtn').onclick=()=>{ if(confirm('成績をリセットしますか？')){localStorage.removeItem(statsKey); for(const key of oldStatsKeys) localStorage.removeItem(key); start();} };
 
+let noteTimer = null;
+$('flagBtn').onclick = () => { $('flagBtn').classList.toggle('on'); saveCurrentNote(); };
+$('noteInput').addEventListener('input', () => { clearTimeout(noteTimer); noteTimer = setTimeout(saveCurrentNote, 600); });
+$('noteInput').addEventListener('blur', saveCurrentNote);
+$('notesDetails').addEventListener('toggle', e => { if(e.target.open) renderNotesList(); });
+$('reviewNotedBtn').onclick = () => {
+  const items = notedItems().map(x => x.item);
+  if(!items.length){ alert('メモ・要確認した問題はまだありません。'); return; }
+  $('modeSelect').value = 'all';
+  $('limitSelect').value = 'all';
+  $('customLimitWrap').classList.add('hidden');
+  start($('orderSelect').value === 'random' ? shuffle(items) : items);
+};
+$('exportNotesBtn').onclick = () => {
+  const list = notedItems().map(({id, note, item}) => ({ id, section: item.section, question: item.question, flag: !!note.flag, memo: note.text || '', updated: note.updated, reference: item.reference?.viewer || '' }));
+  const blob = new Blob([JSON.stringify(list, null, 2)], {type:'application/json'});
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'resp_quiz_notes.json'; a.click();
+};
+$('notesList').addEventListener('click', e => {
+  const btn = e.target.closest('.note-del');
+  if(!btn) return;
+  const notes = getNotes(); delete notes[btn.dataset.id]; setNotes(notes);
+  renderNotesList(); updateNotesCount();
+  if(current && current.id === btn.dataset.id) renderNoteUI();
+});
+
 window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredPrompt=e; $('installBtn').classList.remove('hidden'); });
 $('installBtn').onclick=async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); deferredPrompt=null; $('installBtn').classList.add('hidden'); } };
 
-fetch('data/questions.json').then(r=>r.json()).then(json=>{ data=json.items; buildFilters(json.metadata); start(); });
+fetch('data/questions.json').then(r=>r.json()).then(json=>{ data=json.items; buildFilters(json.metadata); start(); updateNotesCount(); });
 if('serviceWorker' in navigator){ window.addEventListener('load',()=>navigator.serviceWorker.register('service-worker.js')); }
 
 
