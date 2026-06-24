@@ -9852,7 +9852,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPFの病理組織型は？",
       "answer": "UIPパターン",
-      "explanation": "",
+      "explanation": "IPFの病理組織型は通常型間質性肺炎(UIP)パターンである。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9873,7 +9873,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPFで90%以上に聴取される聴診所見は？",
       "answer": "背側肺底部のfine crackles（捻髪音）",
-      "explanation": "",
+      "explanation": "IPFでは背側肺底部のfine crackles(捻髪音, velcro ラ音)が90%以上で聴取される。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9894,7 +9894,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPFの急性増悪の頻度と最終死因に占める割合は？",
       "answer": "年5〜10%／最終死因の約4割",
-      "explanation": "",
+      "explanation": "IPF急性増悪は年5〜10%に発症し、最終死因の約4割を占める。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9915,7 +9915,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPF慢性安定期に用いる抗線維化薬2剤は？",
       "answer": "pirfenidone、nintedanib",
-      "explanation": "",
+      "explanation": "IPF慢性安定期にはピルフェニドンとニンテダニブの2剤の抗線維化薬が用いられる。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9936,7 +9936,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPFと異なりステロイドが有効で予後良好なIIPは？",
       "answer": "NSIP",
-      "explanation": "",
+      "explanation": "NSIP(特に細胞型)はIPFと異なりステロイドが有効で予後良好である。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10062,7 +10062,7 @@
       "section": "各論I-8 全身疾患",
       "question": "サルコイドーシスで上昇する血清マーカー3つは？",
       "answer": "ACE、リゾチーム、可溶性IL-2受容体（sIL-2R）",
-      "explanation": "",
+      "explanation": "サルコイドーシスではACE・リゾチーム・可溶性IL-2受容体(sIL-2R)が上昇する。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10083,7 +10083,7 @@
       "section": "各論I-8 全身疾患",
       "question": "サルコイドーシスのBALで特徴的な所見は？",
       "answer": "リンパ球増多・CD4/CD8比上昇",
-      "explanation": "",
+      "explanation": "サルコイドーシスのBALではリンパ球増多とCD4/CD8比の上昇が特徴的である。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -45907,7 +45907,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性肺線維症(IPF)はほとんどが50歳以上の成人に発症する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPFはほとんどが50歳以上の中高年に発症する。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -45930,7 +45930,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性肺線維症(IPF)の画像・病理組織パターンは通常型間質性肺炎(usual interstitial pneumonia: UIP)である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPFの画像・病理パターンは通常型間質性肺炎(UIP)である。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -45976,7 +45976,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性肺線維症(IPF)では肺底部の捻髪音(fine crackles)は90%前後に聴取される。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPFでは肺底部の捻髪音(fine crackles)が90%前後で聴取される。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -46022,7 +46022,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "チアノーゼ、肺性心、末梢性浮腫はIPFの末期に認められる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "チアノーゼ・肺性心・末梢性浮腫はIPFの末期にみられる。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -46137,7 +46137,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPFの胸部単純X線では線状網状影が両側中下肺野、末梢側優位に広がり、多くは肺の容積減少を伴う。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPFの胸部X線では両側中下肺野・末梢優位の線状網状影と肺の容積減少を認める。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -46206,7 +46206,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPFのHRCT像で牽引性気管支拡張が認められる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPFのHRCTでは牽引性気管支拡張がみられる。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -46252,7 +46252,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPFでは肺活量(VC)、努力性肺活量(FVC)、全肺気量(TLC)の低下が認められる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPFでは拘束性換気障害によりVC・FVC・TLCが低下する。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -46367,7 +46367,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "6分間歩行試験では心不全に伴う呼吸不全の要素は排除できない。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "6分間歩行試験では心不全に伴う呼吸不全の要素は排除できない。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -46390,7 +46390,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPFの病勢の評価には定期的なFVC測定が有用である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPFの病勢評価には定期的なFVC測定が有用である。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -46413,7 +46413,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPFは厚生労働省の難病に指定されている。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPFは厚生労働省の指定難病である。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -46472,7 +46472,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPFの診断に際しては、原因の特定できるほかの間質性肺疾患を臨床的に除外する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPFの診断では原因の特定できる他の間質性肺疾患を臨床的に除外する。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -46541,7 +46541,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "SLBが施行された症例では、HRCT所見とSLB所見の組み合わせで判断する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "外科的肺生検(SLB)施行例ではHRCT所見とSLB所見の組み合わせで診断する。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -46610,7 +46610,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "気管支肺胞洗浄は他疾患を除外するために有効な場合がある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "気管支肺胞洗浄(BAL)は他疾患の除外に有効な場合がある。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -47318,7 +47318,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "気腫合併肺線維症(combined pulmonary fibrosis and emphysema: CPFE)は男性の喫煙者に多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "CPFE(気腫合併肺線維症)は男性の喫煙者に多い。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -47387,7 +47387,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "CPFEではFEV1は病初期で保たれる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "CPFEでは気腫と線維化が相殺し、FEV1は病初期に保たれる。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -47410,7 +47410,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "CPFEではFVCやFEV1の経年的低下は軽度にとどまる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "CPFEではFVC・FEV1の経年的低下は軽度にとどまる(肺容量が保たれやすい)。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -47663,7 +47663,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性NSIPと診断された症例の中で経過中に膠原病を発症する症例がある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "特発性NSIPと診断後、経過中に膠原病が顕在化する症例がある。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -47686,7 +47686,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性NSIPの好発年齢は40〜50歳代である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "特発性NSIPの好発年齢は40〜50歳代である。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -47778,7 +47778,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性NSIPのHRCTでは両側性、多発性のすりガラス影や浸潤影が認められる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "特発性NSIPのHRCTでは両側性・多発性のすりガラス影や浸潤影がみられる。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -47824,7 +47824,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性NSIPのHRCTでは牽引性気管支拡張が認められる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "特発性NSIPのHRCTでは牽引性気管支拡張がみられる。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -47847,7 +47847,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "細胞浸潤の強いNSIPでは副腎皮質ステロイドが有効な症例が多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "細胞浸潤の強いNSIPでは副腎皮質ステロイドが有効な症例が多い。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -47870,7 +47870,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "線維化性NSIPでは30%で原病関連死する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "線維化性NSIPでは約30%が原病関連死する。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -47998,7 +47998,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性器質化肺炎(COP)は性差はない。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "特発性器質化肺炎(COP)に性差はない。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48044,7 +48044,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性器質化肺炎(COP)の患者数は非喫煙者の方が喫煙者よりも多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "COPの患者数は非喫煙者の方が喫煙者より多い。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48067,7 +48067,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性器質化肺炎(COP)ではばち指はみられない。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "COPではばち指は通常みられない。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48113,7 +48113,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性器質化肺炎(COP)の画像所見では、気管支透亮像を伴うconsolidationが両側に認められることが多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "COPでは気管支透亮像を伴うconsolidationが両側性にみられることが多い。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48136,7 +48136,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性器質化肺炎(COP)では気管支肺胞洗浄液中のリンパ球比率が上昇する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "COPでは気管支肺胞洗浄液中のリンパ球比率が上昇する。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48205,7 +48205,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "特発性器質化肺炎(COP)は副腎皮質ステロイド治療後も再発することが多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "COPはステロイドが奏効するが、減量・中止後に再発が多い。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48228,7 +48228,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPPFEはHRCTで病変の主座が両側上葉にある慢性線維化性間質性肺炎である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPPFEはHRCTで病変の主座が両側上葉にある慢性線維化性間質性肺炎である。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48251,7 +48251,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "idiopathic pleuroparenchymal fibroelastosis(IPPFE)は病因となる基礎病態や原因疾患を同定しえない原因不明のPPFEである。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPPFEは基礎病態や原因疾患を同定しえない原因不明のPPFEである。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48320,7 +48320,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPPFEでは扁平胸郭がしばしば認められる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPPFEではしばしば扁平胸郭(flat chest)が認められる。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48366,7 +48366,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPPFEではFVCは低下する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPPFEではFVCが低下する。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48435,7 +48435,7 @@
       "section": "各論I-5 特発性間質性肺炎（IIPs）",
       "question": "IPPFEの胸部CTでは胸膜に直行する太い線状影や気管支血管束の肥厚がみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IPPFEの胸部CTでは胸膜に直行する太い線状影や気管支血管束の肥厚がみられる。",
       "tags": [
         "各論I",
         "特発性間質性肺炎(IIPs)",
@@ -48550,7 +48550,7 @@
       "section": "各論I-8 全身疾患",
       "question": "間質性肺炎に胸水を合併した場合、膠原病の合併を考慮する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "間質性肺炎に胸水を合併した場合は膠原病の合併を考慮する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -48573,7 +48573,7 @@
       "section": "各論I-8 全身疾患",
       "question": "関節リウマチでは濾胞性細気管支炎を呈することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "関節リウマチでは濾胞性細気管支炎を呈することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -48596,7 +48596,7 @@
       "section": "各論I-8 全身疾患",
       "question": "関節リウマチでは閉塞性細気管支炎を呈することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "関節リウマチでは閉塞性細気管支炎を呈することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -48717,7 +48717,7 @@
       "section": "各論I-8 全身疾患",
       "question": "強皮症の長期的な予後は肺高血圧症の合併により悪化する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "強皮症の長期予後は肺高血圧症の合併により悪化する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -48740,7 +48740,7 @@
       "section": "各論I-8 全身疾患",
       "question": "clinically amyopathic dermatomyositisにおける肺の病理学的検査では、びまん性肺胞障害がみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "clinically amyopathic dermatomyositis(CADM, 抗MDA5抗体関連)では急速進行性のびまん性肺胞障害(DAD)がみられる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -48847,7 +48847,7 @@
       "section": "各論I-8 全身疾患",
       "question": "シェーグレン症候群ではリンパ球性間質性肺炎を合併することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "シェーグレン症候群ではリンパ球性間質性肺炎(LIP)を合併することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -48870,7 +48870,7 @@
       "section": "各論I-8 全身疾患",
       "question": "シェーグレン症候群では肺MALTリンパ腫を合併することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "シェーグレン症候群では肺MALTリンパ腫を合併することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -48916,7 +48916,7 @@
       "section": "各論I-8 全身疾患",
       "question": "シェーグレン症候群では濾胞性細気管支炎を合併することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "シェーグレン症候群では濾胞性細気管支炎を合併することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -48939,7 +48939,7 @@
       "section": "各論I-8 全身疾患",
       "question": "シェーグレン症候群で肺結節影が出現した場合、悪性リンパ腫の鑑別が必要である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "シェーグレン症候群で肺結節影が出現した場合は悪性リンパ腫の鑑別が必要である。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -48962,7 +48962,7 @@
       "section": "各論I-8 全身疾患",
       "question": "全身性エリテマトーデスでは肺胞出血を認めることがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "全身性エリテマトーデスでは肺胞出血を認めることがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49008,7 +49008,7 @@
       "section": "各論I-8 全身疾患",
       "question": "全身性エリテマトーデスで肺胞出血を伴う場合は致死的であるため、血漿交換療法を検討する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "SLEで肺胞出血を伴う場合は致死的であり、血漿交換療法を検討する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49031,7 +49031,7 @@
       "section": "各論I-8 全身疾患",
       "question": "混合性結合組織病では胸膜炎を合併することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "混合性結合組織病(MCTD)では胸膜炎を合併することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49054,7 +49054,7 @@
       "section": "各論I-8 全身疾患",
       "question": "混合性結合組織病では抗核抗体はspeckled型で、抗U1RNP抗体が陽性となる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "MCTDでは抗核抗体がspeckled型で、抗U1RNP抗体が陽性となる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49077,7 +49077,7 @@
       "section": "各論I-8 全身疾患",
       "question": "顕微鏡的多発血管炎では肺胞出血を合併することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "顕微鏡的多発血管炎(MPA)では肺胞出血を合併することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49100,7 +49100,7 @@
       "section": "各論I-8 全身疾患",
       "question": "顕微鏡的多発血管炎では間質性肺炎を合併することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "顕微鏡的多発血管炎では間質性肺炎を合併することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49146,7 +49146,7 @@
       "section": "各論I-8 全身疾患",
       "question": "【症例】MPO-ANCA陽性・ヘモグロビン低下・両側すりガラス陰影(肺胞出血疑い)の50歳女性。気管支肺胞洗浄液では鉄貪食マクロファージがみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺胞出血ではBALFに鉄(ヘモジデリン)貪食マクロファージがみられる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49284,7 +49284,7 @@
       "section": "各論I-8 全身疾患",
       "question": "IgG4関連肺疾患の画像所見では縦隔リンパ節腫大、気管支壁/気管支血管束の肥厚、小葉間隔壁の肥厚がみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IgG4関連肺疾患では縦隔リンパ節腫大、気管支壁/気管支血管束の肥厚、小葉間隔壁肥厚がみられる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49330,7 +49330,7 @@
       "section": "各論I-8 全身疾患",
       "question": "IgG4関連疾患の治療は副腎皮質ステロイド薬を用いる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IgG4関連疾患の治療は副腎皮質ステロイドを用いる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49384,7 +49384,7 @@
       "section": "各論I-8 全身疾患",
       "question": "サルコイドーシスでは霧視、羞明、飛蚊症を呈することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "サルコイドーシスではぶどう膜炎により霧視・羞明・飛蚊症を呈することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49430,7 +49430,7 @@
       "section": "各論I-8 全身疾患",
       "question": "サルコイドーシスでは皮疹や結節性紅斑を伴うことがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "サルコイドーシスでは皮疹や結節性紅斑を伴うことがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49522,7 +49522,7 @@
       "section": "各論I-8 全身疾患",
       "question": "サルコイドーシスでは血清アンジオテンシン転換酵素が高値となる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "サルコイドーシスでは血清ACE(アンジオテンシン転換酵素)が高値となる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49568,7 +49568,7 @@
       "section": "各論I-8 全身疾患",
       "question": "サルコイドーシスではPET CTで肉芽腫性病変に18F-FDG(フルオロデオキシグルコース)が集積する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "サルコイドーシスではPET-CTで活動性肉芽腫病変に18F-FDGが集積する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49591,7 +49591,7 @@
       "section": "各論I-8 全身疾患",
       "question": "サルコイドーシスでは気管支肺胞洗浄液でCD4/8比が上昇する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "サルコイドーシスではBALFでCD4/CD8比が上昇する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49670,7 +49670,7 @@
       "section": "各論I-8 全身疾患",
       "question": "肺Langerhans細胞組織球症の発症には喫煙が関与する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺Langerhans細胞組織球症(PLCH)の発症には喫煙が強く関与する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49693,7 +49693,7 @@
       "section": "各論I-8 全身疾患",
       "question": "肺Langerhans細胞組織球症は薄壁囊胞と間質の肥厚を伴う結節影が混在する画像所見を呈する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "PLCHは上中肺野優位の薄壁囊胞と結節影が混在する画像を呈する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49716,7 +49716,7 @@
       "section": "各論I-8 全身疾患",
       "question": "肺Langerhans細胞組織球症では気管支肺胞洗浄液でCD1α陽性細胞が総細胞数の5%以上にみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "PLCHではBALFでCD1α陽性細胞が総細胞数の5%以上にみられる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49762,7 +49762,7 @@
       "section": "各論I-8 全身疾患",
       "question": "肺Langerhans細胞組織球症の免疫染色ではS-100蛋白、CD1αが陽性となる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "PLCHの免疫染色ではS-100蛋白・CD1α(langerin)が陽性となる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49785,7 +49785,7 @@
       "section": "各論I-8 全身疾患",
       "question": "多発血管炎性肉芽腫症では上気道、下気道、腎病変がみられることが多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "多発血管炎性肉芽腫症(GPA)では上気道・下気道・腎の病変がみられることが多い。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49808,7 +49808,7 @@
       "section": "各論I-8 全身疾患",
       "question": "多発血管炎性肉芽腫症では血中のPR3-ANCAが診断に有用である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "GPAでは血中PR3-ANCAが診断に有用である。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49877,7 +49877,7 @@
       "section": "各論I-8 全身疾患",
       "question": "多発血管炎性肉芽腫症は壊死性肉芽腫性血管炎を特徴とした全身性炎症性疾患である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "GPAは壊死性肉芽腫性血管炎を特徴とする全身性炎症性疾患である。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49923,7 +49923,7 @@
       "section": "各論I-8 全身疾患",
       "question": "多発血管炎性肉芽腫症の上気道症状では難聴や耳閉感が多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "GPAの上気道症状では中耳炎による難聴や耳閉感が多い。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49946,7 +49946,7 @@
       "section": "各論I-8 全身疾患",
       "question": "多発血管炎性肉芽腫症の病理組織所見ではpalisading granulomaがみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "GPAの病理ではpalisading granuloma(柵状肉芽腫)がみられる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -49992,7 +49992,7 @@
       "section": "各論I-8 全身疾患",
       "question": "難治性喘息として加療されている患者の治療経過中に発熱や好酸球増多が出現したとき、好酸球性多発血管炎性肉芽腫症を鑑別疾患として考慮する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "難治性喘息の経過中に発熱や好酸球増多が出現したらEGPA(好酸球性多発血管炎性肉芽腫症)を鑑別する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50084,7 +50084,7 @@
       "section": "各論I-8 全身疾患",
       "question": "好酸球性多発血管炎性肉芽腫症の病理組織学的には、著明な好酸球浸潤を伴う細小血管の肉芽腫やフィブリノイド壊死性血管炎を呈する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "EGPAは著明な好酸球浸潤を伴う細小血管の肉芽腫やフィブリノイド壊死性血管炎を呈する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50107,7 +50107,7 @@
       "section": "各論I-8 全身疾患",
       "question": "好酸球性多発血管炎性肉芽腫症では抗IL-5抗体製剤が治療選択肢になる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "EGPAでは抗IL-5抗体製剤(メポリズマブ)が治療選択肢となる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50130,7 +50130,7 @@
       "section": "各論I-8 全身疾患",
       "question": "アミロイドーシスの胸部病変には、気管・気管支型、結節性肺実質型、びまん性肺胞隔壁型、胸膜病変型がある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺アミロイドーシスには気管・気管支型、結節性肺実質型、びまん性肺胞隔壁型、胸膜病変型がある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50199,7 +50199,7 @@
       "section": "各論I-8 全身疾患",
       "question": "アミロイドーシスのびまん性肺胞隔壁型では、胸部CTで線状影・網状影・粒状影が混在する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "アミロイドーシスのびまん性肺胞隔壁型では線状影・網状影・粒状影が混在する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50245,7 +50245,7 @@
       "section": "各論I-8 全身疾患",
       "question": "アミロイドーシスの確定診断には、生検によりアミロイドを病理学的に証明することが必要である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "アミロイドーシスの確定診断には生検でアミロイド(Congo赤染色陽性)を病理学的に証明する必要がある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50268,7 +50268,7 @@
       "section": "各論I-8 全身疾患",
       "question": "肺の悪性リンパ腫はmucosa-associated lymphoid tissue (MALT)リンパ腫を主体とする成熟B細胞腫瘍が多数を占める。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺の悪性リンパ腫はMALTリンパ腫を主体とする成熟B細胞腫瘍が多数を占める。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50314,7 +50314,7 @@
       "section": "各論I-8 全身疾患",
       "question": "肺MALTリンパ腫ではt(11;18)(q21;q21)転座の頻度が多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺MALTリンパ腫ではt(11;18)(q21;q21)転座の頻度が高い。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50383,7 +50383,7 @@
       "section": "各論I-8 全身疾患",
       "question": "DLBCLの治療はR-CHOPなどの多剤併用療法が中心である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "DLBCLの治療はR-CHOPなどの多剤併用療法が中心である。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50406,7 +50406,7 @@
       "section": "各論I-8 全身疾患",
       "question": "メトトレキサート使用中にリンパ増殖性疾患を合併することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "メトトレキサート使用中にリンパ増殖性疾患(MTX-LPD)を合併することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50429,7 +50429,7 @@
       "section": "各論I-8 全身疾患",
       "question": "メトトレキサート関連リンパ増殖性疾患は多発の結節影・腫瘤影、浸潤影を呈することが多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "MTX関連リンパ増殖性疾患は多発の結節・腫瘤影、浸潤影を呈することが多い。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50579,7 +50579,7 @@
       "section": "各論I-8 全身疾患",
       "question": "前縦隔(胸腺)原発大細胞型B細胞リンパ腫は胸部CTで前縦隔に巨大腫瘤がみられることが多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "前縦隔(胸腺)原発大細胞型B細胞リンパ腫は前縦隔に巨大腫瘤を呈することが多い。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50648,7 +50648,7 @@
       "section": "各論I-8 全身疾患",
       "question": "ヒトT細胞白血病ウイルス1型陽性患者では小葉中心性粒状影や気管支拡張像を呈する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "HTLV-1陽性者では小葉中心性粒状影や気管支拡張像を呈する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50671,7 +50671,7 @@
       "section": "各論I-8 全身疾患",
       "question": "移植後30日以内の肺病変では、大腸菌、緑膿菌、肺炎球菌による細菌感染合併症に注意を要する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "移植後30日以内は大腸菌・緑膿菌・肺炎球菌などの細菌感染に注意する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50717,7 +50717,7 @@
       "section": "各論I-8 全身疾患",
       "question": "移植後30日以内の肺病変では、インフルエンザ、パラインフルエンザ、RSによるウイルス感染に注意を要する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "移植後30日以内はインフルエンザ・パラインフルエンザ・RSウイルス感染に注意する。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50763,7 +50763,7 @@
       "section": "各論I-8 全身疾患",
       "question": "生着症候群は同種移植よりも自家移植で頻度が高い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "生着症候群は同種移植よりも自家移植で頻度が高い。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50786,7 +50786,7 @@
       "section": "各論I-8 全身疾患",
       "question": "移植後30〜100日の肺病変では、サイトメガロウイルス感染症やトキソプラズマの再活性化による肺炎が起こりやすい。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "移植後30〜100日はサイトメガロウイルス感染やトキソプラズマ再活性化による肺炎が起こりやすい。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50809,7 +50809,7 @@
       "section": "各論I-8 全身疾患",
       "question": "移植後30〜100日の肺病変では急性呼吸窮迫症候群が生じることがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "移植後30〜100日にはARDSが生じることがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50878,7 +50878,7 @@
       "section": "各論I-8 全身疾患",
       "question": "移植後100日以降の肺病変では器質化肺炎を呈することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "移植後100日以降には器質化肺炎を呈することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50901,7 +50901,7 @@
       "section": "各論I-8 全身疾患",
       "question": "移植後100日以降の肺病変では閉塞性細気管支炎を呈することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "移植後100日以降には慢性GVHDとして閉塞性細気管支炎を呈することがある。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50924,7 +50924,7 @@
       "section": "各論I-8 全身疾患",
       "question": "移植後の閉塞性細気管支炎では胸部CTにおいてair trappingがみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "移植後の閉塞性細気管支炎ではCTでair trapping(呼気時の含気貯留)がみられる。",
       "tags": [
         "各論I",
         "全身疾患",
@@ -50947,7 +50947,7 @@
       "section": "各論I-8 全身疾患",
       "question": "移植後100日以降の肺病変として、pleuroparenchymal fibroelastosisを呈することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "移植後100日以降の晩期合併症としてpleuroparenchymal fibroelastosis(PPFE)を呈することがある。",
       "tags": [
         "各論I",
         "全身疾患",
