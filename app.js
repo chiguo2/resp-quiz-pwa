@@ -330,9 +330,14 @@ function researchLinksHtml(item){
 
 function showAnswer(){
   if(!current) return;
-  const answerTextValue = current.type === 'qa'
-    ? String(current.answer ?? '')
-    : `正解：${answerText(current)}\n${mappedExplanation(current)}`;
+  let answerTextValue;
+  if(current.type === 'qa'){
+    answerTextValue = String(current.answer ?? '');
+    const exp = String(current.explanation ?? '').trim();
+    if(exp) answerTextValue += '\n\n' + exp;
+  }else{
+    answerTextValue = `正解：${answerText(current)}\n${mappedExplanation(current)}`;
+  }
   $('answerBox').innerHTML = `<div class="answer-text">${escapeHtml(answerTextValue).replace(/\n/g,'<br>')}</div>${referenceLinkHtml(current)}${researchLinksHtml(current)}`;
   $('answerBox').classList.remove('hidden');
 }
