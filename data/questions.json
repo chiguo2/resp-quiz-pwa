@@ -6624,7 +6624,7 @@
       "section": "総論V 治療",
       "question": "吸入粒子で口腔・咽頭沈着が最小となり末梢気道に沈着しやすいMMADは？",
       "answer": "1〜3μm",
-      "explanation": "",
+      "explanation": "MMAD 1〜3μmの粒子は口腔・咽頭沈着が少なく末梢気道に沈着しやすい(吸入薬に適する)。",
       "tags": [
         "総論V",
         "治療",
@@ -6644,7 +6644,7 @@
       "section": "総論V 治療",
       "question": "1μm未満の吸入粒子が主に沈着する部位は？",
       "answer": "肺胞領域",
-      "explanation": "",
+      "explanation": "1μm未満の吸入粒子は主に肺胞領域に沈着する。",
       "tags": [
         "総論V",
         "治療",
@@ -6664,7 +6664,7 @@
       "section": "総論V 治療",
       "question": "ICS含有製剤の吸入後に局所副作用予防のため必須の指導は？",
       "answer": "うがい",
-      "explanation": "",
+      "explanation": "ICS含有製剤の吸入後は口腔カンジダ・嗄声予防のためうがいが必須。",
       "tags": [
         "総論V",
         "治療",
@@ -6684,7 +6684,7 @@
       "section": "総論V 治療",
       "question": "β2刺激薬の作用機序（細胞内シグナル）は？",
       "answer": "cAMP増加→PKA活性化→平滑筋弛緩",
-      "explanation": "",
+      "explanation": "β2刺激薬はcAMP増加→PKA活性化→気道平滑筋弛緩で作用する。",
       "tags": [
         "総論V",
         "治療",
@@ -6704,7 +6704,7 @@
       "section": "総論V 治療",
       "question": "LAMAの代表的禁忌2つは？",
       "answer": "閉塞隅角緑内障・前立腺肥大症（排尿障害）",
-      "explanation": "",
+      "explanation": "LAMAの代表的禁忌は閉塞隅角緑内障と前立腺肥大症(排尿障害)。",
       "tags": [
         "総論V",
         "治療",
@@ -6724,7 +6724,7 @@
       "section": "総論V 治療",
       "question": "喘息でLABAを使う際の鉄則は？",
       "answer": "単独使用しない（ICSと併用/配合剤）",
-      "explanation": "",
+      "explanation": "喘息でLABAは単独使用せず、必ずICSと併用(配合剤)する。",
       "tags": [
         "総論V",
         "治療",
@@ -6744,7 +6744,7 @@
       "section": "総論V 治療",
       "question": "theophyllineの安全血中濃度域は？",
       "answer": "10〜20μg/mL",
-      "explanation": "",
+      "explanation": "テオフィリンの安全血中濃度域は10〜20μg/mL。",
       "tags": [
         "総論V",
         "治療",
@@ -6764,7 +6764,7 @@
       "section": "総論V 治療",
       "question": "budesonide/formoterolを定期＋発作時追加吸入する療法は？",
       "answer": "SMART療法",
-      "explanation": "",
+      "explanation": "ブデソニド/ホルモテロールを定期＋発作時追加吸入する療法はSMART療法。",
       "tags": [
         "総論V",
         "治療",
@@ -6784,7 +6784,7 @@
       "section": "総論V 治療",
       "question": "COPDでのICS/LABAで増加が報告される合併症は？",
       "answer": "肺炎",
-      "explanation": "",
+      "explanation": "COPDでICS/LABA使用時に肺炎の増加が報告されている。",
       "tags": [
         "総論V",
         "治療",
@@ -6804,7 +6804,7 @@
       "section": "総論V 治療",
       "question": "難治性慢性咳嗽に用いる選択的P2X3受容体拮抗薬は？",
       "answer": "gefapixant（リフヌア®）",
-      "explanation": "",
+      "explanation": "難治性慢性咳嗽に用いる選択的P2X3受容体拮抗薬はゲーファピキサント(リフヌア)。",
       "tags": [
         "総論V",
         "治療",
@@ -6824,7 +6824,7 @@
       "section": "総論V 治療",
       "question": "gefapixantの高頻度（6割以上）副作用は？",
       "answer": "味覚関連障害（可逆性）",
-      "explanation": "",
+      "explanation": "ゲーファピキサントの高頻度(6割以上)副作用は味覚関連障害(可逆性)。",
       "tags": [
         "総論V",
         "治療",
@@ -6844,7 +6844,7 @@
       "section": "総論V 治療",
       "question": "湿性咳嗽の対症療法の基本となる薬は？",
       "answer": "喀痰調整薬",
-      "explanation": "",
+      "explanation": "湿性咳嗽の対症療法の基本は喀痰調整薬である。",
       "tags": [
         "総論V",
         "治療",
@@ -6864,7 +6864,7 @@
       "section": "総論V 治療",
       "question": "抗菌薬PK-PDで時間依存性の代表系統は？",
       "answer": "β-ラクタム系",
-      "explanation": "",
+      "explanation": "抗菌薬PK-PDで時間依存性の代表はβ-ラクタム系(time above MIC)。",
       "tags": [
         "総論V",
         "治療",
@@ -6884,7 +6884,7 @@
       "section": "総論V 治療",
       "question": "濃度依存性の代表系統は？",
       "answer": "キノロン・アミノグリコシド系",
-      "explanation": "",
+      "explanation": "濃度依存性の代表はキノロン・アミノグリコシド系。",
       "tags": [
         "総論V",
         "治療",
@@ -6904,7 +6904,7 @@
       "section": "総論V 治療",
       "question": "ペニシリン系の最も重要な副作用は？",
       "answer": "アレルギー（アナフィラキシーショック）",
-      "explanation": "",
+      "explanation": "ペニシリン系の最も重要な副作用はアレルギー(アナフィラキシーショック)。",
       "tags": [
         "総論V",
         "治療",
@@ -6924,7 +6924,7 @@
       "section": "総論V 治療",
       "question": "ESBL産生菌に対する第一選択薬は？",
       "answer": "カルバペネム系",
-      "explanation": "",
+      "explanation": "ESBL産生菌に対する第一選択はカルバペネム系。",
       "tags": [
         "総論V",
         "治療",
@@ -6944,7 +6944,7 @@
       "section": "総論V 治療",
       "question": "カルバペネムと併用禁忌の抗てんかん薬は？",
       "answer": "sodium valproate",
-      "explanation": "",
+      "explanation": "カルバペネムと併用禁忌の抗てんかん薬はバルプロ酸ナトリウム(血中濃度低下による発作)。",
       "tags": [
         "総論V",
         "治療",
@@ -6964,7 +6964,7 @@
       "section": "総論V 治療",
       "question": "カルバペネムの最も注意すべき副作用は？",
       "answer": "中枢神経系（痙攣）",
-      "explanation": "",
+      "explanation": "カルバペネムの最も注意すべき副作用は中枢神経系(痙攣)。",
       "tags": [
         "総論V",
         "治療",
@@ -6984,7 +6984,7 @@
       "section": "総論V 治療",
       "question": "DAPが肺炎に使用できない理由は？",
       "answer": "肺サーファクタントで不活化されるため",
-      "explanation": "",
+      "explanation": "ダプトマイシン(DAP)は肺サーファクタントで不活化されるため肺炎に使用できない。",
       "tags": [
         "総論V",
         "治療",
@@ -7004,7 +7004,7 @@
       "section": "総論V 治療",
       "question": "VCMの急速投与で生じる副作用は？",
       "answer": "red man症候群",
-      "explanation": "",
+      "explanation": "バンコマイシン(VCM)の急速投与でred man症候群が生じる。",
       "tags": [
         "総論V",
         "治療",
@@ -7024,7 +7024,7 @@
       "section": "総論V 治療",
       "question": "VRCZでTDMが望ましい理由は？",
       "answer": "治療血中濃度の個人差が大きい",
-      "explanation": "",
+      "explanation": "ボリコナゾール(VRCZ)は血中濃度の個人差が大きいためTDMが望ましい。",
       "tags": [
         "総論V",
         "治療",
@@ -7044,7 +7044,7 @@
       "section": "総論V 治療",
       "question": "結核初期2か月の標準4剤は？",
       "answer": "INH＋RFP＋PZA＋（SM or EB）",
-      "explanation": "",
+      "explanation": "結核初期2か月の標準4剤はINH+RFP+PZA+(SMまたはEB)。",
       "tags": [
         "総論V",
         "治療",
@@ -7064,7 +7064,7 @@
       "section": "総論V 治療",
       "question": "EBの代表的副作用は？",
       "answer": "視力障害",
-      "explanation": "",
+      "explanation": "エタンブトール(EB)の代表的副作用は視力障害(視神経障害)。",
       "tags": [
         "総論V",
         "治療",
@@ -7084,7 +7084,7 @@
       "section": "総論V 治療",
       "question": "抗インフルエンザ薬の投与開始期限は？",
       "answer": "発症から48時間以内",
-      "explanation": "",
+      "explanation": "抗インフルエンザ薬は発症から48時間以内に投与開始する。",
       "tags": [
         "総論V",
         "治療",
@@ -7104,7 +7104,7 @@
       "section": "総論V 治療",
       "question": "ニューモシスチス肺炎の第一選択薬は？",
       "answer": "ST合剤",
-      "explanation": "",
+      "explanation": "ニューモシスチス肺炎の第一選択薬はST合剤。",
       "tags": [
         "総論V",
         "治療",
@@ -7124,7 +7124,7 @@
       "section": "総論V 治療",
       "question": "誤嚥性肺炎で嫌気性菌をカバーする代表薬2つは？",
       "answer": "CLDM・MNZ",
-      "explanation": "",
+      "explanation": "誤嚥性肺炎で嫌気性菌をカバーする代表薬はクリンダマイシン(CLDM)とメトロニダゾール(MNZ)。",
       "tags": [
         "総論V",
         "治療",
@@ -7144,7 +7144,7 @@
       "section": "総論V 治療",
       "question": "GCの抗炎症作用の主な分子機序2つは？",
       "answer": "NF-κB抑制・AP-1抑制",
-      "explanation": "",
+      "explanation": "グルココルチコイドの抗炎症作用はNF-κB抑制とAP-1抑制が主な分子機序。",
       "tags": [
         "総論V",
         "治療",
@@ -7164,7 +7164,7 @@
       "section": "総論V 治療",
       "question": "aspirin喘息でも安全で喫煙喘息にも有用な抗アレルギー薬は？",
       "answer": "LTRA",
-      "explanation": "",
+      "explanation": "アスピリン喘息でも安全で喫煙喘息にも有用な抗アレルギー薬はロイコトリエン受容体拮抗薬(LTRA)。",
       "tags": [
         "総論V",
         "治療",
@@ -7184,7 +7184,7 @@
       "section": "総論V 治療",
       "question": "重症喘息の生物学的製剤で抗TSLP抗体は？",
       "answer": "tezepelumab",
-      "explanation": "",
+      "explanation": "重症喘息の抗TSLP抗体はテゼペルマブ(tezepelumab)。",
       "tags": [
         "総論V",
         "治療",
@@ -7204,7 +7204,7 @@
       "section": "総論V 治療",
       "question": "生物学的製剤の効果予測となる2型炎症マーカー3つは？",
       "answer": "末梢血好酸球数・FeNO・血清ペリオスチン",
-      "explanation": "",
+      "explanation": "生物学的製剤の効果予測となる2型炎症マーカーは末梢血好酸球数・FeNO・血清ペリオスチン。",
       "tags": [
         "総論V",
         "治療",
@@ -7224,7 +7224,7 @@
       "section": "総論V 治療",
       "question": "痰の少ない乾性咳嗽に用いる漢方薬は？",
       "answer": "麦門冬湯",
-      "explanation": "",
+      "explanation": "痰の少ない乾性咳嗽に用いる漢方薬は麦門冬湯。",
       "tags": [
         "総論V",
         "治療",
@@ -7244,7 +7244,7 @@
       "section": "総論V 治療",
       "question": "抗悪性腫瘍薬の全身状態評価指標は？",
       "answer": "ECOG Performance Status",
-      "explanation": "",
+      "explanation": "抗悪性腫瘍薬の全身状態評価指標はECOG Performance Status(PS)。",
       "tags": [
         "総論V",
         "治療",
@@ -7264,7 +7264,7 @@
       "section": "総論V 治療",
       "question": "EGFR遺伝子変異が多い患者背景は？",
       "answer": "非喫煙・女性・東アジア人の腺癌",
-      "explanation": "",
+      "explanation": "EGFR遺伝子変異が多いのは非喫煙・女性・東アジア人の腺癌。",
       "tags": [
         "総論V",
         "治療",
@@ -7284,7 +7284,7 @@
       "section": "総論V 治療",
       "question": "EGFR-TKI耐性T790Mも克服する第3世代TKIは？",
       "answer": "osimertinib",
-      "explanation": "",
+      "explanation": "EGFR-TKI耐性T790Mも克服する第3世代TKIはオシメルチニブ。",
       "tags": [
         "総論V",
         "治療",
@@ -7304,7 +7304,7 @@
       "section": "総論V 治療",
       "question": "bevacizumabが禁忌となる病態は？",
       "answer": "扁平上皮癌・喀血既往（致死的喀血）",
-      "explanation": "",
+      "explanation": "ベバシズマブは扁平上皮癌・喀血既往(致死的喀血リスク)で禁忌となる。",
       "tags": [
         "総論V",
         "治療",
@@ -7324,7 +7324,7 @@
       "section": "総論V 治療",
       "question": "FNの定義（好中球数と発熱）は？",
       "answer": "好中球<500（or<1,000で48h以内<500予測）＋腋窩37.5℃以上",
-      "explanation": "",
+      "explanation": "発熱性好中球減少症(FN)は好中球<500(または<1,000で48h以内に<500予測)かつ腋窩37.5℃以上。",
       "tags": [
         "総論V",
         "治療",
@@ -7344,7 +7344,7 @@
       "section": "総論V 治療",
       "question": "CPT-11が禁忌となる病態は？",
       "answer": "間質性肺炎・肺線維症",
-      "explanation": "",
+      "explanation": "イリノテカン(CPT-11)は間質性肺炎・肺線維症で禁忌。",
       "tags": [
         "総論V",
         "治療",
@@ -7364,7 +7364,7 @@
       "section": "総論V 治療",
       "question": "HEC（高度催吐）の制吐4剤は？",
       "answer": "5-HT3拮抗＋dexamethasone＋NK1拮抗＋olanzapine",
-      "explanation": "",
+      "explanation": "高度催吐性化学療法(HEC)の制吐は5-HT3拮抗薬＋デキサメタゾン＋NK1拮抗薬＋オランザピンの4剤。",
       "tags": [
         "総論V",
         "治療",
@@ -7384,7 +7384,7 @@
       "section": "総論V 治療",
       "question": "体性痛と内臓痛の局在の違いは？",
       "answer": "体性痛＝明瞭、内臓痛＝不明瞭",
-      "explanation": "",
+      "explanation": "体性痛は局在が明瞭、内臓痛は局在が不明瞭である。",
       "tags": [
         "総論V",
         "治療",
@@ -7404,7 +7404,7 @@
       "section": "総論V 治療",
       "question": "WHO鎮痛薬使用の4原則は？",
       "answer": "経口的に・時刻を決めて・個別量で・細かい配慮を",
-      "explanation": "",
+      "explanation": "WHO鎮痛薬使用の4原則は『経口的に・時刻を決めて・個別量で・細かい配慮を』。",
       "tags": [
         "総論V",
         "治療",
@@ -7424,7 +7424,7 @@
       "section": "総論V 治療",
       "question": "オピオイドで耐性が生じにくく予防投与から継続する副作用は？",
       "answer": "便秘",
-      "explanation": "",
+      "explanation": "オピオイドで耐性が生じにくく予防投与から継続する副作用は便秘。",
       "tags": [
         "総論V",
         "治療",
@@ -7444,7 +7444,7 @@
       "section": "総論V 治療",
       "question": "有痛性骨転移の単回照射線量は？",
       "answer": "8Gy（分割と除痛率同等だが再照射率高い）",
-      "explanation": "",
+      "explanation": "有痛性骨転移の単回照射線量は8Gy(分割照射と除痛率は同等だが再照射率は高い)。",
       "tags": [
         "総論V",
         "治療",
@@ -7464,7 +7464,7 @@
       "section": "総論V 治療",
       "question": "副作用被害救済制度を運用する機関は？",
       "answer": "PMDA",
-      "explanation": "",
+      "explanation": "医薬品副作用被害救済制度を運用する機関はPMDA(医薬品医療機器総合機構)。",
       "tags": [
         "総論V",
         "治療",
@@ -7484,7 +7484,7 @@
       "section": "総論V 治療",
       "question": "3 L/min以下の鼻カニュラで加湿は必要か？",
       "answer": "不要",
-      "explanation": "",
+      "explanation": "3L/分以下の鼻カニュラでは加湿は不要。",
       "tags": [
         "総論V",
         "治療",
@@ -7504,7 +7504,7 @@
       "section": "総論V 治療",
       "question": "LTOTの安静時PaO2基準は？",
       "answer": "55 Torr以下",
-      "explanation": "",
+      "explanation": "長期酸素療法(LTOT)の安静時PaO2基準は55Torr以下。",
       "tags": [
         "総論V",
         "治療",
@@ -7524,7 +7524,7 @@
       "section": "総論V 治療",
       "question": "CO2ナルコーシスを考慮したII型呼吸不全のSpO2目標は？",
       "answer": "88〜92%",
-      "explanation": "",
+      "explanation": "CO2ナルコーシスを考慮したII型呼吸不全のSpO2目標は88〜92%。",
       "tags": [
         "総論V",
         "治療",
@@ -7544,7 +7544,7 @@
       "section": "総論V 治療",
       "question": "BLSの胸骨圧迫の深さと速さは？",
       "answer": "5〜6 cm・100〜120回/min",
-      "explanation": "",
+      "explanation": "BLSの胸骨圧迫は深さ5〜6cm・100〜120回/分。",
       "tags": [
         "総論V",
         "治療",
@@ -7564,7 +7564,7 @@
       "section": "総論V 治療",
       "question": "成人BLSの胸骨圧迫：人工呼吸比は？",
       "answer": "30:2",
-      "explanation": "",
+      "explanation": "成人BLSの胸骨圧迫:人工呼吸比は30:2。",
       "tags": [
         "総論V",
         "治療",
@@ -7584,7 +7584,7 @@
       "section": "総論V 治療",
       "question": "ALSで投与する血管収縮薬と間隔は？",
       "answer": "adrenaline 1 mg を3〜5分ごと",
-      "explanation": "",
+      "explanation": "ALSではアドレナリン1mgを3〜5分ごとに投与する。",
       "tags": [
         "総論V",
         "治療",
@@ -7604,7 +7604,7 @@
       "section": "総論V 治療",
       "question": "難治性VF/VTに用いる抗不整脈薬は？",
       "answer": "amiodarone 300 mg",
-      "explanation": "",
+      "explanation": "難治性VF/無脈性VTにはアミオダロン300mgを用いる。",
       "tags": [
         "総論V",
         "治療",
@@ -7624,7 +7624,7 @@
       "section": "総論V 治療",
       "question": "挿管困難評価法（5項目）の名称は？",
       "answer": "LEMON法",
-      "explanation": "",
+      "explanation": "挿管困難評価法(5項目)はLEMON法。",
       "tags": [
         "総論V",
         "治療",
@@ -7644,7 +7644,7 @@
       "section": "総論V 治療",
       "question": "気管切開後気管狭窄予防のカフ圧目標は？",
       "answer": "25 mmHg以下",
-      "explanation": "",
+      "explanation": "気管切開後の気管狭窄予防のカフ圧目標は25mmHg以下(粘膜毛細血管灌流圧)。",
       "tags": [
         "総論V",
         "治療",
@@ -7664,7 +7664,7 @@
       "section": "総論V 治療",
       "question": "ARDSのプラトー圧と1回換気量の目標は？",
       "answer": "30 cmH2O以下・6〜8 mL/kg（理想体重）",
-      "explanation": "",
+      "explanation": "ARDSのプラトー圧は30cmH2O以下、1回換気量は6〜8mL/kg(理想体重)。",
       "tags": [
         "総論V",
         "治療",
@@ -7684,7 +7684,7 @@
       "section": "総論V 治療",
       "question": "人工呼吸器離脱で1日1回行う試験は？",
       "answer": "SBT",
-      "explanation": "",
+      "explanation": "人工呼吸器離脱で1日1回行う試験は自発呼吸トライアル(SBT)。",
       "tags": [
         "総論V",
         "治療",
@@ -7704,7 +7704,7 @@
       "section": "総論V 治療",
       "question": "NPPVの有効性が高い代表的2病態は？",
       "answer": "高CO2血症COPD増悪・心原性肺水腫",
-      "explanation": "",
+      "explanation": "NPPVの有効性が高いのは高CO2血症のCOPD増悪と心原性肺水腫。",
       "tags": [
         "総論V",
         "治療",
@@ -7724,7 +7724,7 @@
       "section": "総論V 治療",
       "question": "CVPの正常値は？",
       "answer": "4〜8 mmHg（5〜10 cmH2O）",
-      "explanation": "",
+      "explanation": "中心静脈圧(CVP)の正常値は4〜8mmHg(5〜10cmH2O)。",
       "tags": [
         "総論V",
         "治療",
@@ -7744,7 +7744,7 @@
       "section": "総論V 治療",
       "question": "自発呼吸下でも信頼性が高い輸液反応性の動的指標は？",
       "answer": "PLR（受動下肢挙上）",
-      "explanation": "",
+      "explanation": "自発呼吸下でも信頼性が高い輸液反応性の動的指標は受動下肢挙上(PLR)。",
       "tags": [
         "総論V",
         "治療",
@@ -7764,7 +7764,7 @@
       "section": "総論V 治療",
       "question": "呼吸器疾患の低Na血症で最初に考える病態は？",
       "answer": "SIADH",
-      "explanation": "",
+      "explanation": "呼吸器疾患の低Na血症で最初に考える病態はSIADH。",
       "tags": [
         "総論V",
         "治療",
@@ -7784,7 +7784,7 @@
       "section": "総論V 治療",
       "question": "低Na血症の過度急速補正で起こる病態は？",
       "answer": "橋中心髄鞘崩壊症",
-      "explanation": "",
+      "explanation": "低Na血症の過度急速補正で起こるのは橋中心髄鞘崩壊症(浸透圧性脱髄症候群)。",
       "tags": [
         "総論V",
         "治療",
@@ -7804,7 +7804,7 @@
       "section": "総論V 治療",
       "question": "高カロリー輸液で致死的となる低リン血症の病態は？",
       "answer": "refeeding syndrome",
-      "explanation": "",
+      "explanation": "高カロリー輸液で致死的となる低リン血症の病態はrefeeding症候群。",
       "tags": [
         "総論V",
         "治療",
@@ -7824,7 +7824,7 @@
       "section": "総論V 治療",
       "question": "血胸・膿胸で推奨される胸腔ドレーン径は？",
       "answer": "24 Fr以上",
-      "explanation": "",
+      "explanation": "血胸・膿胸で推奨される胸腔ドレーン径は24Fr以上。",
       "tags": [
         "総論V",
         "治療",
@@ -7844,7 +7844,7 @@
       "section": "総論V 治療",
       "question": "気胸の胸腔ドレーン挿入部位は？",
       "answer": "第2肋間鎖骨中線",
-      "explanation": "",
+      "explanation": "気胸の胸腔ドレーン挿入部位は第2肋間鎖骨中線(または第4〜5肋間前/中腋窩線)。",
       "tags": [
         "総論V",
         "治療",
@@ -7864,7 +7864,7 @@
       "section": "総論V 治療",
       "question": "大量喀血の定義は？",
       "answer": "24時間で200 mL以上",
-      "explanation": "",
+      "explanation": "大量喀血は24時間で200mL以上の喀血と定義される。",
       "tags": [
         "総論V",
         "治療",
@@ -7884,7 +7884,7 @@
       "section": "総論V 治療",
       "question": "喀血時に保護のため下にする体位は？",
       "answer": "出血側を下にした側臥位",
-      "explanation": "",
+      "explanation": "喀血時は健側保護のため出血側を下にした側臥位とする。",
       "tags": [
         "総論V",
         "治療",
@@ -7904,7 +7904,7 @@
       "section": "総論V 治療",
       "question": "気道異物が最も多い年齢層は？",
       "answer": "4歳以下の小児",
-      "explanation": "",
+      "explanation": "気道異物が最も多いのは4歳以下の小児。",
       "tags": [
         "総論V",
         "治療",
@@ -7924,7 +7924,7 @@
       "section": "総論V 治療",
       "question": "可動性狭窄（TBM）で呼吸困難が出る狭窄度は？",
       "answer": "50%以上",
-      "explanation": "",
+      "explanation": "可動性狭窄(気管気管支軟化症TBM)で呼吸困難が出るのは50%以上の狭窄。",
       "tags": [
         "総論V",
         "治療",
@@ -7944,7 +7944,7 @@
       "section": "総論V 治療",
       "question": "良性狭窄でFDA警告がある気道ステントは？",
       "answer": "自己拡張型金属ステント（SEMS）",
-      "explanation": "",
+      "explanation": "良性狭窄でFDA警告がある気道ステントは自己拡張型金属ステント(SEMS)。",
       "tags": [
         "総論V",
         "治療",
@@ -7964,7 +7964,7 @@
       "section": "総論V 治療",
       "question": "BLVR（気管支バルブ）で20〜30%に生じる合併症は？",
       "answer": "気胸",
-      "explanation": "",
+      "explanation": "気管支バルブによる気管支鏡的肺容量減少術(BLVR)では20〜30%に気胸が生じる。",
       "tags": [
         "総論V",
         "治療",
@@ -7984,7 +7984,7 @@
       "section": "総論V 治療",
       "question": "局所進行NSCLCの化学放射線療法後の維持療法薬は？",
       "answer": "durvalumab",
-      "explanation": "",
+      "explanation": "局所進行NSCLCの化学放射線療法後の維持療法薬はデュルバルマブ。",
       "tags": [
         "総論V",
         "治療",
@@ -8004,7 +8004,7 @@
       "section": "総論V 治療",
       "question": "放射線肺臓炎リスクで重要な線量指標は？",
       "answer": "V20",
-      "explanation": "",
+      "explanation": "放射線肺臓炎リスクで重要な線量指標はV20(20Gy照射される肺容積の割合)。",
       "tags": [
         "総論V",
         "治療",
@@ -8024,7 +8024,7 @@
       "section": "総論V 治療",
       "question": "ED-SCLCでPCIを行うか？",
       "answer": "行わない",
-      "explanation": "",
+      "explanation": "進展型小細胞肺癌(ED-SCLC)では予防的全脳照射(PCI)は行わない。",
       "tags": [
         "総論V",
         "治療",
@@ -8044,7 +8044,7 @@
       "section": "総論V 治療",
       "question": "喀血の責任血管で最多の系統は？",
       "answer": "気管支動脈（体循環系95%）",
-      "explanation": "",
+      "explanation": "喀血の責任血管で最多は気管支動脈(体循環系95%)。",
       "tags": [
         "総論V",
         "治療",
@@ -8064,7 +8064,7 @@
       "section": "総論V 治療",
       "question": "BAEの重大合併症（脊髄）は？",
       "answer": "前脊髄動脈誤塞栓による対麻痺",
-      "explanation": "",
+      "explanation": "気管支動脈塞栓術(BAE)の重大合併症は前脊髄動脈誤塞栓による対麻痺。",
       "tags": [
         "総論V",
         "治療",
@@ -8084,7 +8084,7 @@
       "section": "総論V 治療",
       "question": "アレルゲン免疫療法の主な作用機序2つは？",
       "answer": "制御性T細胞誘導・特異的IgG4産生",
-      "explanation": "",
+      "explanation": "アレルゲン免疫療法の主な作用機序は制御性T細胞の誘導と特異的IgG4産生。",
       "tags": [
         "総論V",
         "治療",
@@ -8104,7 +8104,7 @@
       "section": "総論V 治療",
       "question": "身体活動性低下はCOPDで何の予後因子か？",
       "answer": "死亡リスクを増大させる強い予後因子",
-      "explanation": "",
+      "explanation": "身体活動性低下はCOPDで死亡リスクを増大させる強い予後因子である。",
       "tags": [
         "総論V",
         "治療",
@@ -8124,7 +8124,7 @@
       "section": "総論V 治療",
       "question": "体位ドレナージの禁忌2つは？",
       "answer": "呼吸・循環動態不安定／頭蓋内圧亢進・頭頸部損傷",
-      "explanation": "",
+      "explanation": "体位ドレナージの禁忌は呼吸・循環動態不安定、頭蓋内圧亢進・頭頸部損傷。",
       "tags": [
         "総論V",
         "治療",
@@ -8144,7 +8144,7 @@
       "section": "総論V 治療",
       "question": "両肺移植が原則の疾患は？",
       "answer": "感染性肺疾患・特発性肺動脈性肺高血圧症・小児",
-      "explanation": "",
+      "explanation": "両肺移植が原則の疾患は感染性肺疾患・特発性肺動脈性肺高血圧症・小児。",
       "tags": [
         "総論V",
         "治療",
@@ -8164,7 +8164,7 @@
       "section": "総論V 治療",
       "question": "CLADの2大subtypeは？",
       "answer": "BOS（閉塞性）・RAS（拘束性）",
-      "explanation": "",
+      "explanation": "慢性肺移植片機能不全(CLAD)の2大subtypeはBOS(閉塞性)とRAS(拘束性)。",
       "tags": [
         "総論V",
         "治療",
@@ -8184,7 +8184,7 @@
       "section": "総論V 治療",
       "question": "ニコチン依存症診断のスクリーニングテストと基準は？",
       "answer": "TDS 5点以上",
-      "explanation": "",
+      "explanation": "ニコチン依存症のスクリーニングはTDSで5点以上が依存症と判定。",
       "tags": [
         "総論V",
         "治療",
@@ -8204,7 +8204,7 @@
       "section": "総論V 治療",
       "question": "禁煙保険適用のブリンクマン指数基準（35歳以上）は？",
       "answer": "200以上",
-      "explanation": "",
+      "explanation": "禁煙保険適用のブリンクマン指数基準(35歳以上)は200以上。",
       "tags": [
         "総論V",
         "治療",
@@ -8224,7 +8224,7 @@
       "section": "総論V 治療",
       "question": "せん妄は終末期がん患者の何%に生じるか？",
       "answer": "80%以上",
-      "explanation": "",
+      "explanation": "せん妄は終末期がん患者の80%以上に生じる。",
       "tags": [
         "総論V",
         "治療",
@@ -8244,7 +8244,7 @@
       "section": "総論V 治療",
       "question": "PPIが何点以上で予後21日以下の可能性が高いか？",
       "answer": "6.5点以上",
-      "explanation": "",
+      "explanation": "Palliative Prognostic Index(PPI)が6.5点以上で予後21日以下の可能性が高い。",
       "tags": [
         "総論V",
         "治療",
@@ -8264,7 +8264,7 @@
       "section": "総論V 治療",
       "question": "非がん性呼吸器疾患でCOPD増悪・死亡率上昇と関連する薬剤は？",
       "answer": "ベンゾジアゼピン系",
-      "explanation": "",
+      "explanation": "非がん性呼吸器疾患でCOPD増悪・死亡率上昇と関連する薬剤はベンゾジアゼピン系。",
       "tags": [
         "総論V",
         "治療",
@@ -23422,7 +23422,7 @@
       "section": "総論V 治療",
       "question": "Aminophyllineには気管支拡張作用がある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "アミノフィリン(テオフィリン製剤)には気管支拡張作用がある。",
       "tags": [
         "総論V",
         "総論V 治療",
@@ -23590,7 +23590,7 @@
       "section": "総論V 治療",
       "question": "潜在性結核感染症に対する治療には、イソニアジドまたはリファンピシンを用いる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "潜在性結核感染症(LTBI)の治療にはイソニアジドまたはリファンピシンを用いる。",
       "tags": [
         "総論V",
         "総論V 治療",
@@ -23863,7 +23863,7 @@
       "section": "総論V 治療",
       "question": "AEROステントは抜去可能で、悪性腫瘍に起因する気管または気管支狭窄に適応がある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "AEROステントは抜去可能で、悪性腫瘍による気管・気管支狭窄に適応がある。",
       "tags": [
         "総論V",
         "総論V 治療",
@@ -24518,7 +24518,7 @@
       "section": "総論V 治療",
       "question": "二相式気道陽圧による非侵襲的陽圧換気療法では、呼吸仕事量の減少が期待できる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "二相式気道陽圧によるNPPVでは呼吸仕事量の減少が期待できる。",
       "tags": [
         "総論V",
         "総論V 治療",
