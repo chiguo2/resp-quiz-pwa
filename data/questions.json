@@ -9516,7 +9516,7 @@
       "section": "各論I-2 COPD",
       "question": "COPDの診断基準（気道閉塞）は？",
       "answer": "気管支拡張薬後 FEV₁/FVC＜70%",
-      "explanation": "",
+      "explanation": "気管支拡張薬吸入後のスパイロメトリーでFEV1/FVC(1秒率)が70%未満であることが気流閉塞=COPDの診断基準。他疾患の除外も必要。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9537,7 +9537,7 @@
       "section": "各論I-2 COPD",
       "question": "COPDの症状・呼吸困難の評価法は？",
       "answer": "CAT／mMRCスケール",
-      "explanation": "",
+      "explanation": "症状はCAT(COPD assessment test)、呼吸困難はmMRC(modified British MRC)スケールで評価する。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9558,7 +9558,7 @@
       "section": "各論I-2 COPD",
       "question": "COPDでICS追加の指標となる血液所見は？",
       "answer": "末梢血好酸球増多",
-      "explanation": "",
+      "explanation": "末梢血好酸球数が多い(目安300/μL以上)COPDではICS追加の効果が期待でき、好酸球数が指標となる。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9568,9 +9568,9 @@
       "id": "qa-0435",
       "reference": {
         "title": "各論 I 気道・肺疾患",
-        "page": 42,
-        "image": "assets/reference_pages/k1_p042.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=42"
+        "page": 53,
+        "image": "assets/reference_pages/k1_p053.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=53"
       }
     },
     {
@@ -9579,7 +9579,7 @@
       "section": "各論I-2 COPD",
       "question": "高二酸化炭素血症を伴うCOPDで2022年に保険収載された在宅療法は？",
       "answer": "在宅ネーザルハイフロー（HFNC）",
-      "explanation": "",
+      "explanation": "2022年に高二酸化炭素血症を伴う安定期COPDに対する在宅ハイフローセラピー(HFNC)が保険収載された。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9957,7 +9957,7 @@
       "section": "各論I-6 急性呼吸窮迫症候群（ARDS）",
       "question": "ARDSのベルリン定義で重症のP/F比は？",
       "answer": "P/F≦100",
-      "explanation": "",
+      "explanation": "ベルリン定義の重症度はP/F比で分類し、軽症200〜300・中等症100〜200・重症≦100(PEEP≧5下)。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9978,7 +9978,7 @@
       "section": "各論I-6 急性呼吸窮迫症候群（ARDS）",
       "question": "ARDSのグローバル定義で新たに採用された比は？",
       "answer": "SpO₂/FIO₂比（S/F）",
-      "explanation": "",
+      "explanation": "2023年のグローバル定義ではSpO2/FIO2(S/F)比が新たに採用され、パルスオキシメータでの診断が可能となった。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9999,7 +9999,7 @@
       "section": "各論I-6 急性呼吸窮迫症候群（ARDS）",
       "question": "ARDSの肺保護換気の一回換気量とプラトー圧は？",
       "answer": "6mL/kg、プラトー圧≦30cmH₂O",
-      "explanation": "",
+      "explanation": "ARDSの肺保護換気は一回換気量6mL/kg(予測体重)、プラトー圧≦30cmH2Oを目標とする。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10020,7 +10020,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "薬剤性肺障害の原因薬剤で最多の系統は？",
       "answer": "抗悪性腫瘍薬",
-      "explanation": "",
+      "explanation": "薬剤性肺障害の原因薬剤は抗悪性腫瘍薬が最多。分子標的薬や免疫チェックポイント阻害薬による報告も増加している。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10041,7 +10041,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "薬剤性肺障害で予後不良な臨床病型は？",
       "answer": "びまん性肺胞障害（DAD）・UIP",
-      "explanation": "",
+      "explanation": "びまん性肺胞傷害(DAD)パターンやUIPパターンは予後不良。器質化肺炎(OP)パターンは比較的良好。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10104,7 +10104,7 @@
       "section": "各論I-9 じん肺症",
       "question": "珪肺症のリンパ節石灰化の特徴は？",
       "answer": "卵殻状石灰化（eggshell calcification）",
-      "explanation": "",
+      "explanation": "珪肺では肺門・縦隔リンパ節の卵殻状石灰化(eggshell calcification)が特徴的である。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10114,9 +10114,9 @@
       "id": "qa-0461",
       "reference": {
         "title": "各論 I 気道・肺疾患",
-        "page": 176,
-        "image": "assets/reference_pages/k1_p176.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=176"
+        "page": 147,
+        "image": "assets/reference_pages/k1_p147.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=147"
       }
     },
     {
@@ -10125,7 +10125,7 @@
       "section": "各論I-9 じん肺症",
       "question": "石綿肺の潜伏期間と合併に注意すべき悪性腫瘍は？",
       "answer": "10年以上／肺癌・悪性胸膜中皮腫",
-      "explanation": "",
+      "explanation": "石綿肺は曝露から10年以上の潜伏を経て発症し、肺癌・悪性胸膜中皮腫の合併に注意する。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10135,9 +10135,9 @@
       "id": "qa-0462",
       "reference": {
         "title": "各論 I 気道・肺疾患",
-        "page": 149,
-        "image": "assets/reference_pages/k1_p149.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=149"
+        "page": 150,
+        "image": "assets/reference_pages/k1_p150.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=150"
       }
     },
     {
@@ -10146,7 +10146,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "肺高血圧症の血行動態的定義は？",
       "answer": "安静時 平均肺動脈圧（mPAP）＞20 mmHg",
-      "explanation": "",
+      "explanation": "肺高血圧症は安静時の平均肺動脈圧(mPAP)>20mmHgと定義される(従来の基準は≧25mmHg)。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10156,9 +10156,9 @@
       "id": "qa-0463",
       "reference": {
         "title": "各論 I 気道・肺疾患",
-        "page": 165,
-        "image": "assets/reference_pages/k1_p165.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=165"
+        "page": 160,
+        "image": "assets/reference_pages/k1_p160.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=160"
       }
     },
     {
@@ -10167,7 +10167,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "PAH（前毛細血管性）のPAWPとPVRの基準は？",
       "answer": "PAWP≦15 mmHg、PVR＞2 WU",
-      "explanation": "",
+      "explanation": "前毛細血管性肺高血圧(PAH)はmPAP>20かつPAWP≦15mmHg、PVR>2 Wood単位で定義される。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10188,7 +10188,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "急性血管反応性試験陽性のIPAHで用いる薬剤は？",
       "answer": "Ca拮抗薬",
-      "explanation": "",
+      "explanation": "急性血管反応性試験が陽性のIPAHでは高用量Ca拮抗薬が有効な場合がある。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10209,7 +10209,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "肺血栓塞栓症の塞栓源の90%以上を占めるものは？",
       "answer": "深部静脈血栓症（DVT）",
-      "explanation": "",
+      "explanation": "肺血栓塞栓症の塞栓源の90%以上は下肢・骨盤の深部静脈血栓症(DVT)である。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10230,7 +10230,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "急性PTEの画像診断第一選択は？",
       "answer": "造影CT（MDCTA）",
-      "explanation": "",
+      "explanation": "急性肺血栓塞栓症の画像診断第一選択は造影CT(MDCT肺動脈造影)である。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10251,7 +10251,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "急性PTEのうちCTEPHへ移行する割合は？",
       "answer": "約3.8%",
-      "explanation": "",
+      "explanation": "急性PTEのうち約3.8%が慢性血栓塞栓性肺高血圧症(CTEPH)へ移行するとされる。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10356,7 +10356,7 @@
       "section": "各論I-12 呼吸調節障害",
       "question": "OSASの診断基準（PSG）は？",
       "answer": "AHI≧5＋症状、またはAHI≧15（症状不問）",
-      "explanation": "",
+      "explanation": "PSGでAHI≧5かつ症状あり、または症状を問わずAHI≧15でOSAS(閉塞性睡眠時無呼吸症候群)と診断する。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10377,7 +10377,7 @@
       "section": "各論I-12 呼吸調節障害",
       "question": "中等症以上OSASの治療第一選択は？",
       "answer": "CPAP",
-      "explanation": "",
+      "explanation": "中等症以上(AHI≧20)のOSASの治療第一選択はCPAP(持続陽圧呼吸療法)である。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -30781,7 +30781,7 @@
       "section": "各論I-6 急性呼吸窮迫症候群（ARDS）",
       "question": "ARDSと鑑別すべき病態として、急性間質性肺炎や特発性器質化肺炎がある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "ARDSは急性間質性肺炎(AIP)や特発性器質化肺炎(COP)などと鑑別を要する。",
       "tags": [
         "各論I",
         "急性呼吸窮迫症候群・急性肺損傷",
@@ -31369,7 +31369,7 @@
       "section": "各論I-6 急性呼吸窮迫症候群（ARDS）",
       "question": "顆粒球・マクロファージコロニー刺激因子の使用は推奨されていない。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "顆粒球マクロファージコロニー刺激因子(GM-CSF)はARDSへの使用は推奨されない。",
       "tags": [
         "各論I",
         "急性呼吸窮迫症候群・急性肺損傷",
@@ -37259,7 +37259,7 @@
       "section": "各論I-2 COPD",
       "question": "2019年の世界でのCOPDの死亡者数は約320万人である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "2019年の世界のCOPD死亡者数は約320万人で、死因の上位を占める。",
       "tags": [
         "各論I",
         "慢性閉塞性肺疾患（COPD）",
@@ -37328,7 +37328,7 @@
       "section": "各論I-2 COPD",
       "question": "COPD患者の約90%に喫煙歴がある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "COPD患者の約90%に喫煙歴があり、喫煙が最大の危険因子である。",
       "tags": [
         "各論I",
         "慢性閉塞性肺疾患（COPD）",
@@ -37765,7 +37765,7 @@
       "section": "各論I-2 COPD",
       "question": "妊娠時の母体の喫煙は、COPD発症のリスク因子である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "妊娠中の母体喫煙は児の肺発育に影響し、将来のCOPD発症リスク因子となる。",
       "tags": [
         "各論I",
         "慢性閉塞性肺疾患（COPD）",
@@ -38064,7 +38064,7 @@
       "section": "各論I-2 COPD",
       "question": "%FEV1<30%であれば病期分類はIV期である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "病期分類で%FEV1<30%はIV期(最重症)。I期≧80%、II期50〜80%、III期30〜50%、IV期<30%。",
       "tags": [
         "各論I",
         "慢性閉塞性肺疾患（COPD）",
@@ -38133,7 +38133,7 @@
       "section": "各論I-2 COPD",
       "question": "COPDのフロー・ボリューム曲線では下降脚が下に凸となる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "気流閉塞により呼出後半の流量が低下し、フロー・ボリューム曲線の下降脚は下に凸(scooped out)となる。",
       "tags": [
         "各論I",
         "慢性閉塞性肺疾患（COPD）",
@@ -38961,7 +38961,7 @@
       "section": "各論I-2 COPD",
       "question": "HOTの使用時間は1日15〜18時間以上を原則とする。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "在宅酸素療法(HOT)の効果を得るには1日15〜18時間以上の使用が原則とされる。",
       "tags": [
         "各論I",
         "慢性閉塞性肺疾患（COPD）",
@@ -39472,7 +39472,7 @@
       "section": "各論I-2 COPD",
       "question": "気腫合併肺線維症(CPFE)は男性の喫煙者で有病率が高い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "気腫合併肺線維症(CPFE)は中高年の男性喫煙者に多い。",
       "tags": [
         "各論I",
         "気腫合併肺線維症（CPFE）",
@@ -39633,7 +39633,7 @@
       "section": "各論I-2 COPD",
       "question": "喘息-COPDオーバーラップ(ACO)はCOPD単独より臨床症状を認める頻度が高い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "ACO(喘息COPDオーバーラップ)はCOPD単独より症状や増悪を認める頻度が高い傾向がある。",
       "tags": [
         "各論I",
         "喘息-COPDオーバーラップ（ACO）",
@@ -51233,7 +51233,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "左心不全による肺水腫の原因は、毛細血管静水圧の上昇である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "左心不全による肺水腫は毛細血管静水圧の上昇による(心原性=静水圧性肺水腫)。",
       "tags": [
         "各論I",
         "肺循環障害",
@@ -51406,7 +51406,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "膠原病に伴う肺高血圧症は1群(肺動脈性肺高血圧症)に分類される。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "膠原病(強皮症等)に伴う肺高血圧症は第1群(肺動脈性肺高血圧症, PAH)に分類される。",
       "tags": [
         "各論I",
         "肺循環障害",
@@ -51475,7 +51475,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "骨髄増殖性疾患による肺高血圧症は5群(詳細不明、多因子の機序による肺高血圧症)に分類される。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "骨髄増殖性疾患に伴う肺高血圧症は第5群(詳細不明・多因子の機序)に分類される。",
       "tags": [
         "各論I",
         "肺循環障害",
@@ -51899,7 +51899,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "肺高血圧症が存在する場合、重症度に関わらず在宅酸素療法が保険適応である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺高血圧症では動脈血酸素分圧の値に関わらず在宅酸素療法が保険適応となる。",
       "tags": [
         "各論I",
         "肺循環障害",
@@ -52724,7 +52724,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "CTEPHで外科的手術適応のない場合、バルーン肺動脈拡張術の適応となる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "外科的肺動脈内膜除去術の適応がないCTEPHではバルーン肺動脈形成術(BPA)が適応となる。",
       "tags": [
         "各論I",
         "肺循環障害",
@@ -52977,7 +52977,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "PTTMではスワンガンツカテーテルを用いた肺動脈血細胞診が診断に有用である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺腫瘍血栓性微小血管症(PTTM)ではスワンガンツカテーテルによる肺動脈血の細胞診が診断に有用である。",
       "tags": [
         "各論I",
         "肺循環障害",
@@ -53368,7 +53368,7 @@
       "section": "各論I-10 肺循環障害",
       "question": "左下葉が肺葉内肺分画症の好発部位である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺葉内肺分画症は左下葉(特に後底区)に好発する。",
       "tags": [
         "各論I",
         "肺循環障害",
@@ -56142,7 +56142,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "現在内服していない薬剤でも、過去に遡って内服歴を確認する必要がある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "薬剤性肺障害は中止後に発症することもあり、現在内服していない薬剤も含め過去の内服歴を確認する。",
       "tags": [
         "各論I",
         "薬剤・化学物質・放射線による肺障害",
@@ -56246,7 +56246,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "画像的にびまん性肺胞傷害(DAD)パターンを呈する薬剤性肺障害は予後不良である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "DADパターンを呈する薬剤性肺障害は予後不良である。",
       "tags": [
         "各論I",
         "薬剤・化学物質・放射線による肺障害",
@@ -56351,7 +56351,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "薬剤性肺障害では血清C反応性蛋白(CRP)や乳酸脱水素酵素(LDH)が上昇する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "薬剤性肺障害では炎症を反映してCRPやLDHが上昇しうる。",
       "tags": [
         "各論I",
         "薬剤・化学物質・放射線による肺障害",
@@ -56374,7 +56374,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "血清Krebs von den Lungen-6 (KL-6)、surfactant protein A (SP-A)やSP-Dは薬剤性肺障害の診断補助や病勢モニタリングに有用である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "間質性変化のマーカーであるKL-6・SP-A・SP-Dは診断補助や病勢モニタリングに有用である。",
       "tags": [
         "各論I",
         "薬剤・化学物質・放射線による肺障害",
@@ -56397,7 +56397,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "DADパターンでは血清KL-6、SP-D、SP-Aが上昇する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "DADパターンではKL-6・SP-D・SP-Aが上昇する。",
       "tags": [
         "各論I",
         "薬剤・化学物質・放射線による肺障害",
@@ -56443,7 +56443,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "薬剤リンパ球刺激試験(drug induced lymphocyte stimulation test: DLST)は患者の末梢血のTリンパ球と被疑薬を混合してTリンパ球への3H-thymidineの取り込みを測定することで、Tリンパ球の増殖能を定量評価する検査である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "DLST(薬剤リンパ球刺激試験)は患者の末梢血Tリンパ球と被疑薬を反応させ、増殖能を定量評価する検査である。",
       "tags": [
         "各論I",
         "薬剤・化学物質・放射線による肺障害",
@@ -56512,7 +56512,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "薬剤性DADパターンでは広範な浸潤影やすりガラス陰影に牽引性気管支拡張などの構造改変所見がみられるのが特徴である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "薬剤性DADパターンでは広範な浸潤影・すりガラス影に牽引性気管支拡張などの構造改変所見を伴うのが特徴。",
       "tags": [
         "各論I",
         "薬剤・化学物質・放射線による肺障害",
@@ -56567,7 +56567,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "免疫チェックポイント阻害薬における薬剤性肺障害の特徴として、腫瘍周囲のすりガラス陰影がある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "免疫チェックポイント阻害薬による肺障害では腫瘍周囲のすりガラス陰影などがみられる。",
       "tags": [
         "各論I",
         "薬剤・化学物質・放射線による肺障害",
@@ -56659,7 +56659,7 @@
       "section": "各論I-7 薬剤・化学物質・放射線による肺障害",
       "question": "呼吸器学会は電子タバコの使用を推奨していない。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "日本呼吸器学会は電子タバコの使用を推奨していない。",
       "tags": [
         "各論I",
         "薬剤・化学物質・放射線による肺障害",
@@ -56728,7 +56728,7 @@
       "section": "各論I-9 じん肺症",
       "question": "じん肺とは、粉じんを吸入することによって肺に生じた線維増殖性変化を主体とする疾病である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "じん肺は粉じんの吸入により肺に生じた線維増殖性変化を主体とする疾病である。",
       "tags": [
         "各論I",
         "じん肺症",
@@ -56774,7 +56774,7 @@
       "section": "各論I-9 じん肺症",
       "question": "有機粉じんにはカビ、花粉、綿、サトウキビ、コルクの粉じんなどがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "有機粉じんにはカビ・花粉・綿・サトウキビ・コルクなどがあり、過敏性肺炎の原因にもなる。",
       "tags": [
         "各論I",
         "じん肺症",
@@ -56856,7 +56856,7 @@
       "section": "各論I-9 じん肺症",
       "question": "珪肺の粒状影、結節影は上肺野に生じやすい。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "珪肺の粒状影・結節影は上肺野優位に生じやすい。",
       "tags": [
         "各論I",
         "じん肺症",
@@ -56971,7 +56971,7 @@
       "section": "各論I-9 じん肺症",
       "question": "胸膜プラークは癌化しない。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "胸膜プラークは良性病変で癌化しない(石綿曝露の指標となる)。",
       "tags": [
         "各論I",
         "じん肺症",
@@ -56994,7 +56994,7 @@
       "section": "各論I-9 じん肺症",
       "question": "びまん性胸膜肥厚は、広範囲に胸膜肥厚を呈し、拘束性換気障害をきたす。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "びまん性胸膜肥厚は広範な胸膜肥厚により拘束性換気障害をきたす。",
       "tags": [
         "各論I",
         "じん肺症",
@@ -57017,7 +57017,7 @@
       "section": "各論I-9 じん肺症",
       "question": "びまん性胸膜肥厚は、多くは良性石綿胸水に続発する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "びまん性胸膜肥厚の多くは良性石綿胸水に続発する。",
       "tags": [
         "各論I",
         "じん肺症",
@@ -57063,7 +57063,7 @@
       "section": "各論I-9 じん肺症",
       "question": "石綿肺は曝露中止後も徐々に線維化が進行する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "石綿肺は曝露中止後も線維化が緩徐に進行しうる。",
       "tags": [
         "各論I",
         "じん肺症",
@@ -57132,7 +57132,7 @@
       "section": "各論I-9 じん肺症",
       "question": "国内在住環境下では中皮腫の原因は石綿であり、中皮腫の罹患は石綿曝露によるものと診断される。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "国内では中皮腫の主因は石綿であり、罹患は石綿曝露によるものと診断される。",
       "tags": [
         "各論I",
         "じん肺症",
@@ -57178,7 +57178,7 @@
       "section": "各論I-9 じん肺症",
       "question": "じん肺の管理区分は、粉じん職歴、呼吸困難度、胸部レントゲン分類、呼吸機能検査、動脈血ガス分析の結果などから、管理1〜4に分類される。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "じん肺管理区分は粉じん職歴・呼吸困難度・X線分類・呼吸機能検査・血液ガスから管理1〜4に分類される。",
       "tags": [
         "各論I",
         "じん肺症",
@@ -57224,7 +57224,7 @@
       "section": "各論I-9 じん肺症",
       "question": "じん肺管理2以上の者は、健康管理手帳の交付を申請でき、公費で健康診断を受けられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "じん肺管理2以上では健康管理手帳が交付され、公費で健康診断を受けられる。",
       "tags": [
         "各論I",
         "じん肺症",
@@ -57247,7 +57247,7 @@
       "section": "各論I-9 じん肺症",
       "question": "管理4の者、および管理2または3の者で肺結核、結核性胸膜炎、続発性気胸、続発性気管支炎、続発性気管支拡張症、原発性肺癌のいずれかを合併すると、療養の対象となり労災補償が受けられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "管理4、または管理2・3で肺結核・結核性胸膜炎・続発性気胸/気管支炎/気管支拡張症・原発性肺癌を合併すると療養対象となり労災補償が受けられる。",
       "tags": [
         "各論I",
         "じん肺症",
