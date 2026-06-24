@@ -1929,7 +1929,7 @@
       "section": "総論II 疫学",
       "question": "2023年のわが国の新規結核患者数は？",
       "answer": "10,096人",
-      "explanation": "",
+      "explanation": "2023年のわが国の新規結核患者数は10,096人。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -1949,7 +1949,7 @@
       "section": "総論II 疫学",
       "question": "2023年の結核罹患率（人口10万対）は？",
       "answer": "8.1",
-      "explanation": "",
+      "explanation": "2023年の結核罹患率は人口10万対8.1で、低まん延状態に近づいている。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -1969,7 +1969,7 @@
       "section": "総論II 疫学",
       "question": "結核の罹患率の動向は？",
       "answer": "減少傾向",
-      "explanation": "",
+      "explanation": "結核の罹患率は減少傾向にある。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -1989,7 +1989,7 @@
       "section": "総論II 疫学",
       "question": "新規結核患者で80歳以上が占める割合は？",
       "answer": "42.9%",
-      "explanation": "",
+      "explanation": "新規結核患者の42.9%を80歳以上が占める(高齢化)。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -2009,7 +2009,7 @@
       "section": "総論II 疫学",
       "question": "結核患者の男女比は？",
       "answer": "男性が女性の約1.4倍",
-      "explanation": "",
+      "explanation": "結核患者の男女比は男性が女性の約1.4倍。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -2029,7 +2029,7 @@
       "section": "総論II 疫学",
       "question": "外国出生結核患者の出生国で最多は？",
       "answer": "フィリピン",
-      "explanation": "",
+      "explanation": "外国出生結核患者の出生国で最多はフィリピン。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -2049,7 +2049,7 @@
       "section": "総論II 疫学",
       "question": "外国出生結核患者で20歳代が占める割合は？",
       "answer": "84.8%",
-      "explanation": "",
+      "explanation": "外国出生結核患者の84.8%を20歳代が占める。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -2069,7 +2069,7 @@
       "section": "総論II 疫学",
       "question": "結核発病がないことを入国前に求める対策は？",
       "answer": "入国前結核スクリーニング",
-      "explanation": "",
+      "explanation": "入国前に結核がないことを求める対策は入国前結核スクリーニング。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -2089,7 +2089,7 @@
       "section": "総論II 疫学",
       "question": "NTM症の罹患率の動向（2007→2014）は？",
       "answer": "約2.6倍に増加",
-      "explanation": "",
+      "explanation": "NTM症の罹患率は2007→2014で約2.6倍に増加した。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -2109,7 +2109,7 @@
       "section": "総論II 疫学",
       "question": "NTM症の死亡数（2021）は？",
       "answer": "1,100人超（増加傾向）",
-      "explanation": "",
+      "explanation": "NTM症の死亡数(2021)は1,100人超で増加傾向。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -2129,7 +2129,7 @@
       "section": "総論II 疫学",
       "question": "NTM症に多い患者層は？",
       "answer": "中年〜高齢の女性",
-      "explanation": "",
+      "explanation": "NTM症は中年〜高齢の女性に多い。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -2149,7 +2149,7 @@
       "section": "総論II 疫学",
       "question": "結核に多い患者層は？",
       "answer": "高齢男性",
-      "explanation": "",
+      "explanation": "結核は高齢男性に多い。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -2169,7 +2169,7 @@
       "section": "総論II 疫学",
       "question": "NTM症の主な感染経路の特徴は？",
       "answer": "環境由来",
-      "explanation": "",
+      "explanation": "NTM症は環境由来(土壌・水)で、原則ヒト-ヒト感染しない。",
       "tags": [
         "総論II",
         "抗酸菌感染症（結核・NTM）",
@@ -2189,7 +2189,7 @@
       "section": "総論II 疫学",
       "question": "喘息死がピークだった年と人数は？",
       "answer": "1995年・7,253人",
-      "explanation": "",
+      "explanation": "喘息死は1995年に7,253人でピークだった。",
       "tags": [
         "総論II",
         "喘息死・COPD死",
@@ -2209,7 +2209,7 @@
       "section": "総論II 疫学",
       "question": "2020年の喘息死亡数は？",
       "answer": "1,233人（減少）",
-      "explanation": "",
+      "explanation": "2020年の喘息死亡数は1,233人で減少している。",
       "tags": [
         "総論II",
         "喘息死・COPD死",
@@ -2229,7 +2229,7 @@
       "section": "総論II 疫学",
       "question": "高齢者の喘息死統計に紛れ込みうる疾患は？",
       "answer": "COPD・うっ血性心不全・誤嚥性肺炎",
-      "explanation": "",
+      "explanation": "高齢者の喘息死統計にはCOPD・うっ血性心不全・誤嚥性肺炎が紛れ込みうる。",
       "tags": [
         "総論II",
         "喘息死・COPD死",
@@ -2249,7 +2249,7 @@
       "section": "総論II 疫学",
       "question": "2022年のCOPD死亡数は？",
       "answer": "16,676人",
-      "explanation": "",
+      "explanation": "2022年のCOPD死亡数は16,676人。",
       "tags": [
         "総論II",
         "喘息死・COPD死",
@@ -2269,7 +2269,7 @@
       "section": "総論II 疫学",
       "question": "2022年のCOPD死亡率（人口10万対）は？",
       "answer": "13.7",
-      "explanation": "",
+      "explanation": "2022年のCOPD死亡率は人口10万対13.7。",
       "tags": [
         "総論II",
         "喘息死・COPD死",
@@ -2289,7 +2289,7 @@
       "section": "総論II 疫学",
       "question": "COPD死の動向は？",
       "answer": "増加傾向",
-      "explanation": "",
+      "explanation": "COPD死は増加傾向にある。",
       "tags": [
         "総論II",
         "喘息死・COPD死",
@@ -2309,7 +2309,7 @@
       "section": "総論II 疫学",
       "question": "COPD総患者数（2020・治療中）は？",
       "answer": "36万2,000人",
-      "explanation": "",
+      "explanation": "COPDの治療中総患者数(2020)は36万2,000人(実際の有病者はさらに多いと推定)。",
       "tags": [
         "総論II",
         "喘息死・COPD死",
@@ -2329,7 +2329,7 @@
       "section": "総論II 疫学",
       "question": "COPD死が今後減少しうる根拠は？",
       "answer": "喫煙率低下・フィルター・粉じん曝露減",
-      "explanation": "",
+      "explanation": "COPD死が今後減少しうる根拠は喫煙率低下・フィルター・粉じん曝露減。",
       "tags": [
         "総論II",
         "喘息死・COPD死",
@@ -2349,7 +2349,7 @@
       "section": "総論II 疫学",
       "question": "肺癌の総患者数・死亡数の動向は？",
       "answer": "増加傾向",
-      "explanation": "",
+      "explanation": "肺癌の総患者数・死亡数は増加傾向。",
       "tags": [
         "総論II",
         "肺癌死・喫煙",
@@ -2369,7 +2369,7 @@
       "section": "総論II 疫学",
       "question": "近年急減した肺癌の組織型は？",
       "answer": "肺扁平上皮癌（肺門部）",
-      "explanation": "",
+      "explanation": "近年急減した肺癌の組織型は肺扁平上皮癌(肺門部、喫煙関連)。",
       "tags": [
         "総論II",
         "肺癌死・喫煙",
@@ -2389,7 +2389,7 @@
       "section": "総論II 疫学",
       "question": "近年増加している肺癌の組織型は？",
       "answer": "肺腺癌",
-      "explanation": "",
+      "explanation": "近年増加している肺癌の組織型は肺腺癌。",
       "tags": [
         "総論II",
         "肺癌死・喫煙",
@@ -2409,7 +2409,7 @@
       "section": "総論II 疫学",
       "question": "肺癌死の減少が期待される治療薬は？",
       "answer": "免疫チェックポイント阻害薬",
-      "explanation": "",
+      "explanation": "肺癌死の減少が期待される治療薬は免疫チェックポイント阻害薬。",
       "tags": [
         "総論II",
         "肺癌死・喫煙",
@@ -2429,7 +2429,7 @@
       "section": "総論II 疫学",
       "question": "日本人の予防可能な2大危険因子は？",
       "answer": "喫煙と血圧",
-      "explanation": "",
+      "explanation": "日本人の予防可能な2大危険因子は喫煙と血圧(高血圧)。",
       "tags": [
         "総論II",
         "肺癌死・喫煙",
@@ -2449,7 +2449,7 @@
       "section": "総論II 疫学",
       "question": "喫煙寄与死の推計人数は？",
       "answer": "約12.9万人",
-      "explanation": "",
+      "explanation": "喫煙寄与死の推計は約12.9万人。",
       "tags": [
         "総論II",
         "肺癌死・喫煙",
@@ -2469,7 +2469,7 @@
       "section": "総論II 疫学",
       "question": "喫煙寄与死の男女比は？",
       "answer": "約3/4が男性",
-      "explanation": "",
+      "explanation": "喫煙寄与死の約3/4が男性。",
       "tags": [
         "総論II",
         "肺癌死・喫煙",
@@ -2489,7 +2489,7 @@
       "section": "総論II 疫学",
       "question": "喫煙による主要死因の最多は？",
       "answer": "肺癌（4.2万人）",
-      "explanation": "",
+      "explanation": "喫煙による主要死因の最多は肺癌(約4.2万人)。",
       "tags": [
         "総論II",
         "肺癌死・喫煙",
@@ -2509,7 +2509,7 @@
       "section": "総論II 疫学",
       "question": "禁煙による平均余命獲得（男性）は？",
       "answer": "+1.8年",
-      "explanation": "",
+      "explanation": "禁煙による平均余命獲得は男性で+1.8年。",
       "tags": [
         "総論II",
         "肺癌死・喫煙",
@@ -2529,7 +2529,7 @@
       "section": "総論II 疫学",
       "question": "2020年に患者数が減らなかった主要呼吸器疾患は？",
       "answer": "肺（気管・気管支）の悪性新生物",
-      "explanation": "",
+      "explanation": "2020年に患者数が減らなかった主要呼吸器疾患は肺(気管・気管支)の悪性新生物。",
       "tags": [
         "総論II",
         "肺癌死・喫煙",
@@ -2873,7 +2873,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "全身麻酔下でも発生する咳嗽は？",
       "answer": "反射的咳嗽",
-      "explanation": "",
+      "explanation": "全身麻酔下でも発生するのは反射的咳嗽(咳反射)である。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -2893,7 +2893,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "全身麻酔下では発生しない咳嗽は？",
       "answer": "随意的咳嗽",
-      "explanation": "",
+      "explanation": "全身麻酔下では発生しないのは随意的咳嗽である。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -2913,7 +2913,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "慢性咳嗽の定義（期間）は？",
       "answer": "8週間以上",
-      "explanation": "",
+      "explanation": "慢性咳嗽は8週間以上続く咳と定義される。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -2933,7 +2933,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "遷延性咳嗽の期間は？",
       "answer": "3週間以上8週間未満",
-      "explanation": "",
+      "explanation": "遷延性咳嗽は3週間以上8週間未満の咳。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -2953,7 +2953,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "咳喘息の第一選択治療は？",
       "answer": "ICS＋SABA",
-      "explanation": "",
+      "explanation": "咳喘息の第一選択治療はICS(吸入ステロイド)+SABA。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -2973,7 +2973,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "GERDによる咳嗽の治療は？",
       "answer": "PPI",
-      "explanation": "",
+      "explanation": "GERDによる咳嗽の治療はPPI(プロトンポンプ阻害薬)。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -2993,7 +2993,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "難治性慢性咳嗽に用いるP2X3受容体拮抗薬は？",
       "answer": "gefapixant",
-      "explanation": "",
+      "explanation": "難治性慢性咳嗽に用いるP2X3受容体拮抗薬はゲーファピキサント(gefapixant)。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3013,7 +3013,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "乾性咳嗽をきたす代表疾患は？",
       "answer": "咳喘息・アトピー咳嗽・GERD・間質性肺炎",
-      "explanation": "",
+      "explanation": "乾性咳嗽をきたす代表疾患は咳喘息・アトピー咳嗽・GERD・間質性肺炎。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3033,7 +3033,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "気道粘液ゲル層の主成分は？",
       "answer": "ムチン（MUC5AC/5B）",
-      "explanation": "",
+      "explanation": "気道粘液ゲル層の主成分はムチン(MUC5AC/MUC5B)。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3053,7 +3053,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "鉄さび色の痰をきたす疾患は？",
       "answer": "肺炎球菌肺炎",
-      "explanation": "",
+      "explanation": "鉄さび色の痰をきたすのは肺炎球菌肺炎。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3073,7 +3073,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "苺ゼリー状の痰をきたす菌は？",
       "answer": "クレブシエラ",
-      "explanation": "",
+      "explanation": "苺ゼリー状の痰をきたすのはクレブシエラ(肺炎桿菌)。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3093,7 +3093,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "ピンク色泡沫状の痰をきたす病態は？",
       "answer": "肺水腫",
-      "explanation": "",
+      "explanation": "ピンク色泡沫状の痰をきたすのは肺水腫。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3113,7 +3113,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "卵白様の大量漿液性痰の呼称は？",
       "answer": "ブロンコレア",
-      "explanation": "",
+      "explanation": "卵白様の大量漿液性痰はブロンコレア(気管支漏)。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3133,7 +3133,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "喀痰Gram染色の品質評価分類は？",
       "answer": "Geckler分類（4・5群が有用）",
-      "explanation": "",
+      "explanation": "喀痰Gram染色の品質評価はGeckler分類(4・5群が有用)。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3153,7 +3153,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "喀痰肉眼性状の分類（P3最良）は？",
       "answer": "Miller & Jones分類",
-      "explanation": "",
+      "explanation": "喀痰の肉眼性状の分類はMiller & Jones分類(P3が最良の膿性痰)。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3173,7 +3173,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "腐敗臭の痰が示唆する感染は？",
       "answer": "嫌気性菌（肺膿瘍）",
-      "explanation": "",
+      "explanation": "腐敗臭の痰は嫌気性菌感染(肺膿瘍)を示唆する。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3193,7 +3193,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "生乾き臭の痰が示唆する菌は？",
       "answer": "モラクセラ",
-      "explanation": "",
+      "explanation": "生乾き臭の痰はモラクセラ・カタラーリスを示唆する。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3213,7 +3213,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "気管支拡張症・DPBへの少量長期投与薬は？",
       "answer": "マクロライド系抗菌薬",
-      "explanation": "",
+      "explanation": "気管支拡張症・DPBへの少量長期投与薬はマクロライド系抗菌薬。",
       "tags": [
         "総論III",
         "咳嗽・痰",
@@ -3233,7 +3233,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "喀血の出血起源で最多は？",
       "answer": "気管支動脈系（約90%）",
-      "explanation": "",
+      "explanation": "喀血の出血起源で最多は気管支動脈系(約90%)。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3253,7 +3253,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "ヘモジデリン貪食Mφがみられるのは喀血か吐血か？",
       "answer": "喀血",
-      "explanation": "",
+      "explanation": "ヘモジデリン貪食マクロファージがみられるのは喀血(肺からの出血)である。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3273,7 +3273,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "喀血のpHは？",
       "answer": "アルカリ性",
-      "explanation": "",
+      "explanation": "喀血のpHはアルカリ性(吐血は酸性)。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3293,7 +3293,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "大量喀血時の基本体位は？",
       "answer": "出血側を下にする側臥位",
-      "explanation": "",
+      "explanation": "大量喀血時の基本体位は出血側を下にする側臥位(健側肺への血液流入を防ぐ)。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3313,7 +3313,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "局所病変からの大量喀血に有効な治療は？",
       "answer": "気管支動脈塞栓術",
-      "explanation": "",
+      "explanation": "局所病変からの大量喀血には気管支動脈塞栓術が有効。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3333,7 +3333,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "呼吸困難の重症度評価スケールは？",
       "answer": "mMRC（0〜4）",
-      "explanation": "",
+      "explanation": "呼吸困難の重症度評価はmMRCスケール(0〜4)。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3353,7 +3353,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "COPD増悪・うっ血性心不全の第一適応換気は？",
       "answer": "NPPV",
-      "explanation": "",
+      "explanation": "COPD増悪・うっ血性心不全の第一適応換気はNPPV。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3373,7 +3373,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "Ⅱ型呼吸不全（PaCO₂≥45）の酸素流量は？",
       "answer": "低流量（0.5〜1.5 L/min）",
-      "explanation": "",
+      "explanation": "II型呼吸不全(PaCO2≧45)では低流量(0.5〜1.5L/分)で酸素投与する(CO2ナルコーシス回避)。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3393,7 +3393,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "吸気性喘鳴（stridor）の発生部位は？",
       "answer": "中枢気道",
-      "explanation": "",
+      "explanation": "吸気性喘鳴(stridor)は中枢気道の狭窄で発生する。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3413,7 +3413,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "呼気性喘鳴（wheezes）の発生部位は？",
       "answer": "末梢気道",
-      "explanation": "",
+      "explanation": "呼気性喘鳴(wheezes)は末梢気道で発生する。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3433,7 +3433,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "喘息の気道可逆性の基準は？",
       "answer": "FEV₁が200 mL以上かつ12%以上増加",
-      "explanation": "",
+      "explanation": "喘息の気道可逆性の基準はFEV1が200mL以上かつ12%以上の増加。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3453,7 +3453,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "喘息で低下せずCOPDで低下する検査は？",
       "answer": "DLCO",
-      "explanation": "",
+      "explanation": "喘息で低下せずCOPDで低下するのはDLCO(肺拡散能)。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3473,7 +3473,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "喘鳴を伴うアナフィラキシーの治療は？",
       "answer": "adrenaline 0.5 mg 筋注",
-      "explanation": "",
+      "explanation": "喘鳴を伴うアナフィラキシーの治療はアドレナリン0.5mg筋注。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3493,7 +3493,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "肺血栓塞栓症の心電図所見は？",
       "answer": "S1Q3T3型",
-      "explanation": "",
+      "explanation": "肺血栓塞栓症の心電図所見はS1Q3T3型。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3513,7 +3513,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "緊張性気胸の打診所見と治療は？",
       "answer": "過共鳴音／針減圧＋胸腔ドレナージ",
-      "explanation": "",
+      "explanation": "緊張性気胸の打診は過共鳴音、治療は緊急脱気(針減圧)＋胸腔ドレナージ。",
       "tags": [
         "総論III",
         "喀血・呼吸困難・喘鳴・胸痛",
@@ -3533,7 +3533,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "左反回神経が反回する部位は？",
       "answer": "大動脈弓下（AP window）",
-      "explanation": "",
+      "explanation": "左反回神経は大動脈弓下(AP window)で反回する。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3553,7 +3553,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "声帯麻痺の非手術的原因で最多の悪性腫瘍は？",
       "answer": "甲状腺癌",
-      "explanation": "",
+      "explanation": "声帯麻痺の非手術的原因で最多の悪性腫瘍は甲状腺癌(他に肺癌)。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3573,7 +3573,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "ICSによる嗄声の機序は？",
       "answer": "ステロイド沈着・真菌性喉頭炎",
-      "explanation": "",
+      "explanation": "ICSによる嗄声はステロイド沈着や真菌性喉頭炎による。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3593,7 +3593,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "チアノーゼ出現の還元ヘモグロビン量は？",
       "answer": "5 g/dL以上",
-      "explanation": "",
+      "explanation": "チアノーゼは還元ヘモグロビン5g/dL以上で出現する。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3613,7 +3613,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "メトHbでチアノーゼが出現する割合は？",
       "answer": "15%以上",
-      "explanation": "",
+      "explanation": "メトヘモグロビンでは15%以上でチアノーゼが出現する。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3633,7 +3633,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "末梢性チアノーゼで口腔粘膜の色は？",
       "answer": "ピンク",
-      "explanation": "",
+      "explanation": "末梢性チアノーゼでは口腔粘膜はピンク(中枢性は粘膜も暗紫)。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3653,7 +3653,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "貧血と多血、チアノーゼが出やすいのは？",
       "answer": "多血",
-      "explanation": "",
+      "explanation": "貧血と多血では多血のほうがチアノーゼが出やすい(還元Hbが増えやすい)。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3673,7 +3673,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "バチ指のPDRの基準値は？",
       "answer": "1.0以上",
-      "explanation": "",
+      "explanation": "バチ指のPDR(指尖部/遠位指節間関節の厚み比)の基準値は1.0以上。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3693,7 +3693,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "hyponychial angleの陽性基準は？",
       "answer": "190°以上",
-      "explanation": "",
+      "explanation": "hyponychial angleの陽性基準は190°以上。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3713,7 +3713,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "バチ指の機序に関与する増殖因子は？",
       "answer": "PDGF・VEGF",
-      "explanation": "",
+      "explanation": "バチ指の機序にPDGF・VEGFが関与する。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3733,7 +3733,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "COPD単独でのバチ指がまれな点から疑うべきは？",
       "answer": "肺癌・間質性肺炎の合併",
-      "explanation": "",
+      "explanation": "COPD単独でのバチ指はまれで、みられたら肺癌や間質性肺炎の合併を疑う。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3753,7 +3753,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "SIADHを合併しやすい肺癌は？",
       "answer": "小細胞癌",
-      "explanation": "",
+      "explanation": "SIADHを合併しやすい肺癌は小細胞癌。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3773,7 +3773,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "腫瘍性高Ca血症をきたすペプチドは？",
       "answer": "PTH-rP（扁平上皮癌）",
-      "explanation": "",
+      "explanation": "腫瘍性高Ca血症をきたすのはPTH-rP(扁平上皮癌)。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3793,7 +3793,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "SIADHのNa補正速度の上限は？",
       "answer": "24時間で8 mEq/L以下",
-      "explanation": "",
+      "explanation": "SIADHのNa補正速度の上限は24時間で8mEq/L以下(浸透圧性脱髄回避)。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3813,7 +3813,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "LEMSの自己抗体は？",
       "answer": "抗P/Q型VGCC抗体",
-      "explanation": "",
+      "explanation": "Lambert-Eaton筋無力症候群(LEMS)の自己抗体は抗P/Q型VGCC抗体。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3833,7 +3833,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "LEMSの高頻度刺激での所見は？",
       "answer": "waxing（漸増）",
-      "explanation": "",
+      "explanation": "LEMSは反復刺激(高頻度)でwaxing(漸増)現象を示す。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3853,7 +3853,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "浅速呼吸（panting）をきたす疾患は？",
       "answer": "間質性肺炎・癌性リンパ管症",
-      "explanation": "",
+      "explanation": "浅速呼吸(panting)をきたすのは間質性肺炎・癌性リンパ管症。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3873,7 +3873,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "漸増漸減と無呼吸を繰り返す呼吸は？",
       "answer": "Cheyne-Stokes呼吸",
-      "explanation": "",
+      "explanation": "漸増漸減と無呼吸を繰り返す呼吸はCheyne-Stokes呼吸。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3893,7 +3893,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "アシドーシスでみられる深い大呼吸は？",
       "answer": "Kussmaul大呼吸",
-      "explanation": "",
+      "explanation": "アシドーシスでみられる深く大きい呼吸はKussmaul大呼吸。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3913,7 +3913,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "胸鎖乳突筋肥大／中斜角筋肥大が示唆する疾患は？",
       "answer": "COPD／拘束性（間質性）肺疾患",
-      "explanation": "",
+      "explanation": "胸鎖乳突筋肥大はCOPD、中斜角筋肥大は拘束性(間質性)肺疾患を示唆する。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3933,7 +3933,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "触覚振盪が減弱する病態は？",
       "answer": "胸水・気胸・無気肺",
-      "explanation": "",
+      "explanation": "触覚振盪が減弱するのは胸水・気胸・無気肺(気管支閉塞)。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3953,7 +3953,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "COPDの打診音は？",
       "answer": "過共鳴音",
-      "explanation": "",
+      "explanation": "COPDの打診音は過共鳴音。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3973,7 +3973,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "間質性肺炎で吸気終末に聴取するラ音は？",
       "answer": "fine crackles",
-      "explanation": "",
+      "explanation": "間質性肺炎で吸気終末に聴取するラ音はfine crackles(捻髪音)。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -3993,7 +3993,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "気管支拡張症で吸気早期に聴取するラ音は？",
       "answer": "coarse crackles",
-      "explanation": "",
+      "explanation": "気管支拡張症で吸気早期に聴取するラ音はcoarse crackles(水疱音)。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -4013,7 +4013,7 @@
       "section": "総論III 主要症候と身体所見",
       "question": "縦隔気腫で聴取される徴候は？",
       "answer": "Hamman徴候",
-      "explanation": "",
+      "explanation": "縦隔気腫で聴取される徴候はHamman徴候(心拍に同期するクリック音)。",
       "tags": [
         "総論III",
         "嗄声・チアノーゼ・バチ指・腫瘍随伴・異常呼吸・身体所見",
@@ -18959,7 +18959,7 @@
       "section": "総論II 疫学",
       "question": "年間に診断される肺癌患者数は男性で約8万例である（2018年）。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "2018年の年間肺癌診断患者数は男性で約8万例である。",
       "tags": [
         "総論II",
         "総論II 疫学",
@@ -19085,7 +19085,7 @@
       "section": "総論II 疫学",
       "question": "組織型では扁平上皮癌が減少傾向で、腺癌が増加している。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "組織型では扁平上皮癌が減少傾向で、腺癌が増加している。",
       "tags": [
         "総論II",
         "総論II 疫学",
@@ -19106,7 +19106,7 @@
       "section": "総論II 疫学",
       "question": "喫煙は自然気胸のリスク因子である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "喫煙は自然気胸のリスク因子である。",
       "tags": [
         "総論II",
         "総論II 疫学",
@@ -19127,7 +19127,7 @@
       "section": "総論II 疫学",
       "question": "受動喫煙により肺癌の罹患リスクは確実に上昇する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "受動喫煙により肺癌の罹患リスクは確実に上昇する。",
       "tags": [
         "総論II",
         "総論II 疫学",
@@ -19358,7 +19358,7 @@
       "section": "総論II 疫学",
       "question": "90歳以上の結核患者の死亡率は約50%である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "90歳以上の結核患者の死亡率は約50%と高い。",
       "tags": [
         "総論II",
         "総論II 疫学",
@@ -19442,7 +19442,7 @@
       "section": "総論II 疫学",
       "question": "非結核性抗酸菌（nontuberculous mycobacteria: NTM）症の発病率は近年増加傾向である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "非結核性抗酸菌(NTM)症の発病率は近年増加傾向である。",
       "tags": [
         "総論II",
         "総論II 疫学",
@@ -19610,7 +19610,7 @@
       "section": "総論II 疫学",
       "question": "本邦におけるCOPD有病率は高齢者ほど高くなる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "本邦のCOPD有病率は高齢者ほど高くなる。",
       "tags": [
         "総論II",
         "総論II 疫学",
@@ -19652,7 +19652,7 @@
       "section": "総論II 疫学",
       "question": "特発性間質性肺炎の中で特発性肺線維症（idiopathic pulmonary fibrosis: IPF）は最も頻度が高い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "特発性間質性肺炎の中で特発性肺線維症(IPF)が最も頻度が高い。",
       "tags": [
         "総論II",
         "総論II 疫学",
@@ -19694,7 +19694,7 @@
       "section": "総論II 疫学",
       "question": "在宅酸素療法の原因疾患の1位は、COPDである。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "在宅酸素療法の原因疾患の1位はCOPDである。",
       "tags": [
         "総論II",
         "総論II 疫学",
