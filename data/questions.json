@@ -4546,7 +4546,7 @@
       "section": "総論IV 検査",
       "question": "好中球増多で核左方移動を伴う代表疾患は？",
       "answer": "細菌感染症",
-      "explanation": "",
+      "explanation": "好中球増多で核左方移動(桿状核増加)を伴う代表疾患は細菌感染症。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4566,7 +4566,7 @@
       "section": "総論IV 検査",
       "question": "著明な好酸球増多（2,000/μL以上）で疑う3疾患は？",
       "answer": "寄生虫・EGPA・ABPA",
-      "explanation": "",
+      "explanation": "著明な好酸球増多(2,000/μL以上)では寄生虫・EGPA・ABPAを疑う。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4586,7 +4586,7 @@
       "section": "総論IV 検査",
       "question": "慢性好酸球性肺炎と急性好酸球性肺炎で病初期の好酸球増多があるのは？",
       "answer": "慢性（急性は病初期になし）",
-      "explanation": "",
+      "explanation": "病初期に好酸球増多があるのは慢性好酸球性肺炎(急性は病初期にないことが多い)。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4606,7 +4606,7 @@
       "section": "総論IV 検査",
       "question": "IPFの予後と関連する末梢血のバイオマーカー候補は？",
       "answer": "単球数",
-      "explanation": "",
+      "explanation": "IPFの予後と関連する末梢血バイオマーカー候補は単球数。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4626,7 +4626,7 @@
       "section": "総論IV 検査",
       "question": "全身炎症があってもCRPが上昇しにくい膠原病は？",
       "answer": "SLE・皮膚筋炎・強皮症",
-      "explanation": "",
+      "explanation": "SLE・皮膚筋炎・強皮症は全身炎症があってもCRPが上昇しにくい。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4646,7 +4646,7 @@
       "section": "総論IV 検査",
       "question": "CRP上昇をマスクする薬剤・状態を2つ？",
       "answer": "ステロイド・抗IL-6受容体抗体",
-      "explanation": "",
+      "explanation": "CRP上昇をマスクするのはステロイドや抗IL-6受容体抗体(トシリズマブ)。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4666,7 +4666,7 @@
       "section": "総論IV 検査",
       "question": "細菌感染症に有用なカルシトニン前駆物質は？",
       "answer": "プロカルシトニン",
-      "explanation": "",
+      "explanation": "細菌感染症に有用なカルシトニン前駆物質はプロカルシトニン。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4686,7 +4686,7 @@
       "section": "総論IV 検査",
       "question": "omalizumab適応となる総IgEの範囲は？",
       "answer": "30〜1,500 IU/mL",
-      "explanation": "",
+      "explanation": "オマリズマブ適応となる総IgEの範囲は30〜1,500 IU/mL。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4706,7 +4706,7 @@
       "section": "総論IV 検査",
       "question": "間質性肺炎でⅡ型肺胞上皮から産生される代表マーカーは？",
       "answer": "KL-6・SP-D・SP-A",
-      "explanation": "",
+      "explanation": "間質性肺炎でII型肺胞上皮から産生される代表マーカーはKL-6・SP-D・SP-A。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4726,7 +4726,7 @@
       "section": "総論IV 検査",
       "question": "KL-6が上昇する悪性腫瘍は？",
       "answer": "上皮性悪性腫瘍（肺癌など）",
-      "explanation": "",
+      "explanation": "KL-6は上皮性悪性腫瘍(肺癌など)でも上昇する。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4746,7 +4746,7 @@
       "section": "総論IV 検査",
       "question": "肺サルコイドーシスで30〜60%上昇する酵素は？",
       "answer": "ACE（アンジオテンシン転換酵素）",
-      "explanation": "",
+      "explanation": "肺サルコイドーシスで30〜60%上昇する酵素はACE(アンジオテンシン転換酵素)。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4766,7 +4766,7 @@
       "section": "総論IV 検査",
       "question": "MCTDで陽性となる自己抗体は？",
       "answer": "抗U1-RNP",
-      "explanation": "",
+      "explanation": "MCTDで陽性となる自己抗体は抗U1-RNP抗体。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4786,7 +4786,7 @@
       "section": "総論IV 検査",
       "question": "全身性強皮症で陽性となる抗体を1つ？",
       "answer": "抗Scl-70（抗セントロメア等）",
-      "explanation": "",
+      "explanation": "全身性強皮症では抗Scl-70(トポイソメラーゼI)や抗セントロメア抗体が陽性となる。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4806,7 +4806,7 @@
       "section": "総論IV 検査",
       "question": "RAで陽性となる自己抗体は？",
       "answer": "抗CCP",
-      "explanation": "",
+      "explanation": "関節リウマチで陽性となる自己抗体は抗CCP抗体。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4826,7 +4826,7 @@
       "section": "総論IV 検査",
       "question": "GPAで特徴的なANCAは？",
       "answer": "PR3-ANCA",
-      "explanation": "",
+      "explanation": "GPA(多発血管炎性肉芽腫症)で特徴的なANCAはPR3-ANCA。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4846,7 +4846,7 @@
       "section": "総論IV 検査",
       "question": "特異的IgEの現在の主流測定法は？",
       "answer": "FEIA法（ImmunoCAP法）",
-      "explanation": "",
+      "explanation": "特異的IgEの現在の主流測定法はFEIA法(ImmunoCAP法)。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4866,7 +4866,7 @@
       "section": "総論IV 検査",
       "question": "アレルゲン同定の信頼度は皮膚テストと特異的IgEどちらが高い？",
       "answer": "皮膚テスト",
-      "explanation": "",
+      "explanation": "アレルゲン同定の信頼度は皮膚テストのほうが特異的IgEより高い。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4886,7 +4886,7 @@
       "section": "総論IV 検査",
       "question": "DLSTが偽陰性になりやすい薬剤は？",
       "answer": "ステロイド・免疫抑制薬・抗腫瘍薬",
-      "explanation": "",
+      "explanation": "DLSTはステロイド・免疫抑制薬・抗腫瘍薬で偽陰性になりやすい。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4906,7 +4906,7 @@
       "section": "総論IV 検査",
       "question": "小細胞肺癌の腫瘍マーカー2つは？",
       "answer": "NSE・proGRP",
-      "explanation": "",
+      "explanation": "小細胞肺癌の腫瘍マーカーはNSEとproGRP。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4926,7 +4926,7 @@
       "section": "総論IV 検査",
       "question": "扁平上皮癌で感度が高く喫煙の影響を受けないマーカーは？",
       "answer": "CYFRA21-1",
-      "explanation": "",
+      "explanation": "扁平上皮癌で感度が高く喫煙の影響を受けないマーカーはCYFRA21-1。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4946,7 +4946,7 @@
       "section": "総論IV 検査",
       "question": "肺腺癌で早期から高値となるマーカーは？",
       "answer": "CEA",
-      "explanation": "",
+      "explanation": "肺腺癌で早期から高値となるマーカーはCEA。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4966,7 +4966,7 @@
       "section": "総論IV 検査",
       "question": "腫瘍マーカーで検出しないよう推奨される癌は？",
       "answer": "肺癌・悪性胸膜中皮腫",
-      "explanation": "",
+      "explanation": "腫瘍マーカーによるスクリーニングが推奨されない癌は肺癌・悪性胸膜中皮腫。",
       "tags": [
         "総論IV",
         "血液・生化学・免疫・腫瘍マーカー",
@@ -4986,7 +4986,7 @@
       "section": "総論IV 検査",
       "question": "塗抹で原因菌の可能性が高い所見は？",
       "answer": "好中球による貪食像",
-      "explanation": "",
+      "explanation": "塗抹で原因菌の可能性が高い所見は好中球による貪食像。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5006,7 +5006,7 @@
       "section": "総論IV 検査",
       "question": "ニューモシスチスを疑う際の染色法は？",
       "answer": "鍍銀染色・ディフクイック染色",
-      "explanation": "",
+      "explanation": "ニューモシスチスを疑う際の染色法は鍍銀(メテナミン銀)染色やディフクイック染色。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5026,7 +5026,7 @@
       "section": "総論IV 検査",
       "question": "ノカルジア疑いで延長する培養期間は？",
       "answer": "7〜10日（長期培養）",
-      "explanation": "",
+      "explanation": "ノカルジア疑いでは培養を7〜10日に延長する(発育が遅い)。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5046,7 +5046,7 @@
       "section": "総論IV 検査",
       "question": "β-D-グルカンが陰性となる真菌は？",
       "answer": "クリプトコックス・ムーコル",
-      "explanation": "",
+      "explanation": "β-D-グルカンが陰性となる真菌はクリプトコックスとムーコル。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5066,7 +5066,7 @@
       "section": "総論IV 検査",
       "question": "β-D-グルカンの偽陽性原因を2つ？",
       "answer": "透析・血液製剤使用",
-      "explanation": "",
+      "explanation": "β-D-グルカンの偽陽性原因は透析(セルロース膜)や血液製剤使用など。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5086,7 +5086,7 @@
       "section": "総論IV 検査",
       "question": "IGRAが交叉せず特異度が高い理由（BCG以外）？",
       "answer": "MAC（M. avium complex）と交叉しない",
-      "explanation": "",
+      "explanation": "IGRAは結核特異抗原を用いBCGやMACと交叉しないため特異度が高い。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5106,7 +5106,7 @@
       "section": "総論IV 検査",
       "question": "感染からIGRA陽性化までの期間は？",
       "answer": "8〜10週間",
-      "explanation": "",
+      "explanation": "感染からIGRA陽性化までは8〜10週間を要する。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5126,7 +5126,7 @@
       "section": "総論IV 検査",
       "question": "誘発喀痰で禁忌の吸入液は？",
       "answer": "滅菌蒸留水（低浸透圧）",
-      "explanation": "",
+      "explanation": "誘発喀痰では低浸透圧の滅菌蒸留水吸入は気道収縮を招くため禁忌(高張食塩水を用いる)。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5146,7 +5146,7 @@
       "section": "総論IV 検査",
       "question": "喀痰肉眼評価に用いる分類は？",
       "answer": "Miller & Jones分類",
-      "explanation": "",
+      "explanation": "喀痰の肉眼評価に用いる分類はMiller & Jones分類。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5166,7 +5166,7 @@
       "section": "総論IV 検査",
       "question": "臓側胸膜由来で間質性肺炎に上昇するマーカーで疾患特異度の高いものは？",
       "answer": "KL-6・SP-D・SP-A",
-      "explanation": "",
+      "explanation": "間質性肺炎で上昇し疾患特異度の高いマーカーはKL-6・SP-D・SP-A。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5186,7 +5186,7 @@
       "section": "総論IV 検査",
       "question": "CT上のリンパ節転移診断基準（短径）は？",
       "answer": "10mm以上",
-      "explanation": "",
+      "explanation": "CT上のリンパ節転移診断基準は短径10mm以上。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5206,7 +5206,7 @@
       "section": "総論IV 検査",
       "question": "胸部CTの肺野条件のおおよそのWL/WWは？",
       "answer": "WL -500〜-700／WW 1200〜2000",
-      "explanation": "",
+      "explanation": "胸部CT肺野条件のおおよそのWL/WWはWL-500〜-700/WW1200〜2000。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5226,7 +5226,7 @@
       "section": "総論IV 検査",
       "question": "MRIで最も有用とされる臨床適応（因子診断）は？",
       "answer": "N因子診断（STIR/DWIで転移=高信号）",
-      "explanation": "",
+      "explanation": "MRIが最も有用なのはN因子診断(STIR/DWIで転移リンパ節が高信号)。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5246,7 +5246,7 @@
       "section": "総論IV 検査",
       "question": "肺血流シンチで肺塞栓を示す所見は？",
       "answer": "区域性の換気・血流ミスマッチ",
-      "explanation": "",
+      "explanation": "肺血流シンチで肺塞栓を示すのは区域性の換気・血流ミスマッチ。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5266,7 +5266,7 @@
       "section": "総論IV 検査",
       "question": "133Xeガスの半減期と回路は？",
       "answer": "5.24日・閉鎖回路",
-      "explanation": "",
+      "explanation": "133Xeガスの半減期は5.24日で閉鎖回路を用いる。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5286,7 +5286,7 @@
       "section": "総論IV 検査",
       "question": "骨転移検索でFDG-PET/CTが施行不能のとき推奨される検査は？",
       "answer": "骨シンチグラフィ",
-      "explanation": "",
+      "explanation": "骨転移検索でFDG-PET/CTが施行不能のときは骨シンチグラフィを行う。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5306,7 +5306,7 @@
       "section": "総論IV 検査",
       "question": "FDGの生理的集積が高く検出感度が低い転移部位は？",
       "answer": "脳転移（→MRIが必要）",
-      "explanation": "",
+      "explanation": "FDGの生理的集積が高く検出感度が低い転移部位は脳(脳転移はMRIが必要)。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5326,7 +5326,7 @@
       "section": "総論IV 検査",
       "question": "サルコイドーシスの活動性評価に用いる核医学検査は？",
       "answer": "Ga-67シンチ（またはFDG-PET）",
-      "explanation": "",
+      "explanation": "サルコイドーシスの活動性評価にはGa-67シンチ(またはFDG-PET)を用いる。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -5346,7 +5346,7 @@
       "section": "総論IV 検査",
       "question": "左に通常存在しない区域支は？",
       "answer": "B7",
-      "explanation": "",
+      "explanation": "左肺に通常存在しない区域支はB7(左は通常B1+2,B3,B4,B5,B6,B8,B9,B10)。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5366,7 +5366,7 @@
       "section": "総論IV 検査",
       "question": "気管支壁の層構造は何層か？",
       "answer": "6層",
-      "explanation": "",
+      "explanation": "気管支壁の層構造は6層である。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5386,7 +5386,7 @@
       "section": "総論IV 検査",
       "question": "EBUS-TBNAの診断精度（特異度・感度）は？",
       "answer": "特異度100%・感度約90%",
-      "explanation": "",
+      "explanation": "EBUS-TBNAの診断精度は特異度100%・感度約90%。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5406,7 +5406,7 @@
       "section": "総論IV 検査",
       "question": "BALで高い回収率が得られる選択部位は？",
       "answer": "右中葉・左舌区",
-      "explanation": "",
+      "explanation": "BALで高い回収率が得られる選択部位は右中葉・左舌区。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5426,7 +5426,7 @@
       "section": "総論IV 検査",
       "question": "BAL正常（非喫煙者）のマクロファージ分画は？",
       "answer": "約87%",
-      "explanation": "",
+      "explanation": "BAL正常(非喫煙者)のマクロファージ分画は約87%。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5446,7 +5446,7 @@
       "section": "総論IV 検査",
       "question": "サルコイドーシスのBALのCD4/CD8比は？",
       "answer": "上昇",
-      "explanation": "",
+      "explanation": "サルコイドーシスのBALではCD4/CD8比が上昇する。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5466,7 +5466,7 @@
       "section": "総論IV 検査",
       "question": "iNSIP・COPでのBAL CD4/CD8比は？",
       "answer": "低下",
-      "explanation": "",
+      "explanation": "iNSIP・COPではBALのCD4/CD8比が低下する。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5486,7 +5486,7 @@
       "section": "総論IV 検査",
       "question": "IPFのBALF細胞分画の特徴は？",
       "answer": "正常パターンに近い",
-      "explanation": "",
+      "explanation": "IPFのBALF細胞分画は正常パターンに近い(著明な変化に乏しい)。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5506,7 +5506,7 @@
       "section": "総論IV 検査",
       "question": "気管支鏡（末梢病変）で最多の合併症は？",
       "answer": "気胸（0.70%）",
-      "explanation": "",
+      "explanation": "気管支鏡(末梢病変)で最多の合併症は気胸(約0.70%)。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5526,7 +5526,7 @@
       "section": "総論IV 検査",
       "question": "前斜角筋リンパ節生検の別名は？",
       "answer": "Daniels' biopsy",
-      "explanation": "",
+      "explanation": "前斜角筋リンパ節生検の別名はDaniels' biopsy。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5546,7 +5546,7 @@
       "section": "総論IV 検査",
       "question": "CTガイド下肺生検で最多の合併症は？",
       "answer": "気胸（20〜30%）",
-      "explanation": "",
+      "explanation": "CTガイド下肺生検で最多の合併症は気胸(20〜30%)。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5566,7 +5566,7 @@
       "section": "総論IV 検査",
       "question": "CTガイド下肺生検でまれだが致死的な合併症は？",
       "answer": "空気塞栓",
-      "explanation": "",
+      "explanation": "CTガイド下肺生検でまれだが致死的な合併症は空気塞栓。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5586,7 +5586,7 @@
       "section": "総論IV 検査",
       "question": "胸腔穿刺で針を進める位置は？",
       "answer": "下位肋骨の上縁",
-      "explanation": "",
+      "explanation": "胸腔穿刺では肋間動静脈・神経を避けるため下位肋骨の上縁に沿って針を進める。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5606,7 +5606,7 @@
       "section": "総論IV 検査",
       "question": "再膨張性肺水腫予防の1日排液上限は？",
       "answer": "1L程度",
-      "explanation": "",
+      "explanation": "再膨張性肺水腫予防のため1回の排液は1L程度を上限とする。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5626,7 +5626,7 @@
       "section": "総論IV 検査",
       "question": "気胸の超音波所見は？",
       "answer": "seashore signの消失（バーコード様）",
-      "explanation": "",
+      "explanation": "気胸の超音波所見はseashore signの消失(バーコード様=stratosphere sign)。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5646,7 +5646,7 @@
       "section": "総論IV 検査",
       "question": "間質性肺炎のcracklesの吸気内タイミングは？",
       "answer": "吸気中期〜終期",
-      "explanation": "",
+      "explanation": "間質性肺炎のcracklesは吸気中期〜終期に聴取される。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5666,7 +5666,7 @@
       "section": "総論IV 検査",
       "question": "COPD・閉塞性細気管支炎のcracklesのタイミングは？",
       "answer": "吸気初期",
-      "explanation": "",
+      "explanation": "COPD・閉塞性細気管支炎のcracklesは吸気初期に聴取される。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5686,7 +5686,7 @@
       "section": "総論IV 検査",
       "question": "急性PTEの心電図所見（3徴）は？",
       "answer": "SⅠQⅢTⅢ",
-      "explanation": "",
+      "explanation": "急性PTEの心電図3徴はSIQIIITIII。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5706,7 +5706,7 @@
       "section": "総論IV 検査",
       "question": "右房負荷を示すP波は？",
       "answer": "肺性P波（≧2.5mV）",
-      "explanation": "",
+      "explanation": "右房負荷を示すのは肺性P波(II誘導でP波増高≧2.5mV)。",
       "tags": [
         "総論IV",
         "内視鏡・生検・穿刺・肺音・心電図",
@@ -5726,7 +5726,7 @@
       "section": "総論IV 検査",
       "question": "拘束性換気障害の基準は？",
       "answer": "%VC<80%",
-      "explanation": "",
+      "explanation": "拘束性換気障害の基準は%VC<80%。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5746,7 +5746,7 @@
       "section": "総論IV 検査",
       "question": "閉塞性換気障害の基準は？",
       "answer": "FEV1/FVC<70%",
-      "explanation": "",
+      "explanation": "閉塞性換気障害の基準はFEV1/FVC(1秒率)<70%。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5766,7 +5766,7 @@
       "section": "総論IV 検査",
       "question": "スパイロで測定できない3つの肺気量は？",
       "answer": "RV・FRC・TLC",
-      "explanation": "",
+      "explanation": "スパイロで測定できない肺気量は残気量(RV)・機能的残気量(FRC)・全肺気量(TLC)。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5786,7 +5786,7 @@
       "section": "総論IV 検査",
       "question": "FRC測定法を2つ？",
       "answer": "ガス希釈法・体プレチスモグラフ法",
-      "explanation": "",
+      "explanation": "FRC測定法はガス希釈法と体プレチスモグラフ法。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5806,7 +5806,7 @@
       "section": "総論IV 検査",
       "question": "閉塞性換気障害でRV/TLCは？",
       "answer": "増加",
-      "explanation": "",
+      "explanation": "閉塞性換気障害ではRV/TLC(残気率)が増加する。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5826,7 +5826,7 @@
       "section": "総論IV 検査",
       "question": "拘束性（肺弾性力↑）のFVカーブの形は？",
       "answer": "逆釣鐘型",
-      "explanation": "",
+      "explanation": "拘束性(肺弾性力増大)のフローボリュームカーブは逆釣鐘型。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5846,7 +5846,7 @@
       "section": "総論IV 検査",
       "question": "上気道固定性閉塞のFVカーブは？",
       "answer": "吸呼気とも平坦",
-      "explanation": "",
+      "explanation": "上気道固定性閉塞のフローボリュームカーブは吸気・呼気とも平坦化する。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5866,7 +5866,7 @@
       "section": "総論IV 検査",
       "question": "呼吸抵抗Rrsの測定法は？",
       "answer": "強制（広域周波）オシレーション法",
-      "explanation": "",
+      "explanation": "呼吸抵抗Rrsの測定法は強制(広域周波)オシレーション法。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5886,7 +5886,7 @@
       "section": "総論IV 検査",
       "question": "COPD・高齢のP-V曲線のシフトは？",
       "answer": "左上方（Cst増加）",
-      "explanation": "",
+      "explanation": "COPD・高齢ではP-V曲線が左上方(コンプライアンス増加)へシフトする。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5906,7 +5906,7 @@
       "section": "総論IV 検査",
       "question": "肺線維症のP-V曲線のシフトは？",
       "answer": "右下方（Cst低下）",
-      "explanation": "",
+      "explanation": "肺線維症ではP-V曲線が右下方(コンプライアンス低下)へシフトする。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5926,7 +5926,7 @@
       "section": "総論IV 検査",
       "question": "安静吸気の約80%を担う筋は？",
       "answer": "横隔膜",
-      "explanation": "",
+      "explanation": "安静吸気の約80%を担う筋は横隔膜。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5946,7 +5946,7 @@
       "section": "総論IV 検査",
       "question": "経横隔膜圧Pdiの計算式は？",
       "answer": "Pdi = Pga - Pes",
-      "explanation": "",
+      "explanation": "経横隔膜圧PdiはPga(胃内圧)−Pes(食道内圧)で計算する。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5966,7 +5966,7 @@
       "section": "総論IV 検査",
       "question": "PaCO2と肺胞換気量VAの関係は？",
       "answer": "反比例（PaCO2=0.863×VCO2/VA）",
-      "explanation": "",
+      "explanation": "PaCO2は肺胞換気量VAに反比例する(PaCO2=0.863×VCO2/VA)。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -5986,7 +5986,7 @@
       "section": "総論IV 検査",
       "question": "高濃度O2で改善しにくい低酸素血症の機序は？",
       "answer": "シャント（ARDS等）",
-      "explanation": "",
+      "explanation": "高濃度O2で改善しにくい低酸素血症の機序はシャント(ARDS等)。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6006,7 +6006,7 @@
       "section": "総論IV 検査",
       "question": "A-aDO2の正常上限は？",
       "answer": "10mmHg",
-      "explanation": "",
+      "explanation": "A-aDO2の正常上限は10mmHg程度(加齢で増加)。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6026,7 +6026,7 @@
       "section": "総論IV 検査",
       "question": "COのHb親和性はO2の何倍？",
       "answer": "20〜350倍",
-      "explanation": "",
+      "explanation": "COのHb親和性はO2の約200〜350倍と高い。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6046,7 +6046,7 @@
       "section": "総論IV 検査",
       "question": "酸素解離曲線を右方移動させる因子（Bohr効果）は？",
       "answer": "PCO2↑・pH↓（体温↑・2,3-DPG↑）",
-      "explanation": "",
+      "explanation": "酸素解離曲線を右方移動させる因子はPCO2上昇・pH低下・体温上昇・2,3-DPG増加(Bohr効果)。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6066,7 +6066,7 @@
       "section": "総論IV 検査",
       "question": "PaO2 60TorrはSaO2何%に相当？",
       "answer": "90%",
-      "explanation": "",
+      "explanation": "PaO2 60TorrはSaO2約90%に相当する。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6086,7 +6086,7 @@
       "section": "総論IV 検査",
       "question": "わが国の呼吸不全の基準（PaO2）は？",
       "answer": "室内気で60mmHg以下",
-      "explanation": "",
+      "explanation": "わが国の呼吸不全の基準は室内気でPaO2 60mmHg以下。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6106,7 +6106,7 @@
       "section": "総論IV 検査",
       "question": "Ⅱ型呼吸不全のPaCO2基準は？",
       "answer": "45mmHg超",
-      "explanation": "",
+      "explanation": "II型呼吸不全のPaCO2基準は45mmHg超。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6126,7 +6126,7 @@
       "section": "総論IV 検査",
       "question": "AGが増加するアシドーシスを2つ？",
       "answer": "糖尿病性ケトアシドーシス・乳酸アシドーシス",
-      "explanation": "",
+      "explanation": "アニオンギャップが増加するアシドーシスは糖尿病性ケトアシドーシス・乳酸アシドーシス。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6146,7 +6146,7 @@
       "section": "総論IV 検査",
       "question": "6分間歩行で予後不良とされる距離は？",
       "answer": "300m未満",
-      "explanation": "",
+      "explanation": "6分間歩行で予後不良とされる距離は300m未満。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6166,7 +6166,7 @@
       "section": "総論IV 検査",
       "question": "CPETの嫌気性代謝閾値ATの測定法は？",
       "answer": "V-slope法",
-      "explanation": "",
+      "explanation": "CPETの嫌気性代謝閾値(AT)の測定法はV-slope法。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6186,7 +6186,7 @@
       "section": "総論IV 検査",
       "question": "睡眠呼吸障害の標準検査は？",
       "answer": "PSG（睡眠ポリグラフ）",
-      "explanation": "",
+      "explanation": "睡眠呼吸障害の標準検査はPSG(睡眠ポリグラフ)。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6206,7 +6206,7 @@
       "section": "総論IV 検査",
       "question": "低線量CT検診の対象（年齢・喫煙指数）は？",
       "answer": "50〜74歳・喫煙指数600以上",
-      "explanation": "",
+      "explanation": "低線量CT検診の対象は50〜74歳・喫煙指数600以上が目安。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -6226,7 +6226,7 @@
       "section": "総論IV 検査",
       "question": "2025年に対策型検診から推奨外となった肺がん検診法は？",
       "answer": "喀痰細胞診併用法",
-      "explanation": "",
+      "explanation": "2025年に対策型検診から推奨外となったのは喀痰細胞診併用法。",
       "tags": [
         "総論IV",
         "呼吸機能・血ガス・検診",
@@ -21665,7 +21665,7 @@
       "section": "総論IV 検査",
       "question": "血清CRP上昇は、副腎皮質ステロイドや抗IL-6抗体投与下でマスクされる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "血清CRP上昇は副腎皮質ステロイドや抗IL-6抗体投与下でマスクされる。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -21707,7 +21707,7 @@
       "section": "総論IV 検査",
       "question": "血清BNPは肺高血圧症による右心不全でも高値となる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "血清BNPは肺高血圧症による右心不全でも高値となる。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -21770,7 +21770,7 @@
       "section": "総論IV 検査",
       "question": "皮内テストでは0.02 mLのアレルゲンを前腕屈側に注射する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "皮内テストでは0.02mLのアレルゲンを前腕屈側に注射する。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -21854,7 +21854,7 @@
       "section": "総論IV 検査",
       "question": "マイコプラズマ感染症を疑う場合は、PPLO培地を用いる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "マイコプラズマ感染症を疑う場合はPPLO培地を用いる。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -21875,7 +21875,7 @@
       "section": "総論IV 検査",
       "question": "尿中肺炎球菌抗原検査では、一度陽性になった場合は数週間から数ヶ月にわたって陽性が持続することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "尿中肺炎球菌抗原検査は一度陽性になると数週間〜数ヶ月持続することがある。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -21959,7 +21959,7 @@
       "section": "総論IV 検査",
       "question": "ニューモシスチス肺炎を疑うときは、喀痰検査でメテナミン銀染色を追加して行う。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "ニューモシスチス肺炎を疑うときは喀痰でメテナミン銀染色を追加する。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -21980,7 +21980,7 @@
       "section": "総論IV 検査",
       "question": "喀痰細胞診検査は採痰から室温で12時間以内、あるいは冷蔵で24時間以内に行うことが望ましい。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "喀痰細胞診は採痰から室温で12時間以内、冷蔵で24時間以内に行うことが望ましい。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22001,7 +22001,7 @@
       "section": "総論IV 検査",
       "question": "上皮成長因子受容体（epidermal growth factor receptor: EGFR）遺伝子変異はL858R点突然変異、エクソン19の欠損の変異が約90%を占めている。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "EGFR遺伝子変異はexon21のL858R点突然変異やexon19欠失が代表的である。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22022,7 +22022,7 @@
       "section": "総論IV 検査",
       "question": "結節性硬化症に合併した肺リンパ脈管筋腫症ではTSC1、TSC2生殖細胞突然変異がみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "結節性硬化症に合併した肺リンパ脈管筋腫症ではTSC1・TSC2の生殖細胞突然変異がみられる。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22085,7 +22085,7 @@
       "section": "総論IV 検査",
       "question": "遺伝子パネル検査に使用する標本では、20〜30%以上の腫瘍含有率が必要である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "遺伝子パネル検査の標本には20〜30%以上の腫瘍含有率が必要である。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22233,7 +22233,7 @@
       "section": "総論IV 検査",
       "question": "胸腺腫瘍と胸腺過形成の鑑別には、胸部MRIのdual-phase T1強調gradient echo法が有用である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "胸腺腫瘍と胸腺過形成の鑑別には胸部MRIのdual-phase T1強調gradient echo法(chemical shift)が有用である。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22275,7 +22275,7 @@
       "section": "総論IV 検査",
       "question": "肺換気シンチグラフィでは、肺機能検査では評価できない肺局所換気能の評価が可能である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺換気シンチグラフィでは肺機能検査では評価できない局所換気能の評価が可能である。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22346,7 +22346,7 @@
       "section": "総論IV 検査",
       "question": "TBNAのRapid on-site cytologic evaluation（ROSE）は保険適応である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "TBNAのRapid on-site cytologic evaluation(ROSE)は保険適応である。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22367,7 +22367,7 @@
       "section": "総論IV 検査",
       "question": "（EBUS-TBNA）最も多い合併症は出血である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "EBUS-TBNAで最も多い合併症は出血である。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22388,7 +22388,7 @@
       "section": "総論IV 検査",
       "question": "（EBUS-TBNA）頸部気管から両側主気管支までの気道に接する非血管性病変が主な標的である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "EBUS-TBNAは頸部気管から両側主気管支までの気道に接する非血管性病変が主な標的。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22472,7 +22472,7 @@
       "section": "総論IV 検査",
       "question": "（EBUS-TBNA）肺門・縦隔リンパ節腫脹を伴うサルコイドーシスは良い適応である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺門・縦隔リンパ節腫脹を伴うサルコイドーシスはEBUS-TBNAの良い適応である。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22535,7 +22535,7 @@
       "section": "総論IV 検査",
       "question": "（気管支鏡下クライオバイオプシー）挿管下での実施が望ましい。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "気管支鏡下クライオバイオプシーは出血対策のため挿管下での実施が望ましい。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22619,7 +22619,7 @@
       "section": "総論IV 検査",
       "question": "局所麻酔下胸腔鏡検査の生検は原則的に壁側胸膜から行う。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "局所麻酔下胸腔鏡検査の生検は原則的に壁側胸膜から行う(臓側は空気漏れ・出血リスク)。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22682,7 +22682,7 @@
       "section": "総論IV 検査",
       "question": "【胸水】黄色爪症候群 − 胸水中リンパ球分画78%",
       "answer": "○",
-      "explanation": "",
+      "explanation": "黄色爪症候群ではリンパ球優位の胸水(リンパ管低形成による)を呈する。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22745,7 +22745,7 @@
       "section": "総論IV 検査",
       "question": "（CTガイド下肺針生検）最も多い合併症は気胸である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "CTガイド下肺針生検で最も多い合併症は気胸である。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22829,7 +22829,7 @@
       "section": "総論IV 検査",
       "question": "機能的残気量の低下は肺コンプライアンス低下や胸郭コンプライアンス低下を示唆する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "機能的残気量の低下は肺コンプライアンス低下や胸郭コンプライアンス低下を示唆する。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22850,7 +22850,7 @@
       "section": "総論IV 検査",
       "question": "closing volumeとclosing capacityの増加は肺胞弾性収縮圧低下や気道狭窄の進行を示唆する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "closing volume・closing capacityの増加は肺胞弾性収縮圧低下や末梢気道狭窄の進行を示唆する。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22892,7 +22892,7 @@
       "section": "総論IV 検査",
       "question": "神経筋疾患では拡散能は低下しない。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "神経筋疾患では拡散能(DLco)は低下しない(肺実質は正常)。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -22913,7 +22913,7 @@
       "section": "総論IV 検査",
       "question": "神経筋疾患では1秒量は低下しない。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "神経筋疾患では気流閉塞はなく1秒量(FEV1)は低下しない(肺活量は低下する)。",
       "tags": [
         "総論IV",
         "総論IV 検査",
@@ -28849,7 +28849,7 @@
       "section": "総論IV 検査",
       "question": "COVID-19において、核酸検出検査、抗原検査が測定可能である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "COVID-19では核酸検出検査(PCR)と抗原検査が測定可能である。",
       "tags": [
         "総論IV",
         "COVID-19における検査",
