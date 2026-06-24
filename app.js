@@ -448,7 +448,24 @@ window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferr
 $('installBtn').onclick=async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); deferredPrompt=null; $('installBtn').classList.add('hidden'); } };
 
 fetch('data/questions.json').then(r=>r.json()).then(json=>{ data=json.items; buildFilters(json.metadata); start(); updateNotesCount(); });
-if('serviceWorker' in navigator){ window.addEventListener('load',()=>navigator.serviceWorker.register('service-worker.js')); }
+if('serviceWorker' in navigator){
+  let refreshing = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if(refreshing) return; refreshing = true; window.location.reload();
+  });
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('service-worker.js').then(reg => {
+      reg.update();
+      setInterval(() => reg.update(), 60000);
+      reg.addEventListener('updatefound', () => {
+        const sw = reg.installing;
+        if(sw) sw.addEventListener('statechange', () => {
+          if(sw.state === 'installed' && navigator.serviceWorker.controller) sw.postMessage('skipWaiting');
+        });
+      });
+    });
+  });
+}
 
 
 // 教科書参照はPWA内のモーダルで開き、現在の問題状態を保持する。

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'resp-quiz-cache-v43';
+const CACHE_NAME = 'resp-quiz-cache-v44';
 const CORE_ASSETS = [
   './','./index.html','./style.css','./app.js','./manifest.json','./icon.svg',
   './reference-viewer.html','./reference-viewer.css','./reference-viewer.js',
@@ -7,12 +7,14 @@ const CORE_ASSETS = [
   './assets/past_figures/q09_fig9.jpg','./assets/past_figures/q15_fig15ab.jpg','./assets/past_figures/q16_fig16.jpg',
   './assets/past_figures/q20_fig20.jpg','./assets/past_figures/q24_fig24ab.jpg','./assets/past_figures/q27_fig27ab.jpg','./assets/past_figures/q28_fig28abc.jpg'
 ];
-self.addEventListener('install', event => { event.waitUntil(caches.open(CACHE_NAME).then(c => c.addAll(CORE_ASSETS))); self.skipWaiting(); });
-self.addEventListener('activate', event => { event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k))))); self.clients.claim(); });
+self.addEventListener('install', event => { event.waitUntil(caches.open(CACHE_NAME).then(c => c.addAll(CORE_ASSETS).catch(()=>{}))); self.skipWaiting(); });
+self.addEventListener('activate', event => { event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k)))).then(()=>self.clients.claim())); });
+self.addEventListener('message', e => { if(e.data === 'skipWaiting') self.skipWaiting(); });
 self.addEventListener('fetch', event => {
   if(event.request.method !== 'GET') return;
   const url = new URL(event.request.url);
-  if(url.pathname.includes('/assets/reference_pages/')){
+  // 教科書ページ画像：大容量・不変なのでキャッシュ優先
+  if(url.pathname.includes('/assets/reference_pages/') || url.pathname.includes('/assets/past_figures/')){
     event.respondWith(caches.open(CACHE_NAME).then(async cache => {
       const cached = await cache.match(event.request);
       if(cached) return cached;
@@ -22,5 +24,14 @@ self.addEventListener('fetch', event => {
     }));
     return;
   }
-  event.respondWith(caches.match(event.request).then(cached => cached || fetch(event.request)));
+  // それ以外(HTML/JS/CSS/データ)：ネットワーク優先（オンライン時は常に最新を取得、失敗時のみキャッシュ）
+  event.respondWith(
+    fetch(event.request).then(response => {
+      if(response && response.ok && (response.type === 'basic' || response.type === 'default')){
+        const copy = response.clone();
+        caches.open(CACHE_NAME).then(c => c.put(event.request, copy));
+      }
+      return response;
+    }).catch(() => caches.match(event.request).then(c => c || caches.match('./index.html')))
+  );
 });
