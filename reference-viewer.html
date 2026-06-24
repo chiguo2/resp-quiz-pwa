@@ -21,9 +21,14 @@
       <span id="zoomLabel">100%</span>
       <button id="zoomIn" type="button">＋</button>
       <button id="fitBtn" type="button">幅に合わせる</button>
+      <button id="hlToggle" type="button" aria-pressed="false">🖍 ハイライト</button>
+      <button id="hlClear" type="button">消去</button>
     </div>
     <div id="stage" class="stage">
-      <img id="pageImage" alt="教科書の該当ページ" draggable="false">
+      <div id="canvasWrap" class="canvas-wrap">
+        <img id="pageImage" alt="教科書の該当ページ" draggable="false">
+        <div id="hlLayer" class="hl-layer"></div>
+      </div>
     </div>
     <p id="error" class="error hidden">参照ページを表示できませんでした。</p>
   </main>
