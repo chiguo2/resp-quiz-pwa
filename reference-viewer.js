@@ -27,15 +27,22 @@ const getHL = () => { try { return JSON.parse(localStorage.getItem(HL_KEY)) || {
 const setHL = o => localStorage.setItem(HL_KEY, JSON.stringify(o));
 const pageRects = () => getHL()[pageKey] || [];
 function saveRects(rects){ const o = getHL(); if(rects.length) o[pageKey] = rects; else delete o[pageKey]; setHL(o); }
+// 解答根拠のハイライト（問題データからURLパラメータで渡される。読み取り専用）
+const autoRects = (params.get('hl') || '').split(';').filter(Boolean).map(s => {
+  const [x,y,w,h] = s.split(',').map(Number);
+  return (Number.isFinite(x)&&Number.isFinite(y)&&Number.isFinite(w)&&Number.isFinite(h)) ? {x,y,w,h} : null;
+}).filter(Boolean);
+function addRect(r, cls){
+  const div = document.createElement('div');
+  div.className = cls;
+  div.style.left = (r.x * 100) + '%'; div.style.top = (r.y * 100) + '%';
+  div.style.width = (r.w * 100) + '%'; div.style.height = (r.h * 100) + '%';
+  hlLayer.appendChild(div);
+}
 function renderHighlights(){
   [...hlLayer.querySelectorAll('.hl-rect')].forEach(e => e.remove());
-  for(const r of pageRects()){
-    const div = document.createElement('div');
-    div.className = 'hl-rect';
-    div.style.left = (r.x * 100) + '%'; div.style.top = (r.y * 100) + '%';
-    div.style.width = (r.w * 100) + '%'; div.style.height = (r.h * 100) + '%';
-    hlLayer.appendChild(div);
-  }
+  for(const r of autoRects) addRect(r, 'hl-rect auto');
+  for(const r of pageRects()) addRect(r, 'hl-rect');
 }
 
 if(!docs[doc] || !Number.isInteger(page) || page < 1){
