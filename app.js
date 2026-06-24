@@ -318,12 +318,22 @@ function referenceLinkHtml(item){
   return `<div class="reference-link-wrap"><a class="reference-link" href="${escapeHtml(ref.viewer)}" data-reference-viewer="${escapeHtml(ref.viewer)}">📖 教科書の該当解説を開く</a><small>${escapeHtml(label)}／閲覧専用ページ</small></div>`;
 }
 
+function researchLinksHtml(item){
+  const q = String(item?.question || '').replace(/[（(][0-9０-９]+\s*[つ個][^）)]*[)）]/g,'').trim();
+  if(!q) return '';
+  const ctx = q + ' 呼吸器';
+  const google = 'https://www.google.com/search?q=' + encodeURIComponent(ctx);
+  const aiPrompt = '次の記述が正しいか誤りか、理由とともに解説してください（呼吸器専門医試験の問題です）。\n「' + q + '」';
+  const ai = 'https://www.perplexity.ai/search?q=' + encodeURIComponent(aiPrompt);
+  return `<div class="research-links"><span class="research-label">🔎 関連を調べる：</span><a class="research-btn" href="${escapeHtml(google)}" target="_blank" rel="noopener">Google検索</a><a class="research-btn ai" href="${escapeHtml(ai)}" target="_blank" rel="noopener">🤖 AIに質問</a></div>`;
+}
+
 function showAnswer(){
   if(!current) return;
   const answerTextValue = current.type === 'qa'
     ? String(current.answer ?? '')
     : `正解：${answerText(current)}\n${mappedExplanation(current)}`;
-  $('answerBox').innerHTML = `<div class="answer-text">${escapeHtml(answerTextValue).replace(/\n/g,'<br>')}</div>${referenceLinkHtml(current)}`;
+  $('answerBox').innerHTML = `<div class="answer-text">${escapeHtml(answerTextValue).replace(/\n/g,'<br>')}</div>${referenceLinkHtml(current)}${researchLinksHtml(current)}`;
   $('answerBox').classList.remove('hidden');
 }
 
