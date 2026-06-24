@@ -9600,7 +9600,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "わが国の気管支拡張症で多い病型は？",
       "answer": "副鼻腔気管支症候群（SBS、DPB含む）",
-      "explanation": "",
+      "explanation": "わが国の気管支拡張症で多い病型は副鼻腔気管支症候群(SBS、びまん性汎細気管支炎を含む)。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9621,7 +9621,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "気管支拡張症のHRCTでみられる特徴的サインは？",
       "answer": "signet ring sign",
-      "explanation": "",
+      "explanation": "気管支拡張症のHRCTでは拡張気管支と伴走肺動脈が印環状にみえるsignet ring sign(印環徴候)が特徴。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9642,7 +9642,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "DPBに著効しHLA-B54と関連する治療は？",
       "answer": "マクロライド少量長期療法（エリスロマイシン）",
-      "explanation": "",
+      "explanation": "DPBにはマクロライド少量長期療法(エリスロマイシン等)が著効する。HLA-B54と関連する。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -9652,9 +9652,9 @@
       "id": "qa-0439",
       "reference": {
         "title": "各論 I 気道・肺疾患",
-        "page": 23,
-        "image": "assets/reference_pages/k1_p023.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=23"
+        "page": 59,
+        "image": "assets/reference_pages/k1_p059.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=59"
       }
     },
     {
@@ -10272,7 +10272,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "TNM分類9版でN2が細分された項目は？",
       "answer": "N2a（単一）とN2b（複数N2ステーション）",
-      "explanation": "",
+      "explanation": "TNM分類第9版でN2はN2a(単一N2ステーション)とN2b(複数N2ステーション)に細分された。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10293,7 +10293,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "小細胞癌に伴う腫瘍随伴症候群を2つ挙げよ。",
       "answer": "SIADH、Lambert-Eaton症候群（他にCushing症候群）",
-      "explanation": "",
+      "explanation": "小細胞癌に伴う腫瘍随伴症候群にはSIADH、Lambert-Eaton筋無力症候群、Cushing症候群などがある。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10314,7 +10314,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "扁平上皮癌で高Ca血症をきたす機序は？",
       "answer": "PTHrP産生",
-      "explanation": "",
+      "explanation": "扁平上皮癌による高Ca血症はPTHrP(副甲状腺ホルモン関連蛋白)産生による。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10335,7 +10335,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "ドライバー遺伝子陰性肺癌で治療層別化に用いる発現は？",
       "answer": "PD-L1発現",
-      "explanation": "",
+      "explanation": "ドライバー遺伝子陰性肺癌ではPD-L1発現で免疫療法の適応を層別化する。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10398,7 +10398,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "自己免疫性肺胞蛋白症（APAP）の疾患特異的抗体は？",
       "answer": "抗GM-CSF抗体",
-      "explanation": "",
+      "explanation": "自己免疫性肺胞蛋白症(APAP)の疾患特異的抗体は抗GM-CSF抗体である。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10419,7 +10419,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "PAPのHRCTで特徴的な所見は？",
       "answer": "crazy-paving appearance",
-      "explanation": "",
+      "explanation": "PAPのHRCTでは地図状のすりガラス影と小葉間隔壁肥厚が重なるcrazy-paving appearanceが特徴的。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10440,7 +10440,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "LAMの好発する患者背景と治療薬は？",
       "answer": "妊娠可能年齢の女性／mTOR阻害薬（シロリムス）",
-      "explanation": "",
+      "explanation": "LAMは妊娠可能年齢の女性に好発し、治療はmTOR阻害薬のシロリムスを用いる。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -10461,7 +10461,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "GPAとEGPAで陽性となるANCAは？",
       "answer": "GPA=PR3-ANCA、EGPA=MPO-ANCA",
-      "explanation": "",
+      "explanation": "GPA(多発血管炎性肉芽腫症)はPR3-ANCA、EGPA(好酸球性多発血管炎性肉芽腫症)はMPO-ANCAが陽性となることが多い。",
       "tags": [
         "各論Ⅰ",
         "各論Ⅰ 気道・肺疾患",
@@ -39840,7 +39840,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "気管支拡張症(BE)の主たる原因は特発性と感染後の二次性変化である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "気管支拡張症の主な原因は特発性と感染後の二次性変化である。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -39863,7 +39863,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "気管支拡張症(BE)には慢性副鼻腔炎の合併が多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "気管支拡張症は慢性副鼻腔炎の合併が多い(副鼻腔気管支症候群)。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -39932,7 +39932,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "原発性線毛機能不全(primary ciliary dyskinesia: PCD)は気管支拡張症(BE)の原因となる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "原発性線毛機能不全(PCD)は気管支拡張症の原因となる。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -40024,7 +40024,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "Kartagener症候群は原発性線毛機能不全(PCD)の1つと位置付けられている。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "Kartagener症候群は原発性線毛機能不全(PCD)に内臓逆位を伴うものである。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -40070,7 +40070,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "Kartagener症候群は内臓逆位、気管支拡張症、難治性副鼻腔炎の3徴を呈する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "Kartagener症候群は内臓逆位・気管支拡張症・難治性副鼻腔炎の3徴を呈する。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -40185,7 +40185,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "気管支拡張症(BE)の胸部CT所見において、複数の肺葉で気管支拡張像を示すことは予後不良と関連する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "複数の肺葉に及ぶ気管支拡張は予後不良と関連する。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -40208,7 +40208,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "気管支拡張症(BE)において、中葉舌区に気管支拡張を認める例では非結核性抗酸菌症との関連性が高い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "中葉・舌区の気管支拡張は非結核性抗酸菌症(特にMAC)との関連が高い。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -40254,7 +40254,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "%FEV1(forced expiratory volume in the first second) < 50%の気流制限は、気管支拡張症(BE)の予後と関連する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "%FEV1<50%の気流制限は気管支拡張症の予後不良と関連する。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -40392,7 +40392,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "喀血を繰り返す気管支拡張症(BE)症例では、気管支動脈塞栓術(bronchial artery embolization: BAE)が有効かつ治療の適応となる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "喀血を繰り返す気管支拡張症では気管支動脈塞栓術(BAE)が有効で適応となる。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -40875,7 +40875,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "D-ペニシラミンは薬物性の閉塞性細気管支炎(BO)を生じる可能性がある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "D-ペニシラミンは薬剤性の閉塞性細気管支炎(BO)を生じうる。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -40944,7 +40944,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "膠原病の中では閉塞性細気管支炎(BO)は関節リウマチに合併しやすい。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "膠原病の中で閉塞性細気管支炎は関節リウマチに合併しやすい。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -41151,7 +41151,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "造血幹細胞移植後に閉塞性細気管支炎(BO)を生じることがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "造血幹細胞移植後の慢性GVHDとして閉塞性細気管支炎を生じることがある。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -41289,7 +41289,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "ブスルファンは閉塞性細気管支炎(BO)の発症リスクを高める。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "ブスルファンは閉塞性細気管支炎の発症リスクを高める。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -41496,7 +41496,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "閉塞性細気管支炎症候群(BOS)の病期分類は%FEV1でなされる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "閉塞性細気管支炎症候群(BOS)の病期分類は%FEV1でなされる。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -41519,7 +41519,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "臓器移植後の閉塞性細気管支炎症候群(BOS)の早期には、気管支肺胞洗浄液中の細胞数増加と好中球比率の増加がみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "移植後BOSの早期には気管支肺胞洗浄液の細胞数増加と好中球比率上昇がみられる。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -42209,7 +42209,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "びまん性汎細気管支炎(DPB)の経過中に非結核性抗酸菌の定着がみられることが多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "DPBの経過中に非結核性抗酸菌の定着がみられることが多い。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -42232,7 +42232,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "びまん性汎細気管支炎(DPB)の治療ではマクロライド系抗菌薬の少量長期投与が根幹となる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "DPBの治療はマクロライド系抗菌薬の少量長期投与が根幹となる。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -42531,7 +42531,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "病理組織学的定義によると、ブラは臓側胸膜の内側の肺実質内にある含気腔を指す。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "ブラ(bulla)は臓側胸膜内側の肺実質内にある含気腔を指す。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -42554,7 +42554,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "病理組織学的定義によると、ブレブは臓側胸膜の一部を破壊して胸膜の間に入り込んだ胸膜内の含気腔を指す。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "ブレブ(bleb)は臓側胸膜の一部を破壊して胸膜の間に入り込んだ含気腔を指す。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -42669,7 +42669,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "胸部CT撮像時に肺囊胞が検出される確率は年齢とともに上昇する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "CTで検出される肺囊胞の頻度は年齢とともに上昇する。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -42807,7 +42807,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "無気肺とは一般的に肺区域あるいは肺葉以上の容量減少をきたした状態を指す。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "無気肺は一般に肺区域あるいは肺葉以上の容量減少をきたした状態を指す。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -42830,7 +42830,7 @@
       "section": "各論I-3 気管支・細気管支の疾患",
       "question": "胸部X線では、無気肺を生じた部分の透過性が低下する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "無気肺では含気が減少し、胸部X線で透過性が低下する(濃度上昇)。",
       "tags": [
         "各論I",
         "気管支・細気管支疾患",
@@ -42968,7 +42968,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "扁平上皮癌は男性に多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "扁平上皮癌は喫煙関連が強く男性に多い。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -43060,7 +43060,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "標的病変の径和が30%以上小さくなった場合、Response Evaluation Criteria in Solid Tumors (RECIST)による評価は部分奏効(Partial Response: PR)である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "RECISTで標的病変径和が30%以上縮小すれば部分奏効(PR)と判定する。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -43106,7 +43106,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "術前化学放射線療法で腫瘍のviabilityが50%以下に低下した場合、組織学的効果判定のgradeはEf1bである。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "術前治療で腫瘍のviabilityが50%以下に低下した場合の組織学的効果判定はEf1bである。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -43152,7 +43152,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "syndrome of inappropriate antidiuretic hormone secretion (SIADH)は小細胞癌で起こりやすい。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "SIADHは小細胞癌で起こりやすい腫瘍随伴症候群である。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -43244,7 +43244,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "肺芽腫は肺肉腫様腫瘍の一種である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺芽腫は肺肉腫様腫瘍(sarcomatoid carcinoma)の一種である。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -43451,7 +43451,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "EGFR遺伝子変異のリキッドバイオプシーは、保険適応内で検査可能である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "EGFR遺伝子変異のリキッドバイオプシーは保険適応内で検査可能である。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -43635,7 +43635,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "ALK融合遺伝子陽性例ではロルラチニブが一次治療から使用できる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "ALK融合遺伝子陽性例ではロルラチニブが一次治療から使用できる。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -43980,7 +43980,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "ベバシズマブの併用は75歳以下の非高齢者やPS 0-1の症例で推奨される。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "ベバシズマブ併用は75歳以下・PS0-1で推奨される(扁平上皮癌は喀血リスクのため避ける)。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44026,7 +44026,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "ドセタキセル+ラムシルマブ併用療法は扁平上皮癌を含む非小細胞肺癌で適応である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "ドセタキセル+ラムシルマブ併用療法は扁平上皮癌を含む非小細胞肺癌に適応がある。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44141,7 +44141,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "強度変調放射線治療(intensity modulated radiation therapy: IMRT)は腫瘍やリスク臓器の形状に合わせた複雑な線量分布を作成できる高精度の放射線治療である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IMRT(強度変調放射線治療)は複雑な線量分布を作成できる高精度の放射線治療である。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44164,7 +44164,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "IIIA期では、N0-1であれば外科的切除が推奨される。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IIIA期でもN0-1であれば外科的切除が推奨される。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44302,7 +44302,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "I A期で病変径2cm以下であれば縮小手術(区域切除または楔状切除)を検討してもよい。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IA期で病変径2cm以下なら区域切除・楔状切除などの縮小手術を検討してもよい。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44325,7 +44325,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "肺癌の根治手術後も禁煙が推奨されている。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺癌の根治手術後も禁煙が推奨される。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44371,7 +44371,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "光線力学的療法(PDT)の適応は内視鏡的に腫瘍の全範囲を確認しうることが必要である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "光線力学的療法(PDT)は腫瘍全範囲を内視鏡的に確認しうる中心型早期肺癌が適応となる。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44486,7 +44486,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "小細胞肺癌の手術症例では術後化学療法が推奨される。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "小細胞肺癌の手術症例では術後化学療法が推奨される。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44555,7 +44555,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "限局型小細胞肺癌の同時化学放射線療法で推奨されるレジメンは、プラチナ製剤+エトポシドである。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "限局型小細胞肺癌の同時化学放射線療法ではプラチナ製剤+エトポシドが推奨される。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44647,7 +44647,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "間質性肺炎合併患者に対するイリノテカンの投与は禁忌である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "間質性肺炎合併患者へのイリノテカン投与は禁忌である。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44670,7 +44670,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "イリノテカン投与中は、嘔吐や下痢などの消化器毒性がみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "イリノテカンは嘔吐・下痢などの消化器毒性がみられる。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44808,7 +44808,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "肺神経内分泌腫瘍に対してはエベロリムスが承認されている。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺神経内分泌腫瘍(カルチノイド等)に対してエベロリムスが承認されている。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44831,7 +44831,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "腺様囊胞癌では喫煙はリスク因子ではない。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "腺様嚢胞癌(唾液腺型腫瘍)は喫煙がリスク因子ではない。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44900,7 +44900,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "腺様囊胞癌の病理像としては篩状構造が特徴的であり、その他に腺管状、充実性胞巣もみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "腺様嚢胞癌は篩状構造が特徴的で、腺管状・充実性胞巣もみられる。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -44946,7 +44946,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "血管肉腫の肺転移では血腫を生じることがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "血管肉腫の肺転移では出血により血腫を生じることがある。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -45107,7 +45107,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "過誤腫は肺の良性腫瘍で最も多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "過誤腫は肺の良性腫瘍で最も頻度が高い。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -45130,7 +45130,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "過誤腫は50〜60歳代の男性に多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "過誤腫は50〜60歳代の男性に多い。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -45176,7 +45176,7 @@
       "section": "各論I-11 呼吸器新生物",
       "question": "硬化性肺胞上皮腫は中年女性に多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "硬化性肺胞上皮腫は中年女性に多い。",
       "tags": [
         "各論I",
         "呼吸器新生物",
@@ -53690,7 +53690,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "Birt-Hogg-Dubé症候群(BHDS)では腎腫瘍の家族歴の聴取が重要である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "Birt-Hogg-Dubé症候群(BHDS, FLCN遺伝子, 常染色体顕性)では腎腫瘍・気胸の家族歴の聴取が重要である。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -53736,7 +53736,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "Birt-Hogg-Dubé症候群(BHDS)では顔面、頸部、上半身を中心に線維毛包腫がみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "BHDSでは顔面・頸部・上半身に線維毛包腫(皮膚病変)がみられる。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -53977,7 +53977,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "PAPでは気管支肺胞洗浄液が米のとぎ汁様となる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "PAPの気管支肺胞洗浄液は米のとぎ汁様の白濁を呈する。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -54000,7 +54000,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "PAPでは間質性肺炎を合併することがある。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "PAPでは間質性肺炎を合併することがある。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -54069,7 +54069,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "PAPの重症例では肺機能検査で拘束性換気障害と拡散能の低下がみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "PAPの重症例では拘束性換気障害と拡散能(DLco)低下がみられる。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -54184,7 +54184,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "線毛不動症候群(immotile cilia syndrome)は内臓逆位、慢性副鼻腔炎、気管支拡張症が3徴候である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "線毛不動症候群(Kartagener症候群)は内臓逆位・慢性副鼻腔炎・気管支拡張症を3徴とする。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -54368,7 +54368,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "多中心性キャッスルマン病(MCD)では多クローン性の高ガンマグロブリン血症がみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "多中心性キャッスルマン病(MCD)では多クローン性の高ガンマグロブリン血症がみられる(IL-6過剰が関与)。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -54575,7 +54575,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "マルファン症候群は水晶体偏位を合併しやすい。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "マルファン症候群(常染色体顕性, フィブリリン異常)は水晶体偏位・大動脈解離・くも状指などを合併する。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -54583,13 +54583,7 @@
         "PDF転記"
       ],
       "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
-      "images": [],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 208,
-        "image": "assets/reference_pages/k1_p208.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=208"
-      }
+      "images": []
     },
     {
       "id": "qa-3395",
@@ -54874,7 +54868,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "肝肺症候群は肝移植で呼吸不全が改善する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肝肺症候群は肝移植により肺内血管拡張・シャントが改善し、呼吸不全が改善しうる。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -54882,13 +54876,7 @@
         "PDF転記"
       ],
       "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
-      "images": [],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 208,
-        "image": "assets/reference_pages/k1_p208.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=208"
-      }
+      "images": []
     },
     {
       "id": "mcq-811",
@@ -55081,7 +55069,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "Goodpasture症候群では血清の抗GBM抗体値は、疾患活動性の指標になる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "Goodpasture症候群では血清抗GBM抗体価が疾患活動性の指標となる。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -55219,7 +55207,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "IgG4関連呼吸器疾患の診断基準における、血清IgG4のカットオフ値は135mg/dL以上である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IgG4関連疾患の診断基準で血清IgG4は135mg/dL以上がカットオフ値である。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -55311,7 +55299,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "IgG4関連呼吸器疾患は副腎皮質ステロイド治療に対する反応性は良好である。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "IgG4関連呼吸器疾患は副腎皮質ステロイド治療への反応性が良好である。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -55357,7 +55345,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "日本では、気管支結石症は中葉枝に多い。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "日本では気管支結石症は中葉枝に多い(石灰化リンパ節による)。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -55403,7 +55391,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "肺胞微石症では肺胞内にリン酸カルシウムを主成分とする微小結石が蓄積する。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "肺胞微石症では肺胞内にリン酸カルシウムを主成分とする微小結石が蓄積する。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
@@ -55472,7 +55460,7 @@
       "section": "各論I-13 その他（比較的稀な肺疾患）",
       "question": "囊胞性線維症では膵臓の外分泌機能不全がみられる。",
       "answer": "○",
-      "explanation": "",
+      "explanation": "嚢胞性線維症(CFTR異常)では膵臓の外分泌機能不全がみられる。",
       "tags": [
         "各論I",
         "その他(比較的稀な肺疾患)",
