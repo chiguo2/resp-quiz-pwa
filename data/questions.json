@@ -23558,16 +23558,18 @@
       "type": "mcq",
       "chapter": "各論Ⅴ 縦隔疾患",
       "section": "各論V 縦隔疾患",
-      "question": "前縦隔の代表的腫瘍「4つのT」とは？",
+      "question": "前縦隔の代表的腫瘍「4つのT」に当てはまる腫瘍を4つ選べ。",
       "answer": [
-        "a"
+        "a",
+        "b",
+        "c",
+        "d"
       ],
-      "explanation": "前縦隔の代表的腫瘍『4つのT』はThymoma・Teratoma・Thyroid・Terrible lymphoma。",
+      "explanation": "前縦隔の代表的腫瘍『4つのT』はThymoma（胸腺腫）・Teratoma（奇形腫）・Thyroid（胸骨後甲状腺腫）・Terrible lymphoma（悪性リンパ腫）。Thymolipoma（胸腺脂肪腫）も前縦隔に生じるが『4つのT』には含まれない。",
       "tags": [
         "各論Ⅴ",
         "各論Ⅴ 縦隔疾患",
-        "一問一答",
-        "語句MCQ化"
+        "一問一答"
       ],
       "source_file": "各論V_縦隔疾患_問題集.docx",
       "id": "qa-0639",
@@ -23586,10 +23588,11 @@
         ]
       },
       "choices": {
-        "a": "Thymoma・Teratoma・Thyroid・Terrible lymphoma",
-        "b": "Macklin仮説（肺胞破裂→血管気管支鞘に沿って縦隔へ）",
-        "c": "von Recklinghausen病／NF1遺伝子",
-        "d": "漿液性0〜20 HU、気管支原性20〜40 HU"
+        "a": "Thymoma（胸腺腫）",
+        "b": "Teratoma（奇形腫）",
+        "c": "Thyroid（胸骨後甲状腺腫）",
+        "d": "Terrible lymphoma（悪性リンパ腫）",
+        "e": "Thymolipoma（胸腺脂肪腫）"
       }
     },
     {
