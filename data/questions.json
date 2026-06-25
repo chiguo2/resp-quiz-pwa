@@ -1436,24 +1436,31 @@
       "answer": [
         "a"
       ],
-      "explanation": "立位で血流が最大となるのは肺底部(重力依存)。",
+      "explanation": "重力の影響で立位の局所肺血流量は肺底部で最大となる（肺尖部では最小）。換気・血流ともに肺底部で大きいが、血流のほうが重力の影響を強く受けるため、換気血流比(V/Q)は肺尖部で高く肺底部で低い。",
       "tags": [
         "総論I",
         "呼吸生理",
-        "一問一答",
-        "語句MCQ化"
+        "一問一答"
       ],
       "reference": {
         "title": "総論 I 形態・機能・病態生理",
         "page": 14,
         "image": "assets/reference_pages/s1_p014.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=14"
+        "viewer": "reference-viewer.html?doc=s1&page=14",
+        "highlights": [
+          {
+            "x": 0.5035,
+            "y": 0.6117,
+            "w": 0.3815,
+            "h": 0.0212
+          }
+        ]
       },
       "choices": {
         "a": "肺底部",
-        "b": "CEA",
-        "c": "膜様部",
-        "d": "約1％"
+        "b": "肺尖部",
+        "c": "上肺野",
+        "d": "中肺野"
       }
     },
     {
@@ -37719,10 +37726,10 @@
         "viewer": "reference-viewer.html?doc=s5&page=47",
         "highlights": [
           {
-            "x": 0.1039,
-            "y": 0.1522,
-            "w": 0.394,
-            "h": 0.0242
+            "x": 0.1025,
+            "y": 0.3444,
+            "w": 0.3919,
+            "h": 0.0425
           }
         ]
       },
@@ -43729,20 +43736,6 @@
         "○×問題"
       ],
       "source_file": "総論_一問一答集_疫学・主要徴候・検査・治療.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 10,
-        "image": "assets/reference_pages/s4_p010.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=10",
-        "highlights": [
-          {
-            "x": 0.5028,
-            "y": 0.5242,
-            "w": 0.3961,
-            "h": 0.0203
-          }
-        ]
-      },
       "id": "qa-1419"
     },
     {
@@ -47767,10 +47760,10 @@
         "viewer": "reference-viewer.html?doc=k3&page=5",
         "highlights": [
           {
-            "x": 0.1185,
-            "y": 0.1042,
-            "w": 0.3773,
-            "h": 0.0203
+            "x": 0.1025,
+            "y": 0.1215,
+            "w": 0.3968,
+            "h": 0.0563
           }
         ]
       },
@@ -70198,21 +70191,7 @@
         "PDF転記"
       ],
       "source_file": "8 全身疾患.pdf",
-      "images": [],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 132,
-        "image": "assets/reference_pages/k1_p132.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=132",
-        "highlights": [
-          {
-            "x": 0.0865,
-            "y": 0.0805,
-            "w": 0.219,
-            "h": 0.0232
-          }
-        ]
-      }
+      "images": []
     },
     {
       "id": "qa-3181",
