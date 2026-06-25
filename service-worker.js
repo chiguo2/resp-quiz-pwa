@@ -1,4 +1,4 @@
-const CACHE_NAME = 'resp-quiz-cache-v66';
+const CACHE_NAME = 'resp-quiz-cache-v67';
 const CORE_ASSETS = [
   './','./index.html','./style.css','./app.js','./manifest.json','./icon.svg',
   './reference-viewer.html','./reference-viewer.css','./reference-viewer.js',
@@ -15,7 +15,7 @@ self.addEventListener('fetch', event => {
   if(event.request.method !== 'GET') return;
   const url = new URL(event.request.url);
   // 教科書ページ画像：大容量・不変なのでキャッシュ優先
-  if(url.pathname.includes('/assets/reference_pages/') || url.pathname.includes('/assets/reference_pdfs/') || url.pathname.includes('/assets/past_figures/') || url.pathname.includes('/assets/vendor/')){
+  if(url.pathname.includes('/assets/reference_pages/') || url.pathname.includes('/assets/reference_pdfs/') || url.pathname.includes('/assets/source_pdfs/') || url.pathname.includes('/assets/past_figures/') || url.pathname.includes('/assets/vendor/')){
     event.respondWith(caches.open(CACHE_NAME).then(async cache => {
       const cached = await cache.match(event.request);
       if(cached) return cached;

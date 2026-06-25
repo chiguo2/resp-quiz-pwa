@@ -10,6 +10,10 @@ const docs = {
 const params = new URLSearchParams(location.search);
 const doc = params.get('doc');
 const page = Number(params.get('page'));
+const ALLOWED_DIRS = ['reference_pdfs', 'source_pdfs'];
+let assetDir = params.get('dir');
+if(!ALLOWED_DIRS.includes(assetDir)) assetDir = 'reference_pdfs';
+const titleParam = params.get('title') || '';
 const stage = document.getElementById('stage');
 const canvasWrap = document.getElementById('canvasWrap');
 const canvas = document.getElementById('pageCanvas');
@@ -88,11 +92,12 @@ function computeFit(){
 }
 
 async function init(){
-  if(!docs[doc] || !Number.isInteger(page) || page < 1 || !window.pdfjsLib){ showError(); return; }
-  document.getElementById('docTitle').textContent = docs[doc];
-  document.getElementById('pageLabel').textContent = `PDF ${page}ページ`;
-  document.title = `${docs[doc]} - PDF ${page}ページ`;
-  const url = `assets/reference_pdfs/${doc}_p${String(page).padStart(3,'0')}.pdf`;
+  const title = titleParam || docs[doc] || '';
+  if(!title || !doc || !Number.isInteger(page) || page < 1 || !window.pdfjsLib){ showError(); return; }
+  document.getElementById('docTitle').textContent = title;
+  document.getElementById('pageLabel').textContent = `${page}ページ`;
+  document.title = `${title} - ${page}ページ`;
+  const url = `assets/${assetDir}/${doc}_p${String(page).padStart(3,'0')}.pdf`;
   try {
     const pdf = await pdfjsLib.getDocument(url).promise;
     pdfPage = await pdf.getPage(1);

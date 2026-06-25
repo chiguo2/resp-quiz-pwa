@@ -372,6 +372,19 @@ function referenceLinkHtml(item){
   return `<div class="reference-link-wrap"><a class="reference-link" href="${escapeHtml(viewer)}" data-reference-viewer="${escapeHtml(viewer)}">📖 教科書の該当解説を開く</a><small>${escapeHtml(label)}${escapeHtml(note)}</small></div>`;
 }
 
+function sourceLinkHtml(item){
+  const s = item?.source;
+  if(!s) return '';
+  if(s.kind === 'original'){
+    return `<div class="source-link-wrap"><span class="source-note">✍ 呼吸器内科専門医テキストより作成</span></div>`;
+  }
+  if(s.kind === 'book' && s.viewer){
+    const label = `${s.title || '一問一答'}　${s.page}ページ`;
+    return `<div class="source-link-wrap"><a class="source-link" href="${escapeHtml(s.viewer)}" data-reference-viewer="${escapeHtml(s.viewer)}">📘 一問一答の出題ページを開く</a><small>${escapeHtml(label)}</small></div>`;
+  }
+  return '';
+}
+
 function researchLinksHtml(item){
   const q = String(item?.question || '').replace(/[（(][0-9０-９]+\s*[つ個][^）)]*[)）]/g,'').trim();
   if(!q) return '';
@@ -399,7 +412,7 @@ function showAnswer(){
   }else{
     answerTextValue = `正解：${answerText(current)}\n${mappedExplanation(current)}`;
   }
-  $('answerBox').innerHTML = `<div class="answer-text">${escapeHtml(answerTextValue).replace(/\n/g,'<br>')}</div>${referenceLinkHtml(current)}${researchLinksHtml(current)}`;
+  $('answerBox').innerHTML = `<div class="answer-text">${escapeHtml(answerTextValue).replace(/\n/g,'<br>')}</div>${referenceLinkHtml(current)}${sourceLinkHtml(current)}${researchLinksHtml(current)}`;
   $('answerBox').classList.remove('hidden');
 }
 
