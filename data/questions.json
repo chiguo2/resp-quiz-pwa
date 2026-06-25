@@ -58203,15 +58203,21 @@
       "images": [],
       "reference": {
         "title": "各論 I 気道・肺疾患",
-        "page": 57,
-        "image": "assets/reference_pages/k1_p057.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=57",
+        "page": 224,
+        "image": "assets/reference_pages/k1_p224.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=224",
         "highlights": [
           {
-            "x": 0.1032,
-            "y": 0.4541,
-            "w": 0.1192,
-            "h": 0.0193
+            "x": 0.0662,
+            "y": 0.2969,
+            "w": 0.3933,
+            "h": 0.0203
+          },
+          {
+            "x": 0.0662,
+            "y": 0.3493,
+            "w": 0.394,
+            "h": 0.0356
           }
         ]
       }
