@@ -6,16 +6,16 @@
   <meta name="theme-color" content="#0f766e">
   <meta name="robots" content="noindex,nofollow,noarchive">
   <title>教科書参照</title>
-  <link rel="stylesheet" href="reference-viewer.css">
+  <link rel="stylesheet" href="reference-viewer.css?v=66">
 </head>
-<body oncontextmenu="return false">
+<body>
   <header>
     <button id="closeBtn" type="button" aria-label="閉じる">閉じる</button>
     <div><small>問題解説・閲覧専用</small><h1 id="docTitle">教科書参照</h1></div>
     <span id="pageLabel"></span>
   </header>
   <main>
-    <div id="notice" class="notice">添付PDFの該当ページを閲覧用画像として表示しています。PDFファイルへの直接リンクは設置していません。</div>
+    <div id="notice" class="notice">添付PDFの該当ページを表示しています。本文の文字は選択・コピーできます（OCR由来のため一部に誤認識が含まれることがあります）。</div>
     <div class="toolbar">
       <button id="zoomOut" type="button">－</button>
       <span id="zoomLabel">100%</span>
@@ -26,12 +26,14 @@
     </div>
     <div id="stage" class="stage">
       <div id="canvasWrap" class="canvas-wrap">
-        <img id="pageImage" alt="教科書の該当ページ" draggable="false">
+        <canvas id="pageCanvas"></canvas>
+        <div id="textLayer" class="textLayer"></div>
         <div id="hlLayer" class="hl-layer"></div>
       </div>
     </div>
     <p id="error" class="error hidden">参照ページを表示できませんでした。</p>
   </main>
-  <script src="reference-viewer.js"></script>
+  <script src="assets/vendor/pdfjs/pdf.min.js?v=66"></script>
+  <script src="reference-viewer.js?v=66"></script>
 </body>
 </html>

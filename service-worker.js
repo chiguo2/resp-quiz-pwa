@@ -1,7 +1,8 @@
-const CACHE_NAME = 'resp-quiz-cache-v65';
+const CACHE_NAME = 'resp-quiz-cache-v66';
 const CORE_ASSETS = [
   './','./index.html','./style.css','./app.js','./manifest.json','./icon.svg',
   './reference-viewer.html','./reference-viewer.css','./reference-viewer.js',
+  './assets/vendor/pdfjs/pdf.min.js','./assets/vendor/pdfjs/pdf.worker.min.js',
   './data/questions.json','./data/questions.csv',
   './assets/past_figures/q04_fig4abcd.jpg','./assets/past_figures/q06_fig6ab.jpg','./assets/past_figures/q08_fig8.jpg',
   './assets/past_figures/q09_fig9.jpg','./assets/past_figures/q15_fig15ab.jpg','./assets/past_figures/q16_fig16.jpg',
@@ -14,7 +15,7 @@ self.addEventListener('fetch', event => {
   if(event.request.method !== 'GET') return;
   const url = new URL(event.request.url);
   // 教科書ページ画像：大容量・不変なのでキャッシュ優先
-  if(url.pathname.includes('/assets/reference_pages/') || url.pathname.includes('/assets/past_figures/')){
+  if(url.pathname.includes('/assets/reference_pages/') || url.pathname.includes('/assets/reference_pdfs/') || url.pathname.includes('/assets/past_figures/') || url.pathname.includes('/assets/vendor/')){
     event.respondWith(caches.open(CACHE_NAME).then(async cache => {
       const cached = await cache.match(event.request);
       if(cached) return cached;

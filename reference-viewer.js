@@ -10,15 +10,18 @@ const docs = {
 const params = new URLSearchParams(location.search);
 const doc = params.get('doc');
 const page = Number(params.get('page'));
-const img = document.getElementById('pageImage');
 const stage = document.getElementById('stage');
 const canvasWrap = document.getElementById('canvasWrap');
+const canvas = document.getElementById('pageCanvas');
+const textLayer = document.getElementById('textLayer');
 const hlLayer = document.getElementById('hlLayer');
-let zoom = 1;
-function updateZoom(){
-  canvasWrap.style.width = `${Math.round(zoom * 100)}%`;
-  document.getElementById('zoomLabel').textContent = `${Math.round(zoom * 100)}%`;
-}
+const DPR = Math.min(window.devicePixelRatio || 1, 2);
+
+if(window.pdfjsLib){ pdfjsLib.GlobalWorkerOptions.workerSrc = 'assets/vendor/pdfjs/pdf.worker.min.js?v=65'; }
+
+let zoom = 1, fitScale = 1, pdfPage = null, baseW = 0, rendering = false, rerenderQueued = false;
+
+function showError(){ document.getElementById('error').classList.remove('hidden'); stage.classList.add('hidden'); }
 
 // ----- ハイライト（ページ単位で保存・再表示）-----
 const HL_KEY = 'respRefHighlights.v1';
@@ -27,7 +30,6 @@ const getHL = () => { try { return JSON.parse(localStorage.getItem(HL_KEY)) || {
 const setHL = o => localStorage.setItem(HL_KEY, JSON.stringify(o));
 const pageRects = () => getHL()[pageKey] || [];
 function saveRects(rects){ const o = getHL(); if(rects.length) o[pageKey] = rects; else delete o[pageKey]; setHL(o); }
-// 解答根拠のハイライト（問題データからURLパラメータで渡される。読み取り専用）
 const autoRects = (params.get('hl') || '').split(';').filter(Boolean).map(s => {
   const [x,y,w,h] = s.split(',').map(Number);
   return (Number.isFinite(x)&&Number.isFinite(y)&&Number.isFinite(w)&&Number.isFinite(h)) ? {x,y,w,h} : null;
@@ -45,31 +47,80 @@ function renderHighlights(){
   for(const r of pageRects()) addRect(r, 'hl-rect');
 }
 
-if(!docs[doc] || !Number.isInteger(page) || page < 1){
-  document.getElementById('error').classList.remove('hidden');
-  stage.classList.add('hidden');
-}else{
+function updateZoomLabel(){ document.getElementById('zoomLabel').textContent = `${Math.round(zoom * 100)}%`; }
+
+async function render(){
+  if(!pdfPage) return;
+  if(rendering){ rerenderQueued = true; return; }
+  rendering = true;
+  const scale = fitScale * zoom;
+  const vp = pdfPage.getViewport({ scale });
+  // canvas（高精細のためDPR倍でバッキングストアを作成し、CSSで論理サイズに縮小）
+  canvas.width = Math.floor(vp.width * DPR);
+  canvas.height = Math.floor(vp.height * DPR);
+  canvas.style.width = vp.width + 'px';
+  canvas.style.height = vp.height + 'px';
+  canvasWrap.style.width = vp.width + 'px';
+  canvasWrap.style.height = vp.height + 'px';
+  const ctx = canvas.getContext('2d');
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  await pdfPage.render({ canvasContext: ctx, viewport: vp, transform: DPR !== 1 ? [DPR,0,0,DPR,0,0] : null }).promise;
+  // テキスト層（選択可能）
+  textLayer.style.width = vp.width + 'px';
+  textLayer.style.height = vp.height + 'px';
+  textLayer.style.setProperty('--scale-factor', scale);
+  textLayer.innerHTML = '';
+  try {
+    const tc = await pdfPage.getTextContent();
+    const task = pdfjsLib.renderTextLayer({ textContentSource: tc, container: textLayer, viewport: vp, textDivs: [] });
+    await (task.promise || task);
+  } catch(e){ /* テキスト層が無くても表示は継続 */ }
+  renderHighlights();
+  rendering = false;
+  if(rerenderQueued){ rerenderQueued = false; render(); }
+}
+
+function computeFit(){
+  const cs = getComputedStyle(stage);
+  const pad = parseFloat(cs.paddingLeft) + parseFloat(cs.paddingRight);
+  const avail = stage.clientWidth - pad;
+  if(baseW > 0 && avail > 0) fitScale = avail / baseW;
+}
+
+async function init(){
+  if(!docs[doc] || !Number.isInteger(page) || page < 1 || !window.pdfjsLib){ showError(); return; }
   document.getElementById('docTitle').textContent = docs[doc];
   document.getElementById('pageLabel').textContent = `PDF ${page}ページ`;
   document.title = `${docs[doc]} - PDF ${page}ページ`;
-  img.onload = renderHighlights;
-  img.src = `assets/reference_pages/${doc}_p${String(page).padStart(3,'0')}.webp`;
-  img.onerror = () => { document.getElementById('error').classList.remove('hidden'); stage.classList.add('hidden'); };
+  const url = `assets/reference_pdfs/${doc}_p${String(page).padStart(3,'0')}.pdf`;
+  try {
+    const pdf = await pdfjsLib.getDocument(url).promise;
+    pdfPage = await pdf.getPage(1);
+    baseW = pdfPage.getViewport({ scale: 1 }).width;
+    computeFit();
+    await render();
+  } catch(e){ showError(); }
 }
+init();
 
-document.getElementById('zoomIn').onclick = () => { zoom = Math.min(3, zoom + .2); updateZoom(); };
-document.getElementById('zoomOut').onclick = () => { zoom = Math.max(.5, zoom - .2); updateZoom(); };
-document.getElementById('fitBtn').onclick = () => { zoom = 1; updateZoom(); stage.scrollTo({left:0, top:0, behavior:'smooth'}); };
+let resizeTimer = null;
+window.addEventListener('resize', () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(() => { computeFit(); render(); }, 200);
+});
+
+document.getElementById('zoomIn').onclick = () => { zoom = Math.min(4, +(zoom + .25).toFixed(2)); updateZoomLabel(); render(); };
+document.getElementById('zoomOut').onclick = () => { zoom = Math.max(.5, +(zoom - .25).toFixed(2)); updateZoomLabel(); render(); };
+document.getElementById('fitBtn').onclick = () => { zoom = 1; updateZoomLabel(); render(); stage.scrollTo({ left:0, top:0, behavior:'smooth' }); };
 document.getElementById('closeBtn').onclick = () => {
   if(window.parent && window.parent !== window){
-    window.parent.postMessage({type:'closeReferenceViewer'}, '*');
+    window.parent.postMessage({ type:'closeReferenceViewer' }, '*');
   }else if(history.length > 1){
     history.back();
   }else{
     location.href = 'index.html';
   }
 };
-img.addEventListener('dragstart', e => e.preventDefault());
 
 // ----- 描画（マーカー）モード -----
 let drawMode = false, startPt = null, tempRect = null;
