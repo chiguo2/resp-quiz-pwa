@@ -45150,15 +45150,21 @@
       "source_file": "1_感染症および炎症性疾患_一問一答_Part1.docx",
       "reference": {
         "title": "各論 I 気道・肺疾患",
-        "page": 37,
-        "image": "assets/reference_pages/k1_p037.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=37",
+        "page": 38,
+        "image": "assets/reference_pages/k1_p038.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=38",
         "highlights": [
           {
-            "x": 0.5391,
-            "y": 0.4195,
-            "w": 0.3926,
-            "h": 0.0203
+            "x": 0.5028,
+            "y": 0.542,
+            "w": 0.3933,
+            "h": 0.0375
+          },
+          {
+            "x": 0.5035,
+            "y": 0.8389,
+            "w": 0.394,
+            "h": 0.0208
           }
         ]
       },
