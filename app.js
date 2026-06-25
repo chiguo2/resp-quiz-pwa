@@ -60,13 +60,17 @@ function mapOriginalAnswerString(item, raw){
 
 function mappedExplanation(item){
   let text = String(item?.explanation || '');
-  if(!text) return '';
-  if(item?._renderedChoices){
-    const repl = (_, prefix, ans) => `${prefix}${mapOriginalAnswerString(item, ans)}`;
-    text = text.replace(/(●?解答[:：]\s*)([a-h](?:\s*[，,、]\s*[a-h])*)/gi, repl);
-    text = text.replace(/(正解[:：]\s*)([a-h](?:\s*[，,、]\s*[a-h])*)/gi, repl);
-    text = text.replace(/(正答\s*[:：]?\s*)([a-h](?:\s*[，,、]\s*[a-h])*)/gi, repl);
-  }
+  if(!text || !item?._renderedChoices) return text;
+  const map = {};
+  for(const c of item._renderedChoices) map[String(c.originalKey).toLowerCase()] = c.displayKey;
+  const remapKey = k => map[String(k).toLowerCase()] || k;
+  const remapList = (_, pre, ans) => pre + ans.split(/[，,、]/).map(x => remapKey(x.trim())).join('、');
+  // 「解答：a,e」「正解：a」「正答 a」
+  text = text.replace(/(●?(?:解答|正解|正答)\s*[:：]?\s*)([a-h](?:\s*[，,、]\s*[a-h])*)/gi, remapList);
+  // 「選択肢a」「選択肢a,b」
+  text = text.replace(/(選択肢\s*)([a-h](?:\s*[，,、]\s*[a-h])*)/gi, remapList);
+  // 行頭や区切りの後の「a：」「a.」「a、」「（a）」などのラベル参照
+  text = text.replace(/(^|[\n\r。．、，・（(\s])([a-h])(?=\s*[：:.．、，)）])/g, (_, pre, L) => pre + remapKey(L));
   return text;
 }
 
@@ -257,16 +261,44 @@ function showCard(){
   if(index >= queue.length){ finishSession(); return; }
   current=queue[index];
   current._selectedKeys = new Set();
-  $('badge').textContent = `${current.type==='qa'?'一問一答':'5択'}｜${current.section}`;
+  $('choices').classList.remove('ox-grid');
+  $('badge').textContent = `${current.type==='qa'?'○×問題':'選択問題'}｜${current.section}`;
   $('progress').textContent = `${index+1} / ${queue.length}`;
   $('question').textContent=current.question;
   renderImages(current);
-  $('showBtn').classList.toggle('hidden', current.type!=='qa');
-  $('wrongBtn').classList.toggle('hidden', current.type!=='qa');
-  $('correctBtn').classList.toggle('hidden', current.type!=='qa');
+  $('showBtn').classList.add('hidden');
+  $('wrongBtn').classList.add('hidden');
+  $('correctBtn').classList.add('hidden');
+  $('submitMcqBtn').classList.add('hidden');
   $('nextBtn').classList.remove('hidden');
   if(current.type==='mcq') renderChoices(current);
+  else renderOX(current);
   renderNoteUI();
+}
+
+function renderOX(item){
+  $('choices').classList.add('ox-grid');
+  for(const v of ['○','×']){
+    const btn=document.createElement('button');
+    btn.className='choice ox-choice';
+    btn.textContent=v;
+    btn.dataset.ox=v;
+    btn.onclick=()=>gradeOX(v);
+    $('choices').appendChild(btn);
+  }
+}
+
+function gradeOX(picked){
+  if(!current || session.answeredIds.has(current.id)) return;
+  const correct=String(current.answer||'').trim();
+  const ok=picked===correct;
+  [...document.querySelectorAll('.ox-choice')].forEach(b=>{
+    b.disabled=true;
+    if(b.dataset.ox===correct) b.classList.add('correct');
+    if(b.dataset.ox===picked && !ok) b.classList.add('wrong');
+  });
+  showAnswer();
+  record(ok);
 }
 
 function renderChoices(item){
@@ -338,7 +370,7 @@ function showAnswer(){
   if(!current) return;
   let answerTextValue;
   if(current.type === 'qa'){
-    answerTextValue = String(current.answer ?? '');
+    answerTextValue = '正解：' + String(current.answer ?? '');
     const exp = String(current.explanation ?? '').trim();
     if(exp) answerTextValue += '\n\n' + exp;
   }else{
