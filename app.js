@@ -256,7 +256,7 @@ function showCard(){
   if(!queue.length){
     $('badge').textContent='対象なし'; $('badge').classList.remove('flagged'); $('progress').textContent=''; $('question').textContent='条件に合う問題がありません。';
     $('noteBox').classList.add('hidden');
-    $('showBtn').classList.add('hidden'); $('wrongBtn').classList.add('hidden'); $('correctBtn').classList.add('hidden'); $('nextBtn').classList.add('hidden'); return;
+    $('showBtn').classList.add('hidden'); $('wrongBtn').classList.add('hidden'); $('correctBtn').classList.add('hidden'); $('prevBtn').classList.add('hidden'); $('nextBtn').classList.add('hidden'); return;
   }
   if(index >= queue.length){ finishSession(); return; }
   current=queue[index];
@@ -271,9 +271,25 @@ function showCard(){
   $('correctBtn').classList.add('hidden');
   $('submitMcqBtn').classList.add('hidden');
   $('nextBtn').classList.remove('hidden');
+  $('prevBtn').classList.remove('hidden');
+  $('prevBtn').disabled = index === 0;
   if(current.type==='mcq') renderChoices(current);
   else renderOX(current);
+  if(session.answeredIds.has(current.id)) revealAnswered();
   renderNoteUI();
+}
+
+function revealAnswered(){
+  if(!current) return;
+  if(current.type === 'qa'){
+    const corr = String(current.answer || '').trim();
+    [...document.querySelectorAll('.ox-choice')].forEach(b => { b.disabled = true; if(b.dataset.ox === corr) b.classList.add('correct'); });
+  }else{
+    const correct = answerKeys(current);
+    [...document.querySelectorAll('.choice')].forEach(b => { b.disabled = true; if(correct.includes(b.dataset.originalKey)) b.classList.add('correct'); });
+    $('submitMcqBtn').classList.add('hidden');
+  }
+  showAnswer();
 }
 
 function renderOX(item){
@@ -417,12 +433,20 @@ function next(){
   updateCounts();
 }
 
+function prev(){
+  if(!queue.length || index === 0) return;
+  index -= 1;
+  showCard();
+  updateCounts();
+}
+
 $('startBtn').onclick=()=>start();
 $('showBtn').onclick=showAnswer;
 $('submitMcqBtn').onclick=()=>gradeMcq();
 $('correctBtn').onclick=()=>{record(true); next();};
 $('wrongBtn').onclick=()=>{record(false); next();};
 $('nextBtn').onclick=next;
+$('prevBtn').onclick=prev;
 $('reviewWrongBtn').onclick=()=>{
   const wrongItems = session.wrongIds.map(id => data.find(x=>x.id===id)).filter(Boolean);
   if(!wrongItems.length) return;
