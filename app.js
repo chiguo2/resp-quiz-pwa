@@ -378,9 +378,9 @@ function sourceLinkHtml(item){
   if(s.kind === 'original'){
     return `<div class="source-link-wrap"><span class="source-note">✍ 呼吸器内科専門医テキストより作成</span></div>`;
   }
-  if(s.kind === 'book' && s.viewer){
-    const label = `${s.title || '一問一答'}　${s.page}ページ`;
-    return `<div class="source-link-wrap"><a class="source-link" href="${escapeHtml(s.viewer)}" data-reference-viewer="${escapeHtml(s.viewer)}">📘 一問一答の出題ページを開く</a><small>${escapeHtml(label)}</small></div>`;
+  if(s.kind === 'book' && s.page){
+    const label = `📘 出典：${s.title || '一問一答'}　${s.page}ページ`;
+    return `<div class="source-link-wrap"><span class="source-note">${escapeHtml(label)}</span></div>`;
   }
   return '';
 }
