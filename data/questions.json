@@ -27324,16 +27324,15 @@
       "type": "mcq",
       "chapter": "各論Ⅴ 縦隔疾患",
       "section": "各論V 縦隔疾患",
-      "question": "セミノーマ予後良好群の化学療法は？",
+      "question": "縦隔原発セミノーマ（予後良好群）に推奨される化学療法レジメンはどれか。",
       "answer": [
         "a"
       ],
-      "explanation": "セミノーマ予後良好群の化学療法はBEP 3コースまたはEP 4コース。",
+      "explanation": "縦隔原発セミノーマの予後良好群には cisplatin＋etoposide＋bleomycin（BEP）療法3コース、または cisplatin＋etoposide（EP）療法4コースが推奨される。予後中間群ではBEP療法4コース。化学療法後に残存腫瘍が3cmを超える場合は摘出術を考慮する。VIP（ifosfamide含む）やPVBはサルベージ/旧世代の胚細胞腫瘍レジメン、CBDCA＋PTXは肺癌・卵巣癌など、ADOCは胸腺癌のレジメンであり、本症の標準ではない。",
       "tags": [
         "各論Ⅴ",
         "各論Ⅴ 縦隔疾患",
-        "一問一答",
-        "語句MCQ化"
+        "一問一答"
       ],
       "source_file": "各論V_縦隔疾患_問題集.docx",
       "id": "qa-0661",
@@ -27344,18 +27343,19 @@
         "viewer": "reference-viewer.html?doc=k5&page=6",
         "highlights": [
           {
-            "x": 0.0697,
-            "y": 0.4718,
-            "w": 0.3926,
-            "h": 0.0198
+            "x": 0.5028,
+            "y": 0.7811,
+            "w": 0.3947,
+            "h": 0.1141
           }
         ]
       },
       "choices": {
-        "a": "BEP 3コースまたはEP 4コース",
-        "b": "外科的修復（急性=経腹的、慢性=経胸的）",
-        "c": "神経鞘腫（schwannoma、良性）",
-        "d": "神経芽腫（neuroblastoma）"
+        "a": "cisplatin＋etoposide＋bleomycin（BEP）療法3コース、またはcisplatin＋etoposide（EP）療法4コース",
+        "b": "cisplatin＋etoposide＋ifosfamide（VIP）療法4コース",
+        "c": "cisplatin＋vinblastine＋bleomycin（PVB）療法3コース",
+        "d": "carboplatin＋paclitaxel（CBDCA＋PTX）療法",
+        "e": "doxorubicin＋cisplatin＋vincristine＋cyclophosphamide（ADOC）療法"
       },
       "source": {
         "kind": "original"
