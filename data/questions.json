@@ -73277,20 +73277,6 @@
       ],
       "source_file": "11 呼吸器新生物.pdf",
       "images": [],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 181,
-        "image": "assets/reference_pages/k1_p181.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=181",
-        "highlights": [
-          {
-            "x": 0.1192,
-            "y": 0.8157,
-            "w": 0.3591,
-            "h": 0.0188
-          }
-        ]
-      },
       "source": {
         "kind": "book",
         "code": "r11",
