@@ -35676,16 +35676,22 @@
       ],
       "source_file": "呼吸器専門医_総論_一問一答.docx",
       "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 27,
-        "image": "assets/reference_pages/s3_p027.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=27",
+        "title": "各論 I 気道・肺疾患",
+        "page": 4,
+        "image": "assets/reference_pages/k1_p004.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=4",
         "highlights": [
           {
-            "x": 0.5558,
-            "y": 0.7871,
-            "w": 0.3801,
-            "h": 0.0198
+            "x": 0.1987,
+            "y": 0.3874,
+            "w": 0.1918,
+            "h": 0.0474
+          },
+          {
+            "x": 0.0628,
+            "y": 0.9037,
+            "w": 0.2497,
+            "h": 0.0208
           }
         ]
       },
