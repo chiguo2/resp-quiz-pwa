@@ -548,6 +548,12 @@ if('serviceWorker' in navigator){
 let referenceModal = null;
 let referenceIframe = null;
 let referenceModalOpen = false;
+let suppressClicksUntil = 0;
+
+// モーダルを閉じた直後の「ゴーストクリック」（スクロール終端のタップが下の「次へ」等に貫通する）を無効化する。
+document.addEventListener('click', e => {
+  if(Date.now() < suppressClicksUntil){ suppressClicksUntil = 0; e.preventDefault(); e.stopPropagation(); }
+}, true);
 
 function ensureReferenceModal(){
   if(referenceModal) return;
@@ -589,6 +595,7 @@ function closeReferenceModal(useHistory=false){
   referenceModal.classList.add('hidden');
   document.body.classList.remove('reference-modal-open');
   referenceIframe.src = 'about:blank';
+  suppressClicksUntil = Date.now() + 500;
   if(useHistory && history.state?.referenceViewer) history.back();
 }
 
