@@ -13803,16 +13803,15 @@
       "type": "mcq",
       "chapter": "総論V 治療",
       "section": "総論V 治療",
-      "question": "オピオイドで耐性が生じにくく予防投与から継続する副作用は？",
+      "question": "オピオイドの副作用のうち、耐性が生じにくく予防投与から継続すべきものはどれか。",
       "answer": [
         "a"
       ],
-      "explanation": "オピオイドで耐性が生じにくく予防投与から継続する副作用は便秘。",
+      "explanation": "オピオイドの副作用のうち、悪心・嘔吐・眠気・呼吸抑制・そう痒感は耐性が生じて次第に軽減するが、便秘は耐性が生じにくく持続する。このため便秘は緩下薬を予防的に投与し、オピオイド継続中はそのまま継続する。",
       "tags": [
         "総論V",
         "治療",
-        "一問一答",
-        "語句MCQ化"
+        "一問一答"
       ],
       "reference": {
         "title": "総論 V 治療",
@@ -13830,9 +13829,10 @@
       },
       "choices": {
         "a": "便秘",
-        "b": "気胸",
-        "c": "red man症候群",
-        "d": "肺炎"
+        "b": "悪心・嘔吐",
+        "c": "眠気（傾眠）",
+        "d": "呼吸抑制",
+        "e": "そう痒感"
       },
       "source": {
         "kind": "original"
@@ -17206,10 +17206,10 @@
         "viewer": "reference-viewer.html?doc=k1&page=31",
         "highlights": [
           {
-            "x": 0.1199,
-            "y": 0.9051,
-            "w": 0.6527,
-            "h": 0.0173
+            "x": 0.5384,
+            "y": 0.2386,
+            "w": 0.3947,
+            "h": 0.042
           }
         ]
       },
@@ -94743,16 +94743,16 @@
       "source_file": "II 呼吸不全.pdf",
       "images": [],
       "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4",
+        "title": "総論 V 治療",
+        "page": 55,
+        "image": "assets/reference_pages/s5_p055.webp",
+        "viewer": "reference-viewer.html?doc=s5&page=55",
         "highlights": [
           {
-            "x": 0.5084,
-            "y": 0.2624,
-            "w": 0.3222,
-            "h": 0.0198
+            "x": 0.1018,
+            "y": 0.7821,
+            "w": 0.394,
+            "h": 0.041
           }
         ]
       },
