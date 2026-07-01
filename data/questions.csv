@@ -6958,48 +6958,174 @@ qa-2753,qa,各論I 気道・肺疾患,各論I-2 COPD,20%≦%FEV1<50%であれば
 
 【AI解説】
 【結論】誤り（×）。30%≦%FEV1<50%が病期III期（20〜50%ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49""}"
-qa-2754,qa,各論I 気道・肺疾患,各論I-2 COPD,%FEV1<30%であれば病期分類はIV期である。,{},○,病期分類で%FEV1<30%はIV期(最重症)。I期≧80%、II期50〜80%、III期30〜50%、IV期<30%。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49""}"
-qa-2755,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDのスパイロメトリーではV50/V25が増大する。,{},×,呼気終末の気道虚脱を反映して、V50/V25が低下する。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49"", ""highlights"": [{""x"": 0.1074, ""y"": 0.0944, ""w"": 0.3877, ""h"": 0.0217}]}"
-qa-2756,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDでは機能的残気量が増加する。,{},○,呼気時の気流制限を反映した所見である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.5035, ""y"": 0.0692, ""w"": 0.3933, ""h"": 0.0198}]}"
-qa-2757,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDのフロー・ボリューム曲線では下降脚が下に凸となる。,{},○,気流閉塞により呼出後半の流量が低下し、フロー・ボリューム曲線の下降脚は下に凸(scooped out)となる。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49"", ""highlights"": [{""x"": 0.5397, ""y"": 0.6596, ""w"": 0.3947, ""h"": 0.0257}]}"
-qa-2758,qa,各論I 気道・肺疾患,各論I-2 COPD,肺拡散能は貧血により上昇する。,{},×,貧血により低下するため、ヘモグロビン濃度による補正を考慮する。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49""}"
-qa-2759,qa,各論I 気道・肺疾患,各論I-2 COPD,気管支拡張薬の吸入後に1秒量が12%かつ200mL以上増加する場合はCOPDではない。,{},×,喘息を合併している可能性があるが、COPDの診断に際して気道可逆性の有無や程度は問われない。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 48, ""image"": ""assets/reference_pages/k1_p048.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=48"", ""highlights"": [{""x"": 0.0872, ""y"": 0.2154, ""w"": 0.3591, ""h"": 0.0188}]}"
-qa-2760,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDでは呼気一酸化窒素濃度(FeNO)は上昇することが多い。,{},×,酸化ストレスによりNOはニトロチロシンなどに代謝され、喘息非合併例では上昇しないことが多い。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0704, ""y"": 0.6112, ""w"": 0.3926, ""h"": 0.0193}]}"
-qa-2761,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDでは呼気中一酸化炭素(CO)濃度は上昇することが多い。,{},○,禁煙後でも健常者よりも高値を示すことが多い。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0704, ""y"": 0.6112, ""w"": 0.3926, ""h"": 0.0193}]}"
-qa-2762,qa,各論I 気道・肺疾患,各論I-2 COPD,広域周波オシレーション法では、気道抵抗を含む呼吸抵抗[レジスタンス(R)]が上昇する。,{},○,主に換気不均等を反映して、20Hzに比べて5HzのRが高くなるような周波数依存性がみられる。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49"", ""highlights"": [{""x"": 0.5384, ""y"": 0.7821, ""w"": 0.3947, ""h"": 0.0257}]}"
-qa-2763,qa,各論I 気道・肺疾患,各論I-2 COPD,広域周波オシレーション法では、弾性と慣性を反映する呼吸リアクタンス(X)は正側にシフトする。,{},×,負側にシフトし、その結果、共振周波数も高くなる。この変化は呼気時により顕著に観察される。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49"", ""highlights"": [{""x"": 0.5384, ""y"": 0.7821, ""w"": 0.3947, ""h"": 0.0257}]}"
-qa-2764,qa,各論I 気道・肺疾患,各論I-2 COPD,CAT質問表は症状やQOLに関する6項目を0〜30点で評価する。,{},×,COPD Assessment Testであり、8項目を0〜40点で評価する。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 48, ""image"": ""assets/reference_pages/k1_p048.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=48"", ""highlights"": [{""x"": 0.5035, ""y"": 0.5613, ""w"": 0.394, ""h"": 0.0128}]}"
-qa-2765,qa,各論I 気道・肺疾患,各論I-2 COPD,CAT以外にもIPAGやCOPD-PS、ACTなどの質問票がCOPDで使われる。,{},×,ACT(Asthma Control Test)は喘息のコントロール状態を確認するための質問票である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0704, ""y"": 0.6112, ""w"": 0.3926, ""h"": 0.0193}]}"
-qa-2766,qa,各論I 気道・肺疾患,各論I-2 COPD,I型呼吸不全ではCO2ナルコーシスのリスクが高い。,{},×,PaCO2>45 TorrのII型呼吸不全で高リスクである。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0662, ""y"": 0.3977, ""w"": 0.3968, ""h"": 0.0232}]}"
-qa-2767,qa,各論I 気道・肺疾患,各論I-2 COPD,喀痰中好中球数は気腫の程度や増悪頻度と強い相関がある。,{},×,COPDでは喀痰中の好中球は増加するが、臨床指標との相関は限定的である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0704, ""y"": 0.6112, ""w"": 0.3926, ""h"": 0.0193}]}"
-qa-2768,qa,各論I 気道・肺疾患,各論I-2 COPD,喀痰中好酸球が多い症例では吸入ステロイドの反応性が良い。,{},○,吸入ステロイドによる増悪頻度減少効果が報告されている。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.5035, ""y"": 0.5069, ""w"": 0.3933, ""h"": 0.0203}]}"
-qa-2769,qa,各論I 気道・肺疾患,各論I-2 COPD,末梢血中と喀痰中の好酸球数には正の相関関係が認められる。,{},○,末梢血中好酸球数を参考に、吸入ステロイドの適応を判断することが可能である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.5035, ""y"": 0.5069, ""w"": 0.3933, ""h"": 0.0203}]}"
-qa-2770,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDでは末梢血中の白血球数は健常者よりも高値を示す。,{},○,禁煙後でも健常者よりも高値を示すことが多い。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0704, ""y"": 0.6112, ""w"": 0.3926, ""h"": 0.0193}]}"
-qa-2771,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDの心電図では肺性P波がみられる。,{},×,COPD単独における肺高血圧症は軽度であることが多く、心電図による右房負荷の検出感度は低い。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49"", ""highlights"": [{""x"": 0.5391, ""y"": 0.6467, ""w"": 0.3926, ""h"": 0.0188}]}"
-qa-2772,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDではβ遮断薬の投与は禁忌である。,{},×,選択的β遮断薬は、虚血性心疾患・心不全合併例に対して使用することは可能である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.069, ""y"": 0.2441, ""w"": 0.3801, ""h"": 0.0198}]}"
-qa-2773,qa,各論I 気道・肺疾患,各論I-2 COPD,心不全合併例に対して長時間作用性抗コリン薬(long-acting muscarinic antagonist: LAMA)は禁忌である。,{},×,心血管イベントの増加は明らかでなく、禁忌ではない。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.1025, ""y"": 0.4387, ""w"": 0.3926, ""h"": 0.0128}]}"
-qa-2774,qa,各論I 気道・肺疾患,各論I-2 COPD,緑内障を合併する場合、全例でLAMAは禁忌である。,{},×,閉塞隅角緑内障の症例では禁忌だが、それ以外の症例では安全に投与が可能である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53""}"
-qa-2775,qa,各論I 気道・肺疾患,各論I-2 COPD,前立腺肥大症合併例には、全例でLAMAは禁忌である。,{},×,排尿障害のない症例では慎重に使用可能である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53""}"
-qa-2776,qa,各論I 気道・肺疾患,各論I-2 COPD,心不全合併例に対して長時間作用性β2刺激薬(long-acting β2-agonist: LABA)は禁忌である。,{},×,頻脈性心疾患の合併例で注意は必要なものの、禁忌ではない。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.1185, ""y"": 0.5203, ""w"": 0.3801, ""h"": 0.0242}]}"
-qa-2777,qa,各論I 気道・肺疾患,各論I-2 COPD,テオフィリン製剤による気管支拡張作用を得るためには、血中濃度を30〜40μg/mLにするよう調整する。,{},×,有効血中濃度は5〜15μg/mLである。5μg/mL程度でも気道炎症や酸化ストレス軽減効果が期待でき、近年は投与の推奨レベルが低下している。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.5391, ""y"": 0.3844, ""w"": 0.3926, ""h"": 0.0193}]}"
-qa-2778,qa,各論I 気道・肺疾患,各論I-2 COPD,テオフィリンには胃酸分泌亢進作用がある。,{},○,消化性潰瘍の発症に注意が必要である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.0669, ""y"": 0.0692, ""w"": 0.3815, ""h"": 0.0203}]}"
-qa-2779,qa,各論I 気道・肺疾患,各論I-2 COPD,軽症例ではテオフィリン単剤での管理も可能である。,{},×,LAMAあるいはLABAの導入が優先される。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.1192, ""y"": 0.7342, ""w"": 0.3787, ""h"": 0.0183}]}"
-qa-2780,qa,各論I 気道・肺疾患,各論I-2 COPD,軽症例は吸入ステロイド(inhaled corticosteroid: ICS)単剤での治療も可能である。,{},×,LAMAあるいはLABAとの併用が前提である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.0669, ""y"": 0.5242, ""w"": 0.3919, ""h"": 0.0193}]}"
-qa-2781,qa,各論I 気道・肺疾患,各論I-2 COPD,抗酸菌感染症合併例に対するICSの投与は望ましくない。,{},○,抗酸菌症増悪が懸念される。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.5558, ""y"": 0.456, ""w"": 0.3766, ""h"": 0.0133}]}"
-qa-2782,qa,各論I 気道・肺疾患,各論I-2 COPD,明らかな喘息合併でなくても、末梢血好酸球数が100/μL以上であれば、LAMAやLABAにICSの上乗せを検討してよい。,{},○,300/μL以上であれば積極的にICSの追加が検討される。3剤合剤製剤が近年は多く処方される。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 52, ""image"": ""assets/reference_pages/k1_p052.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=52"", ""highlights"": [{""x"": 0.0711, ""y"": 0.4827, ""w"": 0.825, ""h"": 0.0173}]}"
-qa-2783,qa,各論I 気道・肺疾患,各論I-2 COPD,肺炎を反復する症例では、LAMAやLABAに加えて積極的にICSの上乗せを検討する。,{},×,細菌性肺炎以外の増悪が多い症例ではICSによる増悪抑制が期待できるが、肺炎を反復する症例ではICSの上乗せにより肺炎の増悪が懸念される。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.5411, ""y"": 0.6996, ""w"": 0.3912, ""h"": 0.0203}]}"
-qa-2784,qa,各論I 気道・肺疾患,各論I-2 COPD,吸入する力が弱い症例ではドライパウダー製剤を用いる。,{},×,一般的にドライパウダー製剤よりも噴霧式製剤(pMDIやソフトミスト)の方が弱い吸入力で使用可能である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53""}"
-qa-2785,qa,各論I 気道・肺疾患,各論I-2 COPD,LAMAやLABAの吸入後にはうがいが必須である。,{},×,ICSではうがい不足により嗄声や口腔カンジダ症のリスクが高まるが、LAMAやLABAでは必須ではない(実臨床上ではうがいを指導することもある)。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.5056, ""y"": 0.0865, ""w"": 0.394, ""h"": 0.0193}]}"
-qa-2786,qa,各論I 気道・肺疾患,各論I-2 COPD,マクロライド系抗菌薬の少量長期投与療法により、急性増悪の抑制やQOLの向上が示されている。,{},○,非結核性抗酸菌症をはじめとした薬剤耐性菌の出現に注意が必要だが、頻回増悪例で投与が検討される。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.5558, ""y"": 0.8745, ""w"": 0.3759, ""h"": 0.0203}]}"
-qa-2787,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDは在宅酸素療法(HOT)導入時の基礎疾患として最多である。,{},○,約45%がCOPDが基礎疾患である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.5035, ""y"": 0.0692, ""w"": 0.3933, ""h"": 0.0198}]}"
-qa-2788,qa,各論I 気道・肺疾患,各論I-2 COPD,6分間歩行試験の主要評価項目は、最大歩行距離である。,{},○,自分のペースで歩ける最長距離を測定し、運動耐容能の指標とすることが一次評価項目である。呼吸困難感、心拍数、SpO2などは副次評価項目となる。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0683, ""y"": 0.5064, ""w"": 0.3954, ""h"": 0.0193}]}"
-qa-2789,qa,各論I 気道・肺疾患,各論I-2 COPD,安静時SpO2が93%がHOT導入の目安であり、症状や生命予後の改善効果が示されている。,{},×,一般的にSpO2≦88%程度が目安と考えられ、中等度低酸素を呈する症例への早期導入はエビデンスに乏しい。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.5028, ""y"": 0.2964, ""w"": 0.2008, ""h"": 0.0203}]}"
-qa-2790,qa,各論I 気道・肺疾患,各論I-2 COPD,安定期にPaCO2≧55Torrを示す症例では、非侵襲的陽圧換気療法(non-invasive positive pressure ventilation: NPPV)の導入が考慮される。,{},○,安静時PaCO2<55Torrでも、高CO2血症を伴う増悪や夜間低換気を認める症例ではNPPVが考慮される。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.5056, ""y"": 0.1023, ""w"": 0.3912, ""h"": 0.0217}]}"
-qa-2791,qa,各論I 気道・肺疾患,各論I-2 COPD,睡眠時無呼吸症候群の合併例では、必要に応じて持続陽圧呼吸療法とHOTを併用することができる。,{},○,使用するデバイスによって、両者を併用することも可能である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 52, ""image"": ""assets/reference_pages/k1_p052.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=52"", ""highlights"": [{""x"": 0.0914, ""y"": 0.0983, ""w"": 0.7964, ""h"": 0.0247}]}"
-qa-2792,qa,各論I 気道・肺疾患,各論I-2 COPD,HOT使用者の飛行機への搭乗は禁忌である。,{},×,飛行中は酸素流量を1〜2L/分増やすことが推奨される(搭乗は可能である)。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""総論 V 治療"", ""page"": 47, ""image"": ""assets/reference_pages/s5_p047.webp"", ""viewer"": ""reference-viewer.html?doc=s5&page=47"", ""highlights"": [{""x"": 0.1018, ""y"": 0.5726, ""w"": 0.3968, ""h"": 0.0761}]}"
-qa-2793,qa,各論I 気道・肺疾患,各論I-2 COPD,HOTの使用時間は1日15〜18時間以上を原則とする。,{},○,在宅酸素療法(HOT)の効果を得るには1日15〜18時間以上の使用が原則とされる。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 52, ""image"": ""assets/reference_pages/k1_p052.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=52"", ""highlights"": [{""x"": 0.5195, ""y"": 0.6759, ""w"": 0.3703, ""h"": 0.0257}]}"
-qa-2794,qa,各論I 気道・肺疾患,各論I-2 COPD,HOT使用者は鼻粘膜保護のため、加湿器の使用が推奨される。,{},×,3L/分以下の経鼻吸入では不要と考えられる。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.1039, ""y"": 0.6255, ""w"": 0.3801, ""h"": 0.0237}]}"
-qa-2795,qa,各論I 気道・肺疾患,各論I-2 COPD,肺気腫が下葉優位の症例では、肺容量減量手術(LVRS)が検討される。,{},×,上葉に気腫が偏在する症例が良い適応である。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 52, ""image"": ""assets/reference_pages/k1_p052.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=52""}"
+qa-2754,qa,各論I 気道・肺疾患,各論I-2 COPD,%FEV1<30%であれば病期分類はIV期である。,{},○,"病期分類で%FEV1<30%はIV期(最重症)。I期≧80%、II期50〜80%、III期30〜50%、IV期<30%。
+
+【AI解説】
+【結論】正しい（○）。病期分類で%FEV1<30%はIV期（最重症）。I期≧80%、II期50〜80%、III期30〜50%、IV期<30%。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49""}"
+qa-2755,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDのスパイロメトリーではV50/V25が増大する。,{},×,"呼気終末の気道虚脱を反映して、V50/V25が低下する。
+
+【AI解説】
+【結論】誤り（×）。COPDでは呼気終末の気道虚脱を反映してV50/V25は低下する（増大ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49"", ""highlights"": [{""x"": 0.1074, ""y"": 0.0944, ""w"": 0.3877, ""h"": 0.0217}]}"
+qa-2756,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDでは機能的残気量が増加する。,{},○,"呼気時の気流制限を反映した所見である。
+
+【AI解説】
+【結論】正しい（○）。COPDでは呼気時の気流制限（エアトラッピング）を反映して機能的残気量が増加する。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.5035, ""y"": 0.0692, ""w"": 0.3933, ""h"": 0.0198}]}"
+qa-2757,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDのフロー・ボリューム曲線では下降脚が下に凸となる。,{},○,"気流閉塞により呼出後半の流量が低下し、フロー・ボリューム曲線の下降脚は下に凸(scooped out)となる。
+
+【AI解説】
+【結論】正しい（○）。COPDのフロー・ボリューム曲線の下降脚は下に凸（scooped out）となる（呼出後半の流量低下）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49"", ""highlights"": [{""x"": 0.5397, ""y"": 0.6596, ""w"": 0.3947, ""h"": 0.0257}]}"
+qa-2758,qa,各論I 気道・肺疾患,各論I-2 COPD,肺拡散能は貧血により上昇する。,{},×,"貧血により低下するため、ヘモグロビン濃度による補正を考慮する。
+
+【AI解説】
+【結論】誤り（×）。肺拡散能は貧血により低下する（上昇ではない）ため、ヘモグロビン濃度で補正する。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49""}"
+qa-2759,qa,各論I 気道・肺疾患,各論I-2 COPD,気管支拡張薬の吸入後に1秒量が12%かつ200mL以上増加する場合はCOPDではない。,{},×,"喘息を合併している可能性があるが、COPDの診断に際して気道可逆性の有無や程度は問われない。
+
+【AI解説】
+【結論】誤り（×）。気道可逆性（12%かつ200 mL以上の増加）があってもCOPDは否定されない（診断に可逆性の有無・程度は問わない、喘息合併の可能性はある）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 48, ""image"": ""assets/reference_pages/k1_p048.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=48"", ""highlights"": [{""x"": 0.0872, ""y"": 0.2154, ""w"": 0.3591, ""h"": 0.0188}]}"
+qa-2760,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDでは呼気一酸化窒素濃度(FeNO)は上昇することが多い。,{},×,"酸化ストレスによりNOはニトロチロシンなどに代謝され、喘息非合併例では上昇しないことが多い。
+
+【AI解説】
+【結論】誤り（×）。COPD（喘息非合併例）ではFeNOは上昇しないことが多い（NOがニトロチロシンに代謝される）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0704, ""y"": 0.6112, ""w"": 0.3926, ""h"": 0.0193}]}"
+qa-2761,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDでは呼気中一酸化炭素(CO)濃度は上昇することが多い。,{},○,"禁煙後でも健常者よりも高値を示すことが多い。
+
+【AI解説】
+【結論】正しい（○）。COPDでは呼気中一酸化炭素（CO）濃度が上昇することが多い（禁煙後でも健常者より高値）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0704, ""y"": 0.6112, ""w"": 0.3926, ""h"": 0.0193}]}"
+qa-2762,qa,各論I 気道・肺疾患,各論I-2 COPD,広域周波オシレーション法では、気道抵抗を含む呼吸抵抗[レジスタンス(R)]が上昇する。,{},○,"主に換気不均等を反映して、20Hzに比べて5HzのRが高くなるような周波数依存性がみられる。
+
+【AI解説】
+【結論】正しい（○）。広域周波オシレーション法でCOPDは呼吸抵抗（R）が上昇し、5Hzが20Hzより高い周波数依存性を示す。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49"", ""highlights"": [{""x"": 0.5384, ""y"": 0.7821, ""w"": 0.3947, ""h"": 0.0257}]}"
+qa-2763,qa,各論I 気道・肺疾患,各論I-2 COPD,広域周波オシレーション法では、弾性と慣性を反映する呼吸リアクタンス(X)は正側にシフトする。,{},×,"負側にシフトし、その結果、共振周波数も高くなる。この変化は呼気時により顕著に観察される。
+
+【AI解説】
+【結論】誤り（×）。COPDでは呼吸リアクタンス（X）は負側にシフトし共振周波数が高くなる（呼気時に顕著）（正側ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49"", ""highlights"": [{""x"": 0.5384, ""y"": 0.7821, ""w"": 0.3947, ""h"": 0.0257}]}"
+qa-2764,qa,各論I 気道・肺疾患,各論I-2 COPD,CAT質問表は症状やQOLに関する6項目を0〜30点で評価する。,{},×,"COPD Assessment Testであり、8項目を0〜40点で評価する。
+
+【AI解説】
+【結論】誤り（×）。CATはCOPD Assessment Testで8項目を0〜40点で評価する（6項目0〜30点ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 48, ""image"": ""assets/reference_pages/k1_p048.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=48"", ""highlights"": [{""x"": 0.5035, ""y"": 0.5613, ""w"": 0.394, ""h"": 0.0128}]}"
+qa-2765,qa,各論I 気道・肺疾患,各論I-2 COPD,CAT以外にもIPAGやCOPD-PS、ACTなどの質問票がCOPDで使われる。,{},×,"ACT(Asthma Control Test)は喘息のコントロール状態を確認するための質問票である。
+
+【AI解説】
+【結論】誤り（×）。ACT（Asthma Control Test）は喘息用の質問票（COPDで使うのはIPAG・COPD-PSなど）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0704, ""y"": 0.6112, ""w"": 0.3926, ""h"": 0.0193}]}"
+qa-2766,qa,各論I 気道・肺疾患,各論I-2 COPD,I型呼吸不全ではCO2ナルコーシスのリスクが高い。,{},×,"PaCO2>45 TorrのII型呼吸不全で高リスクである。
+
+【AI解説】
+【結論】誤り（×）。CO2ナルコーシスのリスクが高いのはPaCO2>45 TorrのII型呼吸不全（I型ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0662, ""y"": 0.3977, ""w"": 0.3968, ""h"": 0.0232}]}"
+qa-2767,qa,各論I 気道・肺疾患,各論I-2 COPD,喀痰中好中球数は気腫の程度や増悪頻度と強い相関がある。,{},×,"COPDでは喀痰中の好中球は増加するが、臨床指標との相関は限定的である。
+
+【AI解説】
+【結論】誤り（×）。COPDで喀痰中好中球は増加するが、気腫の程度や増悪頻度との相関は限定的（強い相関ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0704, ""y"": 0.6112, ""w"": 0.3926, ""h"": 0.0193}]}"
+qa-2768,qa,各論I 気道・肺疾患,各論I-2 COPD,喀痰中好酸球が多い症例では吸入ステロイドの反応性が良い。,{},○,"吸入ステロイドによる増悪頻度減少効果が報告されている。
+
+【AI解説】
+【結論】正しい（○）。喀痰中好酸球が多い症例では吸入ステロイドの反応性が良い（増悪頻度減少効果）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.5035, ""y"": 0.5069, ""w"": 0.3933, ""h"": 0.0203}]}"
+qa-2769,qa,各論I 気道・肺疾患,各論I-2 COPD,末梢血中と喀痰中の好酸球数には正の相関関係が認められる。,{},○,"末梢血中好酸球数を参考に、吸入ステロイドの適応を判断することが可能である。
+
+【AI解説】
+【結論】正しい（○）。末梢血中と喀痰中の好酸球数には正の相関があり、末梢血好酸球数でICS適応を判断できる。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.5035, ""y"": 0.5069, ""w"": 0.3933, ""h"": 0.0203}]}"
+qa-2770,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDでは末梢血中の白血球数は健常者よりも高値を示す。,{},○,"禁煙後でも健常者よりも高値を示すことが多い。
+
+【AI解説】
+【結論】正しい（○）。COPDでは末梢血白血球数が健常者より高値を示す（禁煙後でも高い）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0704, ""y"": 0.6112, ""w"": 0.3926, ""h"": 0.0193}]}"
+qa-2771,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDの心電図では肺性P波がみられる。,{},×,"COPD単独における肺高血圧症は軽度であることが多く、心電図による右房負荷の検出感度は低い。
+
+【AI解説】
+【結論】誤り（×）。COPD単独の肺高血圧は軽度が多く、心電図での右房負荷（肺性P波）の検出感度は低い。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 49, ""image"": ""assets/reference_pages/k1_p049.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=49"", ""highlights"": [{""x"": 0.5391, ""y"": 0.6467, ""w"": 0.3926, ""h"": 0.0188}]}"
+qa-2772,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDではβ遮断薬の投与は禁忌である。,{},×,"選択的β遮断薬は、虚血性心疾患・心不全合併例に対して使用することは可能である。
+
+【AI解説】
+【結論】誤り（×）。選択的β遮断薬は虚血性心疾患・心不全合併COPDで使用可能（β遮断薬全般が禁忌ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.069, ""y"": 0.2441, ""w"": 0.3801, ""h"": 0.0198}]}"
+qa-2773,qa,各論I 気道・肺疾患,各論I-2 COPD,心不全合併例に対して長時間作用性抗コリン薬(long-acting muscarinic antagonist: LAMA)は禁忌である。,{},×,"心血管イベントの増加は明らかでなく、禁忌ではない。
+
+【AI解説】
+【結論】誤り（×）。心不全合併例へのLAMAは心血管イベント増加が明らかでなく禁忌ではない。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.1025, ""y"": 0.4387, ""w"": 0.3926, ""h"": 0.0128}]}"
+qa-2774,qa,各論I 気道・肺疾患,各論I-2 COPD,緑内障を合併する場合、全例でLAMAは禁忌である。,{},×,"閉塞隅角緑内障の症例では禁忌だが、それ以外の症例では安全に投与が可能である。
+
+【AI解説】
+【結論】誤り（×）。LAMAが禁忌なのは閉塞隅角緑内障のみで、それ以外の緑内障では投与可能（全例禁忌ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53""}"
+qa-2775,qa,各論I 気道・肺疾患,各論I-2 COPD,前立腺肥大症合併例には、全例でLAMAは禁忌である。,{},×,"排尿障害のない症例では慎重に使用可能である。
+
+【AI解説】
+【結論】誤り（×）。前立腺肥大症でも排尿障害のない症例ではLAMAを慎重に使用可能（全例禁忌ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53""}"
+qa-2776,qa,各論I 気道・肺疾患,各論I-2 COPD,心不全合併例に対して長時間作用性β2刺激薬(long-acting β2-agonist: LABA)は禁忌である。,{},×,"頻脈性心疾患の合併例で注意は必要なものの、禁忌ではない。
+
+【AI解説】
+【結論】誤り（×）。心不全合併例へのLABAは頻脈性心疾患で注意は要するが禁忌ではない。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.1185, ""y"": 0.5203, ""w"": 0.3801, ""h"": 0.0242}]}"
+qa-2777,qa,各論I 気道・肺疾患,各論I-2 COPD,テオフィリン製剤による気管支拡張作用を得るためには、血中濃度を30〜40μg/mLにするよう調整する。,{},×,"有効血中濃度は5〜15μg/mLである。5μg/mL程度でも気道炎症や酸化ストレス軽減効果が期待でき、近年は投与の推奨レベルが低下している。
+
+【AI解説】
+【結論】誤り（×）。テオフィリンの有効血中濃度は5〜15μg/mL（30〜40μg/mLは中毒域）。近年は低用量の推奨。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.5391, ""y"": 0.3844, ""w"": 0.3926, ""h"": 0.0193}]}"
+qa-2778,qa,各論I 気道・肺疾患,各論I-2 COPD,テオフィリンには胃酸分泌亢進作用がある。,{},○,"消化性潰瘍の発症に注意が必要である。
+
+【AI解説】
+【結論】正しい（○）。テオフィリンには胃酸分泌亢進作用があり消化性潰瘍に注意する。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.0669, ""y"": 0.0692, ""w"": 0.3815, ""h"": 0.0203}]}"
+qa-2779,qa,各論I 気道・肺疾患,各論I-2 COPD,軽症例ではテオフィリン単剤での管理も可能である。,{},×,"LAMAあるいはLABAの導入が優先される。
+
+【AI解説】
+【結論】誤り（×）。軽症COPDでもLAMAまたはLABAの導入が優先される（テオフィリン単剤ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.1192, ""y"": 0.7342, ""w"": 0.3787, ""h"": 0.0183}]}"
+qa-2780,qa,各論I 気道・肺疾患,各論I-2 COPD,軽症例は吸入ステロイド(inhaled corticosteroid: ICS)単剤での治療も可能である。,{},×,"LAMAあるいはLABAとの併用が前提である。
+
+【AI解説】
+【結論】誤り（×）。COPDでICSはLAMAまたはLABAとの併用が前提（ICS単剤ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.0669, ""y"": 0.5242, ""w"": 0.3919, ""h"": 0.0193}]}"
+qa-2781,qa,各論I 気道・肺疾患,各論I-2 COPD,抗酸菌感染症合併例に対するICSの投与は望ましくない。,{},○,"抗酸菌症増悪が懸念される。
+
+【AI解説】
+【結論】正しい（○）。抗酸菌感染症合併例へのICS投与は抗酸菌症増悪が懸念され望ましくない。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.5558, ""y"": 0.456, ""w"": 0.3766, ""h"": 0.0133}]}"
+qa-2782,qa,各論I 気道・肺疾患,各論I-2 COPD,明らかな喘息合併でなくても、末梢血好酸球数が100/μL以上であれば、LAMAやLABAにICSの上乗せを検討してよい。,{},○,"300/μL以上であれば積極的にICSの追加が検討される。3剤合剤製剤が近年は多く処方される。
+
+【AI解説】
+【結論】正しい（○）。末梢血好酸球数100/μL以上ではLAMA/LABAへのICS上乗せを検討してよい（300/μL以上で積極的に）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 52, ""image"": ""assets/reference_pages/k1_p052.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=52"", ""highlights"": [{""x"": 0.0711, ""y"": 0.4827, ""w"": 0.825, ""h"": 0.0173}]}"
+qa-2783,qa,各論I 気道・肺疾患,各論I-2 COPD,肺炎を反復する症例では、LAMAやLABAに加えて積極的にICSの上乗せを検討する。,{},×,"細菌性肺炎以外の増悪が多い症例ではICSによる増悪抑制が期待できるが、肺炎を反復する症例ではICSの上乗せにより肺炎の増悪が懸念される。
+
+【AI解説】
+【結論】誤り（×）。肺炎を反復する症例ではICS上乗せにより肺炎増悪が懸念されるため積極的には行わない。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.5411, ""y"": 0.6996, ""w"": 0.3912, ""h"": 0.0203}]}"
+qa-2784,qa,各論I 気道・肺疾患,各論I-2 COPD,吸入する力が弱い症例ではドライパウダー製剤を用いる。,{},×,"一般的にドライパウダー製剤よりも噴霧式製剤(pMDIやソフトミスト)の方が弱い吸入力で使用可能である。
+
+【AI解説】
+【結論】誤り（×）。吸入力が弱い症例には噴霧式製剤（pMDI・ソフトミスト）が適する（ドライパウダーは十分な吸入力が必要）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53""}"
+qa-2785,qa,各論I 気道・肺疾患,各論I-2 COPD,LAMAやLABAの吸入後にはうがいが必須である。,{},×,"ICSではうがい不足により嗄声や口腔カンジダ症のリスクが高まるが、LAMAやLABAでは必須ではない(実臨床上ではうがいを指導することもある)。
+
+【AI解説】
+【結論】誤り（×）。うがいが必須なのはICS（嗄声・口腔カンジダ予防）で、LAMA/LABAでは必須ではない。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.5056, ""y"": 0.0865, ""w"": 0.394, ""h"": 0.0193}]}"
+qa-2786,qa,各論I 気道・肺疾患,各論I-2 COPD,マクロライド系抗菌薬の少量長期投与療法により、急性増悪の抑制やQOLの向上が示されている。,{},○,"非結核性抗酸菌症をはじめとした薬剤耐性菌の出現に注意が必要だが、頻回増悪例で投与が検討される。
+
+【AI解説】
+【結論】正しい（○）。マクロライド少量長期投与は急性増悪抑制やQOL向上が示される（耐性菌に注意、頻回増悪例で検討）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.5558, ""y"": 0.8745, ""w"": 0.3759, ""h"": 0.0203}]}"
+qa-2787,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDは在宅酸素療法(HOT)導入時の基礎疾患として最多である。,{},○,"約45%がCOPDが基礎疾患である。
+
+【AI解説】
+【結論】正しい（○）。COPDは在宅酸素療法（HOT）導入時の基礎疾患として最多（約45%）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.5035, ""y"": 0.0692, ""w"": 0.3933, ""h"": 0.0198}]}"
+qa-2788,qa,各論I 気道・肺疾患,各論I-2 COPD,6分間歩行試験の主要評価項目は、最大歩行距離である。,{},○,"自分のペースで歩ける最長距離を測定し、運動耐容能の指標とすることが一次評価項目である。呼吸困難感、心拍数、SpO2などは副次評価項目となる。
+
+【AI解説】
+【結論】正しい（○）。6分間歩行試験の主要評価項目は最大歩行距離（運動耐容能の指標、呼吸困難・心拍・SpO2は副次）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.0683, ""y"": 0.5064, ""w"": 0.3954, ""h"": 0.0193}]}"
+qa-2789,qa,各論I 気道・肺疾患,各論I-2 COPD,安静時SpO2が93%がHOT導入の目安であり、症状や生命予後の改善効果が示されている。,{},×,"一般的にSpO2≦88%程度が目安と考えられ、中等度低酸素を呈する症例への早期導入はエビデンスに乏しい。
+
+【AI解説】
+【結論】誤り（×）。HOT導入の目安はSpO2≦88%程度（PaO2≦55 Torr）で、SpO2 93%の中等度低酸素への早期導入はエビデンスに乏しい。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.5028, ""y"": 0.2964, ""w"": 0.2008, ""h"": 0.0203}]}"
+qa-2790,qa,各論I 気道・肺疾患,各論I-2 COPD,安定期にPaCO2≧55Torrを示す症例では、非侵襲的陽圧換気療法(non-invasive positive pressure ventilation: NPPV)の導入が考慮される。,{},○,"安静時PaCO2<55Torrでも、高CO2血症を伴う増悪や夜間低換気を認める症例ではNPPVが考慮される。
+
+【AI解説】
+【結論】正しい（○）。安定期にPaCO2≧55 TorrではNPPVの導入が考慮される（55未満でも夜間低換気などで考慮）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 54, ""image"": ""assets/reference_pages/k1_p054.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=54"", ""highlights"": [{""x"": 0.5056, ""y"": 0.1023, ""w"": 0.3912, ""h"": 0.0217}]}"
+qa-2791,qa,各論I 気道・肺疾患,各論I-2 COPD,睡眠時無呼吸症候群の合併例では、必要に応じて持続陽圧呼吸療法とHOTを併用することができる。,{},○,"使用するデバイスによって、両者を併用することも可能である。
+
+【AI解説】
+【結論】正しい（○）。睡眠時無呼吸合併例では必要に応じてCPAPとHOTを併用できる。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 52, ""image"": ""assets/reference_pages/k1_p052.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=52"", ""highlights"": [{""x"": 0.0914, ""y"": 0.0983, ""w"": 0.7964, ""h"": 0.0247}]}"
+qa-2792,qa,各論I 気道・肺疾患,各論I-2 COPD,HOT使用者の飛行機への搭乗は禁忌である。,{},×,"飛行中は酸素流量を1〜2L/分増やすことが推奨される(搭乗は可能である)。
+
+【AI解説】
+【結論】誤り（×）。HOT使用者も飛行機搭乗は可能で、飛行中は酸素流量を1〜2 L/分増やすことが推奨される（禁忌ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""総論 V 治療"", ""page"": 47, ""image"": ""assets/reference_pages/s5_p047.webp"", ""viewer"": ""reference-viewer.html?doc=s5&page=47"", ""highlights"": [{""x"": 0.1018, ""y"": 0.5726, ""w"": 0.3968, ""h"": 0.0761}]}"
+qa-2793,qa,各論I 気道・肺疾患,各論I-2 COPD,HOTの使用時間は1日15〜18時間以上を原則とする。,{},○,"在宅酸素療法(HOT)の効果を得るには1日15〜18時間以上の使用が原則とされる。
+
+【AI解説】
+【結論】正しい（○）。HOTは1日15〜18時間以上の使用を原則とする（効果を得るため）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 52, ""image"": ""assets/reference_pages/k1_p052.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=52"", ""highlights"": [{""x"": 0.5195, ""y"": 0.6759, ""w"": 0.3703, ""h"": 0.0257}]}"
+qa-2794,qa,各論I 気道・肺疾患,各論I-2 COPD,HOT使用者は鼻粘膜保護のため、加湿器の使用が推奨される。,{},×,"3L/分以下の経鼻吸入では不要と考えられる。
+
+【AI解説】
+【結論】誤り（×）。3 L/分以下の経鼻酸素吸入では加湿器は不要（推奨ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.1039, ""y"": 0.6255, ""w"": 0.3801, ""h"": 0.0237}]}"
+qa-2795,qa,各論I 気道・肺疾患,各論I-2 COPD,肺気腫が下葉優位の症例では、肺容量減量手術(LVRS)が検討される。,{},×,"上葉に気腫が偏在する症例が良い適応である。
+
+【AI解説】
+【結論】誤り（×）。肺容量減量手術（LVRS）の良い適応は上葉優位に気腫が偏在する症例（下葉優位ではない）。","[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 52, ""image"": ""assets/reference_pages/k1_p052.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=52""}"
 qa-2796,qa,各論I 気道・肺疾患,各論I-2 COPD,重度のCOPDは肺移植の適応外である。,{},×,国内での症例数は少ないが、適応疾患に含まれる。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.1053, ""y"": 0.33, ""w"": 0.8131, ""h"": 0.0173}]}"
 qa-2797,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDの終末期においては、アドバンス・ケア・プランニングに取り組むことが推奨される。,{},○,悪性疾患と異なり、患者自身が疾患が死に向かうものと認識していないことがある。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 53, ""image"": ""assets/reference_pages/k1_p053.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=53"", ""highlights"": [{""x"": 0.1039, ""y"": 0.6255, ""w"": 0.3801, ""h"": 0.0237}]}"
 qa-2798,qa,各論I 気道・肺疾患,各論I-2 COPD,COPDはホスピス・緩和ケア病棟利用の保険適用疾患である。,{},×,保険適用は悪性腫瘍またはAIDSに限られる。,"[""各論I"", ""慢性閉塞性肺疾患（COPD）"", ""○×問題"", ""PDF転記""]",2 COPD.pdf,[],"{""title"": ""各論 I 気道・肺疾患"", ""page"": 50, ""image"": ""assets/reference_pages/k1_p050.webp"", ""viewer"": ""reference-viewer.html?doc=k1&page=50"", ""highlights"": [{""x"": 0.5035, ""y"": 0.8043, ""w"": 0.3961, ""h"": 0.0198}]}"
