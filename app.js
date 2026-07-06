@@ -363,11 +363,21 @@ function referenceLinkHtml(item){
   const ref = item?.reference;
   if(!ref?.viewer) return '';
   let viewer = ref.viewer;
-  if(Array.isArray(ref.highlights) && ref.highlights.length){
+  // ハイライトは「専門医テキストから作成した問題」に限定して表示する。
+  // それ以外（一問一答由来など）は根拠位置が不確実なため、ハイライトは付けず
+  // 対応する疾患・章のみを案内する。
+  const isOriginal = item?.source?.kind === 'original';
+  const hasHL = Array.isArray(ref.highlights) && ref.highlights.length;
+  const showHL = isOriginal && hasHL;
+  if(showHL){
     const hl = ref.highlights.map(r => [r.x, r.y, r.w, r.h].map(v => Number(v).toFixed(4)).join(',')).join(';');
     viewer += (viewer.includes('?') ? '&' : '?') + 'hl=' + encodeURIComponent(hl);
   }
-  const note = (Array.isArray(ref.highlights) && ref.highlights.length) ? '／解答の根拠箇所をハイライト表示' : '／閲覧専用ページ';
+  // 対応する疾患・章をビューアへ渡す（ハイライト非表示問題の見出し表示に使う）
+  if(item?.section){
+    viewer += (viewer.includes('?') ? '&' : '?') + 'sec=' + encodeURIComponent(item.section);
+  }
+  const note = showHL ? '／解答の根拠箇所をハイライト表示' : `／対応：${item?.section || ref.title}`;
   const label = `${ref.title}（PDF ${ref.page}ページ）`;
   return `<div class="reference-link-wrap"><a class="reference-link" href="${escapeHtml(viewer)}" data-reference-viewer="${escapeHtml(viewer)}">📖 教科書の該当解説を開く</a><small>${escapeHtml(label)}${escapeHtml(note)}</small></div>`;
 }

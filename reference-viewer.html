@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#0f766e">
   <meta name="robots" content="noindex,nofollow,noarchive">
   <title>教科書参照</title>
-  <link rel="stylesheet" href="reference-viewer.css?v=76">
+  <link rel="stylesheet" href="reference-viewer.css?v=77">
 </head>
 <body>
   <header>
@@ -15,8 +15,13 @@
     <span id="pageLabel"></span>
   </header>
   <main>
-    <div id="notice" class="notice">添付PDFの該当ページを表示しています。本文の文字は選択・コピーできます（OCR由来のため一部に誤認識が含まれることがあります）。</div>
+    <div id="secBanner" class="sec-banner hidden"></div>
+    <div id="notice" class="notice">添付PDFの該当ページを表示しています。本文の文字は選択・コピーできます（OCR由来のため一部に誤認識が含まれることがあります）。ページは指2本のピンチで拡大縮小できます。</div>
     <div class="toolbar">
+      <button id="prevPage" type="button" aria-label="前のページ">◀ 前</button>
+      <span id="pageNav">－</span>
+      <button id="nextPage" type="button" aria-label="次のページ">次 ▶</button>
+      <span class="tool-sep" aria-hidden="true"></span>
       <button id="zoomOut" type="button">－</button>
       <span id="zoomLabel">100%</span>
       <button id="zoomIn" type="button">＋</button>
@@ -34,6 +39,6 @@
     <p id="error" class="error hidden">参照ページを表示できませんでした。</p>
   </main>
   <script src="assets/vendor/pdfjs/pdf.min.js?v=73"></script>
-  <script src="reference-viewer.js?v=73"></script>
+  <script src="reference-viewer.js?v=77"></script>
 </body>
 </html>
