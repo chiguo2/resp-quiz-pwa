@@ -498,6 +498,7 @@ function gradeMcq(selectedKeys){
     if(correct.includes(key)) b.classList.add('correct');
     if(selected.includes(key) && !correct.includes(key)) b.classList.add('wrong');
   });
+  $('submitMcqBtn').classList.add('hidden');   // 採点後は「解答する」を隠す
   showAnswer();
   const pickedText = selected.map(k => current.choices?.[k]).filter(Boolean).join(' / ');
   record(ok, pickedText ? pickedText : null);
