@@ -349,13 +349,13 @@ function gradeOX(picked){
 
 function renderChoices(item){
   const originalKeys = Object.keys(item.choices || {});
-  const displayKeys = ['a','b','c','d','e','f','g','h'];
   const correctKeys = answerKeys(item);
   const multi = correctKeys.length > 1;
-  const shuffledKeys = shuffle(originalKeys);
-  item._renderedChoices = shuffledKeys.map((originalKey, i) => ({
+  // 選択肢はシャッフルせず、保存キーの順序のまま表示する。表示ラベルも元キーと
+  // 同一にすることで、解説・正解表記（元キー基準）とのずれを防ぐ。
+  item._renderedChoices = originalKeys.map((originalKey) => ({
     originalKey,
-    displayKey: displayKeys[i] || String(i + 1),
+    displayKey: originalKey,
     text: item.choices[originalKey]
   }));
   item._displayCorrectKeys = item._renderedChoices.filter(x => correctKeys.includes(x.originalKey)).map(x => x.displayKey);
