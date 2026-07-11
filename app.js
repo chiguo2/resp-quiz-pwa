@@ -126,6 +126,16 @@ function updateSectionSummary(){
   }
 }
 
+function updateReviewHint(){
+  const hint = $('reviewCountHint');
+  const mode = $('modeSelect').value;
+  if(mode !== 'review'){ hint.classList.add('hidden'); return; }
+  const stats = getStats();
+  const n = data.filter(x => stats[x.id]?.lastAns && stats[x.id].lastAns.ok === false).length;
+  hint.textContent = n ? `直近で×だった問題：${n}問` : '直近で×だった問題はまだありません。';
+  hint.classList.remove('hidden');
+}
+
 function baseFiltered(){
   const mode=$('modeSelect').value;
   const selected = selectedSections();
@@ -135,6 +145,7 @@ function baseFiltered(){
   let arr=data.filter(x => !useSectionFilter || selectedSet.has(x.section));
   if(mode==='qa') arr=arr.filter(x=>x.type==='qa');
   if(mode==='mcq') arr=arr.filter(x=>x.type==='mcq');
+  if(mode==='review') arr=arr.filter(x=>stats[x.id]?.lastAns && stats[x.id].lastAns.ok===false);
   if(mode==='wrong') arr=arr.filter(x=>stats[x.id]?.wrong>0);
   if(mode==='noted'){ const notes=getNotes(); arr=arr.filter(x=>hasNote(notes[x.id])); }
   if($('orderSelect').value==='random') arr=shuffle(arr);
@@ -151,6 +162,19 @@ function requestedLimit(max){
   return Math.min(parseInt(value, 10), max);
 }
 
+function showSetupView(){
+  $('setupView').classList.remove('hidden');
+  $('quizView').classList.add('hidden');
+  updateNotesCount();
+  updateReviewHint();
+  window.scrollTo(0, 0);
+}
+function showQuizView(){
+  $('setupView').classList.add('hidden');
+  $('quizView').classList.remove('hidden');
+  window.scrollTo(0, 0);
+}
+
 function start(customQueue=null){
   sourceQueue = customQueue ? [...customQueue] : baseFiltered();
   const limit = requestedLimit(sourceQueue.length);
@@ -159,6 +183,7 @@ function start(customQueue=null){
   session={done:0, correct:0, wrongIds:[], answeredIds:new Set(), finished:false};
   $('resultPanel').classList.add('hidden');
   $('card').classList.remove('hidden');
+  showQuizView();
   updateCounts();
   showCard();
 }
@@ -261,6 +286,11 @@ function showCard(){
   if(index >= queue.length){ finishSession(); return; }
   current=queue[index];
   current._selectedKeys = new Set();
+  // 前回（このセッションで解答する前）の直近1回の結果を記録しておく
+  if(!session.answeredIds.has(current.id)){
+    const st = getStats()[current.id];
+    current._prevAns = st && st.lastAns ? st.lastAns : null;
+  }
   $('choices').classList.remove('ox-grid');
   $('badge').textContent = `${current.type==='qa'?'○×問題':'選択問題'}｜${current.section}`;
   $('progress').textContent = `${index+1} / ${queue.length}`;
@@ -314,7 +344,7 @@ function gradeOX(picked){
     if(b.dataset.ox===picked && !ok) b.classList.add('wrong');
   });
   showAnswer();
-  record(ok);
+  record(ok, picked);
 }
 
 function renderChoices(item){
@@ -422,17 +452,33 @@ function showAnswer(){
   }else{
     answerTextValue = `正解：${answerText(current)}\n${mappedExplanation(current)}`;
   }
-  $('answerBox').innerHTML = `<div class="answer-text">${escapeHtml(answerTextValue).replace(/\n/g,'<br>')}</div>${referenceLinkHtml(current)}${sourceLinkHtml(current)}${researchLinksHtml(current)}`;
+  $('answerBox').innerHTML = `${prevAnswerHtml(current)}<div class="answer-text">${escapeHtml(answerTextValue).replace(/\n/g,'<br>')}</div>${referenceLinkHtml(current)}${sourceLinkHtml(current)}${researchLinksHtml(current)}`;
   $('answerBox').classList.remove('hidden');
 }
 
-function record(ok){
+function prevAnswerHtml(item){
+  const p = item?._prevAns;
+  if(!p) return '';
+  const cls = p.ok ? 'prev-correct' : 'prev-wrong';
+  const mark = p.ok ? '○ 正解' : '× 不正解';
+  const when = p.at ? new Date(p.at).toLocaleDateString('ja-JP') : '';
+  let picked = '';
+  if(p.picked){
+    const t = String(p.picked);
+    picked = `あなたの解答「${escapeHtml(t.length > 40 ? t.slice(0,40)+'…' : t)}」→ `;
+  }
+  return `<div class="prev-ans ${cls}">📌 前回の解答：${picked}${mark}${when ? '（'+when+'）' : ''}</div>`;
+}
+
+function record(ok, picked=null){
   if(!current || session.answeredIds.has(current.id)) return;
   const stats=getStats();
   stats[current.id] ||= {seen:0, correct:0, wrong:0, last:null};
   stats[current.id].seen += 1;
   if(ok) stats[current.id].correct += 1; else stats[current.id].wrong += 1;
-  stats[current.id].last = new Date().toISOString();
+  const at = new Date().toISOString();
+  stats[current.id].last = at;
+  stats[current.id].lastAns = { ok: !!ok, picked: picked || null, at }; // 直近1回の解答履歴
   setStats(stats);
   session.answeredIds.add(current.id);
   session.done += 1;
@@ -453,7 +499,8 @@ function gradeMcq(selectedKeys){
     if(selected.includes(key) && !correct.includes(key)) b.classList.add('wrong');
   });
   showAnswer();
-  record(ok);
+  const pickedText = selected.map(k => current.choices?.[k]).filter(Boolean).join(' / ');
+  record(ok, pickedText ? pickedText : null);
 }
 
 function next(){
@@ -486,7 +533,9 @@ $('reviewWrongBtn').onclick=()=>{
   start(reviewQueue);
 };
 $('restartSameBtn').onclick=()=>start(sourceQueue);
-$('newSessionBtn').onclick=()=>start();
+$('newSessionBtn').onclick=()=>showSetupView();
+$('backToSetupBtn').onclick=()=>showSetupView();
+$('modeSelect').onchange=updateReviewHint;
 $('limitSelect').onchange=()=>{
   $('customLimitWrap').classList.toggle('hidden', $('limitSelect').value !== 'custom');
 };
@@ -502,7 +551,7 @@ $('exportBtn').onclick=()=>{
   const blob=new Blob([JSON.stringify(getStats(), null, 2)], {type:'application/json'});
   const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='resp_quiz_stats.json'; a.click();
 };
-$('resetBtn').onclick=()=>{ if(confirm('成績をリセットしますか？')){localStorage.removeItem(statsKey); for(const key of oldStatsKeys) localStorage.removeItem(key); start();} };
+$('resetBtn').onclick=()=>{ if(confirm('成績をリセットしますか？')){localStorage.removeItem(statsKey); for(const key of oldStatsKeys) localStorage.removeItem(key); showSetupView();} };
 
 let noteTimer = null;
 $('flagBtn').onclick = () => { $('flagBtn').classList.toggle('on'); saveCurrentNote(); };
@@ -533,7 +582,7 @@ $('notesList').addEventListener('click', e => {
 window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredPrompt=e; $('installBtn').classList.remove('hidden'); });
 $('installBtn').onclick=async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); deferredPrompt=null; $('installBtn').classList.add('hidden'); } };
 
-fetch('data/questions.json').then(r=>r.json()).then(json=>{ data=json.items; buildFilters(json.metadata); start(); updateNotesCount(); });
+fetch('data/questions.json').then(r=>r.json()).then(json=>{ data=json.items; buildFilters(json.metadata); showSetupView(); updateNotesCount(); });
 if('serviceWorker' in navigator){
   let refreshing = false;
   navigator.serviceWorker.addEventListener('controllerchange', () => {
