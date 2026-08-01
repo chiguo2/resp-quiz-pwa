@@ -27,6 +27,13 @@ const setNotes = n => localStorage.setItem(notesKey, JSON.stringify(n));
 const hasNote = n => !!(n && ((n.text && n.text.trim()) || n.flag));
 const getNote = id => getNotes()[id] || null;
 
+// ----- 解説の赤字強調（文単位で保存。マーカーモードON時にタップで切替）-----
+const expHlKey = 'respQuizExpHl.v1';
+const getExpHl = () => { try { return JSON.parse(localStorage.getItem(expHlKey)) || {}; } catch(e){ return {}; } };
+const setExpHl = o => localStorage.setItem(expHlKey, JSON.stringify(o));
+const markerKey = 'respQuizMarker.v1';
+let markerMode = localStorage.getItem(markerKey) === '1';
+
 // ----- セッションの途中状態を保存し、前回の続きから再開できるようにする -----
 const resumeKey = 'respQuizResume.v1';
 function saveResume(){
@@ -495,8 +502,24 @@ function showAnswer(){
   }else{
     answerTextValue = `正解：${answerText(current)}\n${mappedExplanation(current)}`;
   }
-  $('answerBox').innerHTML = `${prevAnswerHtml(current)}<div class="answer-text">${escapeHtml(answerTextValue).replace(/\n/g,'<br>')}</div>${referenceLinkHtml(current)}${sourceLinkHtml(current)}${researchLinksHtml(current)}`;
+  const markerBtn = `<button type="button" id="markerToggle" class="marker-toggle${markerMode ? ' on' : ''}">🖍 重要な所を赤字${markerMode ? '：ON（文をタップ）' : 'にする'}</button>`;
+  $('answerBox').innerHTML = `${prevAnswerHtml(current)}${markerBtn}<div class="answer-text${markerMode ? ' marking' : ''}">${explanationSegmentsHtml(answerTextValue, current.id)}</div>${referenceLinkHtml(current)}${sourceLinkHtml(current)}${researchLinksHtml(current)}`;
   $('answerBox').classList.remove('hidden');
+}
+
+// 解説を文単位のタップ可能なspanに分割して描画。保存済みの赤字を再適用する。
+function explanationSegmentsHtml(text, qid){
+  const reds = new Set(getExpHl()[qid] || []);
+  return String(text).split('\n').map(line => {
+    if(!line) return '';
+    const parts = line.match(/[^。]*。|[^。]+/g) || [line];
+    return parts.map(seg => {
+      const key = seg.trim();
+      if(!key) return escapeHtml(seg);
+      const on = reds.has(key);
+      return `<span class="exp-seg${on ? ' hl-red' : ''}" data-seg="${escapeHtml(key)}">${escapeHtml(seg)}</span>`;
+    }).join('');
+  }).join('<br>');
 }
 
 function prevAnswerHtml(item){
@@ -579,6 +602,20 @@ $('reviewWrongBtn').onclick=()=>{
 };
 $('restartSameBtn').onclick=()=>start(sourceQueue);
 $('newSessionBtn').onclick=()=>showSetupView();
+$('answerBox').addEventListener('click', e => {
+  const toggle = e.target.closest('#markerToggle');
+  if(toggle){ markerMode = !markerMode; localStorage.setItem(markerKey, markerMode ? '1' : '0'); showAnswer(); return; }
+  if(!markerMode || !current) return;
+  const seg = e.target.closest('.exp-seg');
+  if(!seg) return;
+  const key = seg.dataset.seg;
+  const store = getExpHl();
+  const set = new Set(store[current.id] || []);
+  if(set.has(key)) set.delete(key); else set.add(key);
+  if(set.size) store[current.id] = [...set]; else delete store[current.id];
+  setExpHl(store);
+  [...$('answerBox').querySelectorAll('.exp-seg')].forEach(s => { if(s.dataset.seg === key) s.classList.toggle('hl-red', set.has(key)); });
+});
 $('backToSetupBtn').onclick=()=>showSetupView();
 $('resumeBtn').onclick=()=>resumeSession();
 $('resumeDiscardBtn').onclick=()=>{ clearResume(); updateResumeBar(); };
