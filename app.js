@@ -27,6 +27,46 @@ const setNotes = n => localStorage.setItem(notesKey, JSON.stringify(n));
 const hasNote = n => !!(n && ((n.text && n.text.trim()) || n.flag));
 const getNote = id => getNotes()[id] || null;
 
+// ----- セッションの途中状態を保存し、前回の続きから再開できるようにする -----
+const resumeKey = 'respQuizResume.v1';
+function saveResume(){
+  if(!queue.length || session.finished){ return; }
+  const modeLabel = $('modeSelect').selectedOptions[0]?.textContent || '';
+  const state = {
+    ids: queue.map(x => x.id),
+    index,
+    done: session.done, correct: session.correct,
+    wrongIds: session.wrongIds, answeredIds: [...session.answeredIds],
+    modeLabel, ts: new Date().toISOString()
+  };
+  try { localStorage.setItem(resumeKey, JSON.stringify(state)); } catch(e){}
+}
+function loadResume(){ try { return JSON.parse(localStorage.getItem(resumeKey)) || null; } catch(e){ return null; } }
+function clearResume(){ localStorage.removeItem(resumeKey); }
+function updateResumeBar(){
+  const bar = $('resumeBar');
+  const s = loadResume();
+  if(!s || !Array.isArray(s.ids) || !s.ids.length || (s.index ?? 0) >= s.ids.length){ bar.classList.add('hidden'); return; }
+  const date = s.ts ? new Date(s.ts).toLocaleString('ja-JP', {month:'numeric', day:'numeric', hour:'2-digit', minute:'2-digit'}) : '';
+  $('resumeText').textContent = `前回の続き：${s.modeLabel || '出題'}　${(s.index ?? 0) + 1} / ${s.ids.length}問目${date ? '（'+date+'）' : ''}`;
+  bar.classList.remove('hidden');
+}
+function resumeSession(){
+  const s = loadResume();
+  if(!s || !Array.isArray(s.ids) || !s.ids.length) return;
+  const map = new Map(data.map(x => [x.id, x]));
+  queue = s.ids.map(id => map.get(id)).filter(Boolean);
+  if(!queue.length){ clearResume(); updateResumeBar(); return; }
+  sourceQueue = [...queue];
+  index = Math.min(s.index ?? 0, queue.length - 1);
+  session = { done: s.done||0, correct: s.correct||0, wrongIds: s.wrongIds||[], answeredIds: new Set(s.answeredIds||[]), finished:false };
+  $('resultPanel').classList.add('hidden');
+  $('card').classList.remove('hidden');
+  showQuizView();
+  updateCounts();
+  showCard();
+}
+
 function shuffle(arr){
   const a=[...arr];
   for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}
@@ -167,6 +207,7 @@ function showSetupView(){
   $('quizView').classList.add('hidden');
   updateNotesCount();
   updateReviewHint();
+  updateResumeBar();
   window.scrollTo(0, 0);
 }
 function showQuizView(){
@@ -190,6 +231,7 @@ function start(customQueue=null){
 
 function finishSession(){
   session.finished = true;
+  clearResume();
   current = null;
   $('card').classList.add('hidden');
   $('resultPanel').classList.remove('hidden');
@@ -307,6 +349,7 @@ function showCard(){
   else renderOX(current);
   if(session.answeredIds.has(current.id)) revealAnswered();
   renderNoteUI();
+  saveResume();
 }
 
 function revealAnswered(){
@@ -484,6 +527,7 @@ function record(ok, picked=null){
   session.done += 1;
   if(ok) session.correct += 1; else session.wrongIds.push(current.id);
   updateCounts();
+  saveResume();
 }
 
 function gradeMcq(selectedKeys){
@@ -536,6 +580,8 @@ $('reviewWrongBtn').onclick=()=>{
 $('restartSameBtn').onclick=()=>start(sourceQueue);
 $('newSessionBtn').onclick=()=>showSetupView();
 $('backToSetupBtn').onclick=()=>showSetupView();
+$('resumeBtn').onclick=()=>resumeSession();
+$('resumeDiscardBtn').onclick=()=>{ clearResume(); updateResumeBar(); };
 $('modeSelect').onchange=updateReviewHint;
 $('limitSelect').onchange=()=>{
   $('customLimitWrap').classList.toggle('hidden', $('limitSelect').value !== 'custom');
