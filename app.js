@@ -176,11 +176,18 @@ function updateSectionSummary(){
 function updateReviewHint(){
   const hint = $('reviewCountHint');
   const mode = $('modeSelect').value;
-  if(mode !== 'review'){ hint.classList.add('hidden'); return; }
   const stats = getStats();
-  const n = data.filter(x => stats[x.id]?.lastAns && stats[x.id].lastAns.ok === false).length;
-  hint.textContent = n ? `直近で×だった問題：${n}問` : '直近で×だった問題はまだありません。';
-  hint.classList.remove('hidden');
+  if(mode === 'review'){
+    const n = data.filter(x => stats[x.id]?.lastAns && stats[x.id].lastAns.ok === false).length;
+    hint.textContent = n ? `直近で×だった問題：${n}問` : '直近で×だった問題はまだありません。';
+    hint.classList.remove('hidden');
+  }else if(mode === 'unseen'){
+    const n = data.filter(x => !(stats[x.id]?.seen > 0)).length;
+    hint.textContent = n ? `未回答の問題：${n}問（全${data.length}問中）` : 'すべての問題を回答済みです。';
+    hint.classList.remove('hidden');
+  }else{
+    hint.classList.add('hidden');
+  }
 }
 
 function baseFiltered(){
@@ -192,6 +199,7 @@ function baseFiltered(){
   let arr=data.filter(x => !useSectionFilter || selectedSet.has(x.section));
   if(mode==='qa') arr=arr.filter(x=>x.type==='qa');
   if(mode==='mcq') arr=arr.filter(x=>x.type==='mcq');
+  if(mode==='unseen') arr=arr.filter(x=>!(stats[x.id]?.seen>0));
   if(mode==='review') arr=arr.filter(x=>stats[x.id]?.lastAns && stats[x.id].lastAns.ok===false);
   if(mode==='wrong') arr=arr.filter(x=>stats[x.id]?.wrong>0);
   if(mode==='noted'){ const notes=getNotes(); arr=arr.filter(x=>hasNote(notes[x.id])); }
