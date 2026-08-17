@@ -5,14 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#0f766e">
   <link rel="manifest" href="manifest.json">
-  <link rel="stylesheet" href="style.css?v=189">
+  <link rel="stylesheet" href="style.css?v=190">
   <title>呼吸器専門医 問題集</title>
 </head>
 <body>
   <header class="app-header">
     <div>
       <p class="eyebrow">呼吸器専門医試験</p>
-      <h1>問題集 <span id="appVer" class="ver">v189</span></h1>
+      <h1>問題集 <span id="appVer" class="ver">v190</span></h1>
     </div>
     <button id="installBtn" class="ghost hidden">インストール</button>
   </header>
@@ -88,8 +88,17 @@
       <details>
         <summary>使い方・データ管理</summary>
         <p>○×問題は「○」か「×」を選ぶと自動採点します。選択問題は選択肢をタップすると自動採点します（解説の記載とずれないよう、選択肢は元の並びで表示します）。複数選択問題では選択肢を複数タップしてから「解答する」を押します。語句を答える問題は同分野の用語をダミーに混ぜた選択問題になっています。写真付きの過去問は問題文の下に必要な図表を表示します。解答表示後の「教科書の該当解説を開く」から、添付PDFの対応ページを閲覧専用画面で参照できます。設定した問題数が終わると結果画面を表示し、今回間違えた問題だけを復習できます。「復習（前回×だった問題）」モードでは、直近で×だった問題だけをまとめて出題できます。解答表示後には前回の解答結果（直近1回）を表示します。各問題には「🚩 要確認」フラグとメモを残せます（解説の誤りや参照ページのずれを見つけたときの目印に。自動保存されます）。残したメモは上の「🚩 メモ・要確認した問題」から一覧・復習・エクスポートでき、モードの「メモ・要確認した問題」でまとめて出題できます。解答表示後の「🔎 関連を調べる」から、その問題の内容をGoogle検索したりGoogleのAIモードに正誤を質問したりできます。</p>
+        <div class="backup-box">
+          <div class="backup-title">📱⇄💻 端末間で共有（バックアップ）</div>
+          <p class="backup-note">この端末の成績・メモ・赤字を1ファイルに書き出し、もう一方の端末で取り込むと自動で統合されます（アカウント不要）。ファイルはメールや同じクラウドフォルダ等で受け渡してください。</p>
+          <div class="utility-buttons">
+            <button id="backupExportBtn" class="secondary">💾 バックアップを書き出す</button>
+            <button id="backupImportBtn" class="secondary">📥 バックアップを取り込む（統合）</button>
+            <input id="backupFileInput" type="file" accept="application/json,.json" class="hidden">
+          </div>
+        </div>
         <div class="utility-buttons">
-          <button id="exportBtn" class="ghost">成績をエクスポート</button>
+          <button id="exportBtn" class="ghost">成績のみエクスポート</button>
           <button id="resetBtn" class="ghost danger-text">成績をリセット</button>
         </div>
       </details>
@@ -154,6 +163,6 @@
    </div>
   </main>
 
-  <script src="app.js?v=189"></script>
+  <script src="app.js?v=190"></script>
 </body>
 </html>

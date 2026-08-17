@@ -27,3 +27,8 @@ body.reference-modal-open{overflow:hidden;overscroll-behavior:none}.reference-mo
 .answer-text.marking .exp-seg{cursor:pointer;border-radius:3px}
 .answer-text.marking .exp-seg:active{background:#fee2e2}
 @media(hover:hover){.answer-text.marking .exp-seg:hover{background:#fef2f2}}
+
+/* v190: 端末間バックアップ */
+.backup-box{background:#f0fdfa;border:1px solid #99f6e4;border-radius:12px;padding:12px;margin:10px 0}
+.backup-title{font-weight:800;font-size:13.5px;color:#0f766e;margin-bottom:4px}
+.backup-note{font-size:12px;color:#475569;line-height:1.5;margin:0 0 10px}

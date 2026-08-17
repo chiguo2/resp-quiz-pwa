@@ -635,6 +635,76 @@ $('exportBtn').onclick=()=>{
   const blob=new Blob([JSON.stringify(getStats(), null, 2)], {type:'application/json'});
   const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='resp_quiz_stats.json'; a.click();
 };
+
+// ----- 端末間バックアップ（成績＋メモ＋赤字を1ファイルに。取り込み時に統合）-----
+const mergedBackupsKey = 'respQuizMergedBackups.v1';
+$('backupExportBtn').onclick=()=>{
+  const backup = {
+    format: 'resp-quiz-backup', version: 1,
+    exportId: 'bk-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 8),
+    exportedAt: new Date().toISOString(),
+    stats: getStats(), notes: getNotes(), expHl: getExpHl()
+  };
+  const stamp = new Date().toISOString().slice(0,16).replace(/[-:T]/g,'');
+  const blob = new Blob([JSON.stringify(backup)], {type:'application/json'});
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = `resp_quiz_backup_${stamp}.json`; a.click();
+};
+$('backupImportBtn').onclick=()=> $('backupFileInput').click();
+$('backupFileInput').onchange = (e)=>{
+  const file = e.target.files && e.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = () => {
+    let backup;
+    try { backup = JSON.parse(reader.result); } catch(err){ alert('ファイルを読み込めませんでした（JSON形式ではありません）。'); return; }
+    if(!backup || (backup.format && backup.format !== 'resp-quiz-backup' && !backup.stats && !backup.notes)){
+      alert('このファイルはバックアップ形式ではありません。'); return;
+    }
+    mergeBackup(backup);
+    $('backupFileInput').value = '';
+  };
+  reader.readAsText(file);
+};
+
+function mergeBackup(backup){
+  const mergedIds = (()=>{ try { return JSON.parse(localStorage.getItem(mergedBackupsKey)) || []; } catch(e){ return []; } })();
+  if(backup.exportId && mergedIds.includes(backup.exportId)){
+    alert('このバックアップは取り込み済みです（二重加算を防ぐため中止しました）。'); return;
+  }
+  let nStats = 0, nNotes = 0, nHl = 0;
+  // 成績：seen/correct/wrong は合算、前回解答(lastAns)は新しい方
+  const cur = getStats();
+  for(const [id, inc] of Object.entries(backup.stats || {})){
+    const c = cur[id];
+    if(!c){ cur[id] = { ...inc }; nStats++; continue; }
+    c.seen = (c.seen||0) + (inc.seen||0);
+    c.correct = (c.correct||0) + (inc.correct||0);
+    c.wrong = (c.wrong||0) + (inc.wrong||0);
+    const cAt = c.lastAns?.at || c.last || '';
+    const iAt = inc.lastAns?.at || inc.last || '';
+    if(iAt > cAt){ if(inc.lastAns) c.lastAns = inc.lastAns; if(inc.last) c.last = inc.last; }
+    nStats++;
+  }
+  setStats(cur);
+  // メモ：問題ごとに更新日時が新しい方を採用（他端末のみの問題は自動的に追加＝和集合）
+  const curN = getNotes();
+  for(const [id, n] of Object.entries(backup.notes || {})){
+    const e = curN[id];
+    if(!e || (n.updated||'') > (e.updated||'')){ curN[id] = n; nNotes++; }
+  }
+  setNotes(curN);
+  // 赤字ハイライト：問題ごとに文の和集合
+  const curH = getExpHl();
+  for(const [id, arr] of Object.entries(backup.expHl || {})){
+    const set = new Set([ ...(curH[id]||[]), ...(Array.isArray(arr)?arr:[]) ]);
+    curH[id] = [...set]; nHl++;
+  }
+  setExpHl(curH);
+  if(backup.exportId){ mergedIds.push(backup.exportId); localStorage.setItem(mergedBackupsKey, JSON.stringify(mergedIds)); }
+  updateNotesCount(); updateReviewHint(); updateResumeBar();
+  const when = backup.exportedAt ? new Date(backup.exportedAt).toLocaleString('ja-JP') : '';
+  alert(`統合しました。\n成績: ${nStats}問／メモ: ${nNotes}件／赤字: ${nHl}問${when ? '\n（書き出し: '+when+'）' : ''}`);
+}
 $('resetBtn').onclick=()=>{ if(confirm('成績をリセットしますか？')){localStorage.removeItem(statsKey); for(const key of oldStatsKeys) localStorage.removeItem(key); showSetupView();} };
 
 let noteTimer = null;
