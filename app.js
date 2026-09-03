@@ -199,6 +199,7 @@ function baseFiltered(){
   let arr=data.filter(x => !useSectionFilter || selectedSet.has(x.section));
   if(mode==='qa') arr=arr.filter(x=>x.type==='qa');
   if(mode==='mcq') arr=arr.filter(x=>x.type==='mcq');
+  if(mode==='recall') arr=arr.filter(x=>x.type==='recall');
   if(mode==='unseen') arr=arr.filter(x=>!(stats[x.id]?.seen>0));
   if(mode==='review') arr=arr.filter(x=>stats[x.id]?.lastAns && stats[x.id].lastAns.ok===false);
   if(mode==='wrong') arr=arr.filter(x=>stats[x.id]?.wrong>0);
@@ -349,7 +350,7 @@ function showCard(){
     current._prevAns = st && st.lastAns ? st.lastAns : null;
   }
   $('choices').classList.remove('ox-grid');
-  $('badge').textContent = `${current.type==='qa'?'○×問題':'選択問題'}｜${current.section}`;
+  $('badge').textContent = `${current.type==='qa'?'○×問題':current.type==='recall'?'一問一答':'選択問題'}｜${current.section}`;
   $('progress').textContent = `${index+1} / ${queue.length}`;
   $('question').textContent=current.question;
   renderImages(current);
@@ -361,14 +362,25 @@ function showCard(){
   $('prevBtn').classList.remove('hidden');
   $('prevBtn').disabled = index === 0;
   if(current.type==='mcq') renderChoices(current);
+  else if(current.type==='recall') renderRecall();
   else renderOX(current);
   if(session.answeredIds.has(current.id)) revealAnswered();
   renderNoteUI();
   saveResume();
 }
 
+// 一問一答（自由記述）は選択肢を出さず、「答を表示」→ 自己採点で進める
+function renderRecall(){
+  $('showBtn').classList.remove('hidden');
+}
+
 function revealAnswered(){
   if(!current) return;
+  if(current.type === 'recall'){
+    showAnswer();
+    $('showBtn').classList.add('hidden');
+    return;
+  }
   if(current.type === 'qa'){
     const corr = String(current.answer || '').trim();
     [...document.querySelectorAll('.ox-choice')].forEach(b => { b.disabled = true; if(b.dataset.ox === corr) b.classList.add('correct'); });
@@ -493,6 +505,8 @@ function researchLinksHtml(item){
     const fullQ = String(item.question || '').trim();
     const list = Object.values(item.choices).map(c => '・' + String(c)).join('\n');
     aiPrompt = '次の選択問題について、正答はどれかを示し、各選択肢が正しい／誤りである理由を解説してください（呼吸器専門医試験の問題です）。\n問題：' + fullQ + '\n選択肢：\n' + list;
+  }else if(item.type === 'recall'){
+    aiPrompt = '次の問いに答え、根拠とともに解説してください（呼吸器専門医試験の問題です）。\n「' + String(item.question || '').trim() + '」';
   }else{
     aiPrompt = '次の記述が正しいか誤りか、理由とともに解説してください（呼吸器専門医試験の問題です）。\n「' + q + '」';
   }
@@ -503,7 +517,17 @@ function researchLinksHtml(item){
 function showAnswer(){
   if(!current) return;
   let answerTextValue;
-  if(current.type === 'qa'){
+  if(current.type === 'recall'){
+    answerTextValue = '解答：' + String(current.answer ?? '');
+    const exp = String(current.explanation ?? '').trim();
+    if(exp) answerTextValue += '\n\n' + exp;
+    // 自己採点に切り替える
+    if(!session.answeredIds.has(current.id)){
+      $('showBtn').classList.add('hidden');
+      $('correctBtn').classList.remove('hidden');
+      $('wrongBtn').classList.remove('hidden');
+    }
+  }else if(current.type === 'qa'){
     answerTextValue = '正解：' + String(current.answer ?? '');
     const exp = String(current.explanation ?? '').trim();
     if(exp) answerTextValue += '\n\n' + exp;
