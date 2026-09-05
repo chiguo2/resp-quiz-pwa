@@ -752,10 +752,36 @@ $('reviewNotedBtn').onclick = () => {
   $('customLimitWrap').classList.add('hidden');
   start($('orderSelect').value === 'random' ? shuffle(items) : items);
 };
-$('exportNotesBtn').onclick = () => {
-  const list = notedItems().map(({id, note, item}) => ({ id, section: item.section, question: item.question, flag: !!note.flag, memo: note.text || '', updated: note.updated, reference: item.reference?.viewer || '' }));
+// 🚩要確認とメモは別々に書き出せる（まとめて書き出すことも可）
+function noteRecords(keep){
+  return notedItems()
+    .filter(({note}) => keep(note))
+    .map(({id, note, item}) => ({ id, section: item.section, question: item.question, flag: !!note.flag, memo: note.text || '', updated: note.updated, reference: item.reference?.viewer || '' }));
+}
+function downloadNotes(list, filename, emptyMsg){
+  if(!list.length){ alert(emptyMsg); return; }
   const blob = new Blob([JSON.stringify(list, null, 2)], {type:'application/json'});
-  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'resp_quiz_notes.json'; a.click();
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob); a.download = filename; a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+const hasMemo = n => !!(n && (n.text || '').trim());
+$('exportFlagsBtn').onclick = () => downloadNotes(noteRecords(n => !!n.flag), 'resp_quiz_flags.json', '🚩要確認にした問題はまだありません。');
+$('exportMemosBtn').onclick = () => downloadNotes(noteRecords(hasMemo), 'resp_quiz_memos.json', 'メモを残した問題はまだありません。');
+$('exportNotesBtn').onclick = () => downloadNotes(noteRecords(() => true), 'resp_quiz_notes.json', 'メモ・要確認した問題はまだありません。');
+$('clearMemosBtn').onclick = () => {
+  const notes = getNotes();
+  const ids = Object.keys(notes).filter(id => hasMemo(notes[id]));
+  if(!ids.length){ alert('削除するメモはありません。'); return; }
+  if(!confirm(`メモ ${ids.length} 件をすべて削除します。\n🚩要確認のフラグは残ります。よろしいですか？`)) return;
+  const at = new Date().toISOString();
+  for(const id of ids){
+    if(notes[id].flag){ notes[id].text = ''; notes[id].updated = at; }
+    else delete notes[id];
+  }
+  setNotes(notes);
+  renderNotesList(); updateNotesCount();
+  if(current) renderNoteUI();
 };
 $('notesList').addEventListener('click', e => {
   const btn = e.target.closest('.note-del');
