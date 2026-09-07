@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 570" width="660" height="570" role="img" aria-label="先天性横隔膜ヘルニアの好発部位を示す横隔膜の模式図">
+  <title>先天性横隔膜ヘルニアの好発部位（胸腔側から見た横隔膜）</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .sm{font-size:14px;fill:#475569}
+      .key{font-size:15px;font-weight:700}
+      .mark{font-size:17px;font-weight:700;fill:#fff}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="660" height="570" fill="#ffffff"/>
+  <text class="lbl ttl" x="30" y="34">先天性横隔膜ヘルニアの好発部位（胸腔側から見た横隔膜）</text>
+
+  <!-- 方向 -->
+  <text class="lbl sm" x="120" y="100">前（胸骨側）</text>
+  <text class="lbl sm" x="330" y="486" text-anchor="middle">後（脊椎側）</text>
+  <text class="lbl sm" x="46" y="280" text-anchor="middle">右</text>
+  <text class="lbl sm" x="618" y="280" text-anchor="middle">左</text>
+
+  <!-- 横隔膜本体（左右のドーム） -->
+  <path d="M330 92
+           C 452 92 556 142 578 222
+           C 598 296 556 398 470 442
+           C 400 476 342 466 330 454
+           C 318 466 260 476 190 442
+           C 104 398 62 296 82 222
+           C 104 142 208 92 330 92 Z"
+        fill="#e6f4f1" stroke="#0f766e" stroke-width="3"/>
+
+  <!-- 筋線維の走行（放射状） -->
+  <g stroke="#7fc3b8" stroke-width="1.6" fill="none" opacity="0.9">
+    <path d="M330 114 C 250 134 170 194 150 274"/>
+    <path d="M330 114 C 410 134 490 194 510 274"/>
+    <path d="M255 106 C 205 164 170 234 168 314"/>
+    <path d="M405 106 C 455 164 490 234 492 314"/>
+    <path d="M150 274 C 200 344 260 394 320 414"/>
+    <path d="M510 274 C 460 344 400 394 340 414"/>
+  </g>
+
+  <!-- 中心腱 -->
+  <path d="M330 164 C 392 164 424 204 424 246 C 424 300 384 336 330 336 C 276 336 236 300 236 246 C 236 204 268 164 330 164 Z"
+        fill="#f8fafc" stroke="#94a3b8" stroke-width="2"/>
+  <text class="lbl sm" x="330" y="200" text-anchor="middle">中心腱</text>
+
+  <!-- 裂孔（位置の目印） -->
+  <ellipse cx="286" cy="250" rx="34" ry="13" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <text class="lbl sm" x="286" y="255" text-anchor="middle" font-size="11">大静脈孔</text>
+  <ellipse cx="362" cy="292" rx="34" ry="13" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <text class="lbl sm" x="362" y="297" text-anchor="middle" font-size="11">食道裂孔</text>
+  <ellipse cx="330" cy="362" rx="39" ry="13" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <text class="lbl sm" x="330" y="367" text-anchor="middle" font-size="11">大動脈裂孔</text>
+
+  <!-- 胸骨・椎体 -->
+  <rect x="316" y="70" width="28" height="30" rx="6" fill="#cbd5e1" stroke="#94a3b8" stroke-width="2"/>
+  <text class="lbl sm" x="330" y="62" text-anchor="middle" font-size="12">胸骨</text>
+  <rect x="310" y="414" width="40" height="30" rx="8" fill="#cbd5e1" stroke="#94a3b8" stroke-width="2"/>
+  <text class="lbl sm" x="330" y="462" text-anchor="middle" font-size="12">椎体</text>
+
+  <!-- A：Morgagni孔（前方・胸骨のすぐ右） -->
+  <ellipse cx="268" cy="130" rx="26" ry="17" fill="#1d4ed8" opacity="0.85"/>
+  <text class="mark" x="268" y="136" text-anchor="middle">A</text>
+
+  <!-- B：Larrey孔（前方・胸骨のすぐ左） -->
+  <ellipse cx="392" cy="130" rx="26" ry="17" fill="#7c3aed" opacity="0.85"/>
+  <text class="mark" x="392" y="136" text-anchor="middle">B</text>
+
+  <!-- C：Bochdalek孔（後外側・左に多い） -->
+  <ellipse cx="488" cy="378" rx="34" ry="21" fill="#dc2626" opacity="0.85" transform="rotate(-28 488 378)"/>
+  <text class="mark" x="488" y="384" text-anchor="middle">C</text>
+  <!-- 右側にも小さく（右発生はまれ） -->
+  <ellipse cx="172" cy="378" rx="27" ry="16" fill="#dc2626" opacity="0.28" transform="rotate(28 172 378)"/>
+  <text class="lbl sm" x="172" y="383" text-anchor="middle" font-size="11" fill="#7f1d1d">まれ</text>
+
+  <!-- 凡例 -->
+  <g>
+    <circle cx="44" cy="514" r="9" fill="#1d4ed8" opacity="0.85"/>
+    <text class="lbl key" x="60" y="520">A：Morgagni孔ヘルニア（前方・胸骨傍／右に多い）</text>
+    <circle cx="44" cy="544" r="9" fill="#7c3aed" opacity="0.85"/>
+    <text class="lbl key" x="60" y="550">B：Larrey孔ヘルニア（前方・胸骨傍の左側）</text>
+    <circle cx="404" cy="514" r="9" fill="#dc2626" opacity="0.85"/>
+    <text class="lbl key" x="420" y="520">C：Bochdalek孔ヘルニア</text>
+    <text class="lbl key" x="420" y="550">　（後外側／左に多い・最多）</text>
+  </g>
+</svg>
