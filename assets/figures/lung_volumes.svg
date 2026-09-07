@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 720" width="980" height="720" role="img" aria-label="肺気量分画（スパイログラム）の模式図">
+  <title>肺気量分画（スパイログラム）</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:21px;font-weight:700}
+      .nm{font-size:16px;font-weight:700}
+      .ab{font-size:15px;font-weight:700;fill:#0f766e}
+      .lv{font-size:13px;fill:#64748b}
+    </style>
+    <!-- 始点用は矢じりを反転させる（orient="auto" だと両端とも同じ向きになるため） -->
+    <marker id="ahS" markerWidth="9" markerHeight="9" refX="4.5" refY="4.5" orient="auto">
+      <path d="M8.5,0.8 L0.5,4.5 L8.5,8.2 z" fill="#0f766e"/>
+    </marker>
+    <marker id="ahE" markerWidth="9" markerHeight="9" refX="4.5" refY="4.5" orient="auto">
+      <path d="M0.5,0.8 L8.5,4.5 L0.5,8.2 z" fill="#0f766e"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="980" height="720" fill="#ffffff"/>
+  <text class="lbl ttl" x="30" y="36">肺気量分画（スパイログラム）</text>
+
+  <!-- 水準線 -->
+  <g stroke="#0f172a" stroke-width="3">
+    <line x1="40" y1="86" x2="560" y2="86"/>
+    <line x1="40" y1="266" x2="560" y2="266"/>
+    <line x1="40" y1="346" x2="560" y2="346"/>
+    <line x1="40" y1="516" x2="560" y2="516"/>
+    <line x1="40" y1="626" x2="560" y2="626"/>
+  </g>
+  <g class="lbl lv">
+    <text x="44" y="80">最大吸気位</text>
+    <text x="44" y="260">安静吸気位</text>
+    <text x="44" y="364">安静呼気位</text>
+    <text x="44" y="510">最大呼気位</text>
+  </g>
+
+  <!-- 呼吸曲線 -->
+  <path d="M60 346
+           C 74 266, 100 266, 114 346
+           C 128 266, 154 266, 168 346
+           C 190 86, 232 86, 252 86
+           C 282 86, 320 516, 356 516
+           C 392 516, 414 346, 438 346
+           C 452 266, 478 266, 492 346
+           C 506 266, 532 266, 546 346"
+        fill="none" stroke="#1d4ed8" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- 第1列：IRV / TV / ERV / RV -->
+  <g stroke="#0f766e" stroke-width="3" marker-start="url(#ahS)" marker-end="url(#ahE)">
+    <line x1="676" y1="90" x2="676" y2="262"/>
+    <line x1="676" y1="270" x2="676" y2="342"/>
+    <line x1="676" y1="350" x2="676" y2="512"/>
+    <line x1="676" y1="520" x2="676" y2="622"/>
+  </g>
+  <g class="lbl" text-anchor="end">
+    <text class="nm" x="660" y="170">予備吸気量</text>
+    <text class="ab" x="660" y="192">IRV</text>
+    <text class="nm" x="660" y="300">1回換気量</text>
+    <text class="ab" x="660" y="322">TV</text>
+    <text class="nm" x="660" y="424">予備呼気量</text>
+    <text class="ab" x="660" y="446">ERV</text>
+    <text class="nm" x="660" y="568">残気量</text>
+    <text class="ab" x="660" y="590">RV</text>
+  </g>
+
+  <!-- 第2列：IC / FRC -->
+  <g stroke="#0f766e" stroke-width="3" marker-start="url(#ahS)" marker-end="url(#ahE)">
+    <line x1="806" y1="90" x2="806" y2="342"/>
+    <line x1="806" y1="350" x2="806" y2="622"/>
+  </g>
+  <g class="lbl" text-anchor="end">
+    <text class="nm" x="790" y="208">最大吸気量</text>
+    <text class="ab" x="790" y="230">IC</text>
+    <text class="nm" x="790" y="478">機能的残気量</text>
+    <text class="ab" x="790" y="500">FRC</text>
+  </g>
+
+  <!-- 第3列：VC -->
+  <g stroke="#0f766e" stroke-width="3" marker-start="url(#ahS)" marker-end="url(#ahE)">
+    <line x1="890" y1="90" x2="890" y2="512"/>
+  </g>
+  <g class="lbl" text-anchor="end">
+    <text class="nm" x="876" y="138">肺活量</text>
+    <text class="ab" x="876" y="160">VC</text>
+  </g>
+
+  <!-- 第4列：TLC -->
+  <g stroke="#0f766e" stroke-width="3" marker-start="url(#ahS)" marker-end="url(#ahE)">
+    <line x1="958" y1="90" x2="958" y2="622"/>
+  </g>
+  <g class="lbl" text-anchor="end">
+    <text class="nm" x="944" y="360">全肺気量</text>
+    <text class="ab" x="944" y="382">TLC</text>
+  </g>
+
+  <!-- 補足 -->
+  <text class="lbl lv" x="40" y="672">IC＝IRV＋TV　FRC＝ERV＋RV　VC＝IRV＋TV＋ERV　TLC＝VC＋RV</text>
+  <text class="lbl lv" x="40" y="696">RV・FRC・TLCはスパイロメトリーでは測定できず、ガス希釈法や体プレチスモグラフを要する。</text>
+</svg>
