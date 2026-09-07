@@ -32,3 +32,19 @@ body.reference-modal-open{overflow:hidden;overscroll-behavior:none}.reference-mo
 .backup-box{background:#f0fdfa;border:1px solid #99f6e4;border-radius:12px;padding:12px;margin:10px 0}
 .backup-title{font-weight:800;font-size:13.5px;color:#0f766e;margin-bottom:4px}
 .backup-note{font-size:12px;color:#475569;line-height:1.5;margin:0 0 10px}
+
+/* メモへの画像添付 */
+.note-img-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.note-img-hint{color:#64748b;font-size:12px}
+.note-img-status{color:#0f766e;font-size:12px;font-weight:700}
+.note-box.drop-on{background:#f0fdfa;outline:2px dashed #14b8a6;outline-offset:4px;border-radius:12px}
+.note-images{display:flex;flex-wrap:wrap;gap:8px}
+.note-img{position:relative;width:104px;height:104px;border:1px solid #d0d7de;border-radius:10px;overflow:hidden;background:#f8fafc}
+.note-img img{width:100%;height:100%;object-fit:cover;display:block;cursor:zoom-in}
+.note-img-del{position:absolute;top:2px;right:2px;width:24px;height:24px;padding:0;line-height:1;border:none;border-radius:50%;background:rgba(15,23,42,.72);color:#fff;font-size:13px;font-weight:700;cursor:pointer}
+.note-img-del:hover{background:#dc2626}
+.note-item-imgs{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 6px}
+.note-item-imgs img{width:72px;height:72px;object-fit:cover;border:1px solid #e2e8f0;border-radius:8px;cursor:zoom-in}
+.img-viewer{position:fixed;inset:0;z-index:80;background:rgba(15,23,42,.86);display:flex;align-items:center;justify-content:center;padding:16px;cursor:zoom-out}
+.img-viewer.hidden{display:none}
+.img-viewer img{max-width:100%;max-height:100%;border-radius:8px;box-shadow:0 10px 40px rgba(0,0,0,.5)}

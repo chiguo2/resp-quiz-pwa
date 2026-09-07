@@ -24,8 +24,78 @@ const setStats = s => localStorage.setItem(statsKey, JSON.stringify(s));
 const notesKey = 'respQuizNotes.v1';
 const getNotes = () => { try { return JSON.parse(localStorage.getItem(notesKey)) || {}; } catch(e){ return {}; } };
 const setNotes = n => localStorage.setItem(notesKey, JSON.stringify(n));
-const hasNote = n => !!(n && ((n.text && n.text.trim()) || n.flag));
+const noteImageIds = n => Array.isArray(n?.imgs) ? n.imgs : [];
+const hasNote = n => !!(n && ((n.text && n.text.trim()) || n.flag || noteImageIds(n).length));
 const getNote = id => getNotes()[id] || null;
+
+// ----- メモの添付画像（localStorageは5MB前後で溢れるためIndexedDBに置く）-----
+const IMG_DB = 'respQuizImages', IMG_STORE = 'images';
+const MAX_IMG_EDGE = 1600, IMG_QUALITY = 0.82, MAX_IMGS_PER_NOTE = 6;
+let imgDbPromise = null;
+function imgDb(){
+  if(imgDbPromise) return imgDbPromise;
+  imgDbPromise = new Promise((res, rej) => {
+    const req = indexedDB.open(IMG_DB, 1);
+    req.onupgradeneeded = () => {
+      const db = req.result;
+      if(!db.objectStoreNames.contains(IMG_STORE)) db.createObjectStore(IMG_STORE, { keyPath: 'id' });
+    };
+    req.onsuccess = () => res(req.result);
+    req.onerror = () => rej(req.error);
+  });
+  return imgDbPromise;
+}
+function imgTx(mode, fn){
+  return imgDb().then(db => new Promise((res, rej) => {
+    const tx = db.transaction(IMG_STORE, mode);
+    let req;
+    try { req = fn(tx.objectStore(IMG_STORE)); } catch(e){ rej(e); return; }
+    tx.oncomplete = () => res(req ? req.result : undefined);
+    tx.onerror = () => rej(tx.error);
+    tx.onabort = () => rej(tx.error);
+  }));
+}
+const putImage = rec => imgTx('readwrite', s => s.put(rec));
+const getImageRec = id => imgTx('readonly', s => s.get(id));
+const delImage = id => imgTx('readwrite', s => s.delete(id));
+const allImages = () => imgTx('readonly', s => s.getAll());
+// メモを消したときに画像だけが残らないよう、あわせて削除する
+async function dropImages(ids){
+  for(const id of ids || []){ try { await delImage(id); } catch(e){} }
+}
+
+function fileToImageEl(file){
+  return new Promise((res, rej) => {
+    const fr = new FileReader();
+    fr.onload = () => { const im = new Image(); im.onload = () => res(im); im.onerror = rej; im.src = fr.result; };
+    fr.onerror = rej;
+    fr.readAsDataURL(file);
+  });
+}
+// 長辺1600pxに縮小してWebP（非対応環境はJPEG）へ再エンコードする
+async function compressImage(file){
+  const im = await fileToImageEl(file);
+  const scale = Math.min(1, MAX_IMG_EDGE / Math.max(im.naturalWidth, im.naturalHeight));
+  const w = Math.max(1, Math.round(im.naturalWidth * scale));
+  const h = Math.max(1, Math.round(im.naturalHeight * scale));
+  const cv = document.createElement('canvas');
+  cv.width = w; cv.height = h;
+  const cx = cv.getContext('2d');
+  cx.fillStyle = '#fff'; cx.fillRect(0, 0, w, h);
+  cx.drawImage(im, 0, 0, w, h);
+  let out = cv.toDataURL('image/webp', IMG_QUALITY);
+  if(!out.startsWith('data:image/webp')) out = cv.toDataURL('image/jpeg', IMG_QUALITY);
+  return { data: out, w, h };
+}
+function imageFilesFrom(dt){
+  const out = [];
+  if(!dt) return out;
+  if(dt.files) for(const f of dt.files) if(f && f.type && f.type.startsWith('image/')) out.push(f);
+  if(!out.length && dt.items) for(const it of dt.items){
+    if(it.kind === 'file' && it.type && it.type.startsWith('image/')){ const f = it.getAsFile(); if(f) out.push(f); }
+  }
+  return out;
+}
 
 // ----- 解説の赤字強調（文単位で保存。マーカーモードON時にタップで切替）-----
 const expHlKey = 'respQuizExpHl.v1';
@@ -280,11 +350,84 @@ function saveCurrentNote(){
   const notes = getNotes();
   const text = $('noteInput').value.trim();
   const flag = $('flagBtn').classList.contains('on');
-  if(!text && !flag){ delete notes[current.id]; }
-  else { notes[current.id] = { text, flag, updated: new Date().toISOString() }; }
+  const imgs = noteImageIds(notes[current.id]);
+  if(!text && !flag && !imgs.length){ delete notes[current.id]; }
+  else { notes[current.id] = { text, flag, imgs, updated: new Date().toISOString() }; }
   setNotes(notes);
   updateNoteIndicator();
   updateNotesCount();
+}
+
+// 貼り付け・ドラッグ&ドロップ・ファイル選択のいずれからも同じ経路で取り込む
+async function addNoteImages(files){
+  if(!current) return;
+  const list = [...(files || [])].filter(f => f && f.type && f.type.startsWith('image/'));
+  if(!list.length) return;
+  const notes = getNotes();
+  const cur = notes[current.id];
+  const imgs = noteImageIds(cur);
+  if(imgs.length + list.length > MAX_IMGS_PER_NOTE){
+    alert(`1問あたりの画像は${MAX_IMGS_PER_NOTE}枚までです。（現在${imgs.length}枚）`);
+    return;
+  }
+  $('noteImgStatus').textContent = '画像を取り込んでいます…';
+  const added = [];
+  for(const f of list){
+    try {
+      const { data, w, h } = await compressImage(f);
+      const id = 'img-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 8);
+      await putImage({ id, qid: current.id, data, w, h, added: new Date().toISOString() });
+      added.push(id);
+    } catch(e){
+      $('noteImgStatus').textContent = '';
+      alert('画像を読み込めませんでした。');
+      break;
+    }
+  }
+  if(!added.length){ $('noteImgStatus').textContent = ''; return; }
+  const next = getNotes();
+  const n = next[current.id] || { text: $('noteInput').value.trim(), flag: $('flagBtn').classList.contains('on') };
+  n.imgs = [...noteImageIds(n), ...added];
+  n.updated = new Date().toISOString();
+  next[current.id] = n;
+  setNotes(next);
+  $('noteImgStatus').textContent = '';
+  await renderNoteImages();
+  updateNoteIndicator();
+  updateNotesCount();
+}
+
+async function removeNoteImage(imgId){
+  if(!current) return;
+  const notes = getNotes();
+  const n = notes[current.id];
+  if(!n) return;
+  n.imgs = noteImageIds(n).filter(x => x !== imgId);
+  n.updated = new Date().toISOString();
+  if(!(n.text || '').trim() && !n.flag && !n.imgs.length) delete notes[current.id];
+  else notes[current.id] = n;
+  setNotes(notes);
+  await dropImages([imgId]);
+  await renderNoteImages();
+  updateNoteIndicator();
+  updateNotesCount();
+}
+
+async function renderNoteImages(){
+  const wrap = $('noteImages');
+  wrap.innerHTML = '';
+  const ids = current ? noteImageIds(getNote(current.id)) : [];
+  wrap.classList.toggle('hidden', !ids.length);
+  for(const id of ids){
+    let rec = null;
+    try { rec = await getImageRec(id); } catch(e){}
+    if(!rec) continue;
+    const fig = document.createElement('div');
+    fig.className = 'note-img';
+    fig.innerHTML = `<img src="${rec.data}" alt="メモの添付画像" data-view-img="${escapeHtml(id)}">`
+      + `<button type="button" class="note-img-del" data-del-img="${escapeHtml(id)}" aria-label="この画像を削除">✕</button>`;
+    wrap.appendChild(fig);
+  }
 }
 
 function updateNoteIndicator(){
@@ -293,10 +436,12 @@ function updateNoteIndicator(){
   $('flagBtn').classList.toggle('on', flagged);
   $('flagBtn').textContent = flagged ? '🚩 要確認を解除' : '🚩 要確認にする';
   const bits = [];
+  const nImgs = noteImageIds(n).length;
   if(flagged) bits.push('要確認');
   if(n?.text?.trim()) bits.push('メモあり');
+  if(nImgs) bits.push(`画像${nImgs}枚`);
   $('noteStatus').textContent = bits.length ? '（'+bits.join('・')+'）' : '';
-  $('badge').classList.toggle('flagged', flagged || !!n?.text?.trim());
+  $('badge').classList.toggle('flagged', flagged || !!n?.text?.trim() || !!nImgs);
 }
 
 function renderNoteUI(){
@@ -304,7 +449,9 @@ function renderNoteUI(){
   $('noteBox').classList.remove('hidden');
   const n = getNote(current.id);
   $('noteInput').value = n?.text || '';
+  $('noteImgStatus').textContent = '';
   updateNoteIndicator();
+  renderNoteImages();
 }
 
 function notedItems(){
@@ -318,7 +465,7 @@ function notedItems(){
 
 function updateNotesCount(){ $('notesCount').textContent = notedItems().length; }
 
-function renderNotesList(){
+async function renderNotesList(){
   const wrap = $('notesList');
   wrap.innerHTML = '';
   const list = notedItems();
@@ -328,7 +475,14 @@ function renderNotesList(){
     div.className = 'note-item';
     const flag = note.flag ? '🚩 ' : '';
     const memo = note.text?.trim() ? `<small class="note-memo">📝 ${escapeHtml(note.text)}</small>` : '';
-    div.innerHTML = `<b>${flag}${escapeHtml(item.section || '')}</b><p>${escapeHtml((item.question || '').slice(0, 90))}</p>${memo}<button type="button" class="mini ghost-light note-del" data-id="${escapeHtml(id)}">この記録を削除</button>`;
+    const shots = [];
+    for(const imgId of noteImageIds(note)){
+      let rec = null;
+      try { rec = await getImageRec(imgId); } catch(e){}
+      if(rec) shots.push(`<img src="${rec.data}" alt="メモの添付画像" data-view-img="${escapeHtml(imgId)}">`);
+    }
+    const imgs = shots.length ? `<div class="note-item-imgs">${shots.join('')}</div>` : '';
+    div.innerHTML = `<b>${flag}${escapeHtml(item.section || '')}</b><p>${escapeHtml((item.question || '').slice(0, 90))}</p>${memo}${imgs}<button type="button" class="mini ghost-light note-del" data-id="${escapeHtml(id)}">この記録を削除</button>`;
     wrap.appendChild(div);
   }
 }
@@ -670,12 +824,14 @@ $('exportBtn').onclick=()=>{
 
 // ----- 端末間バックアップ（成績＋メモ＋赤字を1ファイルに。取り込み時に統合）-----
 const mergedBackupsKey = 'respQuizMergedBackups.v1';
-$('backupExportBtn').onclick=()=>{
+$('backupExportBtn').onclick=async()=>{
+  let images = [];
+  try { images = await allImages() || []; } catch(e){}
   const backup = {
-    format: 'resp-quiz-backup', version: 1,
+    format: 'resp-quiz-backup', version: 2,
     exportId: 'bk-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 8),
     exportedAt: new Date().toISOString(),
-    stats: getStats(), notes: getNotes(), expHl: getExpHl()
+    stats: getStats(), notes: getNotes(), expHl: getExpHl(), images
   };
   const stamp = new Date().toISOString().slice(0,16).replace(/[-:T]/g,'');
   const blob = new Blob([JSON.stringify(backup)], {type:'application/json'});
@@ -698,12 +854,17 @@ $('backupFileInput').onchange = (e)=>{
   reader.readAsText(file);
 };
 
-function mergeBackup(backup){
+async function mergeBackup(backup){
   const mergedIds = (()=>{ try { return JSON.parse(localStorage.getItem(mergedBackupsKey)) || []; } catch(e){ return []; } })();
   if(backup.exportId && mergedIds.includes(backup.exportId)){
     alert('このバックアップは取り込み済みです（二重加算を防ぐため中止しました）。'); return;
   }
-  let nStats = 0, nNotes = 0, nHl = 0;
+  let nStats = 0, nNotes = 0, nHl = 0, nImg = 0;
+  // メモの添付画像：同じidの記録は同じ画像なので上書きでよい
+  for(const rec of backup.images || []){
+    if(!rec || !rec.id || !rec.data) continue;
+    try { await putImage(rec); nImg++; } catch(e){}
+  }
   // 成績：seen/correct/wrong は合算、前回解答(lastAns)は新しい方
   const cur = getStats();
   for(const [id, inc] of Object.entries(backup.stats || {})){
@@ -735,7 +896,7 @@ function mergeBackup(backup){
   if(backup.exportId){ mergedIds.push(backup.exportId); localStorage.setItem(mergedBackupsKey, JSON.stringify(mergedIds)); }
   updateNotesCount(); updateReviewHint(); updateResumeBar();
   const when = backup.exportedAt ? new Date(backup.exportedAt).toLocaleString('ja-JP') : '';
-  alert(`統合しました。\n成績: ${nStats}問／メモ: ${nNotes}件／赤字: ${nHl}問${when ? '\n（書き出し: '+when+'）' : ''}`);
+  alert(`統合しました。\n成績: ${nStats}問／メモ: ${nNotes}件／赤字: ${nHl}問／画像: ${nImg}枚${when ? '\n（書き出し: '+when+'）' : ''}`);
 }
 $('resetBtn').onclick=()=>{ if(confirm('成績をリセットしますか？')){localStorage.removeItem(statsKey); for(const key of oldStatsKeys) localStorage.removeItem(key); showSetupView();} };
 
@@ -753,42 +914,113 @@ $('reviewNotedBtn').onclick = () => {
   start($('orderSelect').value === 'random' ? shuffle(items) : items);
 };
 // 🚩要確認とメモは別々に書き出せる（まとめて書き出すことも可）
-function noteRecords(keep){
-  return notedItems()
-    .filter(({note}) => keep(note))
-    .map(({id, note, item}) => ({ id, section: item.section, question: item.question, flag: !!note.flag, memo: note.text || '', updated: note.updated, reference: item.reference?.viewer || '' }));
+async function noteRecords(keep){
+  const out = [];
+  for(const {id, note, item} of notedItems().filter(({note}) => keep(note))){
+    const images = [];
+    for(const imgId of noteImageIds(note)){
+      let rec = null;
+      try { rec = await getImageRec(imgId); } catch(e){}
+      if(rec) images.push(rec.data);
+    }
+    out.push({
+      id, section: item.section, question: item.question,
+      flag: !!note.flag, memo: note.text || '',
+      ...(images.length ? { images } : {}),
+      updated: note.updated, reference: item.reference?.viewer || ''
+    });
+  }
+  return out;
 }
-function downloadNotes(list, filename, emptyMsg){
+async function downloadNotes(listPromise, filename, emptyMsg){
+  const list = await listPromise;
   if(!list.length){ alert(emptyMsg); return; }
-  const blob = new Blob([JSON.stringify(list, null, 2)], {type:'application/json'});
+  const json = JSON.stringify(list, null, 2);
+  const mb = json.length / 1048576;
+  if(mb > 8 && !confirm(`書き出すファイルは約${mb.toFixed(1)}MBです（添付画像を含みます）。続けますか？`)) return;
+  const blob = new Blob([json], {type:'application/json'});
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob); a.download = filename; a.click();
   setTimeout(() => URL.revokeObjectURL(a.href), 1000);
 }
-const hasMemo = n => !!(n && (n.text || '').trim());
+const hasMemo = n => !!(n && ((n.text || '').trim() || noteImageIds(n).length));
 $('exportFlagsBtn').onclick = () => downloadNotes(noteRecords(n => !!n.flag), 'resp_quiz_flags.json', '🚩要確認にした問題はまだありません。');
 $('exportMemosBtn').onclick = () => downloadNotes(noteRecords(hasMemo), 'resp_quiz_memos.json', 'メモを残した問題はまだありません。');
 $('exportNotesBtn').onclick = () => downloadNotes(noteRecords(() => true), 'resp_quiz_notes.json', 'メモ・要確認した問題はまだありません。');
-$('clearMemosBtn').onclick = () => {
+$('clearMemosBtn').onclick = async () => {
   const notes = getNotes();
   const ids = Object.keys(notes).filter(id => hasMemo(notes[id]));
   if(!ids.length){ alert('削除するメモはありません。'); return; }
-  if(!confirm(`メモ ${ids.length} 件をすべて削除します。\n🚩要確認のフラグは残ります。よろしいですか？`)) return;
+  if(!confirm(`メモ ${ids.length} 件（添付画像を含む）をすべて削除します。\n🚩要確認のフラグは残ります。よろしいですか？`)) return;
   const at = new Date().toISOString();
+  const orphans = [];
   for(const id of ids){
-    if(notes[id].flag){ notes[id].text = ''; notes[id].updated = at; }
+    orphans.push(...noteImageIds(notes[id]));
+    if(notes[id].flag){ notes[id].text = ''; notes[id].imgs = []; notes[id].updated = at; }
     else delete notes[id];
   }
   setNotes(notes);
+  await dropImages(orphans);
   renderNotesList(); updateNotesCount();
   if(current) renderNoteUI();
 };
-$('notesList').addEventListener('click', e => {
+$('notesList').addEventListener('click', async e => {
+  const view = e.target.closest('[data-view-img]');
+  if(view){ openImageViewer(view.getAttribute('src')); return; }
   const btn = e.target.closest('.note-del');
   if(!btn) return;
-  const notes = getNotes(); delete notes[btn.dataset.id]; setNotes(notes);
+  const notes = getNotes();
+  const orphans = noteImageIds(notes[btn.dataset.id]);
+  delete notes[btn.dataset.id];
+  setNotes(notes);
+  await dropImages(orphans);
   renderNotesList(); updateNotesCount();
   if(current && current.id === btn.dataset.id) renderNoteUI();
+});
+
+// ----- メモへの画像添付（貼り付け／ドラッグ&ドロップ／ファイル選択）-----
+$('noteImgBtn').onclick = () => $('noteImgInput').click();
+$('noteImgInput').onchange = async e => { await addNoteImages(e.target.files); e.target.value = ''; };
+document.addEventListener('paste', e => {
+  if($('noteBox').classList.contains('hidden')) return;
+  const files = imageFilesFrom(e.clipboardData);
+  if(!files.length) return;   // 文字の貼り付けはそのまま通す
+  e.preventDefault();
+  addNoteImages(files);
+});
+$('noteBox').addEventListener('dragover', e => {
+  if(!imageFilesFrom(e.dataTransfer).length && !(e.dataTransfer?.types || []).includes('Files')) return;
+  e.preventDefault();
+  $('noteBox').classList.add('drop-on');
+});
+$('noteBox').addEventListener('dragleave', () => $('noteBox').classList.remove('drop-on'));
+$('noteBox').addEventListener('drop', e => {
+  const files = imageFilesFrom(e.dataTransfer);
+  $('noteBox').classList.remove('drop-on');
+  if(!files.length) return;
+  e.preventDefault();
+  addNoteImages(files);
+});
+$('noteImages').addEventListener('click', async e => {
+  const del = e.target.closest('[data-del-img]');
+  if(del){ await removeNoteImage(del.getAttribute('data-del-img')); return; }
+  const view = e.target.closest('[data-view-img]');
+  if(view) openImageViewer(view.getAttribute('src'));
+});
+function openImageViewer(src){
+  if(!src) return;
+  $('imgViewerImg').src = src;
+  $('imgViewer').classList.remove('hidden');
+}
+$('imgViewer').addEventListener('click', () => {
+  $('imgViewer').classList.add('hidden');
+  $('imgViewerImg').src = '';
+});
+document.addEventListener('keydown', e => {
+  if(e.key === 'Escape' && !$('imgViewer').classList.contains('hidden')){
+    $('imgViewer').classList.add('hidden');
+    $('imgViewerImg').src = '';
+  }
 });
 
 window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredPrompt=e; $('installBtn').classList.remove('hidden'); });
