@@ -49,9 +49,9 @@
     ],
     "counts": {
       "qa": 1788,
-      "mcq": 1071,
-      "recall": 980,
-      "total": 3839
+      "mcq": 1065,
+      "recall": 948,
+      "total": 3801
     },
     "sections": [
       "総論I 形態・機能・病態生理",
@@ -201,7 +201,7 @@
       }
     ],
     "updated_at": "2026-09-08",
-    "last_update_note": "アプリのメモ9件を反映：各種分類表の追加、設問の主語補足、触覚振盪のMCQ再構成。",
+    "last_update_note": "同一形式どうしで重複していた10問を削除し、必要な情報を残す側に統合。",
     "last_import_summary": {
       "deleted": 5,
       "deleted_ids": [
@@ -212,11 +212,11 @@
         "ul-1101"
       ]
     },
-    "total_questions": 3839,
+    "total_questions": 3801,
     "qa_count": 1788,
-    "mcq_count": 1071,
+    "mcq_count": 1065,
     "last_update": "2026-09-08",
-    "recall_count": 980
+    "recall_count": 948
   },
   "items": [
     {
@@ -1721,47 +1721,6 @@
       "_bestCov": 0.2
     },
     {
-      "id": "qa-038",
-      "type": "mcq",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
-      "question": "A−aDO₂正常でも低酸素血症となる機序は？",
-      "answer": [
-        "a"
-      ],
-      "explanation": "A-aDO2正常でも低酸素血症となるのは肺胞低換気・低酸素環境(吸入気酸素低下)。\n\n【AI解説】\n【結論】A−aDO₂正常でも低酸素血症となるのは肺胞低換気・低酸素環境（吸入気酸素分圧の低下）。\n【選択肢の解説】\n⭕「肺胞低換気（および高地での吸入酸素分圧低下）」：正しい。肺そのもののガス交換能は保たれるためA−aDO₂は開大しない。\n❌「拡散障害」：誤り。A−aDO₂は開大する。\n❌「換気血流比不均等」：誤り。開大する。\n❌「シャント」：誤り。開大する。\n【関連知識】肺胞低換気ではPaCO₂が上昇する。A−aDO₂が正常なら肺外の原因（中枢性低換気、神経筋疾患、胸郭疾患、高地）を考える。",
-      "tags": [
-        "総論I",
-        "呼吸生理",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 15,
-        "image": "assets/reference_pages/s1_p015.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=15",
-        "highlights": [
-          {
-            "x": 0.1248,
-            "y": 0.8048,
-            "w": 0.3403,
-            "h": 0.0198
-          }
-        ]
-      },
-      "choices": {
-        "a": "肺胞低換気（および高地での吸入酸素分圧低下）",
-        "b": "拡散障害",
-        "c": "換気血流比不均等",
-        "d": "シャント"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.21428571428571427
-    },
-    {
       "id": "qa-039",
       "type": "mcq",
       "chapter": "総論I 形態・機能・病態生理",
@@ -2031,47 +1990,6 @@
         "kind": "original"
       },
       "_bestCov": 0.14285714285714285
-    },
-    {
-      "id": "qa-046",
-      "type": "mcq",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
-      "question": "過換気と低換気を繰り返す異常呼吸は？",
-      "answer": [
-        "a"
-      ],
-      "explanation": "過換気と低換気を繰り返す異常呼吸はCheyne-Stokes呼吸。\n\n【AI解説】\n【結論】過換気と低換気を繰り返す異常呼吸はCheyne−Stokes呼吸（心不全・脳血管障害）。\n【選択肢の解説】\n⭕「Cheyne−Stokes呼吸」：正しい。漸増漸減する過換気と無呼吸を周期的に繰り返す。\n❌「Kussmaul呼吸」：誤り。代謝性アシドーシスでみられる深く大きい規則的な呼吸である。\n❌「Biot呼吸」：誤り。不規則な呼吸と無呼吸が突然入れ替わる（延髄障害）。\n❌「失調性呼吸」：誤り。全く不規則な呼吸である。\n【関連知識】重症心不全や脳血管障害でみられ、循環時間の延長とCO₂に対する応答の不安定さが機序である。中枢性睡眠時無呼吸の一種でもある。",
-      "tags": [
-        "総論I",
-        "呼吸生理",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 16,
-        "image": "assets/reference_pages/s1_p016.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=16",
-        "highlights": [
-          {
-            "x": 0.5028,
-            "y": 0.5963,
-            "w": 0.2085,
-            "h": 0.0153
-          }
-        ]
-      },
-      "choices": {
-        "a": "Cheyne−Stokes呼吸",
-        "b": "Kussmaul呼吸",
-        "c": "Biot呼吸",
-        "d": "失調性呼吸"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.2
     },
     {
       "id": "qa-047",
@@ -5612,47 +5530,6 @@
         "kind": "original"
       },
       "_bestCov": 0.41379310344827586
-    },
-    {
-      "id": "qa-s3-015",
-      "type": "mcq",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "喀痰肉眼性状の分類（P3最良）は？",
-      "answer": [
-        "a"
-      ],
-      "explanation": "喀痰の肉眼性状の分類はMiller & Jones分類(P3が最良の膿性痰)。\n\n【AI解説】\n【結論】喀痰の肉眼性状の分類はMiller & Jones分類（P3が最も膿性度が高い）。\n【選択肢の解説】\n⭕「Miller & Jones分類」：正しい。M1（完全な粘液性）、M2（粘液に少量の膿）、P1（膿が1/3以下）、P2（1/3〜2/3）、P3（2/3以上）に分ける。\n❌「Geckler分類」：誤り。鏡検による品質評価である。\n❌「Light分類」：誤り。胸水の分類である。\n❌「Fletcher分類」：誤り。\n【関連知識】P3が最も膿性度が高く、下気道由来の検体として質が高い。",
-      "tags": [
-        "総論III",
-        "咳嗽・痰",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 5,
-        "image": "assets/reference_pages/s3_p005.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=5",
-        "highlights": [
-          {
-            "x": 0.5384,
-            "y": 0.8552,
-            "w": 0.3947,
-            "h": 0.0208
-          }
-        ]
-      },
-      "choices": {
-        "a": "Miller & Jones分類",
-        "b": "Geckler分類",
-        "c": "Light分類",
-        "d": "Fletcher分類"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.5384615384615384
     },
     {
       "id": "qa-s3-016",
@@ -9354,7 +9231,7 @@
       "answer": [
         "a"
       ],
-      "explanation": "喀痰の肉眼評価に用いる分類はMiller & Jones分類。\n\n【AI解説】\n【結論】喀痰の肉眼評価に用いる分類はMiller & Jones分類。\n【選択肢の解説】\n⭕「Miller & Jones分類」：正しい。M1（完全な粘液性）〜P3（膿性が全体の2/3以上）で肉眼的性状を評価し、P3が最も良質である。\n❌「Geckler分類」：誤り。鏡検による品質評価である。\n❌「Light分類」：誤り。胸水の分類である。\n❌「Hugh-Jones分類」：誤り。呼吸困難の分類である。\n【関連知識】膿性痰は細菌感染に対する感度は高いが特異度は低い。",
+      "explanation": "喀痰の肉眼評価に用いる分類はMiller & Jones分類。\n\n【AI解説】\n【結論】喀痰の肉眼評価に用いる分類はMiller & Jones分類。\n【選択肢の解説】\n⭕「Miller & Jones分類」：正しい。M1（完全な粘液性）、M2（粘液に少量の膿）、P1（膿が1/3以下）、P2（1/3〜2/3）、P3（2/3以上）に分ける。P3が最も膿性度が高く、下気道由来の検体として質が高い。\n❌「Geckler分類」：誤り。鏡検による品質評価である。\n❌「Light分類」：誤り。胸水の分類である。\n❌「Hugh-Jones分類」：誤り。呼吸困難の分類である。\n【関連知識】膿性痰は細菌感染に対する感度は高いが特異度は低い。",
       "tags": [
         "総論IV",
         "感染症診断・喀痰・画像・核医学",
@@ -9388,47 +9265,6 @@
         "title": "一問一答 4 検査",
         "pdfPage": 3
       }
-    },
-    {
-      "id": "qa-s4-032",
-      "type": "mcq",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "臓側胸膜由来で間質性肺炎に上昇するマーカーで疾患特異度の高いものは？",
-      "answer": [
-        "a"
-      ],
-      "explanation": "間質性肺炎で上昇し疾患特異度の高いマーカーはKL-6・SP-D・SP-A。\n\n【AI解説】\n【結論】間質性肺炎で上昇し疾患特異度の高いマーカーはKL-6・SP-D・SP-A。\n【選択肢の解説】\n⭕「KL-6・SP-D・SP-A」：正しい。II型肺胞上皮細胞由来で間質性肺炎に比較的特異的である。\n❌「CEA・CA19-9」：誤り。腫瘍マーカーだが間質性肺炎でも上昇しうる。\n❌「CRP・赤沈」：誤り。非特異的な炎症指標である。\n❌「NSE・proGRP」：誤り。小細胞肺癌のマーカーである。\n【関連知識】急激なKL-6上昇はニューモシスチス肺炎やサイトメガロウイルス感染でもみられる。",
-      "tags": [
-        "総論IV",
-        "感染症診断・喀痰・画像・核医学",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 2,
-        "image": "assets/reference_pages/s4_p002.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=2",
-        "highlights": [
-          {
-            "x": 0.5035,
-            "y": 0.9081,
-            "w": 0.3968,
-            "h": 0.0208
-          }
-        ]
-      },
-      "choices": {
-        "a": "KL-6・SP-D・SP-A",
-        "b": "CEA・CA19-9",
-        "c": "CRP・赤沈",
-        "d": "NSE・proGRP"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.34375
     },
     {
       "id": "qa-s4-033",
@@ -23843,51 +23679,6 @@
       "type": "mcq",
       "chapter": "各論Ⅲ 胸膜疾患",
       "section": "各論III 胸膜疾患",
-      "question": "中皮腫の陽性マーカーを2つ挙げよ。",
-      "answer": [
-        "a"
-      ],
-      "explanation": "中皮腫の陽性マーカーはcalretinin・WT1(D2-40・CK5/6も)。\n\n【AI解説】\n【結論】中皮腫の陽性マーカーはcalretinin・WT1（D2-40・CK5/6も）。\n【選択肢の解説】\n⭕「calretinin・WT1（D2-40・CK5/6も）」：正しい。中皮由来を示す。\n❌「MOC-31・Ber-EP4」：誤り。腺癌マーカーで、中皮腫では陰性となる。\n❌「TTF-1・NapsinA」：誤り。肺腺癌のマーカーである。\n❌「p40・p63」：誤り。扁平上皮癌のマーカーである。\n【関連知識】診断にはサイトケラチン陽性を確認したうえで、2種以上の中皮腫マーカーと2種以上の癌マーカーを組み合わせて検討する。",
-      "tags": [
-        "各論Ⅲ",
-        "各論Ⅲ 胸膜疾患",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "source_file": "各論III_胸膜疾患_問題集.docx",
-      "id": "qa-0579",
-      "reference": {
-        "title": "各論 III 胸膜疾患",
-        "page": 14,
-        "image": "assets/reference_pages/k3_p014.webp",
-        "viewer": "reference-viewer.html?doc=k3&page=14",
-        "highlights": [
-          {
-            "x": 0.0837,
-            "y": 0.1374,
-            "w": 0.3773,
-            "h": 0.0212
-          }
-        ]
-      },
-      "choices": {
-        "a": "calretinin・WT1（D2-40・CK5/6も）",
-        "b": "MOC-31・Ber-EP4",
-        "c": "TTF-1・NapsinA",
-        "d": "p40・p63"
-      },
-      "source": {
-        "kind": "book",
-        "code": "b3",
-        "page": 342,
-        "title": "一問一答 III 胸膜疾患",
-        "pdfPage": 9
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論Ⅲ 胸膜疾患",
-      "section": "各論III 胸膜疾患",
       "question": "中皮腫で最も多い組織型は？",
       "answer": [
         "a"
@@ -25741,48 +25532,6 @@
         "kind": "original"
       },
       "_bestCov": 0.3
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論Ⅳ 横隔膜疾患",
-      "section": "各論IV 横隔膜疾患",
-      "question": "横隔膜弛緩症の病態（組織変化）は？",
-      "answer": [
-        "a"
-      ],
-      "explanation": "横隔膜弛緩症は横隔膜筋線維が結合組織に置換された状態。\n\n【AI解説】\n【結論】横隔膜弛緩症は横隔膜筋線維が結合組織に置換された状態。\n【機序】筋力を失い挙上する（eventration）。ヘルニアと違い横隔膜の連続性は保たれる。\n【関連知識】先天性と後天性（横隔神経障害・外傷）がある。\n【選択肢の解説】\n⭕「横隔膜筋線維が結合組織に置換された状態」：正しい。筋力を失い挙上する（eventration）。\n❌「横隔膜筋の肥大・過形成」：誤り。\n❌「横隔膜への脂肪浸潤」：誤り。\n❌「横隔膜の石灰化」：誤り。",
-      "tags": [
-        "各論Ⅳ",
-        "各論Ⅳ 横隔膜疾患",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "source_file": "各論IV_横隔膜疾患_問題集.docx",
-      "id": "qa-0623",
-      "reference": {
-        "title": "各論 IV 横隔膜疾患",
-        "page": 7,
-        "image": "assets/reference_pages/k4_p007.webp",
-        "viewer": "reference-viewer.html?doc=k4&page=7",
-        "highlights": [
-          {
-            "x": 0.1046,
-            "y": 0.2792,
-            "w": 0.3919,
-            "h": 0.0198
-          }
-        ]
-      },
-      "choices": {
-        "a": "横隔膜筋線維が結合組織に置換された状態",
-        "b": "横隔膜筋の肥大・過形成",
-        "c": "横隔膜への脂肪浸潤",
-        "d": "横隔膜の石灰化"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.23076923076923078
     },
     {
       "type": "mcq",
@@ -29114,7 +28863,7 @@
       "answer": [
         "a"
       ],
-      "explanation": "漏斗胸の発症率は400〜1,000人に1人。\n\n【AI解説】\n【結論】漏斗胸の発症率は400〜1,000人に1人。\n【関連知識】男性が女性の約3倍。約40%に家族歴。\n【選択肢の解説】\n⭕「400〜1,000人に1人」：正しい。\n❌「10〜50人に1人」：誤り。高すぎる。\n❌「5,000〜10,000人に1人」：誤り。\n❌「50,000人に1人」：誤り。",
+      "explanation": "漏斗胸の発症率は400〜1,000人に1人。\n\n【AI解説】\n【結論】漏斗胸の発症率は400〜1,000人に1人である。\n【選択肢の解説】\n⭕「400〜1,000人に1人」：正しい。前胸壁の先天異常のなかで最も頻度が高い。\n❌「100人に1人」：誤り。頻度が高すぎる。\n❌「2,000人に1人」：誤り。実際はこれより高頻度である。\n❌「10,000人に1人」：誤り。まれな疾患ではない。\n【関連知識】男性が女性の約3倍で、約40%に家族歴を認める。重症度はHaller index（胸郭の最大横径÷胸骨後面から椎体前面までの最短前後径）で評価し、3.25以上が手術適応の目安、5以上が高度陥凹とされる。手術はNuss法が主流である。",
       "tags": [
         "各論Ⅵ",
         "各論Ⅵ 胸郭・胸壁の疾患",
@@ -29139,9 +28888,9 @@
       },
       "choices": {
         "a": "400〜1,000人に1人",
-        "b": "10〜50人に1人",
-        "c": "5,000〜10,000人に1人",
-        "d": "50,000人に1人"
+        "b": "100人に1人",
+        "c": "2,000人に1人",
+        "d": "10,000人に1人"
       },
       "source": {
         "kind": "original"
@@ -100665,44 +100414,6 @@
       }
     },
     {
-      "id": "ul-0013",
-      "type": "recall",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
-      "question": "肺胞はどのような形態の構造物として存在しているか。",
-      "answer": "肺胞道から外方に突出する多面体の構造物",
-      "explanation": "【本文の下線部】\n…肺胞は肺胞道から外方に突出する多面体の構造物として存在している\n（教科書 p.8）",
-      "tags": [
-        "総論I",
-        "呼吸器の構造",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 8,
-        "image": "assets/reference_pages/s1_p008.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=8",
-        "highlights": [
-          {
-            "x": 0.2967,
-            "y": 0.3175,
-            "w": 0.1648,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.335,
-            "w": 0.3462,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0014",
       "type": "recall",
       "chapter": "総論I 形態・機能・病態生理",
@@ -101339,56 +101050,6 @@
       }
     },
     {
-      "id": "ul-0028",
-      "type": "recall",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "喀血診療指針における重症喀血・軽症喀血の基準は。",
-      "answer": "重症＝200mL/日以上，コップ1杯，または酸素飽和度90％以下／軽症＝15mL/日未満，大さじ1杯／その間が中等症",
-      "explanation": "【本文の下線部】\n…喀血診療指針1）では，200 mL/日以上，コップ1杯または酸素飽和度90％以下を重症喀血，15 mL/日未満，大さじ1杯を軽症，その間を中等症としている．\n（教科書 p.31）",
-      "tags": [
-        "総論III",
-        "血痰，喀血",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 7,
-        "image": "assets/reference_pages/s3_p007.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=7",
-        "highlights": [
-          {
-            "x": 0.4313,
-            "y": 0.3875,
-            "w": 0.0659,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1016,
-            "y": 0.405,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1016,
-            "y": 0.4225,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1016,
-            "y": 0.44,
-            "w": 0.2926,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0029",
       "type": "recall",
       "chapter": "総論III 主要症候と身体所見",
@@ -101486,44 +101147,6 @@
             "x": 0.0659,
             "y": 0.5451,
             "w": 0.1484,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0031",
-      "type": "recall",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "呼吸困難の本態はどのように説明されるか。",
-      "answer": "換気に対する呼吸中枢への要求と，実際の換気能力とのアンバランス",
-      "explanation": "【本文の下線部】\n…換気に対する呼吸中枢への要求と実際の換気能力とのアンバランス\n（教科書 p.34）",
-      "tags": [
-        "総論III",
-        "呼吸困難，息切れ",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 10,
-        "image": "assets/reference_pages/s3_p010.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=10",
-        "highlights": [
-          {
-            "x": 0.2637,
-            "y": 0.3525,
-            "w": 0.1978,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.37,
-            "w": 0.2967,
             "h": 0.0151
           }
         ]
@@ -102539,38 +102162,6 @@
       }
     },
     {
-      "id": "ul-0055",
-      "type": "recall",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "代謝性アシドーシスでみられる，深く大きい規則的な呼吸を何と呼ぶか。",
-      "answer": "Kussmaul大呼吸",
-      "explanation": "【本文の下線部】\n…Kussmaul大呼吸\n（教科書 p.51）",
-      "tags": [
-        "総論III",
-        "異常呼吸",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 27,
-        "image": "assets/reference_pages/s3_p027.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=27",
-        "highlights": [
-          {
-            "x": 0.1484,
-            "y": 0.6328,
-            "w": 0.121,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0056",
       "type": "recall",
       "chapter": "総論III 主要症候と身体所見",
@@ -103282,38 +102873,6 @@
             "x": 0.1016,
             "y": 0.405,
             "w": 0.033,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0074",
-      "type": "recall",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "喀痰の肉眼的品質評価に用いられる分類は。",
-      "answer": "Miller & Jonesの分類",
-      "explanation": "【本文の下線部】\n…Miller & Jonesの分類\n（教科書 p.67）",
-      "tags": [
-        "総論IV",
-        "喀痰採取法と細胞診",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 13,
-        "image": "assets/reference_pages/s4_p013.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=13",
-        "highlights": [
-          {
-            "x": 0.7252,
-            "y": 0.2474,
-            "w": 0.1632,
             "h": 0.0151
           }
         ]
@@ -104897,7 +104456,7 @@
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
       "question": "気管支鏡で直接観察できない末梢気管支から肺野の病変に対して行う生検を何と呼ぶか。",
-      "answer": "経気管支肺生検（TBLB）",
+      "answer": "経気管支肺生検（TBLB）：確定診断のために肺野末梢病巣から組織を採取する方法",
       "explanation": "【本文の下線部】\n…気管支鏡で観察できない末梢気管支から肺野に存在する病変（末梢病変）に対する生検\n（教科書 p.97）",
       "tags": [
         "総論IV",
@@ -105059,43 +104618,6 @@
       }
     },
     {
-      "id": "ul-0119",
-      "type": "recall",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "肺野末梢病巣から確定診断のために組織を採取する方法は。",
-      "answer": "経気管支肺生検（TBLB）",
-      "explanation": "【本文の下線部】\n…確定診断に組織採取が必要なときに行う肺野末梢病巣からの検体採取法\n（教科書 p.98）",
-      "tags": [
-        "総論IV",
-        "内視鏡検査および生検法",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 44,
-        "viewer": "reference-viewer.html?doc=s4&page=44",
-        "highlights": [
-          {
-            "x": 0.6181,
-            "y": 0.8778,
-            "w": 0.2802,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.8953,
-            "w": 0.251,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0120",
       "type": "recall",
       "chapter": "総論IV 検査",
@@ -105245,44 +104767,6 @@
             "x": 0.5385,
             "y": 0.0723,
             "w": 0.0334,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0124",
-      "type": "recall",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "EBUS-TBNAの診断精度（特異度・感度）は。",
-      "answer": "特異度100％，感度約90％",
-      "explanation": "【本文の下線部】\n…診断精度は特異度100％，感度約90％\n（教科書 p.101）",
-      "tags": [
-        "総論IV",
-        "内視鏡検査および生検法",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 47,
-        "image": "assets/reference_pages/s4_p047.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=47",
-        "highlights": [
-          {
-            "x": 0.6884,
-            "y": 0.1249,
-            "w": 0.2457,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.1424,
-            "w": 0.033,
             "h": 0.0151
           }
         ]
@@ -108457,43 +107941,6 @@
             "x": 0.1012,
             "y": 0.6852,
             "w": 0.2802,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0201",
-      "type": "recall",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "pMDI（加圧式定量噴霧式吸入器）使用時の要点は。",
-      "answer": "噴霧のタイミングを吸気開始に合わせること",
-      "explanation": "【本文の下線部】\n…噴霧のタイミングを吸気開始に合わせる\n（教科書 p.149）",
-      "tags": [
-        "総論V",
-        "薬物療法",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 3,
-        "viewer": "reference-viewer.html?doc=s5&page=3",
-        "highlights": [
-          {
-            "x": 0.2317,
-            "y": 0.8077,
-            "w": 0.2651,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1012,
-            "y": 0.8252,
-            "w": 0.033,
             "h": 0.0151
           }
         ]
@@ -112937,62 +112384,6 @@
       }
     },
     {
-      "id": "ul-0296",
-      "type": "recall",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "発熱性好中球減少症（FN）の定義を述べよ。",
-      "answer": "好中球数500/μL未満，あるいは1,000/μL未満で48時間以内に500/μL未満に減少すると予測される状態で，腋窩温37.5℃以上（口腔内体温38℃以上）の発熱を生じた場合",
-      "explanation": "【本文の下線部】\n…FNを「好中球数が500/μL未満，あるいは1,000/μL未満で48時間以内に500/μL未満に減少すると予測される状態で，腋窩温37.5℃以上（口腔内体温38℃以上）の発熱を生じた場合」\n（教科書 p.182）",
-      "tags": [
-        "総論V",
-        "薬物療法",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 36,
-        "image": "assets/reference_pages/s5_p036.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=36",
-        "highlights": [
-          {
-            "x": 0.8753,
-            "y": 0.1949,
-            "w": 0.0231,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.2124,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.2299,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.2474,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.2649,
-            "w": 0.1978,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0297",
       "type": "recall",
       "chapter": "総論V 治療",
@@ -114314,44 +113705,6 @@
             "x": 0.1181,
             "y": 0.9128,
             "w": 0.3461,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0330",
-      "type": "recall",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "難治性VF/無脈性VTや容易に再発するVFに用いる抗不整脈薬と初回量は。",
-      "answer": "amiodarone 300mg",
-      "explanation": "【本文の下線部】\n…難治性VF/VTや容易に再発するVF/pulseless VTではamiodarone 300 mg，\n（教科書 p.195）",
-      "tags": [
-        "総論V",
-        "成人 一次・二次救命処置",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 49,
-        "image": "assets/reference_pages/s5_p049.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=49",
-        "highlights": [
-          {
-            "x": 0.7557,
-            "y": 0.4575,
-            "w": 0.1784,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.4751,
-            "w": 0.3817,
             "h": 0.0151
           }
         ]
@@ -118640,38 +117993,6 @@
       }
     },
     {
-      "id": "ul-0430",
-      "type": "recall",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "間質性肺炎合併肺癌の術後に生じうる致命的合併症は。",
-      "answer": "間質性肺炎急性増悪",
-      "explanation": "【本文の下線部】\n…間質性肺炎急性増悪\n（教科書 p.243）",
-      "tags": [
-        "総論V",
-        "外科療法",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 97,
-        "image": "assets/reference_pages/s5_p097.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=97",
-        "highlights": [
-          {
-            "x": 0.5632,
-            "y": 0.335,
-            "w": 0.136,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0431",
       "type": "recall",
       "chapter": "総論V 治療",
@@ -120964,44 +120285,6 @@
       }
     },
     {
-      "id": "ul-0482",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "医療・介護関連肺炎などで治療方針を決める際に考慮すべきことは。",
-      "answer": "患者個人の意志やQOLを考慮した治療や緩和ケア",
-      "explanation": "【本文の下線部】\n…患者個人の意志やQOLを考慮した治療や緩和ケア\n（教科書 p.269）",
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 9,
-        "image": "assets/reference_pages/k1_p009.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=9",
-        "highlights": [
-          {
-            "x": 0.4134,
-            "y": 0.6677,
-            "w": 0.0838,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1016,
-            "y": 0.6852,
-            "w": 0.2951,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0483",
       "type": "recall",
       "chapter": "各論I 気道・肺疾患",
@@ -121101,44 +120384,6 @@
             "x": 0.0659,
             "y": 0.7902,
             "w": 0.033,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0486",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "誤嚥性肺炎における抗菌薬選択の原則は。",
-      "answer": "嫌気性菌にもスペクトラムを有する抗菌薬を選択する",
-      "explanation": "【本文の下線部】\n…嫌気性菌にもスペクトラムを有する抗菌薬を選択\n（教科書 p.275）",
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 15,
-        "image": "assets/reference_pages/k1_p015.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=15",
-        "highlights": [
-          {
-            "x": 0.2665,
-            "y": 0.8603,
-            "w": 0.2308,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1016,
-            "y": 0.8778,
-            "w": 0.1319,
             "h": 0.0151
           }
         ]
@@ -121409,44 +120654,6 @@
             "x": 0.5027,
             "y": 0.5101,
             "w": 0.1484,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0493",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "リポイド肺炎の管理で必要なことは。",
-      "answer": "誘発因子（油脂類）の吸入を避けること",
-      "explanation": "【本文の下線部】\n…誘発因子の吸入を避けることが必要\n（教科書 p.280）",
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 20,
-        "image": "assets/reference_pages/k1_p020.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=20",
-        "highlights": [
-          {
-            "x": 0.75,
-            "y": 0.7027,
-            "w": 0.1484,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.7202,
-            "w": 0.1154,
             "h": 0.0151
           }
         ]
@@ -122663,44 +121870,6 @@
             "x": 0.0659,
             "y": 0.4225,
             "w": 0.2637,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0520",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "慢性進行性の肺アスペルギルス症で陽性となる抗体は。",
-      "answer": "抗アスペルギルスIgG抗体",
-      "explanation": "【本文の下線部】\n…抗アスペルギルスIgG抗体\n（教科書 p.294）",
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 34,
-        "image": "assets/reference_pages/k1_p034.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=34",
-        "highlights": [
-          {
-            "x": 0.3929,
-            "y": 0.5976,
-            "w": 0.0686,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.6151,
-            "w": 0.1377,
             "h": 0.0151
           }
         ]
@@ -126282,44 +125451,6 @@
       }
     },
     {
-      "id": "ul-0609",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-4 アレルギー性疾患",
-      "question": "CEPの特徴的な胸部X線像を表す表現は。",
-      "answer": "photographic negative of pulmonary edema（肺水腫の陰画像）",
-      "explanation": "【本文の下線部】\n…photo-graphic negative of pulmonary edema\n（教科書 p.342）",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 82,
-        "image": "assets/reference_pages/k1_p082.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=82",
-        "highlights": [
-          {
-            "x": 0.4121,
-            "y": 0.7202,
-            "w": 0.0494,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.7377,
-            "w": 0.2843,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0610",
       "type": "recall",
       "chapter": "各論I 気道・肺疾患",
@@ -129298,44 +128429,6 @@
       }
     },
     {
-      "id": "ul-0680",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-8 全身疾患",
-      "question": "肺Langerhans細胞組織球症（肺LCH）における喫煙歴の割合は。",
-      "answer": "約90％が有喫煙歴者",
-      "explanation": "【本文の下線部】\n…肺LCHは，約90％が有喫煙歴者\n（教科書 p.395）",
-      "tags": [
-        "各論I",
-        "全身性疾患に伴う肺病変",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 135,
-        "image": "assets/reference_pages/k1_p135.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=135",
-        "highlights": [
-          {
-            "x": 0.4401,
-            "y": 0.5101,
-            "w": 0.0571,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1016,
-            "y": 0.5276,
-            "w": 0.1907,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0681",
       "type": "recall",
       "chapter": "各論I 気道・肺疾患",
@@ -129913,38 +129006,6 @@
             "x": 0.2665,
             "y": 0.5451,
             "w": 0.2308,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0695",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-9 じん肺症",
-      "question": "職業性の有機粉じん吸入で生じる代表的病態は。",
-      "answer": "職業性過敏性肺炎",
-      "explanation": "【本文の下線部】\nほぼ同義となる\n（教科書 p.411）",
-      "tags": [
-        "各論I",
-        "じん肺症",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 151,
-        "image": "assets/reference_pages/k1_p151.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=151",
-        "highlights": [
-          {
-            "x": 0.5385,
-            "y": 0.1424,
-            "w": 0.1154,
             "h": 0.0151
           }
         ]
@@ -132984,44 +132045,6 @@
       }
     },
     {
-      "id": "ul-0773",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-11 呼吸器新生物",
-      "question": "小細胞肺癌に伴う，神経筋接合部の腫瘍随伴症候群は。",
-      "answer": "Lambert-Eaton症候群",
-      "explanation": "【本文の下線部】\n…Lambert-Eaton症候群\n（教科書 p.445）",
-      "tags": [
-        "各論I",
-        "肺腫瘍",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 185,
-        "image": "assets/reference_pages/k1_p185.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=185",
-        "highlights": [
-          {
-            "x": 0.3841,
-            "y": 0.6852,
-            "w": 0.1137,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1022,
-            "y": 0.7027,
-            "w": 0.0495,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0774",
       "type": "recall",
       "chapter": "各論I 気道・肺疾患",
@@ -133095,38 +132118,6 @@
             "x": 0.2138,
             "y": 0.8778,
             "w": 0.0817,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0776",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-11 呼吸器新生物",
-      "question": "治療方針決定に用いられる全身状態の指標は。",
-      "answer": "performance status（PS）",
-      "explanation": "【本文の下線部】\n…全身状態（performance status：PS）\n（教科書 p.445）",
-      "tags": [
-        "各論I",
-        "肺腫瘍",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 185,
-        "image": "assets/reference_pages/k1_p185.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=185",
-        "highlights": [
-          {
-            "x": 0.1365,
-            "y": 0.9303,
-            "w": 0.275,
             "h": 0.0151
           }
         ]
@@ -133325,38 +132316,6 @@
             "x": 0.5909,
             "y": 0.5801,
             "w": 0.105,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0783",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-11 呼吸器新生物",
-      "question": "T790M変異陽性例に有効な第3世代EGFR-TKIは。",
-      "answer": "osimertinib",
-      "explanation": "【本文の下線部】\nosimertinib\n（教科書 p.448）",
-      "tags": [
-        "各論I",
-        "肺腫瘍",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 188,
-        "image": "assets/reference_pages/k1_p188.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=188",
-        "highlights": [
-          {
-            "x": 0.5027,
-            "y": 0.6326,
-            "w": 0.084,
             "h": 0.0151
           }
         ]
@@ -135674,56 +134633,6 @@
       }
     },
     {
-      "id": "ul-0840",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-13 その他（比較的稀な肺疾患）",
-      "question": "肺胞出血の証明となる所見は。",
-      "answer": "赤血球やヘモジデリンを貪食したマクロファージを認めること",
-      "explanation": "【本文の下線部】\n…赤血球やヘモジデリンを貪食したマクロファージを認めることが肺胞出血の証明となり，前述の全身疾患の除外と併せて，本症と診断される\n（教科書 p.478）",
-      "tags": [
-        "各論I",
-        "その他の肺疾患（比較的まれな肺疾患）",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 218,
-        "image": "assets/reference_pages/k1_p218.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=218",
-        "highlights": [
-          {
-            "x": 0.717,
-            "y": 0.5801,
-            "w": 0.1813,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.5976,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.6151,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.6326,
-            "w": 0.0659,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0841",
       "type": "recall",
       "chapter": "各論I 気道・肺疾患",
@@ -135759,68 +134668,6 @@
             "x": 0.1016,
             "y": 0.1424,
             "w": 0.3521,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0842",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-13 その他（比較的稀な肺疾患）",
-      "question": "Goodpasture症候群の病態を述べよ。",
-      "answer": "腎臓の糸球体基底膜に対する自己抗体である抗GBM抗体が形成され，肺や腎臓の組織に沈着して障害をきたし，肺胞出血や急速進行性糸球体腎炎（RPGN）を引き起こす疾患",
-      "explanation": "【本文の下線部】\nGoodpasture症候群とは，腎臓の糸球体基底膜に対する自己抗体である抗GBM（glomerular basementmembrane）抗体が何らかの原因で形成され，肺や腎臓の組織に沈着して障害をきたし，肺胞出血や急速進行性糸球体腎炎（rapidly progressive glomerulone-phritis：RPGN）を引き起こす疾患である\n（教科書 p.480）",
-      "tags": [
-        "各論I",
-        "その他の肺疾患（比較的まれな肺疾患）",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 220,
-        "image": "assets/reference_pages/k1_p220.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=220",
-        "highlights": [
-          {
-            "x": 0.0824,
-            "y": 0.2649,
-            "w": 0.3791,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.2824,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.3,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.3175,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.335,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.3525,
-            "w": 0.3123,
             "h": 0.0151
           }
         ]
@@ -136432,50 +135279,6 @@
       }
     },
     {
-      "id": "ul-0856",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-13 その他（比較的稀な肺疾患）",
-      "question": "EGPAの胸部画像所見は。",
-      "answer": "多発性のconsolidation，すりガラス陰影，小葉中心性粒状陰影，気道壁や小葉間隔壁の肥厚など",
-      "explanation": "【本文の下線部】\n…一般に多発性のcon-solidation，すりガラス陰影，小葉中心性粒状陰影，気道壁や小葉間隔壁の肥厚などを認める\n（教科書 p.482）",
-      "tags": [
-        "各論I",
-        "その他の肺疾患（比較的まれな肺疾患）",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 222,
-        "image": "assets/reference_pages/k1_p222.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=222",
-        "highlights": [
-          {
-            "x": 0.7424,
-            "y": 0.8077,
-            "w": 0.1565,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5033,
-            "y": 0.8252,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5033,
-            "y": 0.8428,
-            "w": 0.2967,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0857",
       "type": "recall",
       "chapter": "各論I 気道・肺疾患",
@@ -136840,44 +135643,6 @@
       }
     },
     {
-      "id": "ul-0865",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-13 その他（比較的稀な肺疾患）",
-      "question": "PCD（原発性線毛運動機能不全症：primary ciliary dyskinesia）の臨床像は。",
-      "answer": "幼少期より慢性下気道感染，慢性副鼻腔炎，滲出性中耳炎を繰り返す",
-      "explanation": "幼少期より慢性下気道感染、慢性副鼻腔炎、滲出性中耳炎を繰り返す。\n\n【疾患概念】1933年に内臓逆位・慢性副鼻腔炎・気管支拡張症の3主徴を呈する疾患が報告され、報告者にちなんでKartagener症候群と命名された。その後1977年にEliassonらにより線毛不動症候群（immotile cilia syndrome：ICS）という呼称が提唱され、現在は軽症例なども含めて原発性線毛運動機能不全症（PCD）と総称される。\n【疫学・遺伝】1〜2万人に1人と推定され、一般に常染色体潜性遺伝である。内臓逆位は約50%に認められる。\n【線毛の構造と病態】線毛の超微構造は中央に2本の中心微小管、周辺にA・B小管からなる9対の周辺微小管をもつ（9＋2構造）。A小管から伸びる内・外ダイニン腕がATPの結合・加水分解により短縮・伸展し、周辺微小管が相互にスライドすることで線毛が屈曲する。PCDの基本病態はダイニン腕の欠損であり、内側と外側ダイニン腕の欠損が最も多い。\n【関連知識】線毛運動障害により気道クリアランスが低下し、気管支拡張症へ進展する。精子の鞭毛も同じ構造をもつため男性不妊を、卵管線毛の障害により女性の不妊・子宮外妊娠をきたしうる。\n\n【本文の下線部】\n幼少期より慢性下気道感染，慢性副鼻腔炎，滲出性中耳炎を繰り返す\n（教科書 p.484）",
-      "tags": [
-        "各論I",
-        "その他の肺疾患（比較的まれな肺疾患）",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 224,
-        "image": "assets/reference_pages/k1_p224.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=224",
-        "highlights": [
-          {
-            "x": 0.0824,
-            "y": 0.8428,
-            "w": 0.3791,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.8603,
-            "w": 0.1355,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0866",
       "type": "recall",
       "chapter": "各論I 気道・肺疾患",
@@ -137200,44 +135965,6 @@
       }
     },
     {
-      "id": "ul-0875",
-      "type": "recall",
-      "chapter": "各論II 呼吸不全",
-      "section": "各論II 呼吸不全",
-      "question": "1気圧における肺胞気式を示せ。",
-      "answer": "PAO2＝（760−47 mmHg）×0.21−PaCO2/R",
-      "explanation": "【本文の下線部】\n…1気圧ではPaO2＝（760-47 mmHg）×0.21-PaCO2/Rとなる\n（教科書 p.486）",
-      "tags": [
-        "各論II",
-        "急性呼吸不全",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 2,
-        "image": "assets/reference_pages/k2_p002.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=2",
-        "highlights": [
-          {
-            "x": 0.8062,
-            "y": 0.4926,
-            "w": 0.0922,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.5101,
-            "w": 0.3604,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0876",
       "type": "recall",
       "chapter": "各論II 呼吸不全",
@@ -137545,56 +136272,6 @@
             "x": 0.0659,
             "y": 0.2649,
             "w": 0.1896,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0884",
-      "type": "recall",
-      "chapter": "各論II 呼吸不全",
-      "section": "各論II 呼吸不全",
-      "question": "シャントによる低酸素血症の特徴は。",
-      "answer": "酸素吸入によるPaO2の上昇が乏しい",
-      "explanation": "【本文の下線部】\n…解剖学的肺内外シャント…シャントによる低酸素血症の場合は，酸素吸入によるPaO2の上昇が乏しいことが特徴である．\n（教科書 p.488）",
-      "tags": [
-        "各論II",
-        "急性呼吸不全",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4",
-        "highlights": [
-          {
-            "x": 0.2308,
-            "y": 0.37,
-            "w": 0.1813,
-            "h": 0.0151
-          },
-          {
-            "x": 0.3132,
-            "y": 0.3875,
-            "w": 0.1484,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.405,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.4225,
-            "w": 0.1484,
             "h": 0.0151
           }
         ]
@@ -138184,50 +136861,6 @@
       }
     },
     {
-      "id": "ul-0899",
-      "type": "recall",
-      "chapter": "各論II 呼吸不全",
-      "section": "各論II 呼吸不全",
-      "question": "酸素化が保たれていても呼吸不全悪化の徴候となる所見は。",
-      "answer": "呼吸数25回/分以上の頻呼吸",
-      "explanation": "【本文の下線部】\n…特に呼吸数25回/分以上の頻呼吸は，酸素化が保たれていてもその後の呼吸不全悪化の徴候である．\n（教科書 p.489）",
-      "tags": [
-        "各論II",
-        "急性呼吸不全",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 5,
-        "image": "assets/reference_pages/k2_p005.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=5",
-        "highlights": [
-          {
-            "x": 0.8681,
-            "y": 0.5626,
-            "w": 0.0659,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.5801,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.5976,
-            "w": 0.2802,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0900",
       "type": "recall",
       "chapter": "各論II 呼吸不全",
@@ -138552,62 +137185,6 @@
       }
     },
     {
-      "id": "ul-0906",
-      "type": "recall",
-      "chapter": "各論II 呼吸不全",
-      "section": "各論II 呼吸不全",
-      "question": "在宅酸素療法（HOT）の保険適用基準は。",
-      "answer": "室内気吸入時のPaO2が55Torr以下，および60Torr以下で睡眠時または運動負荷時に著しい低酸素をきたす者であって，医師が在宅酸素療法を認めた者",
-      "explanation": "【本文の下線部】\n…保険適用基準は「室内気吸入時の動脈血酸素分圧（PaO2）が55 Torr以下，および60 Torr以下で睡眠時または運動負荷時に著しい低酸素をきたす者であって，医師が在宅酸素療法を認めた者」\n（教科書 p.491）",
-      "tags": [
-        "各論II",
-        "慢性呼吸不全",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 7,
-        "image": "assets/reference_pages/k2_p007.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=7",
-        "highlights": [
-          {
-            "x": 0.7363,
-            "y": 0.5101,
-            "w": 0.1978,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.5276,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.5451,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.5626,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.5801,
-            "w": 0.0495,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0907",
       "type": "recall",
       "chapter": "各論II 呼吸不全",
@@ -138913,50 +137490,6 @@
             "x": 0.0659,
             "y": 0.3525,
             "w": 0.3956,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0914",
-      "type": "recall",
-      "chapter": "各論III 胸膜疾患",
-      "section": "各論III 胸膜疾患",
-      "question": "胸水の原因として最も多いものを挙げよ。",
-      "answer": "心不全，肺炎随伴性胸水，悪性胸水，肺血栓塞栓症",
-      "explanation": "【本文の下線部】\n…胸水の原因として心不全，肺炎随伴性胸水，悪性胸水，肺血栓塞栓症が最も多い\n（教科書 p.498）",
-      "tags": [
-        "各論III",
-        "胸膜炎",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 III 胸膜疾患",
-        "page": 4,
-        "image": "assets/reference_pages/k3_p004.webp",
-        "viewer": "reference-viewer.html?doc=k3&page=4",
-        "highlights": [
-          {
-            "x": 0.2967,
-            "y": 0.44,
-            "w": 0.1648,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.4575,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.4751,
-            "w": 0.033,
             "h": 0.0151
           }
         ]
@@ -141881,76 +140414,6 @@
       }
     },
     {
-      "id": "ul-0985",
-      "type": "recall",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "各論VI 胸郭・胸壁の疾患",
-      "question": "漏斗胸の発症率は。",
-      "answer": "400～1,000人に1人",
-      "explanation": "【本文の下線部】\n…発症率は400～1,000人に1人である\n（教科書 p.536）",
-      "tags": [
-        "各論VI",
-        "漏斗胸",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k6_p006.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=6",
-        "highlights": [
-          {
-            "x": 0.0824,
-            "y": 0.3,
-            "w": 0.2757,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0986",
-      "type": "recall",
-      "chapter": "各論VI 胸郭・胸壁の疾患",
-      "section": "各論VI 胸郭・胸壁の疾患",
-      "question": "漏斗胸を合併する代表的な結合組織疾患は。",
-      "answer": "Marfan症候群",
-      "explanation": "【本文の下線部】\n…Marfan症候群に漏斗胸が合併する\n（教科書 p.536）",
-      "tags": [
-        "各論VI",
-        "漏斗胸",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 6,
-        "image": "assets/reference_pages/k6_p006.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=6",
-        "highlights": [
-          {
-            "x": 0.2514,
-            "y": 0.335,
-            "w": 0.2101,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.3525,
-            "w": 0.0495,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0987",
       "type": "recall",
       "chapter": "各論VI 胸郭・胸壁の疾患",
@@ -144384,7 +142847,7 @@
       "answer": [
         "b"
       ],
-      "explanation": "好中球500/μL未満，あるいは1,000/μL未満で48時間以内に500/μL未満に減少すると予測される状態で，腋窩温37.5℃以上（口腔内38℃以上）の発熱を生じた場合。\n【選択肢の解説】\n❌「好中球1,500/μL未満かつ発熱」：誤り。基準値が高すぎる。\n⭕「好中球500/μL未満で腋窩温37.5℃以上の発熱」：正しい。1,000/μL未満で48時間以内に500/μL未満になると予測される場合も含む。\n❌「白血球3,000/μL未満かつ発熱」：誤り。白血球数ではなく好中球数で判定する。\n❌「好中球1,000/μL未満で腋窩温37.0℃以上の発熱」：誤り。\n❌「好中球500/μL未満で口腔内体温37.5℃以上の発熱」：誤り。口腔内体温では38℃以上である。\n\n【本文の下線部】\n…FNを「好中球数が500/μL未満，あるいは1,000/μL未満で48時間以内に500/μL未満に減少すると予測される状態で，腋窩温37.5℃以上（口腔内体温38℃以上）の発熱を生じた場合」\n（教科書 p.182）",
+      "explanation": "好中球500/μL未満，あるいは1,000/μL未満で48時間以内に500/μL未満に減少すると予測される状態で，腋窩温37.5℃以上（口腔内38℃以上）の発熱を生じた場合。\n【選択肢の解説】\n❌「好中球1,500/μL未満かつ発熱」：誤り。基準値が高すぎる。\n⭕「好中球500/μL未満（または1,000/μL未満で48時間以内に500/μL未満に減少すると予測される状態）で腋窩温37.5℃以上の発熱」：正しい。1,000/μL未満で48時間以内に500/μL未満になると予測される場合も含む。\n❌「白血球3,000/μL未満かつ発熱」：誤り。白血球数ではなく好中球数で判定する。\n❌「好中球1,000/μL未満で腋窩温37.0℃以上の発熱」：誤り。\n❌「好中球500/μL未満で口腔内体温37.5℃以上の発熱」：誤り。口腔内体温では38℃以上である。\n\n【本文の下線部】\n…FNを「好中球数が500/μL未満，あるいは1,000/μL未満で48時間以内に500/μL未満に減少すると予測される状態で，腋窩温37.5℃以上（口腔内体温38℃以上）の発熱を生じた場合」\n（教科書 p.182）",
       "tags": [
         "総論V",
         "薬物療法",
@@ -144431,7 +142894,7 @@
       },
       "choices": {
         "a": "好中球1,500/μL未満かつ発熱",
-        "b": "好中球500/μL未満で腋窩温37.5℃以上の発熱",
+        "b": "好中球500/μL未満（または1,000/μL未満で48時間以内に500/μL未満に減少すると予測される状態）で腋窩温37.5℃以上の発熱",
         "c": "白血球3,000/μL未満かつ発熱",
         "d": "好中球1,000/μL未満で腋窩温37.0℃以上の発熱",
         "e": "好中球500/μL未満で口腔内体温37.5℃以上の発熱"
@@ -147618,7 +146081,7 @@
       "answer": [
         "a"
       ],
-      "explanation": "糸球体基底膜に対する自己抗体（抗GBM抗体）が肺・腎に沈着し，肺胞出血と急速進行性糸球体腎炎を引き起こす。診断には抗GBM抗体の証明が必要で，治療は血漿交換＋ステロイド＋免疫抑制薬。\n【選択肢の解説】\n⭕「抗GBM抗体が肺・腎に沈着して障害をきたす」：正しい。肺胞出血と急速進行性糸球体腎炎を生じる。\n❌「ANCAの証明が診断に必須である」：誤り。抗GBM抗体の証明が必要である（ANCA重複例もある）。\n❌「治療は経過観察でよい」：誤り。緊急性が高い。\n❌「腎病変は生じない」：誤り。急速進行性糸球体腎炎を生じる。\n❌「血漿交換は禁忌である」：誤り。血漿交換＋ステロイド＋免疫抑制薬が治療の柱である。\n\n【本文の下線部】\nGoodpasture症候群とは，腎臓の糸球体基底膜に対する自己抗体である抗GBM（glomerular basementmembrane）抗体が何らかの原因で形成され，肺や腎臓の組織に沈着して障害をきたし，肺胞出血や急速進行性糸球体腎炎（rapidly progressive glomerulone-phritis：RPGN）を引き起こす疾患である\n（教科書 p.480）",
+      "explanation": "糸球体基底膜に対する自己抗体（抗GBM抗体）が肺・腎に沈着し，肺胞出血と急速進行性糸球体腎炎を引き起こす。診断には抗GBM抗体の証明が必要で，治療は血漿交換＋ステロイド＋免疫抑制薬。\n【選択肢の解説】\n⭕「抗GBM抗体が肺・腎に沈着して障害をきたし、肺胞出血と急速進行性糸球体腎炎（RPGN）を生じる」：正しい。肺胞出血と急速進行性糸球体腎炎を生じる。\n❌「ANCAの証明が診断に必須である」：誤り。抗GBM抗体の証明が必要である（ANCA重複例もある）。\n❌「治療は経過観察でよい」：誤り。緊急性が高い。\n❌「腎病変は生じない」：誤り。急速進行性糸球体腎炎を生じる。\n❌「血漿交換は禁忌である」：誤り。血漿交換＋ステロイド＋免疫抑制薬が治療の柱である。\n\n【本文の下線部】\nGoodpasture症候群とは，腎臓の糸球体基底膜に対する自己抗体である抗GBM（glomerular basementmembrane）抗体が何らかの原因で形成され，肺や腎臓の組織に沈着して障害をきたし，肺胞出血や急速進行性糸球体腎炎（rapidly progressive glomerulone-phritis：RPGN）を引き起こす疾患である\n（教科書 p.480）",
       "tags": [
         "各論I",
         "その他の肺疾患（比較的まれな肺疾患）",
@@ -147670,7 +146133,7 @@
         ]
       },
       "choices": {
-        "a": "抗GBM抗体が肺・腎に沈着して障害をきたす",
+        "a": "抗GBM抗体が肺・腎に沈着して障害をきたし、肺胞出血と急速進行性糸球体腎炎（RPGN）を生じる",
         "b": "ANCAの証明が診断に必須である",
         "c": "治療は経過観察でよい",
         "d": "腎病変は生じない",
@@ -147813,7 +146276,7 @@
       "answer": [
         "b"
       ],
-      "explanation": "一般に常染色体潜性遺伝で性差はなく，幼少期より慢性下気道感染・慢性副鼻腔炎・滲出性中耳炎を繰り返す。疑われた際は電子顕微鏡による観察を必ず施行する。Kartagener症候群の3主徴は内臓逆位・慢性副鼻腔炎・気管支拡張症。\n【選択肢の解説】\n❌「常染色体顕性遺伝である」：誤り。一般に常染色体潜性遺伝である。\n⭕「幼少期より慢性下気道感染，慢性副鼻腔炎，滲出性中耳炎を繰り返す」：正しい。\n❌「男性にのみ発症する」：誤り。性差はない（男性では精子運動障害による不妊を伴う）。\n❌「診断に電子顕微鏡検査は不要である」：誤り。疑われた際は必ず施行する。\n❌「Kartagener症候群の3主徴は内臓逆位・肺気腫・気管支拡張症である」：誤り。内臓逆位・慢性副鼻腔炎・気管支拡張症である。\n\n【本文の下線部】\n一般的には常染色体潜性遺伝と考えられており，同胞内発生率が高く，性差はない．\n（教科書 p.484）",
+      "explanation": "一般に常染色体潜性遺伝で性差はなく，幼少期より慢性下気道感染・慢性副鼻腔炎・滲出性中耳炎を繰り返す。疑われた際は電子顕微鏡による観察を必ず施行する。Kartagener症候群の3主徴は内臓逆位・慢性副鼻腔炎・気管支拡張症。\n【選択肢の解説】\n❌「常染色体顕性遺伝である」：誤り。一般に常染色体潜性遺伝である。\n⭕「幼少期より慢性下気道感染，慢性副鼻腔炎，滲出性中耳炎を繰り返す」：正しい。\n❌「男性にのみ発症する」：誤り。性差はない（男性では精子運動障害による不妊を伴う）。\n❌「診断に電子顕微鏡検査は不要である」：誤り。疑われた際は必ず施行する。\n❌「Kartagener症候群の3主徴は内臓逆位・肺気腫・気管支拡張症である」：誤り。内臓逆位・慢性副鼻腔炎・気管支拡張症である。\n\n【疾患概念】1933年に内臓逆位・慢性副鼻腔炎・気管支拡張症の3主徴を呈する疾患が報告され、報告者にちなんでKartagener症候群と命名された。その後1977年にEliassonらにより線毛不動症候群（immotile cilia syndrome：ICS）という呼称が提唱され、現在は軽症例なども含めて原発性線毛運動機能不全症（PCD）と総称される。\n【疫学・遺伝】1〜2万人に1人と推定され、一般に常染色体潜性遺伝である。内臓逆位は約50%に認められる。\n【線毛の構造と病態】線毛の超微構造は中央に2本の中心微小管、周辺にA・B小管からなる9対の周辺微小管をもつ（9＋2構造）。A小管から伸びる内・外ダイニン腕がATPの結合・加水分解により短縮・伸展し、周辺微小管が相互にスライドすることで線毛が屈曲する。PCDの基本病態はダイニン腕の欠損であり、内側と外側ダイニン腕の欠損が最も多い。\n【関連知識】線毛運動障害により気道クリアランスが低下し、気管支拡張症へ進展する。精子の鞭毛も同じ構造をもつため男性不妊を、卵管線毛の障害により女性の不妊・子宮外妊娠をきたしうる。\n\n【本文の下線部】\n一般的には常染色体潜性遺伝と考えられており，同胞内発生率が高く，性差はない．\n（教科書 p.484）",
       "tags": [
         "各論I",
         "その他の肺疾患（比較的まれな肺疾患）",
@@ -148044,7 +146507,7 @@
       "answer": [
         "a"
       ],
-      "explanation": "HOTの保険適用は「室内気吸入時のPaO2が55Torr以下，および60Torr以下で睡眠時または運動負荷時に著しい低酸素をきたす者であって，医師が在宅酸素療法を認めた者」である。\n【選択肢の解説】\n⭕「室内気吸入時PaO2 55Torr以下，および60Torr以下で睡眠時・運動負荷時に著しい低酸素をきたす者」：正しい。\n❌「室内気吸入時PaO2 60Torr以下のすべての患者」：誤り。それだけでは適用にならない。\n❌「SpO2 95％未満のすべての患者」：誤り。\n❌「PaCO2 45Torr以上の患者」：誤り。II型呼吸不全の定義である。\n❌「FEV1が予測値の50％未満の患者」：誤り。呼吸機能はHOTの基準ではない。\n\n【本文の下線部】\n…保険適用基準は「室内気吸入時の動脈血酸素分圧（PaO2）が55 Torr以下，および60 Torr以下で睡眠時または運動負荷時に著しい低酸素をきたす者であって，医師が在宅酸素療法を認めた者」\n（教科書 p.491）",
+      "explanation": "HOTの保険適用は「室内気吸入時のPaO2が55Torr以下，および60Torr以下で睡眠時または運動負荷時に著しい低酸素をきたす者であって，医師が在宅酸素療法を認めた者」である。\n【選択肢の解説】\n⭕「室内気吸入時PaO2 55Torr以下，および60Torr以下で睡眠時・運動負荷時に著しい低酸素をきたす者であって，医師が在宅酸素療法を認めた者」：正しい。\n❌「室内気吸入時PaO2 60Torr以下のすべての患者」：誤り。それだけでは適用にならない。\n❌「SpO2 95％未満のすべての患者」：誤り。\n❌「PaCO2 45Torr以上の患者」：誤り。II型呼吸不全の定義である。\n❌「FEV1が予測値の50％未満の患者」：誤り。呼吸機能はHOTの基準ではない。\n\n【本文の下線部】\n…保険適用基準は「室内気吸入時の動脈血酸素分圧（PaO2）が55 Torr以下，および60 Torr以下で睡眠時または運動負荷時に著しい低酸素をきたす者であって，医師が在宅酸素療法を認めた者」\n（教科書 p.491）",
       "tags": [
         "各論II",
         "慢性呼吸不全",
@@ -148090,7 +146553,7 @@
         ]
       },
       "choices": {
-        "a": "室内気吸入時PaO2 55Torr以下，および60Torr以下で睡眠時・運動負荷時に著しい低酸素をきたす者",
+        "a": "室内気吸入時PaO2 55Torr以下，および60Torr以下で睡眠時・運動負荷時に著しい低酸素をきたす者であって，医師が在宅酸素療法を認めた者",
         "b": "室内気吸入時PaO2 60Torr以下のすべての患者",
         "c": "SpO2 95％未満のすべての患者",
         "d": "PaCO2 45Torr以上の患者",
@@ -152863,7 +151326,7 @@
       "answer": [
         "a"
       ],
-      "explanation": "EGPAでは一般に多発性のconsolidation，すりガラス陰影，小葉中心性粒状陰影，気道壁や小葉間隔壁の肥厚などを認める。\n【選択肢の解説】\n⭕「多発性のconsolidation，すりガラス陰影，小葉中心性粒状陰影を認める」：正しい。気道壁や小葉間隔壁の肥厚も伴う。\n❌「蜂窩肺が典型的である」：誤り。IPFの所見である。\n❌「空洞形成が必発である」：誤り。GPAで多い所見である。\n❌「胸水貯留が必発である」：誤り。必発ではない。\n❌「胸部異常陰影は認めない」：誤り。多彩な陰影を認める。\n\n【本文の下線部】\n…一般に多発性のcon-solidation，すりガラス陰影，小葉中心性粒状陰影，気道壁や小葉間隔壁の肥厚などを認める\n（教科書 p.482）",
+      "explanation": "EGPAでは一般に多発性のconsolidation，すりガラス陰影，小葉中心性粒状陰影，気道壁や小葉間隔壁の肥厚などを認める。\n【選択肢の解説】\n⭕「多発性のconsolidation，すりガラス陰影，小葉中心性粒状陰影、気道壁や小葉間隔壁の肥厚を認める」：正しい。気道壁や小葉間隔壁の肥厚も伴う。\n❌「蜂窩肺が典型的である」：誤り。IPFの所見である。\n❌「空洞形成が必発である」：誤り。GPAで多い所見である。\n❌「胸水貯留が必発である」：誤り。必発ではない。\n❌「胸部異常陰影は認めない」：誤り。多彩な陰影を認める。\n\n【本文の下線部】\n…一般に多発性のcon-solidation，すりガラス陰影，小葉中心性粒状陰影，気道壁や小葉間隔壁の肥厚などを認める\n（教科書 p.482）",
       "tags": [
         "各論I",
         "その他の肺疾患（比較的まれな肺疾患）",
@@ -152897,7 +151360,7 @@
         ]
       },
       "choices": {
-        "a": "多発性のconsolidation，すりガラス陰影，小葉中心性粒状陰影を認める",
+        "a": "多発性のconsolidation，すりガラス陰影，小葉中心性粒状陰影、気道壁や小葉間隔壁の肥厚を認める",
         "b": "蜂窩肺が典型的である",
         "c": "空洞形成が必発である",
         "d": "胸水貯留が必発である",
