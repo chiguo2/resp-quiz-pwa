@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 520" width="740" height="520" role="img" aria-label="気管切開の際のランドマークを示す前頸部の模式図">
+  <title>気管切開の際のランドマーク</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .an{font-size:15px;fill:#334155}
+      .rg{font-size:14px;fill:#64748b}
+      .key{font-size:15px}
+      .mk{font-size:22px;font-weight:700}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="740" height="520" fill="#ffffff"/>
+  <text class="lbl ttl" x="28" y="34">気管切開の際のランドマーク（前頸部）</text>
+
+  <!-- 甲状軟骨 -->
+  <path d="M182 78 L182 178 L318 178 L318 78 L296 62 L288 96 L250 78 L212 96 L204 62 Z"
+        fill="#eef2f7" stroke="#334155" stroke-width="2.5"/>
+  <!-- 輪状甲状膜（× の位置） -->
+  <path d="M186 184 L314 184 L314 214 L186 214 Z" fill="#fff7ed" stroke="#334155" stroke-width="2.5"/>
+  <!-- 輪状軟骨 -->
+  <rect x="182" y="220" width="136" height="34" rx="8" fill="#eef2f7" stroke="#334155" stroke-width="2.5"/>
+
+  <!-- 気管軟骨輪 1〜4 -->
+  <g fill="#f8fafc" stroke="#334155" stroke-width="2.5">
+    <rect x="188" y="266" width="124" height="30" rx="14"/>
+    <rect x="188" y="306" width="124" height="30" rx="14"/>
+    <rect x="188" y="346" width="124" height="30" rx="14"/>
+    <rect x="188" y="386" width="124" height="30" rx="14"/>
+  </g>
+  <g class="lbl rg" text-anchor="middle">
+    <text x="292" y="286">1</text>
+    <text x="292" y="326">2</text>
+    <text x="292" y="366">3</text>
+    <text x="292" y="406">4</text>
+  </g>
+  <!-- 気管の側壁 -->
+  <g stroke="#334155" stroke-width="2.5" fill="none">
+    <line x1="184" y1="254" x2="184" y2="430"/>
+    <line x1="316" y1="254" x2="316" y2="430"/>
+  </g>
+
+  <!-- × cricothyroidotomy（輪状甲状膜） -->
+  <text class="lbl mk" x="250" y="207" text-anchor="middle" fill="#b91c1c">✕</text>
+
+  <!-- ＋ 横切開／縦切開部位（第2・第3軟骨輪）と ★ -->
+  <g stroke="#1d4ed8" stroke-width="3">
+    <line x1="196" y1="341" x2="304" y2="341"/>
+    <line x1="250" y1="312" x2="250" y2="370"/>
+  </g>
+  <text class="lbl mk" x="224" y="349" text-anchor="middle" fill="#7c3aed">★</text>
+
+  <!-- 部位のラベル -->
+  <g class="lbl an" text-anchor="end">
+    <text x="150" y="128">甲状軟骨</text>
+    <text x="150" y="204">輪状甲状膜</text>
+    <text x="150" y="242">輪状軟骨</text>
+    <text x="150" y="345">軟骨輪</text>
+  </g>
+  <g stroke="#94a3b8" stroke-width="1.6" fill="none">
+    <line x1="156" y1="123" x2="180" y2="118"/>
+    <line x1="156" y1="199" x2="184" y2="199"/>
+    <line x1="156" y1="237" x2="180" y2="237"/>
+    <path d="M170 268 L162 268 L162 414 L170 414"/>
+    <line x1="156" y1="341" x2="162" y2="341"/>
+  </g>
+
+  <!-- 凡例 -->
+  <g class="lbl">
+    <text class="mk" x="400" y="132" fill="#b91c1c">✕</text>
+    <text class="key" x="428" y="130">cricothyroidotomy 穿刺位置</text>
+    <text class="key" x="428" y="152">（輪状甲状膜）</text>
+
+    <text class="mk" x="400" y="212" fill="#7c3aed">★</text>
+    <text class="key" x="428" y="210">percutaneous dilational</text>
+    <text class="key" x="428" y="232">tracheostomy 穿刺位置</text>
+
+    <text class="mk" x="400" y="292" fill="#1d4ed8">＋</text>
+    <text class="key" x="428" y="290">横切開または縦切開部位</text>
+    <text class="key" x="428" y="312">（第2・第3軟骨輪）</text>
+  </g>
+
+  <text class="lbl rg" x="400" y="374">外科的気管切開では輪状軟骨の約1 cm尾側の皮膚に</text>
+  <text class="lbl rg" x="400" y="396">約3 cmの横切開をおき、第2・第3軟骨輪間を横切開、</text>
+  <text class="lbl rg" x="400" y="418">または第2・第3軟骨輪を縦切開する。</text>
+  <text class="lbl rg" x="400" y="448">剥離が正中から側方にずれ込むと血管・神経損傷の</text>
+  <text class="lbl rg" x="400" y="470">原因となる。</text>
+</svg>
