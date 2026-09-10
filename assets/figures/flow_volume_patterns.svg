@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 520" width="780" height="520" role="img" aria-label="正常および肺疾患におけるフローボリューム曲線の典型的なパターン">
+  <title>フローボリューム曲線の典型的なパターン</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:19px;font-weight:700}
+      .pt{font-size:15px;font-weight:700}
+      .cp{font-size:13px;fill:#b45309}
+      .ax{font-size:12px;fill:#64748b}
+      .loop{fill:#dbeafe;fill-opacity:.5;stroke:#1d4ed8;stroke-width:2.6;stroke-linejoin:round}
+      .ref{fill:none;stroke:#94a3b8;stroke-width:1.6;stroke-dasharray:5 4}
+      .axis{stroke:#334155;stroke-width:1.8}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="780" height="520" fill="#ffffff"/>
+  <text class="lbl ttl" x="28" y="32">フローボリューム曲線の典型的なパターン</text>
+
+  <!-- ===== 1段目 ===== -->
+  <!-- 正常 -->
+  <g transform="translate(60,180)">
+    <text class="lbl pt" x="0" y="-100">正常</text>
+    <line class="axis" x1="0" y1="-88" x2="0" y2="58"/>
+    <line class="axis" x1="0" y1="0" x2="172" y2="0"/>
+    <text class="lbl ax" x="-6" y="-78" text-anchor="end">Flow</text>
+    <text class="lbl ax" x="176" y="14">Volume</text>
+    <path class="loop" d="M0,0 C8,-42 16,-72 26,-72 L160,0 C120,44 40,44 0,0 Z"/>
+    <text class="lbl ax" x="86" y="76" text-anchor="middle">呼気↑／吸気↓</text>
+  </g>
+
+  <!-- 閉塞性換気障害 -->
+  <g transform="translate(290,180)">
+    <text class="lbl pt" x="0" y="-100">閉塞性換気障害</text>
+    <line class="axis" x1="0" y1="-88" x2="0" y2="58"/>
+    <line class="axis" x1="0" y1="0" x2="172" y2="0"/>
+    <path class="ref" d="M0,0 C8,-42 16,-72 26,-72 L160,0 C120,44 40,44 0,0 Z"/>
+    <path class="loop" d="M0,0 C8,-28 16,-50 23,-50 C62,-24 112,-9 160,0 C122,30 40,30 0,0 Z"/>
+    <text class="lbl cp" x="86" y="76" text-anchor="middle">呼出曲線が下に凸</text>
+  </g>
+
+  <!-- 拘束性換気障害 -->
+  <g transform="translate(520,180)">
+    <text class="lbl pt" x="0" y="-100">拘束性換気障害</text>
+    <line class="axis" x1="0" y1="-88" x2="0" y2="58"/>
+    <line class="axis" x1="0" y1="0" x2="172" y2="0"/>
+    <path class="ref" d="M0,0 C8,-42 16,-72 26,-72 L160,0 C120,44 40,44 0,0 Z"/>
+    <path class="loop" d="M0,0 C6,-40 12,-66 19,-66 L96,0 C74,30 24,30 0,0 Z"/>
+    <text class="lbl cp" x="86" y="76" text-anchor="middle">正常パターンの縮小・逆釣鐘型</text>
+  </g>
+
+  <!-- ===== 2段目 ===== -->
+  <!-- 胸郭内可動性閉塞 -->
+  <g transform="translate(60,400)">
+    <text class="lbl pt" x="0" y="-100">胸郭内可動性閉塞</text>
+    <line class="axis" x1="0" y1="-88" x2="0" y2="58"/>
+    <line class="axis" x1="0" y1="0" x2="172" y2="0"/>
+    <path class="ref" d="M0,0 C8,-42 16,-72 26,-72 L160,0 C120,44 40,44 0,0 Z"/>
+    <path class="loop" d="M0,0 C7,-34 14,-56 22,-56 L40,-30 L128,-30 L160,0 C120,44 40,44 0,0 Z"/>
+    <text class="lbl cp" x="86" y="76" text-anchor="middle">呼気フローが平坦</text>
+  </g>
+
+  <!-- 上気道固定性閉塞 -->
+  <g transform="translate(290,400)">
+    <text class="lbl pt" x="0" y="-100">上気道固定性閉塞</text>
+    <line class="axis" x1="0" y1="-88" x2="0" y2="58"/>
+    <line class="axis" x1="0" y1="0" x2="172" y2="0"/>
+    <path class="ref" d="M0,0 C8,-42 16,-72 26,-72 L160,0 C120,44 40,44 0,0 Z"/>
+    <path class="loop" d="M0,0 L12,-30 L142,-30 L160,0 L142,30 L14,30 Z"/>
+    <text class="lbl cp" x="86" y="76" text-anchor="middle">吸気・呼気フローとも平坦</text>
+  </g>
+
+  <!-- 胸郭外可動性閉塞 -->
+  <g transform="translate(520,400)">
+    <text class="lbl pt" x="0" y="-100">胸郭外可動性閉塞</text>
+    <line class="axis" x1="0" y1="-88" x2="0" y2="58"/>
+    <line class="axis" x1="0" y1="0" x2="172" y2="0"/>
+    <path class="ref" d="M0,0 C8,-42 16,-72 26,-72 L160,0 C120,44 40,44 0,0 Z"/>
+    <path class="loop" d="M0,0 C8,-42 16,-72 26,-72 L160,0 L142,28 L14,28 Z"/>
+    <text class="lbl cp" x="86" y="76" text-anchor="middle">吸気フローが平坦</text>
+  </g>
+
+  <text class="lbl ax" x="28" y="502">破線は正常パターン。横軸が肺気量、縦軸が気流速度で、上方が呼気、下方が吸気を表す。</text>
+</svg>
