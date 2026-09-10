@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 520" width="880" height="520" role="img" aria-label="単一呼気曲線（窒素法）の模式図">
+  <title>単一呼気曲線（N2法）とクロージングボリューム</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:19px;font-weight:700}
+      .ax{font-size:13px;fill:#475569}
+      .ph{font-size:15px;font-weight:700;fill:#0f766e}
+      .an{font-size:13px;fill:#334155}
+      .nt{font-size:13px;fill:#64748b}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="880" height="520" fill="#ffffff"/>
+  <text class="lbl ttl" x="28" y="32">単一呼気曲線（N₂法）とクロージングボリューム</text>
+
+  <!-- 目盛 -->
+  <g stroke="#cbd5e1" stroke-width="1">
+    <line x1="96" y1="330" x2="640" y2="330"/>
+    <line x1="96" y1="243" x2="640" y2="243"/>
+    <line x1="96" y1="156" x2="640" y2="156"/>
+    <line x1="96" y1="69" x2="640" y2="69"/>
+  </g>
+  <!-- 軸 -->
+  <g stroke="#334155" stroke-width="2">
+    <line x1="96" y1="60" x2="96" y2="330"/>
+    <line x1="96" y1="330" x2="648" y2="330"/>
+  </g>
+  <g class="lbl ax" text-anchor="end">
+    <text x="88" y="335">0</text>
+    <text x="88" y="248">10</text>
+    <text x="88" y="161">20</text>
+    <text x="88" y="74">30</text>
+  </g>
+  <text class="lbl ax" x="96" y="50">N₂濃度（％）</text>
+  <text class="lbl ax" x="648" y="352" text-anchor="end">呼出量 →</text>
+
+  <!-- 相の区切り -->
+  <g stroke="#94a3b8" stroke-width="1.4" stroke-dasharray="5 5">
+    <line x1="128" y1="60" x2="128" y2="330"/>
+    <line x1="182" y1="60" x2="182" y2="330"/>
+    <line x1="452" y1="60" x2="452" y2="330"/>
+    <line x1="548" y1="60" x2="548" y2="330"/>
+  </g>
+
+  <!-- 曲線 -->
+  <path d="M100 330 L126 330
+           C 140 330, 168 190, 182 158
+           C 240 150, 300 146, 360 140
+           C 400 136, 430 132, 452 128
+           C 480 118, 516 96, 548 78"
+        fill="none" stroke="#1d4ed8" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- cardiogenic oscillation（第III相の小さな振れ） -->
+  <path d="M210 150 l8 -5 l8 6 l8 -6 l8 5 l8 -5 l8 6 l8 -6 l8 5 l8 -5 l8 6 l8 -6 l8 5"
+        fill="none" stroke="#60a5fa" stroke-width="2"/>
+
+  <!-- 相のラベル -->
+  <g class="lbl ph" text-anchor="middle">
+    <text x="112" y="322">Ⅰ</text>
+    <text x="156" y="200">Ⅱ</text>
+    <text x="316" y="176">Ⅲ</text>
+    <text x="512" y="120">Ⅳ</text>
+  </g>
+  <text class="lbl an" x="270" y="128">cardiogenic oscillation</text>
+  <text class="lbl an" x="452" y="94" text-anchor="end">airway closure ↓</text>
+
+  <!-- ΔN2 -->
+  <g stroke="#b45309" stroke-width="1.6" stroke-dasharray="4 4">
+    <line x1="226" y1="149" x2="226" y2="252"/>
+    <line x1="272" y1="147" x2="272" y2="252"/>
+  </g>
+  <g stroke="#b45309" stroke-width="2">
+    <line x1="226" y1="252" x2="272" y2="252"/>
+    <path d="M232 246 L226 252 L232 258"/>
+    <path d="M266 246 L272 252 L266 258"/>
+  </g>
+  <text class="lbl an" x="249" y="278" text-anchor="middle" fill="#b45309">ΔN₂</text>
+  <g class="lbl ax" text-anchor="middle">
+    <text x="226" y="300">0.75 L</text>
+    <text x="272" y="300">1.25 L</text>
+  </g>
+
+  <!-- CV / CC / VC / RV のバー -->
+  <g stroke="#0f766e" stroke-width="2.5">
+    <line x1="452" y1="376" x2="548" y2="376"/>
+    <path d="M458 370 L452 376 L458 382"/>
+    <path d="M542 370 L548 376 L542 382"/>
+  </g>
+  <text class="lbl an" x="500" y="368" text-anchor="middle" fill="#0f766e">CV</text>
+
+  <g stroke="#7c3aed" stroke-width="2.5">
+    <line x1="452" y1="408" x2="640" y2="408"/>
+    <path d="M458 402 L452 408 L458 414"/>
+    <path d="M634 402 L640 408 L634 414"/>
+  </g>
+  <text class="lbl an" x="546" y="400" text-anchor="middle" fill="#7c3aed">CC＝CV＋RV</text>
+
+  <g stroke="#334155" stroke-width="2">
+    <line x1="100" y1="440" x2="548" y2="440"/>
+    <line x1="548" y1="440" x2="640" y2="440"/>
+    <line x1="100" y1="434" x2="100" y2="446"/>
+    <line x1="548" y1="434" x2="548" y2="446"/>
+    <line x1="640" y1="434" x2="640" y2="446"/>
+  </g>
+  <text class="lbl an" x="324" y="458" text-anchor="middle">肺活量 VC（呼出した量）</text>
+  <text class="lbl an" x="594" y="458" text-anchor="middle">RV</text>
+
+  <!-- 右側の注記 -->
+  <g class="lbl nt">
+    <text x="668" y="86">Ⅰ相：解剖学的死腔</text>
+    <text x="668" y="110">Ⅱ相：死腔＋肺胞気</text>
+    <text x="668" y="134">Ⅲ相：alveolar plateau</text>
+    <text x="668" y="158">Ⅳ相：末梢気道の閉塞</text>
+  </g>
+  <text class="lbl nt" x="28" y="492">ΔN₂＝最大吸気位から1.25 L呼出した点と0.75 L呼出した点のN₂濃度差（Ⅲ相の傾き）。正常値 1.0±0.14％。</text>
+</svg>
