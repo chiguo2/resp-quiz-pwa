@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 470" width="780" height="470" role="img" aria-label="気管支形成術における楔状切除と管状切除の違いを示す模式図">
+  <title>楔状切除（wedge resection）と管状切除（sleeve resection）</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .pt{font-size:17px;font-weight:700}
+      .cap{font-size:14px;fill:#334155}
+      .an{font-size:13px;fill:#475569}
+      .br{fill:#eef2f7;stroke:#334155;stroke-width:2.5}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="780" height="470" fill="#ffffff"/>
+  <text class="lbl ttl" x="28" y="34">気管支形成術の基本術式</text>
+
+  <!-- ======== 左：楔状切除 ======== -->
+  <text class="lbl pt" x="40" y="72">楔状切除（wedge resection）</text>
+
+  <!-- 主気管支 -->
+  <path class="br" d="M150 96 L206 96 L206 330 L150 330 Z"/>
+  <!-- 葉気管支 -->
+  <path class="br" d="M206 132 L296 106 L296 150 L206 176 Z"/>
+  <!-- 末梢の枝 -->
+  <g stroke="#94a3b8" stroke-width="2.5" fill="none">
+    <path d="M296 118 L332 106 M296 128 L336 130 M296 140 L330 152"/>
+    <path d="M178 330 L162 362 M178 330 L194 362"/>
+  </g>
+  <!-- 病変 -->
+  <ellipse cx="222" cy="140" rx="26" ry="17" fill="#fca5a5" opacity="0.75" transform="rotate(-16 222 140)"/>
+  <text class="lbl an" x="252" y="86" text-anchor="middle">病変</text>
+  <line x1="240" y1="92" x2="228" y2="126" stroke="#94a3b8" stroke-width="1.6"/>
+  <!-- 切除線（楔状） -->
+  <path d="M150 112 L232 132 L150 196" fill="none" stroke="#1d4ed8" stroke-width="3.5" stroke-dasharray="9 6"/>
+  <text class="lbl cap" x="40" y="386">気管支壁を楔状に切除し、欠損部を縫合閉鎖する。</text>
+  <text class="lbl cap" x="40" y="408">気管支の連続性は全周を切らずに保たれる。</text>
+
+  <!-- ======== 右：管状切除 ======== -->
+  <text class="lbl pt" x="440" y="72">管状切除（sleeve resection）</text>
+
+  <path class="br" d="M550 96 L606 96 L606 330 L550 330 Z"/>
+  <path class="br" d="M606 132 L696 106 L696 150 L606 176 Z"/>
+  <g stroke="#94a3b8" stroke-width="2.5" fill="none">
+    <path d="M696 118 L732 106 M696 128 L736 130 M696 140 L730 152"/>
+    <path d="M578 330 L562 362 M578 330 L594 362"/>
+  </g>
+  <ellipse cx="622" cy="140" rx="26" ry="17" fill="#fca5a5" opacity="0.75" transform="rotate(-16 622 140)"/>
+  <!-- 切除線（全周性に2か所） -->
+  <g stroke="#1d4ed8" stroke-width="3.5" stroke-dasharray="9 6">
+    <line x1="538" y1="112" x2="618" y2="112"/>
+    <line x1="538" y1="196" x2="618" y2="196"/>
+  </g>
+  <!-- 切除区間の網かけ -->
+  <rect x="550" y="112" width="56" height="84" fill="#1d4ed8" opacity="0.10"/>
+  <!-- 吻合を示す矢印 -->
+  <g stroke="#0f766e" stroke-width="2.5" fill="none">
+    <path d="M520 132 L520 176"/>
+    <path d="M514 138 L520 130 L526 138"/>
+    <path d="M514 170 L520 178 L526 170"/>
+  </g>
+  <text class="lbl an" x="508" y="158" text-anchor="end">端々吻合</text>
+  <text class="lbl cap" x="440" y="386">気管支を全周性に管状に切除し、中枢側と末梢側の</text>
+  <text class="lbl cap" x="440" y="408">断端どうしを端々吻合する。肺の温存が可能になる。</text>
+
+  <text class="lbl cap" x="40" y="444">最も多く用いられるのは管状肺葉切除術（sleeve lobectomy）である。</text>
+</svg>
