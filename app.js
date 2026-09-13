@@ -498,6 +498,8 @@ function showCard(){
   if(index >= queue.length){ finishSession(); return; }
   current=queue[index];
   current._selectedKeys = new Set();
+  // 新しいセッションで未解答に戻った場合は前回の採点結果を持ち越さない
+  if(!session.answeredIds.has(current.id)) delete current._justGraded;
   // 前回（このセッションで解答する前）の直近1回の結果を記録しておく
   if(!session.answeredIds.has(current.id)){
     const st = getStats()[current.id];
@@ -689,8 +691,21 @@ function showAnswer(){
     answerTextValue = `正解：${answerText(current)}\n${mappedExplanation(current)}`;
   }
   const markerBtn = `<button type="button" id="markerToggle" class="marker-toggle${markerMode ? ' on' : ''}">🖍 重要な所を赤字${markerMode ? '：ON（文をタップ）' : 'にする'}</button>`;
-  $('answerBox').innerHTML = `${prevAnswerHtml(current)}${markerBtn}<div class="answer-text${markerMode ? ' marking' : ''}">${explanationSegmentsHtml(answerTextValue, current.id)}</div>${referenceLinkHtml(current)}${sourceLinkHtml(current)}${researchLinksHtml(current)}`;
+  $('answerBox').innerHTML = `${verdictHtml(current)}${prevAnswerHtml(current)}${markerBtn}<div class="answer-text${markerMode ? ' marking' : ''}">${explanationSegmentsHtml(answerTextValue, current.id)}</div>${referenceLinkHtml(current)}${sourceLinkHtml(current)}${researchLinksHtml(current)}`;
   $('answerBox').classList.remove('hidden');
+}
+
+// 選択問題は選択肢の色だけでは正誤が分かりにくいため、解答欄の先頭に判定を出す。
+// 「答を表示」だけで解答していない場合と、自己採点前の一問一答では出さない。
+function verdictHtml(item){
+  if(item?.type !== 'mcq') return '';
+  let ok;
+  // 採点直後は record() より前に描画されるため、gradeMcq が渡す結果を使う。
+  // 「← 前へ」で解答済みの問題に戻ったときはセッションの記録から判定する。
+  if(typeof item._justGraded === 'boolean') ok = item._justGraded;
+  else if(session.answeredIds.has(item.id)) ok = !session.wrongIds.includes(item.id);
+  else return '';
+  return `<div class="verdict ${ok ? 'ok' : 'ng'}">${ok ? '⭕ 正解' : '❌ 不正解'}</div>`;
 }
 
 // 解説を文単位のタップ可能なspanに分割して描画。保存済みの赤字を再適用する。
@@ -745,6 +760,7 @@ function gradeMcq(selectedKeys){
   if(!selected.length) return;
   const correct = answerKeys(current);
   const ok = sameSet(selected, correct);
+  current._justGraded = ok;
   [...document.querySelectorAll('.choice')].forEach(b=>{
     b.disabled=true;
     const key = b.dataset.originalKey;

@@ -48,3 +48,8 @@ body.reference-modal-open{overflow:hidden;overscroll-behavior:none}.reference-mo
 .img-viewer{position:fixed;inset:0;z-index:80;background:rgba(15,23,42,.86);display:flex;align-items:center;justify-content:center;padding:16px;cursor:zoom-out}
 .img-viewer.hidden{display:none}
 .img-viewer img{max-width:100%;max-height:100%;border-radius:8px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
+
+/* 選択問題の正誤判定（解答欄の先頭） */
+.verdict{display:block;font-size:20px;font-weight:800;text-align:center;padding:10px 12px;border-radius:12px;margin:0 0 10px;letter-spacing:.04em}
+.verdict.ok{background:#dcfce7;color:#15803d;border:2px solid #86efac}
+.verdict.ng{background:#fee2e2;color:#b91c1c;border:2px solid #fca5a5}
