@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470" role="img" aria-label="管状（スリーブ）肺葉切除の模式図">
+  <title>管状（スリーブ）肺葉切除</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .pt{font-size:16px;font-weight:700}
+      .an{font-size:13px;fill:#475569}
+      .cap{font-size:14px;fill:#334155}
+      .br{fill:#eef2f7;stroke:#334155;stroke-width:2.5}
+      .cut{fill:none;stroke:#1d4ed8;stroke-width:3.5;stroke-dasharray:9 6}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="470" fill="#ffffff"/>
+  <text class="lbl ttl" x="28" y="34">管状（スリーブ）肺葉切除　─ 右上葉の例</text>
+
+  <!-- ===== 左：切除範囲 ===== -->
+  <text class="lbl pt" x="40" y="76">① 切除範囲</text>
+
+  <!-- 気管 -->
+  <path class="br" d="M150 92 L196 92 L196 140 L150 140 Z"/>
+  <text class="lbl an" x="142" y="112" text-anchor="end">気管</text>
+  <!-- 右主気管支 -->
+  <path class="br" d="M150 140 L196 140 L196 236 L150 236 Z"/>
+  <text class="lbl an" x="142" y="180" text-anchor="end">右主気管支</text>
+  <!-- 上葉気管支 -->
+  <path class="br" d="M196 158 L272 138 L272 176 L196 196 Z"/>
+  <text class="lbl an" x="278" y="146">上葉気管支</text>
+  <!-- 中間気管支幹 -->
+  <path class="br" d="M150 236 L196 236 L196 340 L150 340 Z"/>
+  <text class="lbl an" x="142" y="300" text-anchor="end">中間気管支幹</text>
+  <!-- 末梢 -->
+  <g stroke="#94a3b8" stroke-width="2.5" fill="none">
+    <path d="M272 148 L306 138 M272 158 L310 160 M272 170 L306 182"/>
+    <path d="M166 340 L150 372 M180 340 L196 372"/>
+  </g>
+  <!-- 腫瘍 -->
+  <ellipse cx="208" cy="168" rx="24" ry="16" fill="#fca5a5" opacity="0.8" transform="rotate(-15 208 168)"/>
+  <text class="lbl an" x="236" y="112">腫瘍</text>
+  <line x1="228" y1="118" x2="214" y2="152" stroke="#94a3b8" stroke-width="1.6"/>
+  <!-- 切除線（全周性に2か所） -->
+  <line class="cut" x1="138" y1="152" x2="208" y2="152"/>
+  <line class="cut" x1="138" y1="224" x2="208" y2="224"/>
+  <!-- 切除区間の網かけ -->
+  <rect x="150" y="152" width="46" height="72" fill="#1d4ed8" opacity="0.10"/>
+  <text class="lbl cap" x="40" y="400">腫瘍を含む主気管支を上葉ごと筒状に切除する。</text>
+
+  <!-- ===== 右：吻合後 ===== -->
+  <text class="lbl pt" x="460" y="76">② 端々吻合後</text>
+
+  <path class="br" d="M520 92 L566 92 L566 140 L520 140 Z"/>
+  <path class="br" d="M520 140 L566 140 L566 300 L520 300 Z"/>
+  <g stroke="#94a3b8" stroke-width="2.5" fill="none">
+    <path d="M536 300 L520 332 M550 300 L566 332"/>
+  </g>
+  <!-- 吻合線 -->
+  <line x1="512" y1="186" x2="574" y2="186" stroke="#0f766e" stroke-width="3"/>
+  <g stroke="#0f766e" stroke-width="2" fill="none">
+    <path d="M520 178 L520 194 M532 178 L532 194 M544 178 L544 194 M556 178 L556 194 M566 178 L566 194"/>
+  </g>
+  <text class="lbl an" x="584" y="190">吻合部</text>
+  <text class="lbl an" x="584" y="262">中間気管支幹</text>
+  <text class="lbl an" x="584" y="112">気管</text>
+
+  <text class="lbl cap" x="460" y="400">残った中枢側と末梢側の断端を端々吻合する。</text>
+  <text class="lbl cap" x="40" y="436">下葉・中葉が温存されるため肺全摘を回避できる。低肺機能例に限らず、切除可能なら肺全摘より優先される。</text>
+</svg>

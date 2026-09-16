@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 560" width="700" height="560" role="img" aria-label="Haller indexの計測方法を示す胸部水平断の模式図">
+  <title>Haller index の計測方法</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .an{font-size:14px;fill:#334155}
+      .nt{font-size:13px;fill:#475569}
+      .fm{font-size:16px;font-weight:700}
+    </style>
+    <marker id="hA" markerWidth="9" markerHeight="9" refX="4.5" refY="4.5" orient="auto"><path d="M8.5,0.8 L0.5,4.5 L8.5,8.2 z" fill="#b45309"/></marker>
+    <marker id="hB" markerWidth="9" markerHeight="9" refX="4.5" refY="4.5" orient="auto"><path d="M0.5,0.8 L8.5,4.5 L0.5,8.2 z" fill="#b45309"/></marker>
+    <marker id="vA" markerWidth="9" markerHeight="9" refX="4.5" refY="4.5" orient="auto"><path d="M8.5,0.8 L0.5,4.5 L8.5,8.2 z" fill="#b91c1c"/></marker>
+    <marker id="vB" markerWidth="9" markerHeight="9" refX="4.5" refY="4.5" orient="auto"><path d="M0.5,0.8 L8.5,4.5 L0.5,8.2 z" fill="#b91c1c"/></marker>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="560" fill="#ffffff"/>
+  <text class="lbl ttl" x="28" y="34">Haller index の計測（胸部CT水平断・最陥凹部）</text>
+
+  <!-- 胸郭の外形（前面が陥凹） -->
+  <path d="M350 92
+           C 250 92 150 120 108 180
+           C 74 230 78 300 120 340
+           C 180 396 280 414 350 414
+           C 420 414 520 396 580 340
+           C 622 300 626 230 592 180
+           C 550 120 450 92 350 92 Z"
+        fill="#f1f5f9" stroke="#334155" stroke-width="2.5"/>
+  <!-- 陥凹した前胸壁と胸骨 -->
+  <path d="M232 112 C 290 150 320 176 350 176 C 380 176 410 150 468 112"
+        fill="#e2e8f0" stroke="#334155" stroke-width="2.5"/>
+  <rect x="326" y="166" width="48" height="20" rx="6" fill="#cbd5e1" stroke="#334155" stroke-width="2.5"/>
+  <text class="lbl an" x="392" y="160">胸骨（陥凹）</text>
+
+  <!-- 椎体 -->
+  <ellipse cx="350" cy="330" rx="44" ry="34" fill="#cbd5e1" stroke="#334155" stroke-width="2.5"/>
+  <text class="lbl an" x="404" y="336">椎体</text>
+
+  <!-- 心臓（左方へ偏位） -->
+  <path d="M356 196 C 420 196 470 238 462 280 C 454 318 400 330 360 316 C 344 310 340 290 344 262 Z"
+        fill="#fecaca" stroke="#b91c1c" stroke-width="2" opacity="0.7"/>
+  <text class="lbl an" x="404" y="292">心臓</text>
+
+  <!-- 肺 -->
+  <path d="M150 190 C 120 240 128 300 168 334 C 210 360 258 350 268 320 C 250 260 210 210 150 190 Z" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6" opacity="0.8"/>
+  <path d="M552 190 C 582 240 574 300 534 334 C 508 350 486 344 480 322 C 500 262 520 214 552 190 Z" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6" opacity="0.8"/>
+
+  <!-- A：胸郭の最大横径 -->
+  <line x1="92" y1="256" x2="608" y2="256" stroke="#b45309" stroke-width="3.5" marker-start="url(#hA)" marker-end="url(#hB)"/>
+  <text class="lbl an" x="104" y="244" fill="#b45309" font-weight="700">A</text>
+
+  <!-- B：胸骨後面〜椎体前面の最短前後径 -->
+  <line x1="350" y1="188" x2="350" y2="294" stroke="#b91c1c" stroke-width="3.5" marker-start="url(#vA)" marker-end="url(#vB)"/>
+  <text class="lbl an" x="338" y="240" text-anchor="end" fill="#b91c1c" font-weight="700">B</text>
+
+  <!-- 凡例・式と判定 -->
+  <text class="lbl an" x="28" y="452" fill="#b45309" font-weight="700">A：胸郭の最大横径</text>
+  <text class="lbl an" x="28" y="476" fill="#b91c1c" font-weight="700">B：胸骨後面から椎体前面までの最短前後径</text>
+  <text class="lbl fm" x="28" y="510">Haller index ＝ A ÷ B</text>
+  <text class="lbl nt" x="28" y="538">3.25以上が手術適応の目安。3.25〜4.0＝軽度陥凹、4.0〜5＝中等度陥凹、5以上＝高度陥凹。心臓は左方へ偏位する。</text>
+</svg>
