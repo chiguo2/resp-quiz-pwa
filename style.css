@@ -60,4 +60,15 @@ body.reference-modal-open{overflow:hidden;overscroll-behavior:none}.reference-mo
 .exp-table th,.exp-table td{border:1px solid #cbd5e1;padding:6px 9px;text-align:left;vertical-align:top}
 .exp-table th{background:#ecfdf5;color:#0f766e;font-weight:800;white-space:nowrap}
 .exp-table td:first-child{font-weight:700;color:#0f172a}
-.exp-table tbody tr:nth-child(even) td{background:#f8fafc}
+.exp-table tbody tr:nth-child(even) td:not([class]){background:#f8fafc}
+
+/* v240: TNM病期セルの色分け（肺癌取扱い規約の表にならう） */
+.exp-table td.st-ia{background:#e0f2fe;color:#075985;font-weight:700}
+.exp-table td.st-ib{background:#bae6fd;color:#075985;font-weight:700}
+.exp-table td.st-iia{background:#dcfce7;color:#14532d;font-weight:700}
+.exp-table td.st-iib{background:#bbf7d0;color:#14532d;font-weight:700}
+.exp-table td.st-iiia{background:#ffedd5;color:#7c2d12;font-weight:700}
+.exp-table td.st-iiib{background:#fed7aa;color:#7c2d12;font-weight:700}
+.exp-table td.st-iiic{background:#fdba74;color:#7c2d12;font-weight:700}
+.exp-table td.st-iva{background:#ede9fe;color:#4c1d95;font-weight:700}
+.exp-table td.st-ivb{background:#ddd6fe;color:#4c1d95;font-weight:700}

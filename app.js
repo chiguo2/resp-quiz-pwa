@@ -753,8 +753,23 @@ function expTableHtml(rows){
   const head = sep > 0 ? rows[sep - 1] : null;
   const body = sep > 0 ? rows.slice(sep + 1) : rows.filter(r => !isSep(r));
   const thead = head ? `<thead><tr>${head.map(c => `<th>${escapeHtml(c)}</th>`).join('')}</tr></thead>` : '';
-  const tbody = `<tbody>${body.map(r => `<tr>${r.map(c => `<td>${escapeHtml(c)}</td>`).join('')}</tr>`).join('')}</tbody>`;
+  const tbody = `<tbody>${body.map(r => `<tr>${r.map(c => `<td${stageCellClass(c)}>${escapeHtml(c)}</td>`).join('')}</tr>`).join('')}</tbody>`;
   return `<div class="exp-table-wrap"><table class="exp-table">${thead}${tbody}</table></div>`;
+}
+
+// TNM病期（IA1〜IVB）のセルは肺癌取扱い規約の表にならって病期ごとに色を付ける。
+const STAGE_CLASS = {
+  'IA1': 'ia', 'IA2': 'ia', 'IA3': 'ia', 'IB': 'ib',
+  'IIA': 'iia', 'IIB': 'iib',
+  'IIIA': 'iiia', 'IIIB': 'iiib', 'IIIC': 'iiic',
+  'IVA': 'iva', 'IVB': 'ivb'
+};
+function stageCellClass(text){
+  const t = String(text).trim()
+    .replace(/Ⅳ/g, 'IV').replace(/Ⅲ/g, 'III').replace(/Ⅱ/g, 'II').replace(/Ⅰ/g, 'I')
+    .replace(/期$/, '');
+  const c = STAGE_CLASS[t];
+  return c ? ` class="st-${c}"` : '';
 }
 
 function prevAnswerHtml(item){
