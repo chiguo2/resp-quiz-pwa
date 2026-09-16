@@ -709,18 +709,52 @@ function verdictHtml(item){
 }
 
 // 解説を文単位のタップ可能なspanに分割して描画。保存済みの赤字を再適用する。
+// 「| A | B |」が続く行はまとめて表として描画する（TNM病期分類・A-DROPなどの分類表）。
 function explanationSegmentsHtml(text, qid){
   const reds = new Set(getExpHl()[qid] || []);
-  return String(text).split('\n').map(line => {
-    if(!line) return '';
-    const parts = line.match(/[^。]*。|[^。]+/g) || [line];
-    return parts.map(seg => {
-      const key = seg.trim();
-      if(!key) return escapeHtml(seg);
-      const on = reds.has(key);
-      return `<span class="exp-seg${on ? ' hl-red' : ''}" data-seg="${escapeHtml(key)}">${escapeHtml(seg)}</span>`;
-    }).join('');
-  }).join('<br>');
+  const lines = String(text).split('\n');
+  const out = [];
+  for(let i = 0; i < lines.length; i++){
+    if(isTableRow(lines[i])){
+      const rows = [];
+      while(i < lines.length && isTableRow(lines[i])) rows.push(splitTableRow(lines[i++]));
+      i--;
+      out.push(expTableHtml(rows));
+      continue;
+    }
+    out.push(expLineHtml(lines[i], reds));
+  }
+  // 表はブロック要素なので、その前後には<br>を入れない（余白が二重になるため）。
+  const isTbl = s => s.startsWith('<div class="exp-table-wrap"');
+  return out.map((part, idx) => (idx > 0 && !isTbl(part) && !isTbl(out[idx - 1]) ? '<br>' : '') + part).join('');
+}
+
+function expLineHtml(line, reds){
+  if(!line) return '';
+  const parts = line.match(/[^。]*。|[^。]+/g) || [line];
+  return parts.map(seg => {
+    const key = seg.trim();
+    if(!key) return escapeHtml(seg);
+    const on = reds.has(key);
+    return `<span class="exp-seg${on ? ' hl-red' : ''}" data-seg="${escapeHtml(key)}">${escapeHtml(seg)}</span>`;
+  }).join('');
+}
+
+function isTableRow(line){ return /^\s*\|.*\|\s*$/.test(line || ''); }
+
+function splitTableRow(line){
+  return line.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map(c => c.trim());
+}
+
+// 1行目と2行目の区切り行（| --- | --- |）があればヘッダー付きの表にする。
+function expTableHtml(rows){
+  const isSep = r => r.length && r.every(c => /^:?-{2,}:?$/.test(c));
+  const sep = rows.findIndex(isSep);
+  const head = sep > 0 ? rows[sep - 1] : null;
+  const body = sep > 0 ? rows.slice(sep + 1) : rows.filter(r => !isSep(r));
+  const thead = head ? `<thead><tr>${head.map(c => `<th>${escapeHtml(c)}</th>`).join('')}</tr></thead>` : '';
+  const tbody = `<tbody>${body.map(r => `<tr>${r.map(c => `<td>${escapeHtml(c)}</td>`).join('')}</tr>`).join('')}</tbody>`;
+  return `<div class="exp-table-wrap"><table class="exp-table">${thead}${tbody}</table></div>`;
 }
 
 function prevAnswerHtml(item){

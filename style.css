@@ -53,3 +53,11 @@ body.reference-modal-open{overflow:hidden;overscroll-behavior:none}.reference-mo
 .verdict{display:block;font-size:20px;font-weight:800;text-align:center;padding:10px 12px;border-radius:12px;margin:0 0 10px;letter-spacing:.04em}
 .verdict.ok{background:#dcfce7;color:#15803d;border:2px solid #86efac}
 .verdict.ng{background:#fee2e2;color:#b91c1c;border:2px solid #fca5a5}
+
+/* v237: 解説中の分類表（| A | B | 形式を表として描画） */
+.exp-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:8px 0 10px;border-radius:10px}
+.exp-table{border-collapse:collapse;font-size:13px;line-height:1.55;background:#fff}
+.exp-table th,.exp-table td{border:1px solid #cbd5e1;padding:6px 9px;text-align:left;vertical-align:top}
+.exp-table th{background:#ecfdf5;color:#0f766e;font-weight:800;white-space:nowrap}
+.exp-table td:first-child{font-weight:700;color:#0f172a;white-space:nowrap}
+.exp-table tbody tr:nth-child(even) td{background:#f8fafc}
