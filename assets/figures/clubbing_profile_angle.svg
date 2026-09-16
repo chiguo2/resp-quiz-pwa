@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 452" width="760" height="452" role="img" aria-label="バチ指のprofile角（Lovibond角）を正常と対比した模式図">
+  <title>バチ指のprofile角（Lovibond角）</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .pt{font-size:16px;font-weight:700}
+      .an{font-size:13px;fill:#334155}
+      .cap{font-size:13.5px;fill:#334155}
+      .skin{fill:#fdeee4;stroke:#334155;stroke-width:2.5}
+      .nail{fill:#f8c8b4;stroke:#334155;stroke-width:2.2}
+      .ang{fill:none;stroke:#b91c1c;stroke-width:2.5}
+      .gd{fill:none;stroke:#b45309;stroke-width:2;stroke-dasharray:6 5}
+    </style>
+    <marker id="ar" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0.5,0.5 L7.5,4 L0.5,7.5 z" fill="#b45309"/></marker>
+    <marker id="al" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M7.5,0.5 L0.5,4 L7.5,7.5 z" fill="#b45309"/></marker>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="452" fill="#ffffff"/>
+  <text class="lbl ttl" x="28" y="34">バチ指の評価 ─ profile角（Lovibond角）</text>
+
+  <!-- ============ 左：正常 ============ -->
+  <text class="lbl pt" x="40" y="74">正常</text>
+  <!-- 指の輪郭 -->
+  <path class="skin" d="M50 150 L176 152 L250 162 C 266 168 270 188 258 202 C 246 216 220 220 196 220 L50 220 Z"/>
+  <!-- 爪 -->
+  <path class="nail" d="M176 152 L250 162 C 258 166 260 176 256 184 L186 168 C 178 166 174 158 176 152 Z"/>
+  <!-- profile角の2辺 -->
+  <path class="ang" d="M176 152 L60 150"/>
+  <path class="ang" d="M176 152 L252 163"/>
+  <path class="ang" d="M120 151 A 58 58 0 0 0 216 158"/>
+  <text class="lbl an" x="150" y="128" text-anchor="middle" fill="#b91c1c" font-weight="700">約160°</text>
+  <text class="lbl an" x="60" y="252">爪と爪郭がなす角（profile角）は約160°</text>
+
+  <!-- ============ 右：バチ指 ============ -->
+  <text class="lbl pt" x="420" y="74">バチ指（clubbing）</text>
+  <!-- 指の輪郭（先端が膨隆） -->
+  <path class="skin" d="M420 150 L546 152 C 580 130 636 138 654 164 C 674 192 664 226 632 238 C 596 250 548 244 528 228 L420 222 Z"/>
+  <!-- 爪（凸に湾曲） -->
+  <path class="nail" d="M546 152 C 580 132 632 140 650 166 C 654 174 652 182 646 186 C 624 158 580 150 552 168 C 546 164 543 157 546 152 Z"/>
+  <!-- profile角の2辺 -->
+  <path class="ang" d="M546 152 L430 150"/>
+  <path class="ang" d="M546 152 L620 138"/>
+  <path class="ang" d="M486 151 A 60 60 0 0 0 592 143"/>
+  <text class="lbl an" x="516" y="122" text-anchor="middle" fill="#b91c1c" font-weight="700">190°超</text>
+  <!-- DPD / IPD -->
+  <line x1="640" y1="146" x2="640" y2="234" stroke="#b45309" stroke-width="2" marker-start="url(#al)" marker-end="url(#ar)"/>
+  <text class="lbl an" x="686" y="196" fill="#b45309" font-weight="700">DPD</text>
+  <line x1="504" y1="152" x2="504" y2="222" stroke="#b45309" stroke-width="2" marker-start="url(#al)" marker-end="url(#ar)"/>
+  <text class="lbl an" x="496" y="192" text-anchor="end" fill="#b45309" font-weight="700">IPD</text>
+
+  <text class="lbl cap" x="28" y="368">profile角（Lovibond角）：爪甲と近位爪郭がなす角。正常は約160°で、190°を超えるとバチ指と判定する。</text>
+  <text class="lbl cap" x="28" y="394">Schamroth徴候：左右の指の爪背面を合わせたときにできる菱形のすき間（Schamroth window）が消失すれば陽性。</text>
+  <text class="lbl cap" x="28" y="420">DPD／IPD比：末節部の厚さ（DPD）÷DIP関節部の厚さ（IPD）。正常は1.0未満、バチ指では1.0以上に逆転する。</text>
+</svg>
