@@ -48,10 +48,10 @@
       "成人肺炎診療ガイドライン2024（日本呼吸器学会）"
     ],
     "counts": {
-      "qa": 1780,
-      "mcq": 1224,
-      "recall": 623,
-      "total": 3627
+      "qa": 1779,
+      "mcq": 1212,
+      "recall": 618,
+      "total": 3609
     },
     "sections": [
       "総論I 形態・機能・病態生理",
@@ -212,11 +212,11 @@
         "ul-1101"
       ]
     },
-    "total_questions": 3627,
-    "qa_count": 1780,
-    "mcq_count": 1224,
+    "total_questions": 3609,
+    "qa_count": 1779,
+    "mcq_count": 1212,
     "last_update": "2026-09-16",
-    "recall_count": 623
+    "recall_count": 618
   },
   "items": [
     {
@@ -3092,45 +3092,6 @@
       "_bestCov": 0.25
     },
     {
-      "id": "mcq-012",
-      "type": "mcq",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
-      "question": "問12 酸素解離曲線を右方移動させない因子はどれか。",
-      "choices": {
-        "a": "pH低下",
-        "b": "PaCO₂上昇",
-        "c": "体温上昇",
-        "d": "2,3-DPG増加",
-        "e": "pH上昇"
-      },
-      "answer": "e",
-      "explanation": "右方移動（O₂を放しやすい）＝pH低下・CO₂上昇（Bohr効果）・体温上昇・2,3-DPG増加。pH上昇は左方移動させる。\n\n【AI解説】\n【結論】正答（右方移動させない）：「pH上昇」。\n【選択肢の解説】\n❌「pH低下」：右方移動因子（Bohr効果）。\n❌「PaCO₂上昇」：右方移動因子。\n❌「体温上昇」：右方移動因子。\n❌「2,3-DPG増加」：右方移動因子。\n⭕「pH上昇」：右方移動させない。pH上昇（アルカローシス）は左方移動。",
-      "tags": [
-        "総論I",
-        "呼吸生理",
-        "5択"
-      ],
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 16,
-        "image": "assets/reference_pages/s1_p016.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=16",
-        "highlights": [
-          {
-            "x": 0.0662,
-            "y": 0.3661,
-            "w": 0.394,
-            "h": 0.0203
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.6086956521739131
-    },
-    {
       "id": "mcq-013",
       "type": "mcq",
       "chapter": "総論I 形態・機能・病態生理",
@@ -5661,47 +5622,6 @@
         "kind": "original"
       },
       "_bestCov": 0.17857142857142858
-    },
-    {
-      "id": "qa-s3-019",
-      "type": "mcq",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "喀血の出血起源で最多は？",
-      "answer": [
-        "c"
-      ],
-      "explanation": "喀血の出血起源で最多は気管支動脈系で、約90％を占める。\n\n【AI解説】\n【結論】正答は「気管支動脈系」。喀血の約90％が気管支動脈系由来である。\n【選択肢の解説】\n❌「肺静脈系」：誤り。\n❌「体循環-肺循環吻合」：誤り。まれに出血源となる。\n⭕「気管支動脈系」：正しい。体循環系で圧が高いため大量喀血をきたしやすい。\n❌「肺動脈系」：誤り。関与は5％程度にとどまる。\n【関連知識】気管支動脈系由来が大半であるため、止血には気管支動脈塞栓術（BAE）が有効である。日常臨床で多いのは気管支拡張症や肺結核後遺症に感染を合併した喀血で、肺癌も原因の約10％を占める。",
-      "tags": [
-        "総論III",
-        "喀血・呼吸困難・喘鳴・胸痛",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 7,
-        "image": "assets/reference_pages/s3_p007.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=7",
-        "highlights": [
-          {
-            "x": 0.5558,
-            "y": 0.1744,
-            "w": 0.3752,
-            "h": 0.0203
-          }
-        ]
-      },
-      "choices": {
-        "a": "肺静脈系",
-        "b": "体循環-肺循環吻合",
-        "c": "気管支動脈系",
-        "d": "肺動脈系"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.42105263157894735
     },
     {
       "id": "qa-s3-020",
@@ -12905,50 +12825,6 @@
       "_bestCov": 0.1875
     },
     {
-      "id": "qa-s5-025",
-      "type": "mcq",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "ニューモシスチス肺炎の第一選択薬は？",
-      "answer": [
-        "d"
-      ],
-      "explanation": "ニューモシスチス肺炎の第一選択薬はST合剤。\n\n【AI解説】\n【結論】ニューモシスチス肺炎の第一選択薬はST合剤（スルファメトキサゾール・トリメトプリム）。\n【選択肢の解説】\n❌「イソニアジド」：誤り。抗結核薬である。\n❌「アムホテリシンB」：誤り。本菌は細胞膜にエルゴステロールをもたないため無効である。\n❌「ペニシリン」：誤り。Pneumocystis jiroveciiには無効である。\n⭕「ST合剤」：正しい。ニューモシスチス肺炎の第一選択である。\n【関連知識】ST合剤が使えない場合はペンタミジンやアトバコンを用いる。HIV例ではPaO2＜70 TorrまたはA-aDO2≧35 Torrでステロイドを併用する。",
-      "tags": [
-        "総論V",
-        "治療",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 20,
-        "image": "assets/reference_pages/s5_p020.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=20",
-        "highlights": [
-          {
-            "x": 0.083,
-            "y": 0.5593,
-            "w": 0.3773,
-            "h": 0.0193
-          }
-        ]
-      },
-      "choices": {
-        "a": "イソニアジド",
-        "b": "アムホテリシンB",
-        "c": "ペニシリン",
-        "d": "ST合剤"
-      },
-      "source": {
-        "kind": "book",
-        "code": "g5",
-        "page": 62,
-        "title": "一問一答 5 治療",
-        "pdfPage": 5
-      }
-    },
-    {
       "id": "qa-s5-026",
       "type": "mcq",
       "chapter": "総論V 治療",
@@ -14447,47 +14323,6 @@
       "_bestCov": 0.15384615384615385
     },
     {
-      "id": "qa-s5-063",
-      "type": "mcq",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "大量喀血の定義は？",
-      "answer": [
-        "d"
-      ],
-      "explanation": "大量喀血は24時間で200mL以上の喀血と定義される。\n\n【AI解説】\n【結論】大量喀血は24時間で200 mL以上の喀血と定義される。\n【選択肢の解説】\n❌「1回で10 mL以上」：誤り。少量である。\n❌「24時間で1,000 mL以上」：誤り。基準として厳しすぎる。\n❌「24時間で50 mL以上」：誤り。中等量喀血に相当する。\n⭕「24時間で200 mL以上」：正しい。国内では概ねこの基準が用いられる。\n【関連知識】喀血診療指針では重症を200 mL/日以上（コップ1杯）または酸素飽和度90％以下、軽症を15 mL/日未満（大さじ1杯）とし、その間を中等症としている。致死的となるのは失血より窒息である。",
-      "tags": [
-        "総論V",
-        "治療",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 70,
-        "image": "assets/reference_pages/s5_p070.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=70",
-        "highlights": [
-          {
-            "x": 0.5035,
-            "y": 0.4017,
-            "w": 0.394,
-            "h": 0.0198
-          }
-        ]
-      },
-      "choices": {
-        "a": "1回で10 mL以上",
-        "b": "24時間で1,000 mL以上",
-        "c": "24時間で50 mL以上",
-        "d": "24時間で200 mL以上"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.3684210526315789
-    },
-    {
       "id": "qa-s5-064",
       "type": "mcq",
       "chapter": "総論V 治療",
@@ -15019,47 +14854,6 @@
         "kind": "original"
       },
       "_bestCov": 0.08333333333333333
-    },
-    {
-      "id": "qa-s5-077",
-      "type": "mcq",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "両肺移植が原則の疾患は？",
-      "answer": [
-        "c"
-      ],
-      "explanation": "両肺移植が原則の疾患は感染性肺疾患・特発性肺動脈性肺高血圧症・小児。\n\n【AI解説】\n【結論】両肺移植が原則の疾患は感染性肺疾患・特発性肺動脈性肺高血圧症・小児。\n【選択肢の解説】\n❌「サルコイドーシス・リンパ脈管筋腫症」：誤り。両肺移植が原則という位置づけではない。\n❌「肺癌・悪性胸膜中皮腫」：誤り。悪性腫瘍は肺移植の適応外である。\n⭕「感染性肺疾患・特発性肺動脈性肺高血圧症・小児」：正しい。感染性疾患では残存肺が感染源となるため、PAHでは血行動態の面から、小児では成長を考慮して両肺移植が原則となる。\n❌「特発性肺線維症・COPD」：誤り。片肺移植も選択されうる。\n【関連知識】日本では脳死ドナーが少なく、生体肺葉移植も行われている。",
-      "tags": [
-        "総論V",
-        "治療",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 106,
-        "image": "assets/reference_pages/s5_p106.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=106",
-        "highlights": [
-          {
-            "x": 0.5035,
-            "y": 0.3493,
-            "w": 0.3933,
-            "h": 0.0203
-          }
-        ]
-      },
-      "choices": {
-        "a": "サルコイドーシス・リンパ脈管筋腫症",
-        "b": "肺癌・悪性胸膜中皮腫",
-        "c": "感染性肺疾患・特発性肺動脈性肺高血圧症・小児",
-        "d": "特発性肺線維症・COPD"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.14814814814814814
     },
     {
       "id": "qa-s5-078",
@@ -20633,48 +20427,6 @@
       "type": "mcq",
       "chapter": "各論Ⅱ 呼吸不全",
       "section": "各論II 呼吸不全",
-      "question": "チアノーゼが出現する脱酸素化ヘモグロビンの量は？",
-      "answer": [
-        "d"
-      ],
-      "explanation": "チアノーゼは脱酸素化ヘモグロビンが5g/dL以上になると出現する。\n\n【AI解説】\n【結論】チアノーゼは脱酸素化ヘモグロビンが5 g/dL以上で出現する。\n【選択肢の解説】\n❌「10 g/dL以上」：誤り。\n❌「3 g/dL以上」：誤り。\n❌「2 g/dL以上」：誤り。\n⭕「5 g/dL以上」：正しい。\n【関連知識】絶対量で決まるため貧血では出にくく、多血症では出やすい。",
-      "tags": [
-        "各論Ⅱ",
-        "各論Ⅱ 呼吸不全",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "source_file": "各論II_呼吸不全_問題集.docx",
-      "id": "qa-0507",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 4,
-        "image": "assets/reference_pages/k2_p004.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=4",
-        "highlights": [
-          {
-            "x": 0.5035,
-            "y": 0.1744,
-            "w": 0.3884,
-            "h": 0.0193
-          }
-        ]
-      },
-      "choices": {
-        "a": "10 g/dL以上",
-        "b": "3 g/dL以上",
-        "c": "2 g/dL以上",
-        "d": "5 g/dL以上"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.3181818181818182
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論Ⅱ 呼吸不全",
-      "section": "各論II 呼吸不全",
       "question": "貧血患者でチアノーゼが出にくい理由は？",
       "answer": [
         "c"
@@ -21103,51 +20855,6 @@
         "page": 332,
         "title": "一問一答 II 呼吸不全",
         "pdfPage": 5
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論Ⅱ 呼吸不全",
-      "section": "各論II 呼吸不全",
-      "question": "Ⅱ型呼吸不全の危険がある場合の目標SpO₂は？",
-      "answer": [
-        "a"
-      ],
-      "explanation": "II型呼吸不全の危険がある場合の目標SpO2は88〜92%とする。\n\n【AI解説】\n【結論】II型呼吸不全の危険がある場合の目標SpO₂は88〜92%。\n【選択肢の解説】\n⭕「88〜92%」：正しい。低酸素性呼吸ドライブを保ちつつ組織低酸素を避ける範囲である。\n❌「98〜100%」：誤り。過剰である。\n❌「94〜98%」：誤り。I型呼吸不全や一般的な酸素療法の目標である。\n❌「80〜85%」：誤り。低すぎる。\n【関連知識】",
-      "tags": [
-        "各論Ⅱ",
-        "各論Ⅱ 呼吸不全",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "source_file": "各論II_呼吸不全_問題集.docx",
-      "id": "qa-0518",
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 5,
-        "image": "assets/reference_pages/k2_p005.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=5",
-        "highlights": [
-          {
-            "x": 0.1025,
-            "y": 0.9066,
-            "w": 0.3968,
-            "h": 0.0232
-          }
-        ]
-      },
-      "choices": {
-        "a": "88〜92%",
-        "b": "98〜100%",
-        "c": "94〜98%",
-        "d": "80〜85%"
-      },
-      "source": {
-        "kind": "book",
-        "code": "b2",
-        "page": 330,
-        "title": "一問一答 II 呼吸不全",
-        "pdfPage": 3
       }
     },
     {
@@ -22653,51 +22360,6 @@
       "type": "mcq",
       "chapter": "各論Ⅲ 胸膜疾患",
       "section": "各論III 胸膜疾患",
-      "question": "結核性胸膜炎で上昇する胸水中の酵素は？",
-      "answer": [
-        "a"
-      ],
-      "explanation": "結核性胸膜炎では胸水中アデノシンデアミナーゼ(ADA、45〜60U/L以上)が上昇する。\n\n【AI解説】\n【結論】結核性胸膜炎では胸水中アデノシンデアミナーゼ（ADA、45〜60 U/L以上）が上昇する。\n【選択肢の解説】\n⭕「アデノシンデアミナーゼ」：正しい。ADAのことで、教科書では45〜60 U/L以上で感度100%・特異度97%という報告が紹介されている。\n❌「リゾチーム」：誤り。\n❌「アミラーゼ」：誤り。膵疾患や食道破裂、悪性胸水で上昇する。\n❌「LDH単独」：誤り。滲出性の指標にすぎない。\n【関連知識】ADAは膿胸、関節リウマチ、悪性リンパ腫でも上昇しうる。またADA低値でも結核性胸膜炎を否定できない。",
-      "tags": [
-        "各論Ⅲ",
-        "各論Ⅲ 胸膜疾患",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "source_file": "各論III_胸膜疾患_問題集.docx",
-      "id": "qa-0554",
-      "reference": {
-        "title": "各論 III 胸膜疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k3_p005.webp",
-        "viewer": "reference-viewer.html?doc=k3&page=5",
-        "highlights": [
-          {
-            "x": 0.1039,
-            "y": 0.1917,
-            "w": 0.394,
-            "h": 0.0193
-          }
-        ]
-      },
-      "choices": {
-        "a": "アデノシンデアミナーゼ",
-        "b": "リゾチーム",
-        "c": "アミラーゼ",
-        "d": "LDH単独"
-      },
-      "source": {
-        "kind": "book",
-        "code": "b3",
-        "page": 336,
-        "title": "一問一答 III 胸膜疾患",
-        "pdfPage": 3
-      }
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論Ⅲ 胸膜疾患",
-      "section": "各論III 胸膜疾患",
       "question": "結核性胸膜炎の胸水細胞は経過でどう変化するか？",
       "answer": [
         "d"
@@ -23164,48 +22826,6 @@
         "kind": "original"
       },
       "_bestCov": 0.21428571428571427
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論Ⅲ 胸膜疾患",
-      "section": "各論III 胸膜疾患",
-      "question": "血胸で用いるドレナージチューブの太さは？",
-      "answer": [
-        "a"
-      ],
-      "explanation": "血胸で用いるドレナージチューブは24Fr以上の太いもの。\n\n【AI解説】\n【結論】血胸で用いるドレナージチューブは24 Fr以上の太いもの。\n【選択肢の解説】\n⭕「24 Fr以上」：正しい。血液は粘稠で凝血塊を含むため太径を用いる。\n❌「8〜12 Fr」：誤り。気胸や漿液性胸水に用いる。\n❌「14 Fr以下」：誤り。閉塞しやすい。\n❌「20 Fr以下」：誤り。\n【関連知識】膿胸でも同様に24 Fr以上が推奨される。",
-      "tags": [
-        "各論Ⅲ",
-        "各論Ⅲ 胸膜疾患",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "source_file": "各論III_胸膜疾患_問題集.docx",
-      "id": "qa-0566",
-      "reference": {
-        "title": "各論 III 胸膜疾患",
-        "page": 9,
-        "image": "assets/reference_pages/k3_p009.webp",
-        "viewer": "reference-viewer.html?doc=k3&page=9",
-        "highlights": [
-          {
-            "x": 0.106,
-            "y": 0.3142,
-            "w": 0.3898,
-            "h": 0.0193
-          }
-        ]
-      },
-      "choices": {
-        "a": "24 Fr以上",
-        "b": "8〜12 Fr",
-        "c": "14 Fr以下",
-        "d": "20 Fr以下"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.3333333333333333
     },
     {
       "type": "mcq",
@@ -29423,48 +29043,6 @@
         "kind": "original"
       },
       "_bestCov": 0.34782608695652173
-    },
-    {
-      "type": "mcq",
-      "chapter": "各論Ⅵ 胸郭・胸壁の疾患",
-      "section": "各論VI 胸郭・胸壁の疾患",
-      "question": "漏斗胸の標準術式は？",
-      "answer": [
-        "d"
-      ],
-      "explanation": "漏斗胸の標準術式はNuss法。\n\n【AI解説】\n【結論】漏斗胸の標準術式はNuss法。\n【関連知識】胸腔鏡下に金属バーで胸骨を挙上する。\n【選択肢の解説】\n❌「Clagett法」：誤り。膿胸に対する開窓術である。\n❌「Wada法」：誤り。胸骨翻転術である。\n❌「Ravitch法」：誤り。肋軟骨を切除する従来法である。\n⭕「Nuss法」：正しい。胸腔鏡下に金属バーを挿入して胸骨を挙上する。",
-      "tags": [
-        "各論Ⅵ",
-        "各論Ⅵ 胸郭・胸壁の疾患",
-        "一問一答",
-        "語句MCQ化"
-      ],
-      "source_file": "各論VI_胸郭胸壁の疾患_問題集.docx",
-      "id": "qa-0715",
-      "reference": {
-        "title": "各論 VI 胸郭・胸壁の疾患",
-        "page": 7,
-        "image": "assets/reference_pages/k6_p007.webp",
-        "viewer": "reference-viewer.html?doc=k6&page=7",
-        "highlights": [
-          {
-            "x": 0.5558,
-            "y": 0.3834,
-            "w": 0.3801,
-            "h": 0.0203
-          }
-        ]
-      },
-      "choices": {
-        "a": "Clagett法",
-        "b": "Wada法",
-        "c": "Ravitch法",
-        "d": "Nuss法"
-      },
-      "source": {
-        "kind": "original"
-      },
-      "_bestCov": 0.15384615384615385
     },
     {
       "type": "mcq",
@@ -49899,43 +49477,6 @@
         ]
       },
       "id": "qa-1365",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 108,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 35
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "ニューモシスチス肺炎では、非HIV患者の方がHIV患者より予後が良い。",
-      "answer": "×",
-      "explanation": "HIV患者では亜急性の経過をたどるのに対し、非HIV患者では1週間程度で急激に進行し、炎症が強く、死亡率30〜60%と高い。\n\n【AI解説】\n【結論】誤り（×）。ニューモシスチス肺炎は非HIV患者の方が急激に進行し炎症が強く、死亡率30〜60%と予後不良。",
-      "tags": [
-        "各論I",
-        "ニューモシスチス肺炎",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 44,
-        "image": "assets/reference_pages/k1_p044.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=44",
-        "highlights": [
-          {
-            "x": 0.083,
-            "y": 0.08,
-            "w": 0.2671,
-            "h": 0.0242
-          }
-        ]
-      },
-      "id": "qa-1366",
       "source": {
         "kind": "book",
         "code": "r1",
@@ -100085,38 +99626,6 @@
       }
     },
     {
-      "id": "ul-0041",
-      "type": "recall",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "下肢深部静脈血栓症を背景として胸痛をきたす病態は。",
-      "answer": "肺血栓塞栓症",
-      "explanation": "【本文の下線部】\n…肺血栓\n（教科書 p.41）",
-      "tags": [
-        "総論III",
-        "胸痛",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 17,
-        "image": "assets/reference_pages/s3_p017.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=17",
-        "highlights": [
-          {
-            "x": 0.4468,
-            "y": 0.8778,
-            "w": 0.0505,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0042",
       "type": "recall",
       "chapter": "総論III 主要症候と身体所見",
@@ -105333,44 +104842,6 @@
         "c": "PCO₂",
         "d": "温度",
         "e": "ヘマトクリット"
-      }
-    },
-    {
-      "id": "ul-0187",
-      "type": "recall",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "pHの低下や高PCO2により酸素解離曲線が右方移動する現象を何と呼ぶか。",
-      "answer": "Bohr効果",
-      "explanation": "【本文の下線部】\npHの低下や高PCO2によって酸素解離曲線の右方移動が起こることをBohr効果と呼ぶ\n（教科書 p.135）",
-      "tags": [
-        "総論IV",
-        "呼吸機能検査",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 81,
-        "image": "assets/reference_pages/s4_p081.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=81",
-        "highlights": [
-          {
-            "x": 0.1181,
-            "y": 0.3525,
-            "w": 0.3791,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1016,
-            "y": 0.37,
-            "w": 0.2742,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
       }
     },
     {
@@ -126711,44 +126182,6 @@
       }
     },
     {
-      "id": "ul-0788",
-      "type": "recall",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-11 呼吸器新生物",
-      "question": "肺腺癌などで上昇することが多い腫瘍マーカーは。",
-      "answer": "CEA",
-      "explanation": "【本文の下線部】\n…特にCEAが上昇することが多い．\n（教科書 p.455）",
-      "tags": [
-        "各論I",
-        "肺腫瘍",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 195,
-        "image": "assets/reference_pages/k1_p195.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=195",
-        "highlights": [
-          {
-            "x": 0.8611,
-            "y": 0.6151,
-            "w": 0.073,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.6326,
-            "w": 0.1648,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0789",
       "type": "recall",
       "chapter": "各論I 気道・肺疾患",
@@ -130071,38 +129504,6 @@
       }
     },
     {
-      "id": "ul-0873",
-      "type": "recall",
-      "chapter": "各論II 呼吸不全",
-      "section": "各論II 呼吸不全",
-      "question": "肺胞換気量とPaCO2の関係を示す式は。",
-      "answer": "肺胞換気式",
-      "explanation": "【本文の下線部】\n…肺胞換気式\n（教科書 p.486）",
-      "tags": [
-        "各論II",
-        "急性呼吸不全",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 II 呼吸不全",
-        "page": 2,
-        "image": "assets/reference_pages/k2_p002.webp",
-        "viewer": "reference-viewer.html?doc=k2&page=2",
-        "highlights": [
-          {
-            "x": 0.3297,
-            "y": 0.9128,
-            "w": 0.0824,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0874",
       "type": "recall",
       "chapter": "各論II 呼吸不全",
@@ -132675,38 +132076,6 @@
             "x": 0.0659,
             "y": 0.3175,
             "w": 0.0854,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
-      "id": "ul-0954",
-      "type": "recall",
-      "chapter": "各論V 縦隔疾患",
-      "section": "各論V 縦隔疾患",
-      "question": "神経鞘から発生する良性腫瘍は。",
-      "answer": "神経鞘腫（schwannoma）",
-      "explanation": "【本文の下線部】\n神経鞘から発生する神経鞘腫（schwannoma）\n（教科書 p.526）",
-      "tags": [
-        "各論V",
-        "縦隔腫瘍",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 V 縦隔疾患",
-        "page": 8,
-        "image": "assets/reference_pages/k5_p008.webp",
-        "viewer": "reference-viewer.html?doc=k5&page=8",
-        "highlights": [
-          {
-            "x": 0.0824,
-            "y": 0.405,
-            "w": 0.3459,
             "h": 0.0151
           }
         ]
@@ -141280,53 +140649,6 @@
       }
     },
     {
-      "id": "ul-1120",
-      "type": "mcq",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-8 全身疾患",
-      "question": "呼吸器アミロイドーシスの病型として本文に挙げられていないのはどれか。",
-      "answer": [
-        "e"
-      ],
-      "explanation": "呼吸器アミロイドーシスは気管・気管支型，肺実質結節型，びまん性肺胞隔壁型，胸膜病変型の4型に分類すると理解しやすい。\n【選択肢の解説】\n❌「気管・気管支型」：本文に挙げられている病型である。\n❌「肺実質結節型」：挙げられている。\n❌「びまん性肺胞隔壁型」：挙げられている。\n❌「胸膜病変型」：挙げられている。\n⭕「縦隔リンパ節型」：挙げられていないのでこれが正答。呼吸器アミロイドーシスは上記4型に分類すると理解しやすい。\n\n【本文の下線部】\n…気管・気管支型，肺実質結節型，びまん性肺胞隔壁型，胸膜病変型の4型に分類すると理解しやすい．\n（教科書 p.397）",
-      "tags": [
-        "各論I",
-        "全身性疾患に伴う肺病変",
-        "5択",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 137,
-        "image": "assets/reference_pages/k1_p137.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=137",
-        "highlights": [
-          {
-            "x": 0.5714,
-            "y": 0.7377,
-            "w": 0.3626,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.7552,
-            "w": 0.3791,
-            "h": 0.0151
-          }
-        ]
-      },
-      "choices": {
-        "a": "気管・気管支型",
-        "b": "肺実質結節型",
-        "c": "びまん性肺胞隔壁型",
-        "d": "胸膜病変型",
-        "e": "縦隔リンパ節型"
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-1121",
       "type": "mcq",
       "chapter": "総論V 治療",
@@ -141495,46 +140817,6 @@
           "caption": "管状（スリーブ）肺葉切除の模式図"
         }
       ]
-    },
-    {
-      "id": "ul-1124",
-      "type": "mcq",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "肺癌取扱い規約でT4に分類される浸潤臓器はどれか。",
-      "answer": [
-        "d"
-      ],
-      "explanation": "T3は胸壁・壁側胸膜・横隔神経・心膜・奇静脈・胸部神経根・星状神経節，T4は縦隔・胸腺・気管・気管分岐部・反回神経・迷走神経・食道・横隔膜・心臓・大血管・椎体・腕神経叢など。\n【選択肢の解説】\n❌「胸壁」：誤り。T3である。\n❌「壁側胸膜」：誤り。T3である。\n❌「横隔神経」：誤り。T3である。\n⭕「椎体」：正しい。T4に分類される。\n❌「奇静脈」：誤り。T3である。\n\n【本文の下線部】\nどへの浸潤はT4に分類されている\n（教科書 p.244）",
-      "tags": [
-        "総論V",
-        "外科療法",
-        "5択",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 98,
-        "viewer": "reference-viewer.html?doc=s5&page=98",
-        "highlights": [
-          {
-            "x": 0.5027,
-            "y": 0.1424,
-            "w": 0.2614,
-            "h": 0.0151
-          }
-        ]
-      },
-      "choices": {
-        "a": "胸壁",
-        "b": "壁側胸膜",
-        "c": "横隔神経",
-        "d": "椎体",
-        "e": "奇静脈"
-      },
-      "source": {
-        "kind": "original"
-      }
     },
     {
       "id": "ul-1125",
