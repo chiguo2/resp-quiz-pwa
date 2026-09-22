@@ -48,10 +48,10 @@
       "成人肺炎診療ガイドライン2024（日本呼吸器学会）"
     ],
     "counts": {
-      "qa": 1788,
+      "qa": 1734,
       "mcq": 1333,
       "recall": 0,
-      "total": 3121
+      "total": 3067
     },
     "sections": [
       "総論I 形態・機能・病態生理",
@@ -212,8 +212,8 @@
         "ul-1101"
       ]
     },
-    "total_questions": 3121,
-    "qa_count": 1788,
+    "total_questions": 3067,
+    "qa_count": 1734,
     "mcq_count": 1333,
     "last_update": "2026-09-16",
     "recall_count": 0
@@ -2670,7 +2670,7 @@
         "e": "肺胞の形成は出生時に完了する"
       },
       "answer": "e",
-      "explanation": "肺胞期は胎齢36週頃〜小児期で、肺胞の形成・成熟は出生後小児期まで継続する。a〜dはいずれも正しい。\n\n【AI解説】\n【結論】正答（誤り）：「肺胞の形成は出生時に完了する」。\n【選択肢の解説】\n❌「肺の原基は肺芽と呼ばれる管状構造」：正しい。\n❌「偽腺管期に終末細気管支までの気道分岐が完了」：正しい。\n❌「サーファクタントの産生は細管期に開始」：正しい。\n❌「囊状期に胎外生活が可能な構造・機能に達する」：正しい。\n⭕「肺胞の形成は出生時に完了する」：誤り。肺胞期は胎齢36週頃〜小児期で、肺胞の形成・成熟は出生後も継続する。",
+      "explanation": "肺胞期は胎齢36週頃〜小児期で、肺胞の形成・成熟は出生後小児期まで継続する。a〜dはいずれも正しい。\n\n【AI解説】\n【結論】正答（誤り）：「肺胞の形成は出生時に完了する」。\n【選択肢の解説】\n❌「肺の原基は肺芽と呼ばれる管状構造」：正しい。\n❌「偽腺管期に終末細気管支までの気道分岐が完了」：正しい。\n❌「サーファクタントの産生は細管期に開始」：正しい。\n❌「囊状期に胎外生活が可能な構造・機能に達する」：正しい。\n⭕「肺胞の形成は出生時に完了する」：誤り。肺胞期は胎齢36週頃〜小児期で、肺胞の形成・成熟は出生後も継続する。\n【ゴロ：ハギさんの歯】肺の発生5期を順に覚える。\n　ハ＝胚芽期（受精後4〜7週）／ギ＝偽腺管期（6〜16週）／サ＝細管期（16〜28週）／ノ＝嚢状期（28〜36週）／ハ＝肺胞期（36週〜出生後、2〜8歳頃まで）\n　※週数は成書により多少幅がある。順序を押さえることが重要。\n",
       "tags": [
         "総論I",
         "発生",
@@ -31005,80 +31005,6 @@
       "type": "qa",
       "chapter": "総論I 形態・機能・病態生理",
       "section": "総論I 形態・機能・病態生理",
-      "question": "偽腺管期には呼吸細気管支相当までの気道分岐が行われる。",
-      "answer": "×",
-      "explanation": "終末細気管支相当までの分岐が行われる。\n\n【AI解説】\n【結論】誤り（×）。偽腺管期には終末細気管支相当までの気道分岐が行われる（呼吸細気管支ではない）。",
-      "tags": [
-        "総論I",
-        "呼吸器の発生",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 4,
-        "image": "assets/reference_pages/s1_p004.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=4",
-        "highlights": [
-          {
-            "x": 0.5042,
-            "y": 0.6294,
-            "w": 0.3926,
-            "h": 0.0198
-          }
-        ]
-      },
-      "id": "qa-0762",
-      "source": {
-        "kind": "book",
-        "code": "g1",
-        "page": 2,
-        "title": "一問一答 1 形態、機能、病態生理",
-        "pdfPage": 1
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
-      "question": "サーファクタントの産生が開始されるのは細管期である。",
-      "answer": "○",
-      "explanation": "サーファクタントの産生が開始されるのは細管期である。\n\n【AI解説】\n【ゴロ：ハギさんの歯】肺の発生5期を順に覚える。\n　ハ＝胚芽期（受精後4〜7週）\n　ギ＝偽腺管期（5〜17週）\n　サ＝細管期（16〜26週）\n　ノ＝嚢状期（24〜38週）\n　ハ＝肺胞期（36週〜出生後、2〜8歳頃まで）\n※週数は成書により多少幅がある（教科書では偽腺管期6〜16週、細管期16〜28週、嚢状期28〜36週、肺胞期36週〜としている）。順序を押さえることが重要。\n\n【結論】正しい（○）。サーファクタントの産生は細管期（16〜28週）に開始される。",
-      "tags": [
-        "総論I",
-        "呼吸器の発生",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 4,
-        "image": "assets/reference_pages/s1_p004.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=4",
-        "highlights": [
-          {
-            "x": 0.5049,
-            "y": 0.8745,
-            "w": 0.3654,
-            "h": 0.0193
-          }
-        ]
-      },
-      "id": "qa-0763",
-      "source": {
-        "kind": "book",
-        "code": "g1",
-        "page": 2,
-        "title": "一問一答 1 形態、機能、病態生理",
-        "pdfPage": 1
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
       "question": "細管期の終わりころには胎外生活が可能な構造的、機能的状況に到達する。",
       "answer": "×",
       "explanation": "嚢状期の終わりころである。\n\n【AI解説】\n【結論】誤り（×）。胎外生活が可能な構造的・機能的状況に到達するのは嚢状期の終わり頃（細管期ではない）。",
@@ -31242,43 +31168,6 @@
         "page": 2,
         "title": "一問一答 1 形態、機能、病態生理",
         "pdfPage": 1
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
-      "question": "気管は第7胸椎の高さで2分岐する。",
-      "answer": "×",
-      "explanation": "第4〜5胸椎の高さで2分岐する。\n\n【AI解説】\n【結論】誤り（×）。気管は第4〜5胸椎の高さで2分岐する（第7胸椎ではない）。\n\n【AI解説（Claude 再確認）】\n気管分岐部（気管竜骨）は第4〜5胸椎（胸骨角）の高さにある。第7胸椎ではないため誤り。",
-      "tags": [
-        "総論I",
-        "呼吸器の構造",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 6,
-        "image": "assets/reference_pages/s1_p006.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=6",
-        "highlights": [
-          {
-            "x": 0.083,
-            "y": 0.6117,
-            "w": 0.378,
-            "h": 0.0203
-          }
-        ]
-      },
-      "id": "qa-0769",
-      "source": {
-        "kind": "book",
-        "code": "g1",
-        "page": 4,
-        "title": "一問一答 1 形態、機能、病態生理",
-        "pdfPage": 3
       }
     },
     {
@@ -31610,43 +31499,6 @@
       "type": "qa",
       "chapter": "総論I 形態・機能・病態生理",
       "section": "総論I 形態・機能・病態生理",
-      "question": "呼吸細気管支の壁は肺胞でできている。",
-      "answer": "○",
-      "explanation": "呼吸細気管支の壁の一部は肺胞でできている(ガス交換に関与)。\n\n【AI解説】\n【結論】正しい（○）。呼吸細気管支の壁の一部は肺胞でできている（ガス交換に関与）。",
-      "tags": [
-        "総論I",
-        "呼吸器の構造",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 8,
-        "image": "assets/reference_pages/s1_p008.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=8",
-        "highlights": [
-          {
-            "x": 0.5028,
-            "y": 0.6112,
-            "w": 0.3919,
-            "h": 0.0198
-          }
-        ]
-      },
-      "id": "qa-0779",
-      "source": {
-        "kind": "book",
-        "code": "g1",
-        "page": 4,
-        "title": "一問一答 1 形態、機能、病態生理",
-        "pdfPage": 3
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
       "question": "肺胞道には弾性線維が存在する。",
       "answer": "○",
       "explanation": "弾性線維が肺構造を支える支持組織の役割を果たす。\n\n【AI解説】\n【結論】正しい（○）。肺胞道には弾性線維が存在し肺構造を支える支持組織となる。",
@@ -31744,43 +31596,6 @@
         "page": 4,
         "title": "一問一答 1 形態、機能、病態生理",
         "pdfPage": 3
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
-      "question": "ガス交換に関与するのはⅠ型肺胞上皮細胞である。",
-      "answer": "○",
-      "explanation": "ガス交換に関与するのはI型肺胞上皮細胞である。\n\n【AI解説】\n【結論】正しい（○）。ガス交換に関与するのはI型肺胞上皮細胞（菲薄）。",
-      "tags": [
-        "総論I",
-        "呼吸器の構造",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 8,
-        "image": "assets/reference_pages/s1_p008.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=8",
-        "highlights": [
-          {
-            "x": 0.5028,
-            "y": 0.5944,
-            "w": 0.3933,
-            "h": 0.0375
-          }
-        ]
-      },
-      "id": "qa-0783",
-      "source": {
-        "kind": "book",
-        "code": "g1",
-        "page": 6,
-        "title": "一問一答 1 形態、機能、病態生理",
-        "pdfPage": 5
       }
     },
     {
@@ -32040,43 +31855,6 @@
         "page": 7,
         "title": "一問一答 1 形態、機能、病態生理",
         "pdfPage": 6
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
-      "question": "気管支動脈の血流量は心拍出量の5%程度といわれる。",
-      "answer": "×",
-      "explanation": "1%程度といわれる。\n\n【AI解説】\n【結論】誤り（×）。気管支動脈の血流量は心拍出量の約1%程度（5%ではない）。",
-      "tags": [
-        "総論I",
-        "呼吸器の構造",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 12,
-        "image": "assets/reference_pages/s1_p012.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=12",
-        "highlights": [
-          {
-            "x": 0.0676,
-            "y": 0.4017,
-            "w": 0.3919,
-            "h": 0.0198
-          }
-        ]
-      },
-      "id": "qa-0791",
-      "source": {
-        "kind": "book",
-        "code": "g1",
-        "page": 6,
-        "title": "一問一答 1 形態、機能、病態生理",
-        "pdfPage": 5
       }
     },
     {
@@ -32627,43 +32405,6 @@
       "type": "qa",
       "chapter": "総論I 形態・機能・病態生理",
       "section": "総論I 形態・機能・病態生理",
-      "question": "圧-容量曲線の傾き（ΔV/ΔP）はコンプライアンスを表す。",
-      "answer": "○",
-      "explanation": "圧-容量曲線の傾き(ΔV/ΔP)はコンプライアンスを表す。\n\n【AI解説】\n【結論】正しい（○）。圧-容量曲線の傾き（ΔV/ΔP）はコンプライアンスを表す。",
-      "tags": [
-        "総論I",
-        "呼吸生理",
-        "○×問題",
-        "★☆☆"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 13,
-        "image": "assets/reference_pages/s1_p013.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=13",
-        "highlights": [
-          {
-            "x": 0.1227,
-            "y": 0.1601,
-            "w": 0.3208,
-            "h": 0.0188
-          }
-        ]
-      },
-      "id": "qa-0808",
-      "source": {
-        "kind": "book",
-        "code": "g1",
-        "page": 8,
-        "title": "一問一答 1 形態、機能、病態生理",
-        "pdfPage": 7
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
       "question": "立位における換気量は肺底部で小さくなる。",
       "answer": "×",
       "explanation": "肺底部で大きくなる。\n\n【AI解説】\n【結論】誤り（×）。立位では換気量は肺底部で大きくなる（小さくではない）。",
@@ -33120,43 +32861,6 @@
         "viewer": "reference-viewer.html?doc=s1&page=18"
       },
       "id": "qa-0823",
-      "source": {
-        "kind": "book",
-        "code": "g1",
-        "page": 10,
-        "title": "一問一答 1 形態、機能、病態生理",
-        "pdfPage": 9
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論I 形態・機能・病態生理",
-      "section": "総論I 形態・機能・病態生理",
-      "question": "肺血管内皮細胞はアンジオテンシン変換酵素を分泌する。",
-      "answer": "○",
-      "explanation": "肺血管内皮細胞はアンジオテンシン変換酵素(ACE)をもつ。\n\n【AI解説】\n【結論】正しい（○）。肺血管内皮細胞はアンジオテンシン変換酵素（ACE）をもつ。",
-      "tags": [
-        "総論I",
-        "肺の代謝機能",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "総論Ⅰ_形態機能病態生理_一問一答.docx",
-      "reference": {
-        "title": "総論 I 形態・機能・病態生理",
-        "page": 12,
-        "image": "assets/reference_pages/s1_p012.webp",
-        "viewer": "reference-viewer.html?doc=s1&page=12",
-        "highlights": [
-          {
-            "x": 0.5056,
-            "y": 0.3083,
-            "w": 0.3912,
-            "h": 0.0257
-          }
-        ]
-      },
-      "id": "qa-0824",
       "source": {
         "kind": "book",
         "code": "g1",
@@ -35609,42 +35313,6 @@
       "type": "qa",
       "chapter": "総論III 主要症候と身体所見",
       "section": "総論III 主要症候と身体所見",
-      "question": "Miller & Jones分類は喀痰の肉眼的な性状を判定する基準である。",
-      "answer": "○",
-      "explanation": "M1・M2は粘液性痰、P1〜P3は膿性痰を表す。P2以上は微生物検査に適している。\n\n【AI解説】\n【結論】正しい（○）。Miller & Jones分類は喀痰の肉眼性状の基準（M1・M2は粘液性、P1〜P3は膿性、P2以上が微生物検査向き）。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 5,
-        "image": "assets/reference_pages/s3_p005.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=5",
-        "highlights": [
-          {
-            "x": 0.5384,
-            "y": 0.8552,
-            "w": 0.3947,
-            "h": 0.0208
-          }
-        ]
-      },
-      "id": "qa-0914",
-      "source": {
-        "kind": "book",
-        "code": "g3",
-        "page": 28,
-        "title": "一問一答 3 主要徴候と身体所見",
-        "pdfPage": 3
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
       "question": "Geckler分類4群では、1視野あたりに上皮細胞は10個未満、好中球は25個以上である。",
       "answer": "×",
       "explanation": "Geckler分類4群は扁平上皮細胞10〜25個・白血球25個超であり、設問の記載は5群の定義である。\n\n【AI解説】\n【結論】誤り（×）。「扁平上皮細胞10個未満・白血球25個超」は5群の定義である。4群は扁平上皮細胞10〜25個・白血球25個超。\n【Geckler分類】喀痰Gram染色の品質評価。1視野あたりの「扁平上皮細胞／白血球」の数で6群に分ける。\n| 群 | 扁平上皮細胞 | 白血球 |\n| --- | --- | --- |\n| 1群 | ＞25 | ＜10 |\n| 2群 | ＞25 | 10〜25 |\n| 3群 | ＞25 | ＞25 |\n| 4群 | 10〜25 | ＞25 |\n| 5群 | ＜10 | ＞25 |\n| 6群 | ＜25 | ＜25 |\n　4群・5群が良質な喀痰（下気道由来）で、培養に適する。\n【覚え方】扁平上皮細胞は唾液混入の指標で少ないほどよく、白血球は炎症の指標で多いほどよい。1群→5群と番号が上がるにつれて上皮が減り白血球が増える、つまり検体の質が上がっていく。培養検査に適するのは4群と5群である。6群だけは例外で、上皮も白血球も少なく（ともに25未満）評価できない検体を指す。\n【6群の意味】細胞成分に乏しく、すでに抗菌薬が投与されている場合や、そもそも下気道由来の検体でない場合に生じる。\n【関連知識】Geckler分類は鏡検による品質評価、Miller & Jones分類は肉眼的性状の評価（M1〜P3で、P3が最も膿性度が高い）である。",
@@ -36391,42 +36059,6 @@
       "type": "qa",
       "chapter": "総論III 主要症候と身体所見",
       "section": "総論III 主要症候と身体所見",
-      "question": "吸入ステロイドでは嗄声が起こりやすい。",
-      "answer": "○",
-      "explanation": "ステロイドの喉頭への沈着や真菌性喉頭炎が嗄声の原因である。\n\n【AI解説】\n【結論】正しい（○）。吸入ステロイドはステロイド沈着や真菌性喉頭炎により嗄声を起こしやすい（吸入後うがいで予防）。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 18,
-        "image": "assets/reference_pages/s3_p018.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=18",
-        "highlights": [
-          {
-            "x": 0.5195,
-            "y": 0.8918,
-            "w": 0.3766,
-            "h": 0.0193
-          }
-        ]
-      },
-      "id": "qa-0937",
-      "source": {
-        "kind": "book",
-        "code": "g3",
-        "page": 32,
-        "title": "一問一答 3 主要徴候と身体所見",
-        "pdfPage": 7
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
       "question": "嗄声をきたす悪性腫瘍のうち頻度がもっとも高いのは肺癌である。",
       "answer": "×",
       "explanation": "最多は甲状腺癌で非手術的原因の26%。次いで肺癌（11%）、食道癌（7%）。\n\n【AI解説】\n【結論】誤り（×）。嗄声をきたす悪性腫瘍の最多は甲状腺癌（非手術的原因の26%）で、肺癌（11%）はそれに次ぐ。",
@@ -36559,78 +36191,6 @@
         ]
       },
       "id": "qa-0941",
-      "source": {
-        "kind": "book",
-        "code": "g3",
-        "page": 32,
-        "title": "一問一答 3 主要徴候と身体所見",
-        "pdfPage": 7
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "チアノーゼは還元型ヘモグロビンが5 g/dL未満で診断される。",
-      "answer": "×",
-      "explanation": "還元型ヘモグロビンが5 g/dL以上、酸素飽和度75%以下、PaO₂ 40 mmHg以下で出現する。\n\n【AI解説】\n【結論】誤り（×）。チアノーゼは還元型ヘモグロビンが5 g/dL以上（SaO₂約75%以下、PaO₂約40 mmHg以下）で出現する。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 20,
-        "image": "assets/reference_pages/s3_p020.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=20",
-        "highlights": [
-          {
-            "x": 0.083,
-            "y": 0.5371,
-            "w": 0.3801,
-            "h": 0.0242
-          }
-        ]
-      },
-      "id": "qa-0942",
-      "source": {
-        "kind": "book",
-        "code": "g3",
-        "page": 32,
-        "title": "一問一答 3 主要徴候と身体所見",
-        "pdfPage": 7
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "末梢性チアノーゼでは口腔粘膜はピンク色である。",
-      "answer": "○",
-      "explanation": "PaO₂は正常で、動脈血が末梢に到達するまでに還元ヘモグロビンが蓄積される。\n\n【AI解説】\n【結論】正しい（○）。末梢性チアノーゼでは口腔粘膜はピンク色（PaO₂正常で、末梢到達までに還元Hbが蓄積）。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 21,
-        "image": "assets/reference_pages/s3_p021.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=21",
-        "highlights": [
-          {
-            "x": 0.1025,
-            "y": 0.3493,
-            "w": 0.3912,
-            "h": 0.0203
-          }
-        ]
-      },
-      "id": "qa-0943",
       "source": {
         "kind": "book",
         "code": "g3",
@@ -36889,42 +36449,6 @@
         "page": 32,
         "title": "一問一答 3 主要徴候と身体所見",
         "pdfPage": 7
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "ばち指はCOPD単独では出現しにくい。",
-      "answer": "○",
-      "explanation": "COPD患者にばち指をみた場合、肺癌や間質性肺炎の合併を第一に考える。\n\n【AI解説】\n【結論】正しい（○）。ばち指はCOPD単独では出現しにくく、みられたら肺癌や間質性肺炎の合併を第一に考える。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 22,
-        "image": "assets/reference_pages/s3_p022.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=22",
-        "highlights": [
-          {
-            "x": 0.5028,
-            "y": 0.7712,
-            "w": 0.394,
-            "h": 0.0128
-          }
-        ]
-      },
-      "id": "qa-0951",
-      "source": {
-        "kind": "book",
-        "code": "g3",
-        "page": 34,
-        "title": "一問一答 3 主要徴候と身体所見",
-        "pdfPage": 9
       }
     },
     {
@@ -38025,42 +37549,6 @@
       "type": "qa",
       "chapter": "総論III 主要症候と身体所見",
       "section": "総論III 主要症候と身体所見",
-      "question": "特発性縦隔気腫では胸部の皮膚に握雪感を触れることが多い。",
-      "answer": "○",
-      "explanation": "縦隔気腫に皮下気腫を合併した場合は握雪感を触れる。\n\n【AI解説】\n【結論】正しい（○）。特発性縦隔気腫に皮下気腫を合併すると胸部皮膚に握雪感（捻髪感）を触れる。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 28,
-        "image": "assets/reference_pages/s3_p028.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=28",
-        "highlights": [
-          {
-            "x": 0.5049,
-            "y": 0.8567,
-            "w": 0.3842,
-            "h": 0.0188
-          }
-        ]
-      },
-      "id": "qa-0992",
-      "source": {
-        "kind": "book",
-        "code": "g3",
-        "page": 40,
-        "title": "一問一答 3 主要徴候と身体所見",
-        "pdfPage": 15
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
       "question": "マイコプラズマ肺炎では、胸部単純写真での陰影部位に一致して聴診でcoarse cracklesを聴取することが多い。",
       "answer": "×",
       "explanation": "マイコプラズマ肺炎などの非定型肺炎では、画像所見に比して胸部理学所見に乏しい。\n\n【AI解説】\n【結論】誤り（×）。マイコプラズマ肺炎などの非定型肺炎は画像所見に比して胸部理学所見に乏しい（陰影一致のcoarse cracklesは多くない）。",
@@ -38203,42 +37691,6 @@
     },
     {
       "type": "qa",
-      "chapter": "総論III 主要症候と身体所見",
-      "section": "総論III 主要症候と身体所見",
-      "question": "rattlingは吸気時に分泌物による波動を触れる所見である。",
-      "answer": "○",
-      "explanation": "rhonchiが触診されるときrattlingと呼び、中枢気道での喀痰貯留を示唆する。\n\n【AI解説】\n【結論】正しい（○）。rattlingは吸気時に分泌物による波動を触れる所見（rhonchiの触診）で、中枢気道の喀痰貯留を示唆する。\n\n【AI解説（Claude 再確認）】\nrattling（ガラガラ音）は、気道分泌物により吸気時に波動として触知・聴取される所見である。正しい。",
-      "tags": [
-        "総論III",
-        "総論III 主要症候と身体所見",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 III 主要症候と身体所見",
-        "page": 28,
-        "image": "assets/reference_pages/s3_p028.webp",
-        "viewer": "reference-viewer.html?doc=s3&page=28",
-        "highlights": [
-          {
-            "x": 0.5063,
-            "y": 0.4195,
-            "w": 0.3919,
-            "h": 0.0188
-          }
-        ]
-      },
-      "id": "qa-0997",
-      "source": {
-        "kind": "book",
-        "code": "g3",
-        "page": 40,
-        "title": "一問一答 3 主要徴候と身体所見",
-        "pdfPage": 15
-      }
-    },
-    {
-      "type": "qa",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
       "question": "血中好酸球が増加する疾患として、急性好酸球性肺炎の病初期が挙げられる。",
@@ -38301,42 +37753,6 @@
         ]
       },
       "id": "qa-0999",
-      "source": {
-        "kind": "book",
-        "code": "g4",
-        "page": 42,
-        "title": "一問一答 4 検査",
-        "pdfPage": 1
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "血清Krebs von den Lungen 6（KL-6）は上皮性悪性腫瘍で上昇することはない。",
-      "answer": "×",
-      "explanation": "肺癌など上皮性悪性腫瘍で上昇することがあり、注意が必要である。\n\n【AI解説】\n【結論】誤り（×）。KL-6は肺癌など上皮性悪性腫瘍でも上昇することがある（間質性肺炎以外でも注意を要する）。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 2,
-        "image": "assets/reference_pages/s4_p002.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=2",
-        "highlights": [
-          {
-            "x": 0.5042,
-            "y": 0.9259,
-            "w": 0.3905,
-            "h": 0.0208
-          }
-        ]
-      },
-      "id": "qa-1000",
       "source": {
         "kind": "book",
         "code": "g4",
@@ -38481,42 +37897,6 @@
         ]
       },
       "id": "qa-1004",
-      "source": {
-        "kind": "book",
-        "code": "g4",
-        "page": 42,
-        "title": "一問一答 4 検査",
-        "pdfPage": 1
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "皮内テストは感度が高い反面、アレルギー症状の誘発や偽陽性が多い。",
-      "answer": "○",
-      "explanation": "ルーチンでは実施されない。\n\n【AI解説】\n【結論】正しい（○）。皮内テストは感度が高い反面、アレルギー症状の誘発や偽陽性が多くルーチンでは実施されない。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 5,
-        "image": "assets/reference_pages/s4_p005.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=5",
-        "highlights": [
-          {
-            "x": 0.5404,
-            "y": 0.3844,
-            "w": 0.3912,
-            "h": 0.0198
-          }
-        ]
-      },
-      "id": "qa-1005",
       "source": {
         "kind": "book",
         "code": "g4",
@@ -39275,78 +38655,6 @@
       }
     },
     {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "肺換気シンチグラフィでは、肺機能検査では評価できない肺局所換気能の評価が可能である。",
-      "answer": "○",
-      "explanation": "肺換気シンチグラフィでは肺機能検査では評価できない局所換気能の評価が可能である。\n\n【AI解説】\n【結論】正しい（○）。肺換気シンチグラフィは肺機能検査では評価できない局所換気能の評価が可能。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 34,
-        "image": "assets/reference_pages/s4_p034.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=34",
-        "highlights": [
-          {
-            "x": 0.5028,
-            "y": 0.2915,
-            "w": 0.2008,
-            "h": 0.0252
-          }
-        ]
-      },
-      "id": "qa-1039",
-      "source": {
-        "kind": "book",
-        "code": "g4",
-        "page": 48,
-        "title": "一問一答 4 検査",
-        "pdfPage": 7
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "骨シンチグラフィは肺癌の骨転移の検索において、PET/CT検査より有用である。",
-      "answer": "×",
-      "explanation": "PET/CTが施行し得ない場合に骨シンチグラフィを施行するよう勧められる。\n\n【AI解説】\n【結論】誤り（×）。骨転移検索はFDG-PET/CTが優れ、施行できない場合に骨シンチグラフィを行う。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 35,
-        "image": "assets/reference_pages/s4_p035.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=35",
-        "highlights": [
-          {
-            "x": 0.5384,
-            "y": 0.5069,
-            "w": 0.394,
-            "h": 0.0198
-          }
-        ]
-      },
-      "id": "qa-1040",
-      "source": {
-        "kind": "book",
-        "code": "g4",
-        "page": 48,
-        "title": "一問一答 4 検査",
-        "pdfPage": 7
-      }
-    },
-    {
       "type": "mcq",
       "chapter": "総論IV 検査",
       "section": "総論IV 検査",
@@ -40040,42 +39348,6 @@
         "page": 50,
         "title": "一問一答 4 検査",
         "pdfPage": 9
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "（CTガイド下肺針生検）最も多い合併症は気胸である。",
-      "answer": "○",
-      "explanation": "CTガイド下肺針生検で最も多い合併症は気胸である。\n\n【AI解説】\n【結論】正しい（○）。CTガイド下肺針生検で最も多い合併症は気胸。",
-      "tags": [
-        "総論IV",
-        "総論IV 検査",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 52,
-        "image": "assets/reference_pages/s4_p052.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=52",
-        "highlights": [
-          {
-            "x": 0.5195,
-            "y": 0.3315,
-            "w": 0.3773,
-            "h": 0.0203
-          }
-        ]
-      },
-      "id": "qa-1063",
-      "source": {
-        "kind": "book",
-        "code": "g4",
-        "page": 52,
-        "title": "一問一答 4 検査",
-        "pdfPage": 11
       }
     },
     {
@@ -41225,42 +40497,6 @@
         ]
       },
       "id": "qa-1112",
-      "source": {
-        "kind": "book",
-        "code": "g5",
-        "page": 60,
-        "title": "一問一答 5 治療",
-        "pdfPage": 3
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "アミノグリコシド系抗菌薬の殺菌作用は時間依存性である。",
-      "answer": "×",
-      "explanation": "濃度依存性である。他にキノロン系抗菌薬も濃度依存性。\n\n【AI解説】\n【結論】誤り（×）。アミノグリコシド系の殺菌作用は濃度依存性（キノロン系も濃度依存性）。",
-      "tags": [
-        "総論V",
-        "総論V 治療",
-        "○×問題"
-      ],
-      "source_file": "呼吸器専門医_総論_一問一答.docx",
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 15,
-        "image": "assets/reference_pages/s5_p015.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=15",
-        "highlights": [
-          {
-            "x": 0.1444,
-            "y": 0.0687,
-            "w": 0.4073,
-            "h": 0.0198
-          }
-        ]
-      },
-      "id": "qa-1113",
       "source": {
         "kind": "book",
         "code": "g5",
@@ -42993,80 +42229,6 @@
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
       "section": "各論I-1 感染症および炎症性疾患",
-      "question": "かぜ症候群の80〜90%は細菌が原因である。",
-      "answer": "×",
-      "explanation": "ライノウイルスやコロナウイルスなどのウイルスが原因微生物全体の80〜90%を占める。\n\n【AI解説】\n【結論】誤り（×）。かぜ症候群の80〜90%はライノウイルス・コロナウイルスなどのウイルスが原因（細菌ではない）。",
-      "tags": [
-        "各論I",
-        "かぜ症候群・急性上気道炎",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 5,
-        "image": "assets/reference_pages/k1_p005.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=5",
-        "highlights": [
-          {
-            "x": 0.1039,
-            "y": 0.0865,
-            "w": 0.3891,
-            "h": 0.0193
-          }
-        ]
-      },
-      "id": "qa-1192",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 74,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 1
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "かぜ症候群は抗菌薬投与の適応である。",
-      "answer": "×",
-      "explanation": "自然軽快するため抗菌薬による治療は通常不要である。\n\n【AI解説】\n【結論】誤り（×）。かぜ症候群は自然軽快するため抗菌薬による治療は通常不要。",
-      "tags": [
-        "各論I",
-        "かぜ症候群・急性上気道炎",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 3,
-        "image": "assets/reference_pages/k1_p003.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=3",
-        "highlights": [
-          {
-            "x": 0.1025,
-            "y": 0.4017,
-            "w": 0.3933,
-            "h": 0.0198
-          }
-        ]
-      },
-      "id": "qa-1193",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 74,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 1
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
       "question": "かぜ症候群では、急性咽頭炎は原則として抗菌薬投与の適応である。",
       "answer": "×",
       "explanation": "A群β溶血性連鎖球菌（A群β溶連菌）による咽頭炎などの一部の場合を除き、抗菌薬投与は推奨されない。\n\n【AI解説】\n【結論】誤り（×）。急性咽頭炎はA群β溶連菌など一部を除き抗菌薬投与は推奨されない。",
@@ -43688,43 +42850,6 @@
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
       "section": "各論I-1 感染症および炎症性疾患",
-      "question": "院内肺炎は、入院後96時間後以降に発症した肺炎と定義される。",
-      "answer": "×",
-      "explanation": "入院後48時間後以降に発症した肺炎と定義される。\n\n【AI解説】\n【結論】誤り（×）。院内肺炎は入院後48時間以降に発症した肺炎と定義される（96時間ではない）。",
-      "tags": [
-        "各論I",
-        "肺炎の総論・分類・重症度",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 8,
-        "image": "assets/reference_pages/k1_p008.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=8",
-        "highlights": [
-          {
-            "x": 0.0669,
-            "y": 0.5944,
-            "w": 0.3905,
-            "h": 0.0203
-          }
-        ]
-      },
-      "id": "qa-1211",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 76,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 3
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
       "question": "介護を必要とする高齢者であっても、自宅で発症した肺炎は市中肺炎である。",
       "answer": "×",
       "explanation": "長期療養型病床群もしくは介護施設に入所中、90日以内に病院を退院した、介護を必要とする高齢者・身障者、通院で継続的に血管内治療（透析・抗菌薬・化学療法・免疫抑制剤等）を受けている、のいずれかに該当する肺炎は医療介護関連肺炎と定義される。\n\n【AI解説】\n【結論】誤り（×）。介護施設入所・90日以内退院・要介護高齢者・通院で血管内治療を受ける者などの肺炎は医療介護関連肺炎（市中肺炎ではない）。",
@@ -43787,117 +42912,6 @@
         ]
       },
       "id": "qa-1213",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 78,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 5
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "市中肺炎の重症度分類にはA-DROPおよびquick sequential organ failure assessment（qSOFA）を用いる。",
-      "answer": "○",
-      "explanation": "市中肺炎の重症度評価にはA-DROPおよびqSOFAを用いる。\n\n【AI解説】\n【結論】正しい（○）。市中肺炎の重症度評価にはA-DROPおよびqSOFAを用いる。\n【A-DROP（市中肺炎・医療介護関連肺炎の重症度分類）】\n| 項目 | 基準 |\n| --- | --- |\n| A（Age） | 男性70歳以上、女性75歳以上 |\n| D（Dehydration） | BUN 21 mg/dL以上または脱水あり |\n| R（Respiration） | SpO₂ 90%以下（PaO₂ 60 Torr以下） |\n| O（Orientation） | 意識障害 |\n| P（Pressure） | 収縮期血圧 90 mmHg以下 |\n\n　判定（該当項目数）\n| 該当項目数 | 重症度 | 治療の場 |\n| --- | --- | --- |\n| 0項目 | 軽症 | 外来治療 |\n| 1〜2項目 | 中等症 | 外来または入院 |\n| 3項目 | 重症 | 入院治療 |\n| 4〜5項目またはショック | 超重症 | ICU管理 |",
-      "tags": [
-        "各論I",
-        "肺炎の総論・分類・重症度",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 8,
-        "image": "assets/reference_pages/k1_p008.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=8",
-        "highlights": [
-          {
-            "x": 0.5035,
-            "y": 0.3844,
-            "w": 0.3933,
-            "h": 0.0193
-          }
-        ]
-      },
-      "id": "qa-1214",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 78,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 5
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "医療介護関連肺炎の重症度分類はI-ROADを用いる。",
-      "answer": "×",
-      "explanation": "A-DROPで判定する。\n\n【AI解説】\n【結論】誤り（×）。医療介護関連肺炎の重症度はA-DROPで判定する（I-ROADではない）。\n【A-DROP（市中肺炎・医療介護関連肺炎の重症度分類）】\n| 項目 | 基準 |\n| --- | --- |\n| A（Age） | 男性70歳以上、女性75歳以上 |\n| D（Dehydration） | BUN 21 mg/dL以上または脱水あり |\n| R（Respiration） | SpO₂ 90%以下（PaO₂ 60 Torr以下） |\n| O（Orientation） | 意識障害 |\n| P（Pressure） | 収縮期血圧 90 mmHg以下 |\n\n　判定（該当項目数）\n| 該当項目数 | 重症度 | 治療の場 |\n| --- | --- | --- |\n| 0項目 | 軽症 | 外来治療 |\n| 1〜2項目 | 中等症 | 外来または入院 |\n| 3項目 | 重症 | 入院治療 |\n| 4〜5項目またはショック | 超重症 | ICU管理 |\n【I-ROAD（院内肺炎の重症度分類）】\n| 項目 | 基準 |\n| --- | --- |\n| I（Immunodeficiency） | 悪性腫瘍または免疫不全状態 |\n| R（Respiration） | SpO₂＞90%を維持するためにFIO₂＞35%を要する |\n| O（Orientation） | 意識レベルの低下 |\n| A（Age） | 男性70歳以上、女性75歳以上 |\n| D（Dehydration） | 乏尿または脱水 |\n\n　判定（5項目の該当数と予後不良因子）\n| 判定 | 該当項目数 | 予後不良因子 |\n| --- | --- | --- |\n| 軽症群（A群） | 2項目以下 | 予後不良因子のいずれも該当しない |\n| 中等症群（B群） | 2項目以下 | CRP 20 mg/dL以上、または陰影の広がりが一側肺の2/3以上 |\n| 重症群（C群） | 3項目以上 | ─ |",
-      "tags": [
-        "各論I",
-        "肺炎の総論・分類・重症度",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 9,
-        "image": "assets/reference_pages/k1_p009.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=9",
-        "highlights": [
-          {
-            "x": 0.1046,
-            "y": 0.6294,
-            "w": 0.3919,
-            "h": 0.0203
-          }
-        ]
-      },
-      "id": "qa-1215",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 78,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 5
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "院内肺炎の重症度分類はI-ROADを用いる。",
-      "answer": "○",
-      "explanation": "院内肺炎の重症度分類にはI-ROADを用いる。\n\n【AI解説】\n【結論】正しい（○）。院内肺炎の重症度分類にはI-ROADを用いる。\n【I-ROAD（院内肺炎の重症度分類）】\n| 項目 | 基準 |\n| --- | --- |\n| I（Immunodeficiency） | 悪性腫瘍または免疫不全状態 |\n| R（Respiration） | SpO₂＞90%を維持するためにFIO₂＞35%を要する |\n| O（Orientation） | 意識レベルの低下 |\n| A（Age） | 男性70歳以上、女性75歳以上 |\n| D（Dehydration） | 乏尿または脱水 |\n\n　判定（5項目の該当数と予後不良因子）\n| 判定 | 該当項目数 | 予後不良因子 |\n| --- | --- | --- |\n| 軽症群（A群） | 2項目以下 | 予後不良因子のいずれも該当しない |\n| 中等症群（B群） | 2項目以下 | CRP 20 mg/dL以上、または陰影の広がりが一側肺の2/3以上 |\n| 重症群（C群） | 3項目以上 | ─ |",
-      "tags": [
-        "各論I",
-        "肺炎の総論・分類・重症度",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 8,
-        "image": "assets/reference_pages/k1_p008.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=8",
-        "highlights": [
-          {
-            "x": 0.5028,
-            "y": 0.4195,
-            "w": 0.3947,
-            "h": 0.0203
-          }
-        ]
-      },
-      "id": "qa-1216",
       "source": {
         "kind": "book",
         "code": "r1",
@@ -45184,43 +44198,6 @@
         "page": 86,
         "title": "一問一答 I 感染症および炎症性疾患",
         "pdfPage": 13
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "マイコプラズマ肺炎では、画像所見としては気管支血管周囲の間質肥厚や小葉・細葉中心性粒状影、すりガラス影（GGO）が特徴的である。",
-      "answer": "○",
-      "explanation": "マイコプラズマ肺炎では気管支血管周囲の間質肥厚や小葉中心性粒状影、すりガラス影が特徴的。\n\n【AI解説】\n【結論】正しい（○）。マイコプラズマ肺炎は気管支血管周囲の間質肥厚・小葉中心性粒状影・すりガラス影が特徴的。",
-      "tags": [
-        "各論I",
-        "マイコプラズマ肺炎",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 22,
-        "image": "assets/reference_pages/k1_p022.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=22",
-        "highlights": [
-          {
-            "x": 0.5028,
-            "y": 0.4718,
-            "w": 0.3975,
-            "h": 0.0203
-          }
-        ]
-      },
-      "id": "qa-1252",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 88,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 15
       }
     },
     {
@@ -46804,43 +45781,6 @@
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
       "section": "各論I-1 感染症および炎症性疾患",
-      "question": "侵襲性肺アスペルギルス症と慢性型肺アスペルギルス症に大別される。",
-      "answer": "○",
-      "explanation": "慢性型の中で、特に抗真菌薬が必要な臨床病型は慢性進行性肺アスペルギルス症と呼ばれる。\n\n【AI解説】\n【結論】正しい（○）。肺アスペルギルス症は侵襲性肺アスペルギルス症と慢性型に大別される。",
-      "tags": [
-        "各論I",
-        "肺アスペルギルス症",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 33,
-        "image": "assets/reference_pages/k1_p033.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=33",
-        "highlights": [
-          {
-            "x": 0.1172,
-            "y": 0.9042,
-            "w": 0.3152,
-            "h": 0.0193
-          }
-        ]
-      },
-      "id": "qa-1295",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 96,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 23
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
       "question": "侵襲性肺アスペルギルス症は血液疾患に対する骨髄移植後や、好中球減少がリスクとなる。",
       "answer": "○",
       "explanation": "死亡率が高い。\n\n【AI解説】\n【結論】正しい（○）。侵襲性肺アスペルギルス症は骨髄移植後や好中球減少がリスクで死亡率が高い。",
@@ -46915,43 +45855,6 @@
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
       "section": "各論I-1 感染症および炎症性疾患",
-      "question": "侵襲性肺アスペルギルス症の第一選択薬はミカファンギンである。",
-      "answer": "×",
-      "explanation": "ボリコナゾールやリポソーマルアムホテリシンBが用いられる。ミカファンギンやカスポファンギンは第二選択薬とされる。\n\n【AI解説】\n【結論】誤り（×）。侵襲性肺アスペルギルス症の第一選択はボリコナゾールやリポソーマルアムホテリシンB（ミカファンギンは第二選択）。",
-      "tags": [
-        "各論I",
-        "肺アスペルギルス症",
-        "○×問題",
-        "★★★"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 33,
-        "image": "assets/reference_pages/k1_p033.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=33",
-        "highlights": [
-          {
-            "x": 0.1172,
-            "y": 0.9042,
-            "w": 0.3152,
-            "h": 0.0193
-          }
-        ]
-      },
-      "id": "qa-1298",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 96,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 23
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
       "question": "侵襲性アスペルギルス症ではCTでのhalo signやair-crescent signが特徴的とされる。",
       "answer": "○",
       "explanation": "halo signは病初期、air-crescent signは好中球回復期にみられる。\n\n【AI解説】\n【結論】正しい（○）。侵襲性アスペルギルス症はhalo sign（病初期）やair-crescent sign（好中球回復期）が特徴的。",
@@ -46977,43 +45880,6 @@
         ]
       },
       "id": "qa-1299",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 96,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 23
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "慢性型肺アスペルギルス症の血清診断にはアスペルギルスガラクトマンナン抗原検査が最も有用である。",
-      "answer": "×",
-      "explanation": "抗アスペルギルス沈降抗体が本症の診断に重要とされる（2021年12月の時点では保険適応はない）。β-Dグルカンやガラクトマンナン抗原は補助的に用いられる。\n\n【AI解説】\n【結論】誤り（×）。慢性型肺アスペルギルス症の血清診断には抗アスペルギルス沈降抗体が重要（ガラクトマンナンは補助的）。",
-      "tags": [
-        "各論I",
-        "肺アスペルギルス症",
-        "○×問題",
-        "★★☆"
-      ],
-      "source_file": "各論Ⅰ-1_感染症および炎症性疾患_一問一答.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 33,
-        "image": "assets/reference_pages/k1_p033.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=33",
-        "highlights": [
-          {
-            "x": 0.1227,
-            "y": 0.2297,
-            "w": 0.2503,
-            "h": 0.0188
-          }
-        ]
-      },
-      "id": "qa-1300",
       "source": {
         "kind": "book",
         "code": "r1",
@@ -51312,42 +50178,6 @@
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
       "section": "各論I-1 感染症および炎症性疾患",
-      "question": "レジオネラ肺炎では、尿中抗原検査が迅速診断に有用である。",
-      "answer": "○",
-      "explanation": "血清群1型の診断に特に有用である。\n\n【AI解説】\n【結論】正しい（○）。レジオネラ肺炎では尿中抗原検査が迅速診断に有用（特に血清群1型）。",
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "○×問題"
-      ],
-      "source_file": "1_感染症および炎症性疾患_一問一答_Part1.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 27,
-        "image": "assets/reference_pages/k1_p027.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=27",
-        "highlights": [
-          {
-            "x": 0.1025,
-            "y": 0.0865,
-            "w": 0.394,
-            "h": 0.0193
-          }
-        ]
-      },
-      "id": "qa-1463",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 92,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 19
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
       "question": "マイコプラズマ肺炎の治療の第一選択はペニシリン系抗菌薬である。",
       "answer": "×",
       "explanation": "マイコプラズマは細胞壁を持たないためペニシリン系やセフェム系（β-ラクタム系）は無効である。マクロライド系、テトラサイクリン系、ニューキノロン系が用いられる。\n\n【AI解説】\n【結論】誤り（×）。マイコプラズマは細胞壁を持たずペニシリン系（β-ラクタム）は無効。マクロライド・テトラサイクリン・ニューキノロンを用いる。",
@@ -52296,78 +51126,6 @@
         "page": 99,
         "title": "一問一答 I 感染症および炎症性疾患",
         "pdfPage": 26
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "侵襲性肺アスペルギルス症の診断には、血清ガラクトマンナン抗原検査が有用である。",
-      "answer": "○",
-      "explanation": "侵襲性肺アスペルギルス症の診断には血清ガラクトマンナン抗原検査が有用である。\n\n【AI解説】\n【結論】正しい（○）。侵襲性肺アスペルギルス症の診断には血清ガラクトマンナン抗原検査が有用。",
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "○×問題"
-      ],
-      "source_file": "1_感染症および炎症性疾患_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 33,
-        "image": "assets/reference_pages/k1_p033.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=33",
-        "highlights": [
-          {
-            "x": 0.1172,
-            "y": 0.9042,
-            "w": 0.3152,
-            "h": 0.0193
-          }
-        ]
-      },
-      "id": "qa-1492",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 96,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 23
-      }
-    },
-    {
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "侵襲性肺アスペルギルス症の第一選択薬はボリコナゾールである。",
-      "answer": "○",
-      "explanation": "アムホテリシンBやミカファンギンなども用いられる。\n\n【AI解説】\n【結論】正しい（○）。侵襲性肺アスペルギルス症の第一選択はボリコナゾール（アムホテリシンB・ミカファンギンも用いられる）。",
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "○×問題"
-      ],
-      "source_file": "1_感染症および炎症性疾患_一問一答_Part2.docx",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 33,
-        "image": "assets/reference_pages/k1_p033.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=33",
-        "highlights": [
-          {
-            "x": 0.1172,
-            "y": 0.9042,
-            "w": 0.3152,
-            "h": 0.0193
-          }
-        ]
-      },
-      "id": "qa-1493",
-      "source": {
-        "kind": "book",
-        "code": "r1",
-        "page": 97,
-        "title": "一問一答 I 感染症および炎症性疾患",
-        "pdfPage": 24
       }
     },
     {
@@ -59855,43 +58613,6 @@
       }
     },
     {
-      "id": "qa-2619",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-4 アレルギー性疾患",
-      "question": "呼気中一酸化窒素濃度(FeNO)は気道上皮細胞の誘導型NO合成酵素に由来する。",
-      "answer": "○",
-      "explanation": "FeNOは気道上皮細胞の誘導型NO合成酵素(iNOS)に由来する。\n\n【AI解説】\n【結論】正しい（○）。FeNOは気道上皮細胞の誘導型NO合成酵素（iNOS）に由来する。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "4 アレルギー性疾患.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 70,
-        "image": "assets/reference_pages/k1_p070.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=70",
-        "highlights": [
-          {
-            "x": 0.069,
-            "y": 0.8567,
-            "w": 0.3891,
-            "h": 0.0198
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r4",
-        "page": 164,
-        "title": "一問一答 4 アレルギー性疾患",
-        "pdfPage": 9
-      }
-    },
-    {
       "id": "qa-2620",
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
@@ -62420,43 +61141,6 @@
       }
     },
     {
-      "id": "qa-2691",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-4 アレルギー性疾患",
-      "question": "咳喘息は慢性咳嗽の最多の原因疾患である。",
-      "answer": "○",
-      "explanation": "咳喘息は慢性咳嗽の最多の原因疾患である。\n\n【AI解説】\n【結論】正しい（○）。咳喘息は慢性咳嗽の最多の原因疾患。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "4 アレルギー性疾患.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 78,
-        "image": "assets/reference_pages/k1_p078.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=78",
-        "highlights": [
-          {
-            "x": 0.0662,
-            "y": 0.3666,
-            "w": 0.3933,
-            "h": 0.0203
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r4",
-        "page": 174,
-        "title": "一問一答 4 アレルギー性疾患",
-        "pdfPage": 19
-      }
-    },
-    {
       "id": "qa-2692",
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
@@ -62770,43 +61454,6 @@
             "y": 0.3844,
             "w": 0.3877,
             "h": 0.0193
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r4",
-        "page": 174,
-        "title": "一問一答 4 アレルギー性疾患",
-        "pdfPage": 19
-      }
-    },
-    {
-      "id": "qa-2701",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-4 アレルギー性疾患",
-      "question": "咳喘息にICSを使用しても、典型的な喘息への移行を防ぐことはできない。",
-      "answer": "×",
-      "explanation": "ICSを早期から使用することで、典型的な喘息への移行は減少する。\n\n【AI解説】\n【結論】誤り（×）。咳喘息にICSを早期から使用することで典型的な喘息への移行は減少する（防げないは誤り）。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "4 アレルギー性疾患.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 79,
-        "image": "assets/reference_pages/k1_p079.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=79",
-        "highlights": [
-          {
-            "x": 0.1018,
-            "y": 0.6467,
-            "w": 0.3975,
-            "h": 0.0198
           }
         ]
       },
@@ -63251,43 +61898,6 @@
             "y": 0.0425,
             "w": 0.4247,
             "h": 0.0188
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r4",
-        "page": 176,
-        "title": "一問一答 4 アレルギー性疾患",
-        "pdfPage": 21
-      }
-    },
-    {
-      "id": "qa-2714",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-4 アレルギー性疾患",
-      "question": "慢性好酸球性肺炎の胸部X線検査ではphotographic negative of pulmonary edemaがみられることが多い。",
-      "answer": "○",
-      "explanation": "慢性好酸球性肺炎の胸部X線ではphotographic negative of pulmonary edema(肺水腫の陰画)がみられることが多い。\n\n【AI解説】\n【結論】正しい（○）。慢性好酸球性肺炎の胸部X線ではphotographic negative of pulmonary edema（肺水腫の陰画＝末梢側優位の浸潤影）がみられることが多い。",
-      "tags": [
-        "各論I",
-        "アレルギー性疾患",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "4 アレルギー性疾患.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 80,
-        "image": "assets/reference_pages/k1_p080.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=80",
-        "highlights": [
-          {
-            "x": 0.0662,
-            "y": 0.2441,
-            "w": 0.3947,
-            "h": 0.0193
           }
         ]
       },
@@ -67677,43 +66287,6 @@
         "page": 55,
         "image": "assets/reference_pages/k1_p055.webp",
         "viewer": "reference-viewer.html?doc=k1&page=55"
-      },
-      "source": {
-        "kind": "book",
-        "code": "r3",
-        "page": 136,
-        "title": "一問一答 3 気管支・細気管支の疾患",
-        "pdfPage": 1
-      }
-    },
-    {
-      "id": "qa-2829",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-3 気管支・細気管支の疾患",
-      "question": "Kartagener症候群は内臓逆位、気管支拡張症、難治性副鼻腔炎の3徴を呈する。",
-      "answer": "○",
-      "explanation": "Kartagener症候群は内臓逆位・気管支拡張症・難治性副鼻腔炎の3徴を呈する。\n\n【AI解説】\n【結論】正しい（○）。Kartagener症候群は内臓逆位・気管支拡張症・難治性副鼻腔炎の3徴を呈する。",
-      "tags": [
-        "各論I",
-        "気管支・細気管支疾患",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "3 気管支・細気管支の疾患.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 55,
-        "image": "assets/reference_pages/k1_p055.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=55",
-        "highlights": [
-          {
-            "x": 0.1227,
-            "y": 0.2278,
-            "w": 0.2803,
-            "h": 0.0188
-          }
-        ]
       },
       "source": {
         "kind": "book",
@@ -79397,43 +77970,6 @@
       }
     },
     {
-      "id": "qa-3112",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-5 特発性間質性肺炎（IIPs）",
-      "question": "特発性NSIPと診断された症例の中で経過中に膠原病を発症する症例がある。",
-      "answer": "○",
-      "explanation": "特発性NSIPと診断後、経過中に膠原病が顕在化する症例がある。\n\n【AI解説】\n【結論】正しい（○）。特発性NSIPと診断後、経過中に膠原病が顕在化する症例がある。",
-      "tags": [
-        "各論I",
-        "特発性間質性肺炎(IIPs)",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "5 特発性間質性肺炎(IIPs).pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 96,
-        "image": "assets/reference_pages/k1_p096.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=96",
-        "highlights": [
-          {
-            "x": 0.083,
-            "y": 0.5944,
-            "w": 0.3801,
-            "h": 0.0203
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r5",
-        "page": 196,
-        "title": "一問一答 5 特発性間質性肺炎(IIPs)",
-        "pdfPage": 19
-      }
-    },
-    {
       "id": "qa-3113",
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
@@ -82620,43 +81156,6 @@
       }
     },
     {
-      "id": "qa-3193",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-8 全身疾患",
-      "question": "肺Langerhans細胞組織球症では気管支肺胞洗浄液でCD1α陽性細胞が総細胞数の5%以上にみられる。",
-      "answer": "○",
-      "explanation": "PLCHではBALFでCD1α陽性細胞が総細胞数の5%以上にみられる。\n\n【AI解説】\n【結論】正しい（○）。PLCHではBALFでCD1α陽性細胞が総細胞数の5%以上にみられる。",
-      "tags": [
-        "各論I",
-        "全身疾患",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "8 全身疾患.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 135,
-        "image": "assets/reference_pages/k1_p135.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=135",
-        "highlights": [
-          {
-            "x": 0.1681,
-            "y": 0.0781,
-            "w": 0.2441,
-            "h": 0.0237
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r8",
-        "page": 228,
-        "title": "一問一答 8 全身疾患",
-        "pdfPage": 11
-      }
-    },
-    {
       "id": "qa-3194",
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
@@ -83200,43 +81699,6 @@
             "y": 0.4891,
             "w": 0.3947,
             "h": 0.0183
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r8",
-        "page": 230,
-        "title": "一問一答 8 全身疾患",
-        "pdfPage": 13
-      }
-    },
-    {
-      "id": "qa-3209",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-8 全身疾患",
-      "question": "好酸球性多発血管炎性肉芽腫症の病理組織学的には、著明な好酸球浸潤を伴う細小血管の肉芽腫やフィブリノイド壊死性血管炎を呈する。",
-      "answer": "○",
-      "explanation": "EGPAは著明な好酸球浸潤を伴う細小血管の肉芽腫やフィブリノイド壊死性血管炎を呈する。\n\n【AI解説】\n【結論】正しい（○）。EGPAは著明な好酸球浸潤を伴う細小血管の肉芽腫やフィブリノイド壊死性血管炎を呈する。",
-      "tags": [
-        "各論I",
-        "全身疾患",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "8 全身疾患.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 221,
-        "image": "assets/reference_pages/k1_p221.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=221",
-        "highlights": [
-          {
-            "x": 0.5391,
-            "y": 0.2441,
-            "w": 0.3961,
-            "h": 0.0198
           }
         ]
       },
@@ -88074,80 +86536,6 @@
       }
     },
     {
-      "id": "qa-3337",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-10 肺循環障害",
-      "question": "肺葉内肺分画症は、正常気管支との交通を有する。",
-      "answer": "×",
-      "explanation": "肺分画症は正常気管支との交通を持たない異常肺組織である。\n\n【AI解説】\n【結論】誤り（×）。肺分画症は正常気管支との交通を持たない異常肺組織。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "10 肺循環障害.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 172,
-        "image": "assets/reference_pages/k1_p172.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=172",
-        "highlights": [
-          {
-            "x": 0.083,
-            "y": 0.419,
-            "w": 0.3801,
-            "h": 0.0198
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r10",
-        "page": 267,
-        "title": "一問一答 10 肺循環障害",
-        "pdfPage": 22
-      }
-    },
-    {
-      "id": "qa-3338",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-10 肺循環障害",
-      "question": "肺葉外分画症は、固有の臓側胸膜をもつ。",
-      "answer": "○",
-      "explanation": "正常肺葉内に存在する肺葉内肺分画症と、正常肺葉外に存在し固有の臓側胸膜を持つ肺葉外肺分画症に分類される。\n\n【AI解説】\n【結論】正しい（○）。肺葉外分画症は固有の臓側胸膜をもつ（肺葉内分画症は正常肺葉内に存在）。",
-      "tags": [
-        "各論I",
-        "肺循環障害",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "10 肺循環障害.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 172,
-        "image": "assets/reference_pages/k1_p172.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=172",
-        "highlights": [
-          {
-            "x": 0.0662,
-            "y": 0.3844,
-            "w": 0.3947,
-            "h": 0.0203
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r10",
-        "page": 266,
-        "title": "一問一答 10 肺循環障害",
-        "pdfPage": 21
-      }
-    },
-    {
       "id": "qa-3339",
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
@@ -89604,43 +87992,6 @@
       }
     },
     {
-      "id": "qa-3377",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-13 その他（比較的稀な肺疾患）",
-      "question": "Kartagener症候群は内臓逆位、慢性副鼻腔炎、気管支拡張症が3徴候である。",
-      "answer": "○",
-      "explanation": "Kartagener症候群は内臓逆位・慢性副鼻腔炎・気管支拡張症を3主徴とする。線毛不動症候群（ICS）全体では内臓逆位は約50%にとどまる点に注意する。\n\n【AI解説】\n【結論】正しい（○）。教科書は「1933年に内臓逆位、慢性副鼻腔炎、気管支拡張症の3主徴を呈する疾患が報告され、報告者にちなんでKartagener症候群と命名された。その後、1977年にEliassonらにより線毛不動症候群（immotile cilia syndrome：ICS）という呼称が提唱された。また軽症例なども含めて原発性線毛運動機能不全症（PCD）と総称される」と記載している。3主徴はKartagener症候群の定義である。\n【用語の区別】Kartagener症候群 ⊂ 線毛不動症候群（ICS） ⊂ 原発性線毛運動機能不全症（PCD）という包含関係で理解する。教科書は「ICSは慢性の上下気道感染などの線毛運動障害の症状を呈し、約50％の確率で認められる内臓逆位で特徴づけられる」と述べており、内臓逆位を伴うのはICSの約半数にすぎない。したがって3徴をICSやPCD全体の特徴として述べると不正確になる。発症頻度は約2万人に1人と推定され、一般的には常染色体潜性遺伝と考えられている。\n【病態】線毛の超微構造は中央に2本の中心微小管、周辺にA・B小管からなる9対の周辺微小管が存在し、A小管から内・外ダイニン腕が伸びる。ダイニン腕がATPの結合・加水分解により短縮・伸展して周辺微小管が相互にスライドすることで線毛が屈曲する。ICSの基本病態はダイニン腕の欠損（内・外ダイニン腕欠損が最多）であり、放射スポークの短縮、中心微小管の欠損、周辺微小管の方向性の欠如なども報告されている。\n【診断・治療】スクリーニングは鼻腔NO低値、確定診断は鼻粘膜もしくは気管支鏡による気管支粘膜生検で、線毛運動パターンと周波数の解析、透過型電子顕微鏡による超微構造異常の確認が重要。超微構造異常を認めない症例もあり、30以上の原因遺伝子が同定されICS症例の65％で変異が存在するため遺伝子検索も診断の一助となる。治療はワクチンによる感染予防、上下気道感染への積極的治療、肺理学療法など。2024年4月よりPCDとして指定難病となり、重症度III度以上（%FEV1 70％未満）が認定対象である。\n【出典】呼吸器内科専門医テキスト第3版　各論I-13「線毛機能不全症候群（PCD）」p484。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 224,
-        "image": "assets/reference_pages/k1_p224.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=224",
-        "highlights": [
-          {
-            "x": 0.0662,
-            "y": 0.3142,
-            "w": 0.3947,
-            "h": 0.0198
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r13",
-        "page": 316,
-        "title": "一問一答 13 その他(比較的稀な肺疾患) 感染症および炎症性疾患",
-        "pdfPage": 5
-      }
-    },
-    {
       "id": "qa-3378",
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
@@ -91009,43 +89360,6 @@
       }
     },
     {
-      "id": "qa-3416",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-13 その他（比較的稀な肺疾患）",
-      "question": "palisading granulomaは多発血管炎性肉芽腫症に特異性の高い病理学的特徴である。",
-      "answer": "○",
-      "explanation": "中心壊死を柵状に組織球と巨細胞が取り囲む所見である。地図状壊死や多核巨細胞を伴う肉芽腫性病変などもみられる。\n\n【AI解説】\n【結論】正しい（○）。palisading granuloma（中心壊死を柵状に組織球・巨細胞が囲む）はGPAに特異性が高い。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 221,
-        "image": "assets/reference_pages/k1_p221.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=221",
-        "highlights": [
-          {
-            "x": 0.1018,
-            "y": 0.4891,
-            "w": 0.3947,
-            "h": 0.0183
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r13",
-        "page": 324,
-        "title": "一問一答 13 その他(比較的稀な肺疾患) 感染症および炎症性疾患",
-        "pdfPage": 13
-      }
-    },
-    {
       "id": "qa-3417",
       "type": "qa",
       "chapter": "各論I 気道・肺疾患",
@@ -91387,43 +89701,6 @@
             "x": 0.1039,
             "y": 0.3844,
             "w": 0.3898,
-            "h": 0.0188
-          }
-        ]
-      },
-      "source": {
-        "kind": "book",
-        "code": "r13",
-        "page": 326,
-        "title": "一問一答 13 その他(比較的稀な肺疾患) 感染症および炎症性疾患",
-        "pdfPage": 15
-      }
-    },
-    {
-      "id": "qa-3427",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-13 その他（比較的稀な肺疾患）",
-      "question": "肺胞微石症では肺胞内にリン酸カルシウムを主成分とする微小結石が蓄積する。",
-      "answer": "○",
-      "explanation": "肺胞微石症では肺胞内にリン酸カルシウムを主成分とする微小結石が蓄積する。\n\n【AI解説】\n【結論】正しい（○）。肺胞微石症では肺胞内にリン酸カルシウムを主成分とする微小結石が蓄積する。",
-      "tags": [
-        "各論I",
-        "その他(比較的稀な肺疾患)",
-        "○×問題",
-        "PDF転記"
-      ],
-      "source_file": "13 その他(比較的稀な肺疾患) 感染症および炎症性疾患.pdf",
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 215,
-        "image": "assets/reference_pages/k1_p215.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=215",
-        "highlights": [
-          {
-            "x": 0.1185,
-            "y": 0.2792,
-            "w": 0.378,
             "h": 0.0188
           }
         ]
@@ -100420,106 +98697,6 @@
       ]
     },
     {
-      "id": "ul-0156",
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "換気不均等が強い場合、単一呼気曲線の第Ⅲ相は平坦化する。",
-      "answer": "×",
-      "explanation": "換気不均等が強い場合、単一呼気曲線の第Ⅲ相は平坦化ではなくsteep（急峻）になる。\n\n【AI解説】\n【結論】誤り（×）。第Ⅲ相（alveolar plateau）の傾きは急峻（steep）になる。\n【機序】換気不均等があると、換気のよい肺域（N₂濃度が低い）が先に呼出され、換気の悪い肺域（N₂濃度が高い）が遅れて呼出されるため、呼出が進むにつれてN₂濃度が上昇し続けて平坦部の傾きが増す。\n【指標】呼出量0.75 Lから1.25 Lの間のN₂濃度差をΔN₂といい、第Ⅲ相の傾きの指標として用いる（正常はおよそ1.5%/L以下）。COPDや喘息などの末梢気道病変で増大する。\n【図の見方（添付図）】第Ⅰ相は解剖学的死腔からの呼出（N₂濃度0）、第Ⅱ相は死腔気と肺胞気の混合で急峻に上昇、第Ⅲ相がalveolar plateau、第Ⅳ相はairway closureにより肺尖部からの呼出が主体となって再上昇する部分である。\n\n【本文の下線部】\n…Ⅲ相steep\n（教科書 p.124）",
-      "tags": [
-        "総論IV",
-        "呼吸機能検査",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 70,
-        "image": "assets/reference_pages/s4_p070.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=70",
-        "highlights": [
-          {
-            "x": 0.4286,
-            "y": 0.5626,
-            "w": 0.033,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.5801,
-            "w": 0.0384,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      },
-      "images": [
-        {
-          "src": "assets/figures/closing_volume.svg",
-          "caption": "単一呼気曲線（N₂法）とクロージングボリューム"
-        }
-      ]
-    },
-    {
-      "id": "ul-0158",
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "FeNOを指標とした喘息管理は、症状を指標とした管理よりも増悪抑制に優れることが確立している。",
-      "answer": "×",
-      "explanation": "症状を指標とした管理とFeNOを指標とした管理のどちらが増悪抑制に優れるかは結論が出ていない。\n\n【AI解説】\n【結論】誤り（×）。増悪抑制効果の観点から、症状を指標とした喘息管理とFeNOを指標とした喘息管理のどちらが優れているかについては結論が出ていない。\n【FeNOとは】呼気一酸化窒素濃度。IL-4・IL-13により気道上皮の誘導型NO合成酵素（iNOS）が誘導されて産生が増えるため、2型炎症（好酸球性気道炎症）のバイオマーカーとなる。\n【位置づけ】喘息の診断補助（成人では22 ppb以上で喘息を示唆）、吸入ステロイド薬の反応性の予測、アドヒアランス不良の推定に有用である。またFeNOは喘息患者の呼吸機能の経年低下の予測に有用であることが報告されている。\n【注意】喫煙や気管支収縮でFeNOは低下し、アレルギー性鼻炎や好酸球性気道炎症を伴う他疾患でも上昇するため、単独では診断できない。\n\n【本文の下線部】\n…増悪抑制効果の観点から，症状を指標とした喘息管理とFeNOを指標とした喘息管理のどちらが優れているかについては結論が出ていない…またFeNOは喘息患者の呼吸機能の経年低下の予測に有用であることが報告されている\n（教科書 p.126）",
-      "tags": [
-        "総論IV",
-        "呼吸機能検査",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 72,
-        "image": "assets/reference_pages/s4_p072.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=72",
-        "highlights": [
-          {
-            "x": 0.5522,
-            "y": 0.3525,
-            "w": 0.3462,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.37,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.3875,
-            "w": 0.3692,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.405,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5027,
-            "y": 0.4225,
-            "w": 0.2658,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0166",
       "type": "mcq",
       "chapter": "総論IV 検査",
@@ -100808,50 +98985,6 @@
         "c": "PCO₂",
         "d": "温度",
         "e": "ヘマトクリット"
-      }
-    },
-    {
-      "id": "ul-0188",
-      "type": "qa",
-      "chapter": "総論IV 検査",
-      "section": "総論IV 検査",
-      "question": "2,3-DPG濃度が上昇すると酸素解離曲線は右方移動する。",
-      "answer": "○",
-      "explanation": "2,3-DPGはHbに対してO₂と競合関係にあるため、濃度が上昇すると酸素解離曲線は右方移動する。\n\n【AI解説】\n【結論】正しい（○）。2,3-DPG（2,3-ジホスホグリセリン酸）はヘモグロビンに結合してO₂と競合するため、濃度上昇によりO₂親和性が低下し曲線は右方に移動する（組織へO₂を渡しやすくなる）。\n【2,3-DPGが増加する状況】慢性の低酸素血症（高地滞在、慢性呼吸不全）、貧血、甲状腺機能亢進症など。逆に保存血（輸血用血液）では2,3-DPGが減少しており、輸血直後は曲線が左方移動している。\n【右方移動の因子】pH低下、PaCO₂上昇、体温上昇、2,3-DPG増加（「暑い・汗（酸）・CO₂・DPG」で覚える）。いずれもO₂親和性を下げ、末梢組織でO₂を放出しやすくする。\n【関連知識】pH低下・CO₂上昇による右方移動をBohr効果と呼ぶ。\n\n【本文の下線部】\n…2,3-DPGはHbに対してO2と競合関係になるため，濃度が上昇すると酸素解離曲線の右方移動が起こる\n（教科書 p.135）",
-      "tags": [
-        "総論IV",
-        "呼吸機能検査",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 IV 検査",
-        "page": 81,
-        "image": "assets/reference_pages/s4_p081.webp",
-        "viewer": "reference-viewer.html?doc=s4&page=81",
-        "highlights": [
-          {
-            "x": 0.3461,
-            "y": 0.6677,
-            "w": 0.1511,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1016,
-            "y": 0.6852,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1016,
-            "y": 0.7027,
-            "w": 0.2418,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
       }
     },
     {
@@ -101793,44 +99926,6 @@
         "c": "中枢神経系の副作用（痙攣）",
         "d": "腎毒性",
         "e": "QT延長"
-      }
-    },
-    {
-      "id": "ul-0247",
-      "type": "qa",
-      "chapter": "総論V 治療",
-      "section": "総論V 治療",
-      "question": "モノバクタム系抗菌薬は嫌気性菌に無効である。",
-      "answer": "○",
-      "explanation": "モノバクタム系抗菌薬は嫌気性菌に対して無効である。\n\n【AI解説】\n【結論】正しい（○）。モノバクタム系（アズトレオナム）はGram陰性桿菌（緑膿菌を含む）にのみ有効で、Gram陽性菌と嫌気性菌には無効である。\n【特徴】βラクタム環が単環性で、ペニシリンやセフェムとの交叉アレルギーが少ないため、βラクタムアレルギーのある患者でGram陰性菌感染症に用いられる。\n【関連知識】嫌気性菌をカバーするのはセファマイシン系、カルバペネム系、βラクタマーゼ阻害薬配合ペニシリン、クリンダマイシン、メトロニダゾールなどである。\n\n【本文の下線部】\n…嫌気性菌に対しては無効\n（教科書 p.159）",
-      "tags": [
-        "総論V",
-        "薬物療法",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "総論 V 治療",
-        "page": 13,
-        "image": "assets/reference_pages/s5_p013.webp",
-        "viewer": "reference-viewer.html?doc=s5&page=13",
-        "highlights": [
-          {
-            "x": 0.7692,
-            "y": 0.8428,
-            "w": 0.1648,
-            "h": 0.0151
-          },
-          {
-            "x": 0.5385,
-            "y": 0.8603,
-            "w": 0.0165,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
       }
     },
     {
@@ -106416,44 +104511,6 @@
       }
     },
     {
-      "id": "ul-0534",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "question": "IGRA（インターフェロンγ遊離試験）はBCG接種の影響を受けない。",
-      "answer": "○",
-      "explanation": "IGRAはBCG接種の影響を受けず、ツベルクリン反応より診断精度が高い。\n\n【AI解説】\n【結論】正しい（○）。IGRAが用いる抗原（ESAT-6・CFP-10）はBCG株および大部分の非結核性抗酸菌に存在しないため、BCG接種の影響を受けない。\n【注意】M. kansasii、M. szulgai、M. marinumは交叉反応を示す。また活動性結核と潜在性結核感染症の区別はできず、免疫抑制状態では偽陰性となりうる。\n【関連知識】ツベルクリン反応はBCG接種歴があると偽陽性となるため、日本ではIGRAが広く用いられる。\n\n【本文の下線部】\nBCG接種の影響を受けず，ツ反より診断精度が高い検査であり\n（教科書 p.298）",
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 38,
-        "image": "assets/reference_pages/k1_p038.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=38",
-        "highlights": [
-          {
-            "x": 0.0659,
-            "y": 0.5626,
-            "w": 0.3956,
-            "h": 0.0151
-          },
-          {
-            "x": 0.0659,
-            "y": 0.5801,
-            "w": 0.0851,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
-      }
-    },
-    {
       "id": "ul-0540",
       "type": "mcq",
       "chapter": "各論I 気道・肺疾患",
@@ -110186,44 +108243,6 @@
         "c": "AHI≧10が重症の基準である",
         "d": "5≦AHI＜15が中等症である",
         "e": "AHIは1晩あたりの無呼吸回数である"
-      }
-    },
-    {
-      "id": "ul-0801",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-12 呼吸調節障害",
-      "question": "CPAPはOSAS治療の第一選択である。",
-      "answer": "○",
-      "explanation": "正しい。CPAPはOSAS治療の第一選択として有効性・安全性とも確立されている。\n\n【AI解説】\n【結論】正しい。CPAP（持続陽圧呼吸療法）は上気道に陽圧をかけて閉塞を機械的に防ぐ治療で、中等症〜重症例の標準治療である。\n【保険適用】終夜睡眠ポリグラフ検査でAHI≧20、または簡易検査でAHI≧40が目安となる。\n【その他の治療】肥満のある患者には全例で減量が考慮されるべきである。軽症例やCPAP不耐例には口腔内装置（マウスピース）、解剖学的異常があれば外科的治療（扁桃摘出、上下顎前方移動術など）を考慮する。\n【関連知識】未治療のOSASは高血圧・心血管イベント・糖尿病・眠気による交通事故のリスクを高める。\n\n【本文の下線部】\n…CPAPは，OSAS治療の第一選択として有効性，安全性とも確立されている\n（教科書 p.461）",
-      "tags": [
-        "各論I",
-        "呼吸調節障害",
-        "一問一答",
-        "青下線"
-      ],
-      "reference": {
-        "title": "各論 I 気道・肺疾患",
-        "page": 201,
-        "image": "assets/reference_pages/k1_p201.webp",
-        "viewer": "reference-viewer.html?doc=k1&page=201",
-        "highlights": [
-          {
-            "x": 0.3147,
-            "y": 0.335,
-            "w": 0.1826,
-            "h": 0.0151
-          },
-          {
-            "x": 0.1016,
-            "y": 0.3525,
-            "w": 0.3956,
-            "h": 0.0151
-          }
-        ]
-      },
-      "source": {
-        "kind": "original"
       }
     },
     {
@@ -114780,7 +112799,7 @@
       "answer": [
         "b"
       ],
-      "explanation": "気胸の患側は鼓音。触覚振盪は触診，rattlingは吸気時に分泌物による波動を触れる所見。慢性の呼吸仕事量増加では胸鎖乳突筋は肥大する。\n【選択肢の解説】\n❌「気胸の患側では打診上濁音となる」：誤り。鼓音（過共鳴音）となる。\n⭕「縦隔気腫では前胸部に握雪感を触知する」：正しい。皮下気腫による。\n❌「触覚振盪は打診によって評価する」：誤り。触診で評価する。\n❌「rattlingは呼気時に波動を触れる所見である」：誤り。吸気時に分泌物による波動を触れる。\n❌「胸鎖乳突筋の萎縮は呼吸仕事量の増加を示唆する」：誤り。慢性的な仕事量増加では肥大する。\n\n【本文の下線部】\n気胸が疑われる場合に，両側の鎖骨を直接たたくと，患側では音が鼓音になる．\n（教科書 p.52）",
+      "explanation": "気胸の患側は鼓音。触覚振盪は触診，rattlingは吸気時に分泌物による波動を触れる所見。慢性の呼吸仕事量増加では胸鎖乳突筋は肥大する。\n【選択肢の解説】\n❌「気胸の患側では打診上濁音となる」：誤り。鼓音（過共鳴音）となる。\n⭕「縦隔気腫では前胸部に握雪感を触知する」：正しい。皮下気腫による。\n❌「触覚振盪は打診によって評価する」：誤り。触診で評価する。\n❌「rattlingは呼気時に波動を触れる所見である」：誤り。吸気時に分泌物による波動を触れる。\n❌「胸鎖乳突筋の萎縮は呼吸仕事量の増加を示唆する」：誤り。慢性的な仕事量増加では肥大する。\n\n【関連知識】rattlingはrhonchiの触診にあたる所見で、中枢気道の喀痰貯留を示唆する。喀痰の吸引や排痰の必要性を判断する手がかりとなる。\n\n【本文の下線部】\n気胸が疑われる場合に，両側の鎖骨を直接たたくと，患側では音が鼓音になる．\n（教科書 p.52）",
       "tags": [
         "総論III",
         "胸部身体所見（視診，触診，打診，聴診）",
@@ -115315,7 +113334,7 @@
       "answer": [
         "a"
       ],
-      "explanation": "FeNOは2013年保険収載。ACO（喘息とCOPDの合併病態）の診断項目としても利用され，呼吸機能の経年低下予測に有用と報告されるが，症状指標との優劣は未結論。\n【選択肢の解説】\n⭕「2013年に保険収載されている」：正しい。\n❌「好中球性気道炎症を反映する」：誤り。好酸球性（2型）気道炎症を反映する。\n❌「症状を指標とした管理より優れることが確立している」：誤り。優劣は結論が出ていない。\n❌「COPDそのものの診断項目として利用される」：誤り。ACO（喘息とCOPDの合併病態）の診断項目として用いる。\n❌「喘息患者の呼吸機能の経年低下の予測には無効である」：誤り。有用と報告されている。\n\n【本文の下線部】\n呼気NO測定は2013年に保険収載されている．さらに喘息とCOPDの合併病態であるACO（asthmaand COPD overlap）の診断項目としても利用されている\n（教科書 p.126）",
+      "explanation": "FeNOは2013年保険収載。ACO（喘息とCOPDの合併病態）の診断項目としても利用され，呼吸機能の経年低下予測に有用と報告されるが，症状指標との優劣は未結論。\n【選択肢の解説】\n⭕「2013年に保険収載されている」：正しい。\n❌「好中球性気道炎症を反映する」：誤り。好酸球性（2型）気道炎症を反映する。\n❌「症状を指標とした管理より優れることが確立している」：誤り。優劣は結論が出ていない。\n❌「COPDそのものの診断項目として利用される」：誤り。ACO（喘息とCOPDの合併病態）の診断項目として用いる。\n❌「喘息患者の呼吸機能の経年低下の予測には無効である」：誤り。有用と報告されている。\n\n【FeNOとは】呼気一酸化窒素濃度。IL-4・IL-13により気道上皮の誘導型NO合成酵素（iNOS）が誘導されて産生が増えるため、2型炎症（好酸球性気道炎症）のバイオマーカーとなる。\n【位置づけ】喘息の診断補助（成人では22 ppb以上で喘息を示唆）、吸入ステロイド薬の反応性の予測、アドヒアランス不良の推定に有用である。\n【注意】喫煙や気管支収縮でFeNOは低下し、アレルギー性鼻炎や好酸球性気道炎症を伴う他疾患でも上昇するため、単独では診断できない。\n\n【本文の下線部】\n呼気NO測定は2013年に保険収載されている．さらに喘息とCOPDの合併病態であるACO（asthmaand COPD overlap）の診断項目としても利用されている\n（教科書 p.126）",
       "tags": [
         "総論IV",
         "呼吸機能検査",
@@ -115445,7 +113464,7 @@
       "answer": [
         "c"
       ],
-      "explanation": "2,3-DPGはHbに対してO2と競合するため上昇で右方移動。pH低下・高PCO2による右方移動がBohr効果。飽和水蒸気圧は47mmHg，温度も移動因子である。\n【選択肢の解説】\n❌「肺胞気式では飽和水蒸気圧を37mmHgとする」：誤り。47mmHgである（37℃と混同しやすい）。\n❌「pHの低下や高PCO2で曲線は左方移動する」：誤り。右方移動する（Bohr効果）。\n⭕「2,3-DPG濃度の上昇で曲線は右方移動する」：正しい。Hbに対してO2と競合する。\n❌「Bohr効果とは温度上昇による曲線移動をいう」：誤り。pH低下・高PCO2による移動をいう。\n❌「曲線を移動させる因子に温度は含まれない」：誤り。温度上昇で右方移動する。\n\n【本文の下線部】\n…2,3-DPGはHbに対してO2と競合関係になるため，濃度が上昇すると酸素解離曲線の右方移動が起こる\n（教科書 p.135）",
+      "explanation": "2,3-DPGはHbに対してO2と競合するため上昇で右方移動。pH低下・高PCO2による右方移動がBohr効果。飽和水蒸気圧は47mmHg，温度も移動因子である。\n【選択肢の解説】\n❌「肺胞気式では飽和水蒸気圧を37mmHgとする」：誤り。47mmHgである（37℃と混同しやすい）。\n❌「pHの低下や高PCO2で曲線は左方移動する」：誤り。右方移動する（Bohr効果）。\n⭕「2,3-DPG濃度の上昇で曲線は右方移動する」：正しい。Hbに対してO2と競合する。\n❌「Bohr効果とは温度上昇による曲線移動をいう」：誤り。pH低下・高PCO2による移動をいう。\n❌「曲線を移動させる因子に温度は含まれない」：誤り。温度上昇で右方移動する。\n\n【2,3-DPGが増加する状況】慢性の低酸素血症（高地滞在、慢性呼吸不全）、貧血、甲状腺機能亢進症など。逆に保存血（輸血用血液）では2,3-DPGが減少しており、輸血直後は曲線が左方移動している。\n【右方移動の因子】pH低下、PaCO₂上昇、体温上昇、2,3-DPG増加（「暑い・酸・CO₂・DPG」で覚える）。いずれもO₂親和性を下げ、末梢組織でO₂を放出しやすくする。\n\n【本文の下線部】\n…2,3-DPGはHbに対してO2と競合関係になるため，濃度が上昇すると酸素解離曲線の右方移動が起こる\n（教科書 p.135）",
       "tags": [
         "総論IV",
         "呼吸機能検査",
@@ -117683,7 +115702,7 @@
       "answer": [
         "e"
       ],
-      "explanation": "侵襲性ではhalo signとガラクトマンナン抗原、慢性では抗アスペルギルスIgG抗体が診断に有用。侵襲性は免疫不全者に発症する。\n\n【AI解説】\n【結論】正しいのは「侵襲性肺アスペルギルス症の早期CT所見としてhalo signがみられる」。\n【選択肢の解説】\n❌「治療の第一選択はamphotericin Bのみである」：誤り。侵襲性肺アスペルギルス症の第一選択はボリコナゾール（VRCZ）である。リポソーマルアムホテリシンBやイサブコナゾールは代替薬であり、キャンディン系（ミカファンギンなど）は単剤では効果が劣る。\n❌「抗アスペルギルスIgG抗体は侵襲性病型の診断に有用である」：誤り。逆である。抗体産生には時間と免疫能が必要であり、免疫不全者に急速に進行する侵襲性病型では抗体が上がらない。抗アスペルギルスIgG抗体が有用なのは、免疫能が比較的保たれた宿主に緩徐に進行する慢性肺アスペルギルス症である。\n❌「慢性肺アスペルギルス症の診断にはガラクトマンナン抗原が最も有用である」：誤り。血清ガラクトマンナン抗原は侵襲性肺アスペルギルス症で有用な検査であり、慢性肺アスペルギルス症では感度が低い。慢性型では抗アスペルギルス沈降抗体（IgG抗体）の検出が診断の中心となる。\n❌「侵襲性肺アスペルギルス症は健常者に好発する」：誤り。侵襲性肺アスペルギルス症は好中球減少（血液悪性腫瘍の化学療法中、造血幹細胞移植後）、高用量ステロイドや免疫抑制薬の使用など、高度の免疫不全を背景に発症する。近年は重症インフルエンザやCOVID-19に続発する例も報告されている。\n⭕「侵襲性肺アスペルギルス症の早期CT所見としてhalo signがみられる」：正しい。halo signは結節周囲を取り囲むすりガラス陰影で、菌糸の血管侵襲による出血性梗塞を反映する。発症早期にみられ、経過とともに壊死組織が融解してair-crescent sign（三日月状の空気像）へ移行する。air-crescent signは好中球が回復する時期に出現することが多い。\n【関連知識】肺アスペルギルス症は宿主の免疫状態と肺の基礎疾患に応じて、侵襲性・慢性・アレルギー性（ABPA）の病型に分かれる。慢性型では既存の空洞や気管支拡張を背景に真菌球（アスペルギローマ）を形成し、喀血が問題となる。残存肺機能が保たれていれば外科的切除が根治的治療の選択肢となる。\n\n【本文の下線部】\n…halo sign\n（教科書 p.294）",
+      "explanation": "侵襲性ではhalo signとガラクトマンナン抗原、慢性では抗アスペルギルスIgG抗体が診断に有用。侵襲性は免疫不全者に発症する。\n\n【AI解説】\n【結論】正しいのは「侵襲性肺アスペルギルス症の早期CT所見としてhalo signがみられる」。\n【選択肢の解説】\n❌「治療の第一選択はamphotericin Bのみである」：誤り。侵襲性肺アスペルギルス症の第一選択はボリコナゾール（VRCZ）である。リポソーマルアムホテリシンBやイサブコナゾールは代替薬であり、キャンディン系（ミカファンギンなど）は単剤では効果が劣る。\n❌「抗アスペルギルスIgG抗体は侵襲性病型の診断に有用である」：誤り。逆である。抗体産生には時間と免疫能が必要であり、免疫不全者に急速に進行する侵襲性病型では抗体が上がらない。抗アスペルギルスIgG抗体が有用なのは、免疫能が比較的保たれた宿主に緩徐に進行する慢性肺アスペルギルス症である。\n❌「慢性肺アスペルギルス症の診断にはガラクトマンナン抗原が最も有用である」：誤り。血清ガラクトマンナン抗原は侵襲性肺アスペルギルス症で有用な検査であり、慢性肺アスペルギルス症では感度が低い。慢性型では抗アスペルギルス沈降抗体（IgG抗体）の検出が診断の中心となる。\n❌「侵襲性肺アスペルギルス症は健常者に好発する」：誤り。侵襲性肺アスペルギルス症は好中球減少（血液悪性腫瘍の化学療法中、造血幹細胞移植後）、高用量ステロイドや免疫抑制薬の使用など、高度の免疫不全を背景に発症する。近年は重症インフルエンザやCOVID-19に続発する例も報告されている。\n⭕「侵襲性肺アスペルギルス症の早期CT所見としてhalo signがみられる」：正しい。halo signは結節周囲を取り囲むすりガラス陰影で、菌糸の血管侵襲による出血性梗塞を反映する。発症早期にみられ、経過とともに壊死組織が融解してair-crescent sign（三日月状の空気像）へ移行する。air-crescent signは好中球が回復する時期に出現することが多い。\n【関連知識】肺アスペルギルス症は宿主の免疫状態と肺の基礎疾患に応じて、侵襲性・慢性・アレルギー性（ABPA）の病型に分かれる。慢性型では既存の空洞や気管支拡張を背景に真菌球（アスペルギローマ）を形成し、喀血が問題となる。残存肺機能が保たれていれば外科的切除が根治的治療の選択肢となる。\n\n【病型分類】肺アスペルギルス症は侵襲性肺アスペルギルス症と慢性型肺アスペルギルス症に大別される（アレルギー性のABPAを別に立てる分類もある）。慢性型のうち特に抗真菌薬を要する臨床病型を慢性進行性肺アスペルギルス症と呼ぶ。\n\n【本文の下線部】\n…halo sign\n（教科書 p.294）",
       "tags": [
         "各論I",
         "感染症および炎症性疾患",
@@ -118973,7 +116992,7 @@
       "answer": [
         "c"
       ],
-      "explanation": "分画肺は体循環系から動脈血の供給を受ける。肺葉内型は正常肺葉内にあり固有の臓側胸膜を欠き，肺葉外型は肺葉外にあり固有の臓側胸膜を持つ。囊胞合併例や有症状例は手術適応で術後予後は良好。\n【選択肢の解説】\n❌「分画肺は肺動脈から血流を受ける」：誤り。下行大動脈など体循環系から動脈血の供給を受ける。\n❌「肺葉内肺分画症は固有の臓側胸膜を持つ」：誤り。正常肺葉内にあり固有の臓側胸膜を欠く。\n⭕「肺葉外肺分画症は固有の臓側胸膜を持つ」：正しい。\n❌「治療は保存的治療が原則である」：誤り。囊胞合併例や有症状例は手術適応である。\n❌「術後予後は不良である」：誤り。良好である。\n\n【本文の下線部】\n…まれな下気道の先天異常で，正常気管支と交通のない異常肺組織が体循環系から動脈血の供給を受けるのが特徴である．正常な肺葉内に存在し固有の臓側胸膜を欠く肺葉内肺分画症と，正常肺葉外に存在し固有の臓側胸膜を持つ肺葉外肺分画症とに分類される\n（教科書 p.432）",
+      "explanation": "分画肺は体循環系から動脈血の供給を受ける。肺葉内型は正常肺葉内にあり固有の臓側胸膜を欠き，肺葉外型は肺葉外にあり固有の臓側胸膜を持つ。囊胞合併例や有症状例は手術適応で術後予後は良好。\n【選択肢の解説】\n❌「分画肺は肺動脈から血流を受ける」：誤り。下行大動脈など体循環系から動脈血の供給を受ける。\n❌「肺葉内肺分画症は固有の臓側胸膜を持つ」：誤り。正常肺葉内にあり固有の臓側胸膜を欠く。\n⭕「肺葉外肺分画症は固有の臓側胸膜を持つ」：正しい。\n❌「治療は保存的治療が原則である」：誤り。囊胞合併例や有症状例は手術適応である。\n❌「術後予後は不良である」：誤り。良好である。\n\n【関連知識】分画肺は肺葉内型・肺葉外型のいずれも正常気管支との交通をもたない。肺葉内型では反復する呼吸器感染と下肺野の嚢胞状・充実性陰影から疑い、造影CTで異常動脈（多くは下行大動脈から分岐）を同定すれば診断に至る。\n\n【本文の下線部】\n…まれな下気道の先天異常で，正常気管支と交通のない異常肺組織が体循環系から動脈血の供給を受けるのが特徴である．正常な肺葉内に存在し固有の臓側胸膜を欠く肺葉内肺分画症と，正常肺葉外に存在し固有の臓側胸膜を持つ肺葉外肺分画症とに分類される\n（教科書 p.432）",
       "tags": [
         "各論I",
         "肺循環障害",
@@ -119952,7 +117971,7 @@
       "answer": [
         "b"
       ],
-      "explanation": "一般に常染色体潜性遺伝で性差はなく，幼少期より慢性下気道感染・慢性副鼻腔炎・滲出性中耳炎を繰り返す。疑われた際は電子顕微鏡による観察を必ず施行する。Kartagener症候群の3主徴は内臓逆位・慢性副鼻腔炎・気管支拡張症。\n【選択肢の解説】\n❌「常染色体顕性遺伝である」：誤り。一般に常染色体潜性遺伝である。\n⭕「幼少期より慢性下気道感染，慢性副鼻腔炎，滲出性中耳炎を繰り返す」：正しい。\n❌「男性にのみ発症する」：誤り。性差はない（男性では精子運動障害による不妊を伴う）。\n❌「診断に電子顕微鏡検査は不要である」：誤り。疑われた際は必ず施行する。\n❌「Kartagener症候群の3主徴は内臓逆位・肺気腫・気管支拡張症である」：誤り。内臓逆位・慢性副鼻腔炎・気管支拡張症である。\n\n【疾患概念】1933年に内臓逆位・慢性副鼻腔炎・気管支拡張症の3主徴を呈する疾患が報告され、報告者にちなんでKartagener症候群と命名された。その後1977年にEliassonらにより線毛不動症候群（immotile cilia syndrome：ICS）という呼称が提唱され、現在は軽症例なども含めて原発性線毛運動機能不全症（PCD）と総称される。\n【疫学・遺伝】1〜2万人に1人と推定され、一般に常染色体潜性遺伝である。内臓逆位は約50%に認められる。\n【線毛の構造と病態】線毛の超微構造は中央に2本の中心微小管、周辺にA・B小管からなる9対の周辺微小管をもつ（9＋2構造）。A小管から伸びる内・外ダイニン腕がATPの結合・加水分解により短縮・伸展し、周辺微小管が相互にスライドすることで線毛が屈曲する。PCDの基本病態はダイニン腕の欠損であり、内側と外側ダイニン腕の欠損が最も多い。\n【関連知識】線毛運動障害により気道クリアランスが低下し、気管支拡張症へ進展する。精子の鞭毛も同じ構造をもつため男性不妊を、卵管線毛の障害により女性の不妊・子宮外妊娠をきたしうる。\n\n【本文の下線部】\n一般的には常染色体潜性遺伝と考えられており，同胞内発生率が高く，性差はない．\n（教科書 p.484）",
+      "explanation": "一般に常染色体潜性遺伝で性差はなく，幼少期より慢性下気道感染・慢性副鼻腔炎・滲出性中耳炎を繰り返す。疑われた際は電子顕微鏡による観察を必ず施行する。Kartagener症候群の3主徴は内臓逆位・慢性副鼻腔炎・気管支拡張症。\n【選択肢の解説】\n❌「常染色体顕性遺伝である」：誤り。一般に常染色体潜性遺伝である。\n⭕「幼少期より慢性下気道感染，慢性副鼻腔炎，滲出性中耳炎を繰り返す」：正しい。\n❌「男性にのみ発症する」：誤り。性差はない（男性では精子運動障害による不妊を伴う）。\n❌「診断に電子顕微鏡検査は不要である」：誤り。疑われた際は必ず施行する。\n❌「Kartagener症候群の3主徴は内臓逆位・肺気腫・気管支拡張症である」：誤り。内臓逆位・慢性副鼻腔炎・気管支拡張症である。\n\n【疾患概念】1933年に内臓逆位・慢性副鼻腔炎・気管支拡張症の3主徴を呈する疾患が報告され、報告者にちなんでKartagener症候群と命名された。その後1977年にEliassonらにより線毛不動症候群（immotile cilia syndrome：ICS）という呼称が提唱され、現在は軽症例なども含めて原発性線毛運動機能不全症（PCD）と総称される。\n【疫学・遺伝】1〜2万人に1人と推定され、一般に常染色体潜性遺伝である。内臓逆位は約50%に認められる。\n【線毛の構造と病態】線毛の超微構造は中央に2本の中心微小管、周辺にA・B小管からなる9対の周辺微小管をもつ（9＋2構造）。A小管から伸びる内・外ダイニン腕がATPの結合・加水分解により短縮・伸展し、周辺微小管が相互にスライドすることで線毛が屈曲する。PCDの基本病態はダイニン腕の欠損であり、内側と外側ダイニン腕の欠損が最も多い。\n【関連知識】線毛運動障害により気道クリアランスが低下し、気管支拡張症へ進展する。精子の鞭毛も同じ構造をもつため男性不妊を、卵管線毛の障害により女性の不妊・子宮外妊娠をきたしうる。\n\n【診断】スクリーニングは鼻腔NOの低値。確定診断は鼻粘膜または気管支粘膜の生検で、線毛運動パターンと周波数の解析、透過型電子顕微鏡による超微構造異常の確認を行う。超微構造異常を認めない症例もあり、30以上の原因遺伝子が同定されて約65％で変異が見つかるため遺伝子検索も診断の一助となる。\n【治療・制度】ワクチンによる感染予防、上下気道感染への積極的治療、肺理学療法が中心。2024年4月よりPCDは指定難病となり、重症度Ⅲ度以上（%FEV₁ 70％未満）が認定対象である。\n\n【本文の下線部】\n一般的には常染色体潜性遺伝と考えられており，同胞内発生率が高く，性差はない．\n（教科書 p.484）",
       "tags": [
         "各論I",
         "その他の肺疾患（比較的まれな肺疾患）",
@@ -122560,7 +120579,7 @@
       "answer": [
         "c"
       ],
-      "explanation": "単一呼気曲線の第Ⅲ相がalveolar plateau。第Ⅳ相の気量がCV、これに残気量を加えたものがCC。ΔN₂は第Ⅲ相の傾きで、換気不均等が強いと第Ⅲ相はsteepとなる。\n【選択肢の解説】\n❌「換気不均等が強いと第Ⅲ相は平坦化する」：誤り。急峻（steep）となる。\n❌「測定にボーラス法は用いられない」：誤り。\n⭕「第Ⅲ相はalveolar plateauと呼ばれる」：正しい。\n❌「第Ⅳ相の気量をCC（クロージングキャパシティ）と呼ぶ」：誤り。第Ⅳ相の気量がCVで、これに残気量を加えたものがCCである。\n❌「ΔN₂は第Ⅳ相の傾きを表す」：誤り。第Ⅲ相の傾きである。\n\n【単一呼気曲線の4相（添付図）】\n| 相 | 所見 |\n| --- | --- |\n| Ⅰ相 | 解剖学的死腔からの呼出でN₂濃度は0 |\n| Ⅱ相 | 死腔気と肺胞気が混じり、N₂濃度が急峻に上昇 |\n| Ⅲ相 | alveolar plateau。心拍動による小さな振れ（cardiogenic oscillation）を伴う |\n| Ⅳ相 | 末梢気道の閉塞（airway closure）により、N₂濃度の高い肺尖部からの呼出が主体となって再上昇 |\n【評価項目】CV（第Ⅳ相の気量）、CC（＝CV＋RV）、第Ⅳ相の有無、第Ⅲ相スロープ（ΔN₂、正常値1.0±0.14％）。ΔN₂は最大吸気位から0.75 L呼出した点と1.25 L呼出した点のN₂濃度差で算出する。\n【結果の解釈】CV・CCの増加は肺胞弾性収縮圧の低下や気道狭窄の進行を示し、末梢気道障害の早期検出に用いられる。CV・CCは成長とともに20歳あたりまで低下し、その後は加齢とともに増加する。座位（立位）から臥位への体位変化によっても増加する。CV＞予備呼気量（ERV）〔CC＞機能的残気量（FRC）〕では安静呼吸中にairway closureが起こり、低酸素血症の原因となる。肥満などでみられる座位から臥位での酸素飽和度低下のメカニズムである。加齢でも、座位（立位）では65歳あたり、臥位では45歳あたりでCV＞ERV（CC＞FRC）となる。\n\n【本文の下線部】\n…クロージングボリューム\n（教科書 p.124）",
+      "explanation": "単一呼気曲線の第Ⅲ相がalveolar plateau。第Ⅳ相の気量がCV、これに残気量を加えたものがCC。ΔN₂は第Ⅲ相の傾きで、換気不均等が強いと第Ⅲ相はsteepとなる。\n【選択肢の解説】\n❌「換気不均等が強いと第Ⅲ相は平坦化する」：誤り。急峻（steep）となる。\n❌「測定にボーラス法は用いられない」：誤り。\n⭕「第Ⅲ相はalveolar plateauと呼ばれる」：正しい。\n❌「第Ⅳ相の気量をCC（クロージングキャパシティ）と呼ぶ」：誤り。第Ⅳ相の気量がCVで、これに残気量を加えたものがCCである。\n❌「ΔN₂は第Ⅳ相の傾きを表す」：誤り。第Ⅲ相の傾きである。\n\n【単一呼気曲線の4相（添付図）】\n| 相 | 所見 |\n| --- | --- |\n| Ⅰ相 | 解剖学的死腔からの呼出でN₂濃度は0 |\n| Ⅱ相 | 死腔気と肺胞気が混じり、N₂濃度が急峻に上昇 |\n| Ⅲ相 | alveolar plateau。心拍動による小さな振れ（cardiogenic oscillation）を伴う |\n| Ⅳ相 | 末梢気道の閉塞（airway closure）により、N₂濃度の高い肺尖部からの呼出が主体となって再上昇 |\n【評価項目】CV（第Ⅳ相の気量）、CC（＝CV＋RV）、第Ⅳ相の有無、第Ⅲ相スロープ（ΔN₂、正常値1.0±0.14％）。ΔN₂は最大吸気位から0.75 L呼出した点と1.25 L呼出した点のN₂濃度差で算出する。\n【結果の解釈】CV・CCの増加は肺胞弾性収縮圧の低下や気道狭窄の進行を示し、末梢気道障害の早期検出に用いられる。CV・CCは成長とともに20歳あたりまで低下し、その後は加齢とともに増加する。座位（立位）から臥位への体位変化によっても増加する。CV＞予備呼気量（ERV）〔CC＞機能的残気量（FRC）〕では安静呼吸中にairway closureが起こり、低酸素血症の原因となる。肥満などでみられる座位から臥位での酸素飽和度低下のメカニズムである。加齢でも、座位（立位）では65歳あたり、臥位では45歳あたりでCV＞ERV（CC＞FRC）となる。\n\n【第Ⅲ相が急峻になる機序】換気不均等があると、換気のよい肺域（N₂濃度が低い）が先に呼出され、換気の悪い肺域（N₂濃度が高い）が遅れて呼出されるため、呼出が進むにつれてN₂濃度が上昇し続けて平坦部の傾きが増す。\n\n【本文の下線部】\n…クロージングボリューム\n（教科書 p.124）",
       "tags": [
         "総論IV",
         "呼吸機能検査",
@@ -122712,7 +120731,7 @@
       "answer": [
         "b"
       ],
-      "explanation": "キノロン系は濃度依存性の殺菌作用を示し，耐性化リスクと結核診断を遅らせる可能性から慎重投与が求められる。モノバクタム系はGram陰性菌に有効でGram陽性菌・嫌気性菌には無効。TFLXは小児にも投与可能。\n【選択肢の解説】\n❌「キノロン系は時間依存性の殺菌作用を示す」：誤り。濃度依存性である。\n⭕「キノロン系は結核感染症の診断を遅らせる可能性がある」：正しい。抗結核活性があるため一時的に改善させ診断が遅れる。\n❌「モノバクタム系はGram陽性菌に有効である」：誤り。Gram陰性菌に有効である。\n❌「モノバクタム系は嫌気性菌に有効である」：誤り。無効である。\n❌「tosufloxacinは小児に禁忌である」：誤り。小児にも投与可能である。\n\n【本文の下線部】\n…ただし，耐性化のリスクや結核感染症の診断を遅らせる可能性を考慮して，慎重に投与すべき抗菌薬でもある．…濃度依存性の殺菌作用を有するため，基本的に1日の投与回数を減らして1回あたりの投与量を高める投与法が推奨\n（教科書 p.160）",
+      "explanation": "キノロン系は濃度依存性の殺菌作用を示し，耐性化リスクと結核診断を遅らせる可能性から慎重投与が求められる。モノバクタム系はGram陰性菌に有効でGram陽性菌・嫌気性菌には無効。TFLXは小児にも投与可能。\n【選択肢の解説】\n❌「キノロン系は時間依存性の殺菌作用を示す」：誤り。濃度依存性である。\n⭕「キノロン系は結核感染症の診断を遅らせる可能性がある」：正しい。抗結核活性があるため一時的に改善させ診断が遅れる。\n❌「モノバクタム系はGram陽性菌に有効である」：誤り。Gram陰性菌に有効である。\n❌「モノバクタム系は嫌気性菌に有効である」：誤り。無効である。\n❌「tosufloxacinは小児に禁忌である」：誤り。小児にも投与可能である。\n\n【モノバクタム系の特徴】アズトレオナムはβラクタム環が単環性で、ペニシリンやセフェムとの交叉アレルギーが少ないため、βラクタムアレルギーのある患者のGram陰性菌感染症に用いられる。\n【嫌気性菌をカバーする薬剤】セファマイシン系、カルバペネム系、βラクタマーゼ阻害薬配合ペニシリン、クリンダマイシン、メトロニダゾールなど。\n\n【本文の下線部】\n…ただし，耐性化のリスクや結核感染症の診断を遅らせる可能性を考慮して，慎重に投与すべき抗菌薬でもある．…濃度依存性の殺菌作用を有するため，基本的に1日の投与回数を減らして1回あたりの投与量を高める投与法が推奨\n（教科書 p.160）",
       "tags": [
         "総論V",
         "薬物療法",
@@ -125583,7 +123602,7 @@
       "answer": [
         "e"
       ],
-      "explanation": "6項目は年齢60歳未満、基礎疾患なしまたは軽微、頑固な咳嗽、聴診所見に乏しい、迅速診断法で原因菌が証明されない、白血球10,000/μL未満。\n\n【AI解説】\n【結論】「血清CRP値が10mg/dL以上である」は6項目に含まれない。\n【選択肢の解説】\n⭕「年齢60歳未満」：含まれる。マイコプラズマ肺炎は若年者に多い。\n⭕「基礎疾患がない、あるいは軽微」：含まれる。基礎疾患を持つ例では細菌性肺炎が疑わしくなる。\n⭕「頑固な咳嗽がある」：含まれる。遷延する乾性咳嗽が特徴。\n⭕「胸部聴診上所見が乏しい」：含まれる。画像所見に比べ聴診所見が乏しい点が特徴。\n❌「血清CRP値が10mg/dL以上である」：含まれない。CRPは項目に採用されていない。残る2項目は「迅速診断法で原因菌が証明されない（マイコプラズマ抗原または遺伝子検査陽性を除く）」と「末梢血白血球数が10,000/μL未満である」。\n【関連知識】CRP 18mg/dL以上が項目に入るのは、レジオネラ診断予測スコアのほうである。"
+      "explanation": "6項目は年齢60歳未満、基礎疾患なしまたは軽微、頑固な咳嗽、聴診所見に乏しい、迅速診断法で原因菌が証明されない、白血球10,000/μL未満。\n\n【AI解説】\n【結論】「血清CRP値が10mg/dL以上である」は6項目に含まれない。\n【選択肢の解説】\n⭕「年齢60歳未満」：含まれる。マイコプラズマ肺炎は若年者に多い。\n⭕「基礎疾患がない、あるいは軽微」：含まれる。基礎疾患を持つ例では細菌性肺炎が疑わしくなる。\n⭕「頑固な咳嗽がある」：含まれる。遷延する乾性咳嗽が特徴。\n⭕「胸部聴診上所見が乏しい」：含まれる。画像所見に比べ聴診所見が乏しい点が特徴。\n❌「血清CRP値が10mg/dL以上である」：含まれない。CRPは項目に採用されていない。残る2項目は「迅速診断法で原因菌が証明されない（マイコプラズマ抗原または遺伝子検査陽性を除く）」と「末梢血白血球数が10,000/μL未満である」。\n【関連知識】CRP 18mg/dL以上が項目に入るのは、レジオネラ診断予測スコアのほうである。\n【名称の変更】ガイドライン2017までは「細菌性肺炎と非定型肺炎の鑑別」とされていたが、抽出項目がマイコプラズマ肺炎の独立した診断因子をもとに作成されたものであるため、2024年版で「細菌性肺炎とマイコプラズマ肺炎の鑑別」に改められた。\n"
     },
     {
       "id": "gl-0004",
@@ -125615,28 +123634,6 @@
         "c"
       ],
       "explanation": "末梢血白血球数が10,000/μL未満であることが6項目のひとつ。\n\n【AI解説】\n【結論】正しい基準は「10,000/μL未満」。\n【選択肢の解説】\n❌「5,000/μL未満」：誤り。この値は白血球減少に相当し、基準として採用されていない。\n❌「8,000/μL未満」：誤り。基準値は10,000/μLである。\n⭕「10,000/μL未満」：正しい。マイコプラズマ肺炎では白血球増多が乏しいことを反映した項目。\n❌「12,000/μL未満」：誤り。全身性炎症反応症候群の基準値と混同しない。\n❌「15,000/μL以上」：誤り。むしろ細菌性肺炎を示唆する所見であり、方向が逆である。"
-    },
-    {
-      "id": "gl-0005",
-      "type": "qa",
-      "chapter": "各論I 気道・肺疾患",
-      "section": "各論I-1 感染症および炎症性疾患",
-      "source": {
-        "kind": "book",
-        "code": "gl2024",
-        "page": 32,
-        "title": "成人肺炎診療ガイドライン2024（日本呼吸器学会）"
-      },
-      "tags": [
-        "各論I",
-        "感染症および炎症性疾患",
-        "ガイドライン2024",
-        "マイコプラズマ",
-        "○×問題"
-      ],
-      "question": "成人肺炎診療ガイドライン2024では、従来の「細菌性肺炎と非定型肺炎の鑑別」が「細菌性肺炎とマイコプラズマ肺炎の鑑別」に改められた。",
-      "answer": "○",
-      "explanation": "正しい。抽出項目がマイコプラズマ肺炎の独立した診断因子をもとに作成されたため、名称が改められた。\n\n【AI解説】\n【結論】正しい（○）。\n【機序】6項目はもともとマイコプラズマ肺炎の独立した診断因子から導かれたものであり、「非定型肺炎」全般の鑑別としては不正確であった。とくにレジオネラ属はこの表では「細菌」に分類されてしまい、不適切な抗菌薬選択につながる。\n【関連知識】このためガイドライン2024では、レジオネラ肺炎については別途「レジオネラ診断予測スコア」（表5）が新設された。"
     },
     {
       "id": "gl-0006",
