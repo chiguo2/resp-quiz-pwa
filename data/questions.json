@@ -112803,7 +112803,7 @@
       "source": {
         "kind": "original"
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/clubbing_profile_angle.svg",
           "caption": "profile角（Lovibond角）と正常指との対比"
