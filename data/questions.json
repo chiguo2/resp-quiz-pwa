@@ -2928,7 +2928,7 @@
         "kind": "original"
       },
       "_bestCov": 0.37037037037037035,
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/pv_curve_lip_uip.svg",
           "caption": "圧−容量曲線（吸気側）とLIP・UIP"
@@ -10518,7 +10518,7 @@
         "kind": "original"
       },
       "_bestCov": 0.125,
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/flow_volume_patterns.svg",
           "caption": "フローボリューム曲線の典型的なパターン"
@@ -10647,7 +10647,7 @@
         "kind": "original"
       },
       "_bestCov": 0.2,
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/pv_curve.svg",
           "caption": "静的肺圧-容量曲線（P-V曲線）"
@@ -10694,7 +10694,7 @@
         "kind": "original"
       },
       "_bestCov": 0.23076923076923078,
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/pv_curve.svg",
           "caption": "静的肺圧-容量曲線（P-V曲線）"
@@ -11567,7 +11567,7 @@
         "kind": "original"
       },
       "_bestCov": 0.23076923076923078,
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/flow_volume_patterns.svg",
           "caption": "フローボリューム曲線の典型的なパターン"
@@ -29919,7 +29919,7 @@
         "kind": "original"
       },
       "_bestCov": 0,
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/lung_volumes.svg",
           "caption": "参考：肺気量分画（この問題の出題図ではありません）"
@@ -39457,7 +39457,7 @@
         "title": "一問一答 4 検査",
         "pdfPage": 11
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/lung_volumes.svg",
           "caption": "スパイログラム（肺気量分画）"
@@ -96054,12 +96054,6 @@
         "PDF転記"
       ],
       "source_file": "VI 胸郭、胸壁の疾患.pdf",
-      "images": [
-        {
-          "src": "assets/figures/haller_index.svg",
-          "caption": "Haller index の計測方法"
-        }
-      ],
       "reference": {
         "title": "各論 VI 胸郭・胸壁の疾患",
         "page": 7,
@@ -96080,7 +96074,13 @@
         "page": 360,
         "title": "一問一答 VI 胸郭、胸壁の疾患",
         "pdfPage": 1
-      }
+      },
+      "explanationImages": [
+        {
+          "src": "assets/figures/haller_index.svg",
+          "caption": "Haller index の計測方法"
+        }
+      ]
     },
     {
       "id": "qa-3586",
@@ -98769,19 +98769,19 @@
       "source": {
         "kind": "original"
       },
-      "images": [
-        {
-          "src": "assets/figures/closing_volume.svg",
-          "caption": "単一呼気曲線（N₂法）とクロージングボリューム"
-        }
-      ],
       "choices": {
         "a": "dead space phase",
         "b": "transition phase",
         "c": "airway closure phase",
         "d": "alveolar plateau",
         "e": "closing volume"
-      }
+      },
+      "explanationImages": [
+        {
+          "src": "assets/figures/closing_volume.svg",
+          "caption": "単一呼気曲線（N₂法）とクロージングボリューム"
+        }
+      ]
     },
     {
       "id": "add-0001",
@@ -98815,7 +98815,7 @@
       "source": {
         "kind": "original"
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/closing_volume.svg",
           "caption": "単一呼気曲線（N₂法）とクロージングボリューム"
@@ -119876,7 +119876,7 @@
       "source": {
         "kind": "original"
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/sleeve_lobectomy.svg",
           "caption": "管状（スリーブ）肺葉切除の模式図"
@@ -120748,7 +120748,7 @@
       "source": {
         "kind": "original"
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/closing_volume.svg",
           "caption": "単一呼気曲線（N₂法）とクロージングボリューム"
