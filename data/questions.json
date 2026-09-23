@@ -95729,12 +95729,6 @@
         "PDF転記"
       ],
       "source_file": "IV 横隔膜疾患.pdf",
-      "images": [
-        {
-          "src": "assets/figures/diaphragmatic_hernia_sites.svg",
-          "caption": "先天性横隔膜ヘルニアの好発部位（胸腔側から見た横隔膜の模式図）"
-        }
-      ],
       "reference": {
         "title": "各論 IV 横隔膜疾患",
         "page": 4,
@@ -95755,7 +95749,13 @@
         "page": 350,
         "title": "一問一答 IV 横隔膜疾患",
         "pdfPage": 3
-      }
+      },
+      "explanationImages": [
+        {
+          "src": "assets/figures/diaphragmatic_hernia_sites.svg",
+          "caption": "先天性横隔膜ヘルニアの好発部位（胸腔側から見た横隔膜の模式図）"
+        }
+      ]
     },
     {
       "id": "qa-3578",
@@ -95794,7 +95794,7 @@
         "title": "一問一答 IV 横隔膜疾患",
         "pdfPage": 3
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/diaphragmatic_hernia_sites.svg",
           "caption": "先天性横隔膜ヘルニアの好発部位（胸腔側から見た横隔膜の模式図）"
