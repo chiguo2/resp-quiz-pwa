@@ -734,6 +734,11 @@ function explanationSegmentsHtml(text, qid){
       out.push(expTableHtml(rows));
       continue;
     }
+    // 「!!」で始まる行は、はじめから赤字で強調して表示する（覚え方の一言など）。
+    if(/^\s*!!/.test(lines[i])){
+      out.push(`<span class="exp-red">${escapeHtml(lines[i].replace(/^\s*!!\s*/, ''))}</span>`);
+      continue;
+    }
     out.push(expLineHtml(lines[i], reds));
   }
   // 表はブロック要素なので、その前後には<br>を入れない（余白が二重になるため）。

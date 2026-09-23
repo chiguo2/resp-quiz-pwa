@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 570" width="720" height="570" role="img" aria-label="努力呼気時の等圧点（EPP）と気道内圧を示す模式図">
+  <title>等圧点（EPP）と努力呼気時の気道内圧（模式図）</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .pt{font-size:16px;font-weight:700}
+      .md{font-size:15px}
+      .sm{font-size:14px;fill:#475569}
+      .pv{font-size:15px;font-weight:700;fill:#1d4ed8}
+      .warn{font-size:15px;font-weight:700;fill:#b45309}
+      .note{font-size:15px;fill:#334155}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="720" height="570" fill="#ffffff"/>
+  <text class="lbl ttl" x="24" y="32">等圧点（EPP）と努力呼気時の気道内圧（模式図）</text>
+  <text class="lbl sm" x="24" y="54">青字の数値は気道内圧・肺胞内圧（単位 cmH₂O）。胸腔内圧を＋20としたときの例。</text>
+
+  <!-- ================= 正常 ================= -->
+  <text class="lbl pt" x="24" y="88">正常</text>
+  <rect x="24" y="100" width="256" height="196" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+  <text class="lbl md" x="36" y="124">胸腔内圧 ＋20</text>
+  <text class="lbl sm" x="36" y="144">弾性収縮圧 ＋10</text>
+
+  <circle cx="86" cy="216" r="34" fill="#e6f4f1" stroke="#0f766e" stroke-width="2.5"/>
+  <text class="lbl md" x="86" y="221" text-anchor="middle">肺胞</text>
+  <text class="lbl pv" x="86" y="270" text-anchor="middle">＋30</text>
+
+  <!-- 気道 -->
+  <path d="M120 202 L336 202 M120 230 L336 230" stroke="#334155" stroke-width="2.5" fill="none"/>
+  <rect x="120" y="202" width="216" height="28" fill="#ffffff" stroke="none"/>
+  <path d="M120 202 L336 202 M120 230 L336 230" stroke="#334155" stroke-width="2.5" fill="none"/>
+  <text class="lbl pv" x="150" y="194">＋25</text>
+  <text class="lbl pv" x="212" y="194">＋20</text>
+  <text class="lbl pv" x="272" y="194">＋12</text>
+  <text class="lbl pv" x="322" y="194">0</text>
+  <text class="lbl sm" x="340" y="222" text-anchor="start">口側へ</text>
+
+  <!-- 等圧点 -->
+  <line x1="222" y1="182" x2="222" y2="256" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+  <circle cx="222" cy="216" r="6" fill="#dc2626"/>
+  <text class="lbl md" x="222" y="278" text-anchor="middle" fill="#b91c1c">等圧点（EPP）</text>
+  <text class="lbl sm" x="152" y="320">EPPは軟骨のある中枢気道にあり、</text>
+  <text class="lbl sm" x="152" y="340">気道は虚脱しない。</text>
+
+  <!-- ================= COPD ================= -->
+  <text class="lbl pt" x="392" y="88">COPD（肺弾性収縮力の低下）</text>
+  <rect x="392" y="100" width="256" height="196" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+  <text class="lbl md" x="404" y="124">胸腔内圧 ＋20</text>
+  <text class="lbl sm" x="404" y="144">弾性収縮圧 ＋5</text>
+
+  <circle cx="454" cy="216" r="34" fill="#e6f4f1" stroke="#0f766e" stroke-width="2.5"/>
+  <text class="lbl md" x="454" y="221" text-anchor="middle">肺胞</text>
+  <text class="lbl pv" x="454" y="270" text-anchor="middle">＋25</text>
+
+  <!-- 気道（EPPより口側が虚脱） -->
+  <path d="M488 202 L540 202 C 560 202 566 210 584 212 C 606 214 646 214 704 214
+           M488 230 L540 230 C 560 230 566 222 584 220 C 606 218 646 218 704 218"
+        stroke="#334155" stroke-width="2.5" fill="none"/>
+  <text class="lbl pv" x="506" y="194">＋22</text>
+  <text class="lbl pv" x="556" y="194">＋20</text>
+  <text class="lbl pv" x="622" y="196">＋10</text>
+  <text class="lbl pv" x="692" y="196">0</text>
+  <text class="lbl sm" x="706" y="240" text-anchor="end">口側へ</text>
+
+  <line x1="546" y1="182" x2="546" y2="256" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+  <circle cx="546" cy="216" r="6" fill="#dc2626"/>
+  <text class="lbl md" x="540" y="278" text-anchor="middle" fill="#b91c1c">等圧点（EPP）</text>
+  <text class="lbl warn" x="600" y="252">虚脱</text>
+  <text class="lbl sm" x="392" y="320">EPPが末梢（軟骨のない膜性気道）へ移動し、</text>
+  <text class="lbl sm" x="392" y="340">下流の気道が虚脱して呼気気流制限をきたす。</text>
+
+  <!-- ================= 解説 ================= -->
+  <rect x="24" y="366" width="672" height="186" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text class="lbl md" x="40" y="392" font-weight="700">【等圧点（EPP）とは】</text>
+  <text class="lbl note" x="40" y="414">努力呼気では胸腔内圧が陽圧となり、肺胞内圧＝胸腔内圧＋肺の弾性収縮圧となる。気道内圧は</text>
+  <text class="lbl note" x="40" y="436">末梢から口側へ進むにつれて気道抵抗により低下し、胸腔内圧と等しくなる点が等圧点（EPP）で</text>
+  <text class="lbl note" x="40" y="458">ある。EPPより口側では気道内圧＜胸腔内圧となり、気道は動的に圧迫される。</text>
+  <text class="lbl md" x="40" y="490" font-weight="700">【口すぼめ呼吸】</text>
+  <text class="lbl note" x="40" y="512">口腔内圧を高めると気道内圧の低下がゆるやかになり、EPPが中枢（軟骨のある気道）側へ戻る</text>
+  <text class="lbl note" x="40" y="534">ため、末梢気道の虚脱を防げる。</text>
+</svg>

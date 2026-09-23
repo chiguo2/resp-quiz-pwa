@@ -76,3 +76,6 @@ body.reference-modal-open{overflow:hidden;overscroll-behavior:none}.reference-mo
 /* v258: 解説に添えるシェーマ */
 .exp-image-box{margin:14px 0 4px}
 .exp-image-box .question-image-card{background:#ffffff;border-color:#99f6e4}
+
+/* v263: 解説中の強調行（!!で始まる行） */
+.exp-red{color:#dc2626;font-weight:700}
