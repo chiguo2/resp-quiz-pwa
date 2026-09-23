@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 800" width="700" height="800" role="img" aria-label="胸管の走行と乳び槽の位置を示す前面からの模式図">
+  <title>胸管の走行と乳び槽の位置（前面から見た模式図）</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .md{font-size:15px}
+      .sm{font-size:15px;fill:#475569}
+      .lv{font-size:15px;fill:#334155}
+      .key{font-size:15px;font-weight:700}
+      .leg{font-size:13px;fill:#334155}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="800" fill="#ffffff"/>
+  <text class="lbl ttl" x="24" y="32">胸管の走行と乳び槽の位置（前面から見た模式図）</text>
+  <text class="lbl sm" x="24" y="56">前面から見た図のため、向かって左が患者の右、向かって右が患者の左</text>
+
+  <!-- 体幹シルエット -->
+  <path d="M292 66 L368 66 L368 100
+           C 420 104 468 112 492 126
+           C 506 200 502 300 496 400
+           C 490 520 480 620 470 700
+           L 190 700
+           C 180 620 170 520 164 400
+           C 158 300 154 200 168 126
+           C 192 112 240 104 292 100 Z"
+        fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text class="lbl sm" x="196" y="88">患者の右</text>
+  <text class="lbl sm" x="376" y="84">患者の左</text>
+
+  <!-- 椎体（脊柱） -->
+  <rect x="319" y="100" width="22" height="460" rx="4" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1.5"/>
+  <g stroke="#cbd5e1" stroke-width="1">
+    <line x1="319" y1="140" x2="341" y2="140"/><line x1="319" y1="180" x2="341" y2="180"/>
+    <line x1="319" y1="220" x2="341" y2="220"/><line x1="319" y1="290" x2="341" y2="290"/>
+    <line x1="319" y1="330" x2="341" y2="330"/><line x1="319" y1="370" x2="341" y2="370"/>
+    <line x1="319" y1="450" x2="341" y2="450"/><line x1="319" y1="510" x2="341" y2="510"/>
+  </g>
+
+  <!-- 椎体レベルの基準線 -->
+  <g stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 3">
+    <line x1="341" y1="418" x2="506" y2="418"/>
+    <line x1="341" y1="470" x2="506" y2="470"/>
+  </g>
+  <text class="lbl lv" x="512" y="414">第12胸椎</text>
+  <text class="lbl lv" x="512" y="434">（大動脈裂孔）</text>
+  <text class="lbl lv" x="512" y="466">第1〜2腰椎</text>
+  <text class="lbl lv" x="512" y="487">＝乳び槽</text>
+  <text class="lbl lv" x="512" y="508">（大動脈の右側）</text>
+
+  <!-- 第5胸椎：胸管の交叉レベル -->
+  <line x1="164" y1="250" x2="506" y2="250" stroke="#64748b" stroke-width="1.6" stroke-dasharray="7 4"/>
+  <text class="lbl lv" x="512" y="241">第5胸椎</text>
+  <text class="lbl lv" x="512" y="264">胸管が右→左へ交叉</text>
+
+  <!-- 横隔膜 -->
+  <path d="M170 424 C 250 392 420 392 494 424" fill="none" stroke="#0f766e" stroke-width="3"/>
+  <text class="lbl sm" x="188" y="410">横隔膜</text>
+
+  <!-- 肝 -->
+  <path d="M170 432 C 210 426 262 432 286 450 C 292 472 278 492 248 496 C 210 498 178 482 168 460 Z"
+        fill="#fde2e2" stroke="#e18a8a" stroke-width="1.8"/>
+  <text class="lbl md" x="212" y="466">肝</text>
+
+  <!-- 小腸 -->
+  <g fill="none" stroke="#e8a15a" stroke-width="3.4">
+    <path d="M392 580 C 424 566 458 578 462 600 C 466 622 440 630 414 622"/>
+    <path d="M400 610 C 430 600 458 612 456 634 C 454 654 424 660 400 648"/>
+    <path d="M386 636 C 414 632 442 646 436 664 C 430 680 404 682 386 672"/>
+  </g>
+  <text class="lbl md" x="470" y="640">小腸</text>
+
+  <!-- 下行大動脈 -->
+  <path d="M392 150 C 390 240 388 330 386 418 C 384 500 382 560 380 616"
+        fill="none" stroke="#ef4444" stroke-width="13" stroke-linecap="round" opacity="0.85"/>
+  <line x1="392" y1="330" x2="438" y2="330" stroke="#ef4444" stroke-width="1.2"/>
+  <text class="lbl md" x="442" y="334" fill="#b91c1c">下行大動脈</text>
+
+  <!-- 静脈（左右の静脈角） -->
+  <g stroke="#2563eb" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.85">
+    <path d="M404 78 L404 146"/>
+    <path d="M474 128 L404 146"/>
+    <path d="M256 78 L256 146"/>
+    <path d="M186 128 L256 146"/>
+    <path d="M404 146 C 392 172 380 196 372 216"/>
+  </g>
+  <circle cx="404" cy="146" r="6.5" fill="#1d4ed8"/>
+  <circle cx="256" cy="146" r="5" fill="#93b4f5"/>
+  <line x1="406" y1="142" x2="440" y2="122" stroke="#1d4ed8" stroke-width="1.2"/>
+  <text class="lbl key" x="444" y="105" fill="#1d4ed8">左静脈角</text>
+  <text class="lbl sm" x="444" y="128">（内頸静脈と鎖骨下静脈の合流部）</text>
+  <line x1="256" y1="146" x2="196" y2="174" stroke="#94a3b8" stroke-width="1.2"/>
+  <text class="lbl sm" x="192" y="170" text-anchor="end">右リンパ本幹</text>
+  <path d="M250 176 C 252 164 254 154 255 150" fill="none" stroke="#ca8a04" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- 胸管本体 -->
+  <path d="M352 448
+           C 352 436 352 428 352 418
+           C 352 370 351 320 351 268
+           C 351 256 362 246 378 242
+           C 396 238 404 236 410 228
+           C 414 216 412 200 410 186
+           C 408 168 404 156 404 148"
+        fill="none" stroke="#ca8a04" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M352 448
+           C 352 436 352 428 352 418
+           C 352 370 351 320 351 268
+           C 351 256 362 246 378 242
+           C 396 238 404 236 410 228
+           C 414 216 412 200 410 186
+           C 408 168 404 156 404 148"
+        fill="none" stroke="#fde68a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 交叉点の強調 -->
+  <circle cx="380" cy="241" r="7" fill="none" stroke="#b45309" stroke-width="2.4"/>
+
+  <!-- 胸管ラベル -->
+  <line x1="348" y1="338" x2="308" y2="344" stroke="#94a3b8" stroke-width="1.2"/>
+  <text class="lbl key" x="304" y="348" text-anchor="end" fill="#a16207">胸管</text>
+
+  <!-- 乳び槽 -->
+  <ellipse cx="352" cy="470" rx="13" ry="25" fill="#fef3c7" stroke="#ca8a04" stroke-width="3"/>
+  <line x1="365" y1="470" x2="506" y2="470" stroke="#ca8a04" stroke-width="1.2"/>
+
+  <!-- 乳び槽への流入 -->
+  <g fill="none" stroke="#ca8a04" stroke-width="5" stroke-linecap="round" opacity="0.9">
+    <path d="M258 668 C 296 620 330 540 344 496"/>
+    <path d="M446 668 C 408 620 372 540 358 496"/>
+    <path d="M404 596 C 384 566 362 528 354 498"/>
+    <path d="M286 462 C 310 462 330 466 340 470"/>
+  </g>
+  <line x1="426" y1="552" x2="388" y2="556" stroke="#94a3b8" stroke-width="1.2"/>
+  <text class="lbl sm" x="430" y="556">腸リンパ本幹</text>
+  <text class="lbl sm" x="262" y="688" text-anchor="middle">左右の腰リンパ本幹</text>
+
+  <!-- 損傷レベルと乳び胸の左右 -->
+  <text class="lbl key" x="146" y="202" text-anchor="end" fill="#1d4ed8">第5胸椎より上の</text>
+  <text class="lbl key" x="146" y="223" text-anchor="end" fill="#1d4ed8">損傷 → 左乳び胸</text>
+  <text class="lbl key" x="146" y="304" text-anchor="end" fill="#b45309">第5胸椎より下の</text>
+  <text class="lbl key" x="146" y="325" text-anchor="end" fill="#b45309">損傷 → 右乳び胸</text>
+
+  <!-- 凡例 -->
+  <rect x="24" y="712" width="652" height="76" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <circle cx="42" cy="732" r="5" fill="#ca8a04"/>
+  <text class="lbl leg" x="56" y="737">乳び槽：第1〜2腰椎の高さ、下行大動脈の右側。左右の腰リンパ本幹と腸リンパ本幹が合流して形成される。</text>
+  <circle cx="42" cy="754" r="5" fill="#ca8a04"/>
+  <text class="lbl leg" x="56" y="759">胸管：乳び槽 → 大動脈裂孔（第12胸椎）→ 第5胸椎付近で右から左へ交叉 → 左静脈角に注ぐ。</text>
+  <circle cx="42" cy="776" r="5" fill="#ca8a04"/>
+  <text class="lbl leg" x="56" y="781">脂肪を含み乳白色なのは小腸由来のリンパのみ。肝や腰リンパ本幹からのリンパ液は無色透明である。</text>
+</svg>
