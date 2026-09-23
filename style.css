@@ -72,3 +72,7 @@ body.reference-modal-open{overflow:hidden;overscroll-behavior:none}.reference-mo
 .exp-table td.st-iiic{background:#fdba74;color:#7c2d12;font-weight:700}
 .exp-table td.st-iva{background:#ede9fe;color:#4c1d95;font-weight:700}
 .exp-table td.st-ivb{background:#ddd6fe;color:#4c1d95;font-weight:700}
+
+/* v258: 解説に添えるシェーマ */
+.exp-image-box{margin:14px 0 4px}
+.exp-image-box .question-image-card{background:#ffffff;border-color:#99f6e4}

@@ -22910,7 +22910,7 @@
         "kind": "original"
       },
       "_bestCov": 0.36,
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -22958,7 +22958,7 @@
         "kind": "original"
       },
       "_bestCov": 0.36363636363636365,
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -23009,7 +23009,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 3
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -23060,7 +23060,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -23922,7 +23922,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -39287,7 +39287,7 @@
         "title": "一問一答 4 検査",
         "pdfPage": 9
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -53593,7 +53593,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 3
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54215,7 +54215,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54257,7 +54257,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54299,7 +54299,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54341,7 +54341,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54383,7 +54383,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54425,7 +54425,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54459,7 +54459,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54501,7 +54501,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54543,7 +54543,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54585,7 +54585,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54627,7 +54627,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 6
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54669,7 +54669,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 5
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54703,7 +54703,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 7
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -54737,7 +54737,7 @@
         "title": "一問一答 III 胸膜疾患",
         "pdfPage": 6
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"
@@ -122256,7 +122256,7 @@
       "source": {
         "kind": "original"
       },
-      "images": [
+      "explanationImages": [
         {
           "src": "assets/figures/thoracic_duct_course.svg",
           "caption": "胸管の走行と乳び槽の位置（前面から見た模式図）"

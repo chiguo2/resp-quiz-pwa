@@ -191,6 +191,18 @@ function mappedExplanation(item){
   return text;
 }
 
+// 解説に添えるシェーマ（explanationImages）。問題文の図（images）と違い、答を表示したときだけ出す。
+function explanationImagesHtml(item){
+  const images = item?.explanationImages || [];
+  if(!images.length) return '';
+  const cards = images.map(img => {
+    const src = typeof img === 'string' ? img : img.src;
+    const caption = typeof img === 'string' ? '図表' : (img.caption || '図表');
+    return `<div class="question-image-card"><a href="${escapeHtml(src)}" target="_blank" rel="noopener"><img src="${escapeHtml(src)}" alt="${escapeHtml(caption)}"></a><small>${escapeHtml(caption)}：タップすると拡大表示できます</small></div>`;
+  }).join('');
+  return `<div class="image-box exp-image-box">${cards}</div>`;
+}
+
 function renderImages(item){
   const wrap = $('imageBox');
   wrap.innerHTML = '';
@@ -691,7 +703,7 @@ function showAnswer(){
     answerTextValue = `正解：${answerText(current)}\n${mappedExplanation(current)}`;
   }
   const markerBtn = `<button type="button" id="markerToggle" class="marker-toggle${markerMode ? ' on' : ''}">🖍 重要な所を赤字${markerMode ? '：ON（文をタップ）' : 'にする'}</button>`;
-  $('answerBox').innerHTML = `${verdictHtml(current)}${prevAnswerHtml(current)}${markerBtn}<div class="answer-text${markerMode ? ' marking' : ''}">${explanationSegmentsHtml(answerTextValue, current.id)}</div>${referenceLinkHtml(current)}${sourceLinkHtml(current)}${researchLinksHtml(current)}`;
+  $('answerBox').innerHTML = `${verdictHtml(current)}${prevAnswerHtml(current)}${markerBtn}<div class="answer-text${markerMode ? ' marking' : ''}">${explanationSegmentsHtml(answerTextValue, current.id)}</div>${explanationImagesHtml(current)}${referenceLinkHtml(current)}${sourceLinkHtml(current)}${researchLinksHtml(current)}`;
   $('answerBox').classList.remove('hidden');
 }
 
