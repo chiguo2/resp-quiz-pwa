@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 660" width="720" height="660" role="img" aria-label="努力呼気時と吸気時の気道内圧と気流制限部位を示す模式図">
+  <title>努力呼気時と吸気時の気道内圧と気流制限部位（模式図）</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .pt{font-size:16px;font-weight:700}
+      .md{font-size:15px}
+      .sm{font-size:14px;fill:#475569}
+      .pv{font-size:15px;font-weight:700;fill:#1d4ed8}
+      .warn{font-size:14px;font-weight:700;fill:#b45309}
+      .note{font-size:15px;fill:#334155}
+    </style>
+    <marker id="ar" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto">
+      <path d="M0 0 L9 4.5 L0 9 z" fill="#0f766e"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="720" height="660" fill="#ffffff"/>
+  <text class="lbl ttl" x="24" y="32">努力呼気時と吸気時の気道内圧と気流制限部位（模式図）</text>
+  <text class="lbl sm" x="24" y="54">青字は圧（cmH₂O）。数値は理解のための一例。</text>
+
+  <!-- ============ 努力呼気時 ============ -->
+  <text class="lbl pt" x="24" y="86">努力呼気時</text>
+  <rect x="24" y="98" width="320" height="150" rx="12" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+  <text class="lbl sm" x="36" y="120">胸腔</text>
+  <text class="lbl pv" x="36" y="140">胸腔内圧 ＋30</text>
+  <text class="lbl sm" x="362" y="120">胸腔外（大気圧 0）</text>
+
+  <circle cx="92" cy="186" r="32" fill="#e6f4f1" stroke="#0f766e" stroke-width="2.5"/>
+  <text class="lbl md" x="92" y="191" text-anchor="middle">肺胞</text>
+  <text class="lbl pv" x="92" y="238" text-anchor="middle">＋35</text>
+
+  <!-- 気道：等圧点より下流がすぼまる -->
+  <path d="M124 172 L196 172 C 214 172 220 178 236 180 C 262 183 300 183 336 183 C 352 183 364 176 382 174 L560 174
+           M124 200 L196 200 C 214 200 220 194 236 192 C 262 189 300 189 336 189 C 352 189 364 196 382 198 L560 198"
+        stroke="#334155" stroke-width="2.5" fill="none"/>
+  <text class="lbl pv" x="140" y="164">＋30</text>
+  <text class="lbl pv" x="252" y="172">＋12</text>
+  <text class="lbl pv" x="470" y="166">＋3</text>
+  <line x1="196" y1="150" x2="196" y2="222" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+  <circle cx="196" cy="186" r="6" fill="#dc2626"/>
+  <text class="lbl md" x="196" y="272" text-anchor="middle" fill="#b91c1c">等圧点＝チョークポイント</text>
+  <line x1="344" y1="98" x2="344" y2="248" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text class="lbl sm" x="186" y="292" text-anchor="middle">胸腔内気道</text>
+  <text class="lbl sm" x="450" y="292" text-anchor="middle">胸腔外気道</text>
+  <path d="M568 186 L616 186" stroke="#0f766e" stroke-width="5" marker-end="url(#ar)"/>
+  <text class="lbl sm" x="622" y="191">呼気</text>
+  <text class="lbl warn" x="248" y="232">ここで気流制限</text>
+
+  <text class="lbl sm" x="24" y="322">胸腔内気道は内圧（＋12）が胸腔内圧（＋30）より低く、つぶれる方向に力が働く。</text>
+  <text class="lbl sm" x="24" y="342">胸腔外気道は内圧が大気圧より高いため広がる方向に働き、狭くならない。</text>
+
+  <!-- ============ 吸気時 ============ -->
+  <text class="lbl pt" x="24" y="386">吸気時</text>
+  <rect x="24" y="398" width="320" height="150" rx="12" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+  <text class="lbl sm" x="36" y="420">胸腔</text>
+  <text class="lbl pv" x="36" y="440">胸腔内圧 －20</text>
+  <text class="lbl sm" x="362" y="420">胸腔外（大気圧 0）</text>
+
+  <circle cx="92" cy="486" r="32" fill="#e6f4f1" stroke="#0f766e" stroke-width="2.5"/>
+  <text class="lbl md" x="92" y="491" text-anchor="middle">肺胞</text>
+  <text class="lbl pv" x="92" y="538" text-anchor="middle">－5</text>
+
+  <!-- 気道：胸腔外がすぼまる -->
+  <path d="M124 468 L336 468 L430 468 C 452 468 462 478 486 480 C 510 482 540 482 560 482
+           M124 500 L336 500 L430 500 C 452 500 462 492 486 490 C 510 488 540 488 560 488"
+        stroke="#334155" stroke-width="2.5" fill="none"/>
+  <text class="lbl pv" x="170" y="460">－4</text>
+  <text class="lbl pv" x="380" y="460">－3</text>
+  <text class="lbl pv" x="522" y="474">0</text>
+  <line x1="344" y1="398" x2="344" y2="548" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text class="lbl sm" x="186" y="592" text-anchor="middle">胸腔内気道</text>
+  <text class="lbl sm" x="450" y="592" text-anchor="middle">胸腔外気道</text>
+  <path d="M616 486 L568 486" stroke="#0f766e" stroke-width="5" marker-end="url(#ar)"/>
+  <text class="lbl sm" x="622" y="491">吸気</text>
+  <text class="lbl warn" x="470" y="524">ここで気流制限</text>
+  <text class="lbl sm" x="24" y="614">胸腔内気道は内圧（－4）が胸腔内圧（－20）より高く、広がる方向に力が働く。</text>
+  <text class="lbl sm" x="24" y="636">胸腔外気道は内圧が大気圧より低く、狭くなる（睡眠時無呼吸で閉塞する部位）。</text>
+</svg>
