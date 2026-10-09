@@ -224,6 +224,11 @@ function updateCounts(){
   $('accuracy').textContent = session.done ? Math.round(session.correct/session.done*100)+'%' : '-';
 }
 
+// 出題元（分野とは別のカテゴリー。分野・モードとはAND条件で掛け合わせる）
+const SOURCE_LABELS = { book: '一問一答問題集', original: '呼吸器専門医テキスト' };
+const sourceKind = x => (x?.source?.kind === 'book' ? 'book' : 'original');
+let allSources = [];
+
 function buildFilters(meta){
   allSections = meta?.sections || [...new Set(data.map(x=>x.section).filter(Boolean))];
   const wrap = $('sectionCheckboxes');
@@ -234,12 +239,32 @@ function buildFilters(meta){
     label.innerHTML = `<input type="checkbox" value="${escapeHtml(s)}" checked> <span>${escapeHtml(s)}</span>`;
     wrap.appendChild(label);
   }
-  wrap.addEventListener('change', updateSectionSummary);
+  wrap.addEventListener('change', () => { updateSectionSummary(); updateFilterCount(); });
+
+  const counts = {};
+  for(const x of data){ const k = sourceKind(x); counts[k] = (counts[k]||0) + 1; }
+  allSources = Object.keys(SOURCE_LABELS).filter(k => counts[k]);
+  const sw = $('sourceCheckboxes');
+  sw.innerHTML = '';
+  for(const k of allSources){
+    const label=document.createElement('label');
+    label.className='check-row';
+    label.innerHTML = `<input type="checkbox" value="${escapeHtml(k)}" checked> <span>${escapeHtml(SOURCE_LABELS[k])}（${counts[k]}問）</span>`;
+    sw.appendChild(label);
+  }
+  sw.addEventListener('change', () => { updateSourceSummary(); updateFilterCount(); });
+
   updateSectionSummary();
+  updateSourceSummary();
+  updateFilterCount();
 }
 
 function selectedSections(){
   return [...document.querySelectorAll('#sectionCheckboxes input[type="checkbox"]:checked')].map(x=>x.value);
+}
+
+function selectedSources(){
+  return [...document.querySelectorAll('#sourceCheckboxes input[type="checkbox"]:checked')].map(x=>x.value);
 }
 
 function updateSectionSummary(){
@@ -253,6 +278,26 @@ function updateSectionSummary(){
   }else{
     $('sectionSummary').textContent = `${selected.length}分野を選択中`;
   }
+}
+
+function updateSourceSummary(){
+  const selected = selectedSources();
+  if(!allSources.length || selected.length === allSources.length){
+    $('sourceSummary').textContent = 'すべて';
+  }else if(selected.length === 0){
+    $('sourceSummary').textContent = '未選択（すべて扱い）';
+  }else{
+    $('sourceSummary').textContent = selected.map(k => SOURCE_LABELS[k]).join('、');
+  }
+}
+
+// 出題元 × 分野 × モードを掛け合わせた該当問題数を表示する
+function updateFilterCount(){
+  const el = $('filterCountHint');
+  if(!el) return;
+  const n = baseFiltered().length;
+  el.textContent = n ? `この条件に当てはまる問題：${n}問` : 'この条件に当てはまる問題はありません。条件を見直してください。';
+  el.classList.toggle('none', n === 0);
 }
 
 function updateReviewHint(){
@@ -277,8 +322,12 @@ function baseFiltered(){
   const selected = selectedSections();
   const useSectionFilter = selected.length > 0 && selected.length < allSections.length;
   const selectedSet = new Set(selected);
+  const srcSelected = selectedSources();
+  const useSourceFilter = srcSelected.length > 0 && srcSelected.length < allSources.length;
+  const srcSet = new Set(srcSelected);
   const stats=getStats();
-  let arr=data.filter(x => !useSectionFilter || selectedSet.has(x.section));
+  // 出題元と分野はAND条件（両方にチェックを入れると、その出題元のその分野だけになる）
+  let arr=data.filter(x => (!useSectionFilter || selectedSet.has(x.section)) && (!useSourceFilter || srcSet.has(sourceKind(x))));
   if(mode==='qa') arr=arr.filter(x=>x.type==='qa');
   if(mode==='mcq') arr=arr.filter(x=>x.type==='mcq');
   if(mode==='recall') arr=arr.filter(x=>x.type==='recall');
@@ -887,17 +936,25 @@ $('answerBox').addEventListener('click', e => {
 $('backToSetupBtn').onclick=()=>showSetupView();
 $('resumeBtn').onclick=()=>resumeSession();
 $('resumeDiscardBtn').onclick=()=>{ clearResume(); updateResumeBar(); };
-$('modeSelect').onchange=updateReviewHint;
+$('modeSelect').onchange=()=>{ updateReviewHint(); updateFilterCount(); };
 $('limitSelect').onchange=()=>{
   $('customLimitWrap').classList.toggle('hidden', $('limitSelect').value !== 'custom');
 };
 $('selectAllSectionsBtn').onclick=()=>{
   document.querySelectorAll('#sectionCheckboxes input').forEach(x=>x.checked=true);
-  updateSectionSummary();
+  updateSectionSummary(); updateFilterCount();
 };
 $('clearSectionsBtn').onclick=()=>{
   document.querySelectorAll('#sectionCheckboxes input').forEach(x=>x.checked=false);
-  updateSectionSummary();
+  updateSectionSummary(); updateFilterCount();
+};
+$('selectAllSourcesBtn').onclick=()=>{
+  document.querySelectorAll('#sourceCheckboxes input').forEach(x=>x.checked=true);
+  updateSourceSummary(); updateFilterCount();
+};
+$('clearSourcesBtn').onclick=()=>{
+  document.querySelectorAll('#sourceCheckboxes input').forEach(x=>x.checked=false);
+  updateSourceSummary(); updateFilterCount();
 };
 $('exportBtn').onclick=()=>{
   const blob=new Blob([JSON.stringify(getStats(), null, 2)], {type:'application/json'});

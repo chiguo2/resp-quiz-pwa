@@ -79,3 +79,8 @@ body.reference-modal-open{overflow:hidden;overscroll-behavior:none}.reference-mo
 
 /* v263: 解説中の強調行（!!で始まる行） */
 .exp-red{color:#dc2626;font-weight:700}
+
+/* v269: 出題元フィルタ */
+.source-list{grid-template-columns:1fr}
+.filter-hint{margin:8px 0 0;font-size:12.5px;font-weight:700;color:#334155;background:#f1f5f9;border:1px solid #cbd5e1;border-radius:9px;padding:7px 10px}
+.filter-hint.none{color:#b45309;background:#fffbeb;border-color:#fde68a}
