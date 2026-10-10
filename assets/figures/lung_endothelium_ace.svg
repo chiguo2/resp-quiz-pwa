@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-label="肺血管内皮細胞のACEによるアンジオテンシン変換とブラジキニン不活化を示す模式図">
+  <title>肺血管内皮細胞の代謝機能 ─ ACEとブラジキニン（模式図）</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .md{font-size:16px}
+      .sm{font-size:14px;fill:#475569}
+      .tag{font-size:15px;font-weight:700}
+      .note{font-size:15px;fill:#334155}
+    </style>
+    <marker id="ar2" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#334155"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="580" fill="#ffffff"/>
+  <text class="lbl ttl" x="24" y="32">肺血管内皮細胞の代謝機能 ─ ACEとブラジキニン</text>
+  <text class="lbl sm" x="24" y="54">ACE（アンジオテンシン変換酵素）はキニナーゼⅡと同じ酵素で、肺毛細血管の内皮表面に多く存在する。</text>
+
+  <!-- 肺毛細血管 -->
+  <rect x="60" y="92" width="640" height="34" rx="8" fill="#e6f4f1" stroke="#0f766e" stroke-width="2"/>
+  <text class="lbl sm" x="72" y="114">血管内皮細胞</text>
+  <rect x="60" y="126" width="640" height="104" fill="#fdf2f4" stroke="none"/>
+  <rect x="60" y="230" width="640" height="34" rx="8" fill="#e6f4f1" stroke="#0f766e" stroke-width="2"/>
+  <text class="lbl sm" x="72" y="252">血管内皮細胞</text>
+  <text class="lbl sm" x="688" y="226" text-anchor="end">肺毛細血管の内腔</text>
+
+  <!-- 内皮表面のACE -->
+  <g>
+    <rect x="236" y="118" width="60" height="20" rx="6" fill="#1f5fa8"/>
+    <text class="lbl" x="266" y="133" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">ACE</text>
+    <rect x="236" y="218" width="60" height="20" rx="6" fill="#1f5fa8"/>
+    <text class="lbl" x="266" y="233" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">ACE</text>
+  </g>
+
+  <!-- 反応1：アンジオテンシン -->
+  <text class="lbl md" x="72" y="160">アンジオテンシンⅠ</text>
+  <path d="M212 155 L320 155" stroke="#334155" stroke-width="3" marker-end="url(#ar2)"/>
+  <text class="lbl md" x="336" y="160">アンジオテンシンⅡ</text>
+  <text class="lbl tag" x="560" y="160" fill="#b91c1c">活性化（血管収縮）</text>
+
+  <!-- 反応2：ブラジキニン -->
+  <text class="lbl md" x="72" y="206">ブラジキニン</text>
+  <path d="M212 201 L320 201" stroke="#334155" stroke-width="3" marker-end="url(#ar2)"/>
+  <text class="lbl md" x="336" y="206">不活性な断片</text>
+  <text class="lbl tag" x="560" y="206" fill="#0f766e">不活化（分解）</text>
+
+  <text class="lbl sm" x="60" y="292">同じACEが、アンジオテンシンⅠの「変換（活性化）」とブラジキニンの「分解（不活化）」の両方を担う。</text>
+
+  <!-- 2列の一覧 -->
+  <rect x="24" y="312" width="352" height="150" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text class="lbl tag" x="40" y="340">肺を通るときに不活化されるもの</text>
+  <text class="lbl note" x="40" y="368">ブラジキニン</text>
+  <text class="lbl note" x="40" y="392">セロトニン</text>
+  <text class="lbl note" x="40" y="416">ノルアドレナリン</text>
+  <text class="lbl note" x="40" y="440">プロスタグランジンE₂・F₂α</text>
+
+  <rect x="392" y="312" width="344" height="150" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text class="lbl tag" x="408" y="340">肺では代謝されないもの</text>
+  <text class="lbl note" x="408" y="368">アドレナリン</text>
+  <text class="lbl note" x="408" y="392">ドパミン</text>
+  <text class="lbl note" x="408" y="416">ヒスタミン</text>
+  <text class="lbl note" x="408" y="440">アンジオテンシンⅡ</text>
+
+  <!-- 臨床への橋渡し -->
+  <rect x="24" y="478" width="712" height="82" rx="10" fill="#fffbeb" stroke="#fde68a" stroke-width="1.5"/>
+  <text class="lbl tag" x="40" y="506" fill="#b45309">ACE阻害薬で空咳が出るのはなぜか</text>
+  <text class="lbl note" x="40" y="534">ACEを阻害するとアンジオテンシンⅡが減って降圧する一方、分解されなくなったブラジキニンが気道に</text>
+  <text class="lbl note" x="40" y="554">蓄積し、知覚神経を刺激して空咳を起こす。まれに血管浮腫をきたす。</text>
+</svg>
