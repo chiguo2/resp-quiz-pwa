@@ -1,0 +1,25 @@
+/* まとめ集ページ */
+.back-btn{display:inline-flex;align-items:center;text-decoration:none;white-space:nowrap}
+.sheets-lead{margin:0 0 10px;font-size:13.5px;color:#475569;line-height:1.6}
+#sheetsSearch{width:100%;box-sizing:border-box;border:1px solid #d0d7de;border-radius:12px;padding:10px 12px;font-size:15px}
+#sheetsSearch:focus{outline:2px solid #99f6e4;border-color:#0f766e}
+.sheets-tabs{display:flex;gap:8px;margin:10px 0 0}
+.sheets-toc{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px;padding-top:10px;border-top:1px dashed #cbd5e1}
+.sheets-toc a{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:700;text-decoration:none;color:#0f766e;background:#ecfdf5;border:1px solid #a7f3d0;border-radius:999px;padding:5px 10px}
+.sheets-toc a span{font-weight:700;color:#0f766e;background:#fff;border-radius:999px;padding:0 6px;font-size:11px}
+.sheet-sec{margin:0 0 12px;font-size:15px;color:#0f766e;border-left:5px solid #0f766e;padding-left:10px;scroll-margin-top:84px}
+.sheet-group{scroll-margin-top:84px}
+.sheet-card{border-top:1px solid #e2e8f0;padding:14px 0 4px}
+.sheet-card:first-of-type{border-top:0;padding-top:0}
+.sheet-card h3{margin:0 0 8px;font-size:15px;line-height:1.5;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.sheet-kind{font-size:11px;font-weight:700;border-radius:999px;padding:2px 8px}
+.sheet-kind.fig{color:#1d4ed8;background:#eff6ff;border:1px solid #bfdbfe}
+.sheet-kind.table{color:#0f766e;background:#ecfdf5;border:1px solid #a7f3d0}
+.sheet-card img{width:100%;height:auto;border:1px solid #e2e8f0;border-radius:12px;background:#fff;display:block}
+.sheet-meta{margin:8px 0 0;font-size:12px;color:#64748b;line-height:1.5}
+.sheet-q{color:#94a3b8}
+.sheets-empty{color:#b45309;font-weight:700}
+@media (max-width:520px){
+  .sheet-card h3{font-size:14px}
+  .sheets-toc a{font-size:11px}
+}

@@ -1,9 +1,10 @@
-const CACHE_NAME = 'resp-quiz-cache-v274';
+const CACHE_NAME = 'resp-quiz-cache-v275';
 const CORE_ASSETS = [
   './','./index.html','./style.css','./app.js','./manifest.json','./icon.svg',
   './reference-viewer.html','./reference-viewer.css','./reference-viewer.js',
   './assets/vendor/pdfjs/pdf.min.js','./assets/vendor/pdfjs/pdf.worker.min.js',
   './data/questions.json','./data/questions.csv',
+  './sheets.html','./sheets.js','./sheets.css',
   './assets/past_figures/q04_fig4abcd.jpg','./assets/past_figures/q06_fig6ab.jpg','./assets/past_figures/q08_fig8.jpg',
   './assets/past_figures/q09_fig9.jpg','./assets/past_figures/q15_fig15ab.jpg','./assets/past_figures/q16_fig16.jpg',
   './assets/past_figures/q20_fig20.jpg','./assets/past_figures/q24_fig24ab.jpg','./assets/past_figures/q27_fig27ab.jpg','./assets/past_figures/q28_fig28abc.jpg'
