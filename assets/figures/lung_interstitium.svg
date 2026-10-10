@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 620" width="780" height="620" role="img" aria-label="肺の実質と広義・狭義の間質を示す模式図">
+  <title>肺の実質と間質（広義・狭義）の模式図</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .pt{font-size:17px;font-weight:700}
+      .md{font-size:15px}
+      .sm{font-size:14px;fill:#475569}
+      .note{font-size:15px;fill:#334155}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="780" height="620" fill="#ffffff"/>
+  <text class="lbl ttl" x="24" y="32">肺の実質と間質（広義・狭義）</text>
+  <text class="lbl sm" x="24" y="54">間質は肺を支える結合組織の枠組み。どこまでを含めるかで「狭義」と「広義」を呼び分ける。</text>
+
+  <!-- ===== 左：二次小葉の全体像 ===== -->
+  <text class="lbl pt" x="24" y="88">二次小葉の断面（全体像）</text>
+
+  <!-- 胸膜下間質 -->
+  <rect x="34" y="104" width="336" height="16" fill="#f3c48a" stroke="#d99b4a" stroke-width="1.5"/>
+  <text class="lbl sm" x="366" y="100" text-anchor="end">胸膜下間質</text>
+
+  <!-- 小葉間隔壁（枠） -->
+  <rect x="34" y="120" width="336" height="212" fill="#ffffff" stroke="#f3c48a" stroke-width="12"/>
+  <text class="lbl sm" x="54" y="140">小葉間隔壁</text>
+
+  <!-- 肺胞（実質＋狭義の間質） -->
+  <g fill="#fdf7f8" stroke="#76b39d" stroke-width="3">
+    <circle cx="86" cy="168" r="20"/><circle cx="134" cy="196" r="20"/><circle cx="86" cy="226" r="20"/>
+    <circle cx="134" cy="256" r="20"/><circle cx="86" cy="286" r="20"/><circle cx="142" cy="300" r="18"/>
+    <circle cx="268" cy="168" r="20"/><circle cx="318" cy="196" r="20"/><circle cx="268" cy="226" r="20"/>
+    <circle cx="318" cy="256" r="20"/><circle cx="268" cy="286" r="20"/><circle cx="214" cy="296" r="18"/>
+  </g>
+
+  <!-- 気管支血管束とその周囲間質 -->
+  <rect x="178" y="126" width="48" height="140" rx="12" fill="#f3c48a" opacity="0.55"/>
+  <rect x="190" y="132" width="10" height="128" rx="5" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+  <circle cx="212" cy="160" r="8" fill="#ef9a9a" stroke="#c0392b" stroke-width="1.5"/>
+  <circle cx="212" cy="200" r="8" fill="#ef9a9a" stroke="#c0392b" stroke-width="1.5"/>
+  <text class="lbl sm" x="236" y="124">気管支血管束周囲間質</text>
+  <circle cx="364" cy="206" r="7" fill="#9bb8e0" stroke="#2f5f9e" stroke-width="1.5"/>
+  <text class="lbl sm" x="378" y="210">肺静脈</text>
+  <text class="lbl sm" x="236" y="286">細気管支＋肺動脈</text>
+
+  <text class="lbl sm" x="34" y="356">■ 広義の間質（オレンジ）　■ 狭義の間質＝胞隔（緑）</text>
+
+  <!-- ===== 右：胞隔の拡大 ===== -->
+  <text class="lbl pt" x="420" y="88">肺胞隔壁の拡大（狭義の間質）</text>
+
+  <text class="lbl sm" x="420" y="118">肺胞腔（空気）</text>
+  <rect x="420" y="124" width="336" height="44" fill="#eef4fb"/>
+
+  <!-- 隔壁 -->
+  <rect x="420" y="168" width="336" height="18" fill="#dff0e8" stroke="#76b39d" stroke-width="2"/>
+  <text class="lbl sm" x="752" y="160" text-anchor="end">Ⅰ型肺胞上皮</text>
+  <rect x="420" y="186" width="336" height="46" fill="#fdf0f2"/>
+  <ellipse cx="500" cy="209" rx="40" ry="18" fill="#f8c8cd" stroke="#c0392b" stroke-width="2"/>
+  <text class="lbl sm" x="500" y="214" text-anchor="middle">毛細血管</text>
+  <ellipse cx="676" cy="209" rx="40" ry="18" fill="#f8c8cd" stroke="#c0392b" stroke-width="2"/>
+  <text class="lbl sm" x="676" y="214" text-anchor="middle">毛細血管</text>
+  <path d="M552 199 C 564 195 576 203 588 199 C 600 195 612 203 624 199" fill="none" stroke="#8a6d3b" stroke-width="2.5"/>
+  <path d="M552 219 C 564 215 576 223 588 219 C 600 215 612 223 624 219" fill="none" stroke="#8a6d3b" stroke-width="2.5"/>
+  <ellipse cx="588" cy="209" rx="17" ry="5.5" fill="#d8c7ad" stroke="#8a6d3b" stroke-width="1.5" transform="rotate(-12 588 209)"/>
+  <line x1="588" y1="232" x2="588" y2="264" stroke="#8a6d3b" stroke-width="1.2"/>
+  <text class="lbl sm" x="588" y="280" text-anchor="middle">膠原線維・線維芽細胞</text>
+  <rect x="420" y="232" width="336" height="18" fill="#dff0e8" stroke="#76b39d" stroke-width="2"/>
+  <rect x="420" y="250" width="336" height="44" fill="#eef4fb"/>
+  <text class="lbl sm" x="420" y="312">肺胞腔（空気）</text>
+
+  <text class="lbl sm" x="420" y="340">薄い部分では上皮と内皮の基底膜が融合し、</text>
+  <text class="lbl sm" x="420" y="362">ガス交換に適する。厚い部分には膠原線維や</text>
+  <text class="lbl sm" x="420" y="384">線維芽細胞が入り、ここが狭義の間質となる。</text>
+
+  <!-- ===== 下：まとめ ===== -->
+  <rect x="24" y="404" width="732" height="196" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text class="lbl md" x="40" y="432" font-weight="700">【実質】</text>
+  <text class="lbl note" x="118" y="432">肺胞上皮と肺胞腔の空気。ガス交換そのものを担う部分。</text>
+  <text class="lbl md" x="40" y="464" font-weight="700">【狭義の間質】</text>
+  <text class="lbl note" x="160" y="464">胞隔（肺胞隔壁）。肺胞上皮の基底膜と毛細血管内皮の基底膜の間の領域。</text>
+  <text class="lbl md" x="40" y="496" font-weight="700">【広義の間質】</text>
+  <text class="lbl note" x="160" y="496">狭義の間質に加えて、気管支血管束周囲・小葉間隔壁・胸膜下の結合組織。肺を</text>
+  <text class="lbl note" x="160" y="518">支える枠組みで、ガス交換には直接関与しない。リンパ管はこちらに分布する。</text>
+  <text class="lbl md" x="40" y="552" font-weight="700">【間質性肺炎】</text>
+  <text class="lbl note" x="160" y="552">ガス交換に寄与しえない病的な間質ができる疾患、ととらえると理解しやすい。</text>
+  <text class="lbl note" x="160" y="578">胞隔の肥厚だけでなく、小葉間隔壁や胸膜下の変化もあわせて画像で評価する。</text>
+</svg>
