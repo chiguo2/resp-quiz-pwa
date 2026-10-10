@@ -1173,7 +1173,9 @@ document.addEventListener('keydown', e => {
 window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredPrompt=e; $('installBtn').classList.remove('hidden'); });
 $('installBtn').onclick=async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); deferredPrompt=null; $('installBtn').classList.add('hidden'); } };
 
-fetch('data/questions.json').then(r=>r.json()).then(json=>{ data=json.items; buildFilters(json.metadata); showSetupView(); updateNotesCount(); });
+// 問題データはURLが変わらないので、cache:'no-cache' で毎回サーバに更新を確認する。
+// （これを省くと、端末のHTTPキャッシュに残った古い questions.json がそのまま使われて問題数が合わなくなる）
+fetch('data/questions.json', { cache: 'no-cache' }).then(r=>r.json()).then(json=>{ data=json.items; buildFilters(json.metadata); showSetupView(); updateNotesCount(); });
 if('serviceWorker' in navigator){
   let refreshing = false;
   navigator.serviceWorker.addEventListener('controllerchange', () => {
