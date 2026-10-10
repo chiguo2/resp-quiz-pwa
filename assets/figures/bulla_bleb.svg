@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-label="ブラとブレブの違いを示す肺表面の断面模式図">
+  <title>ブラとブレブ（肺表面の断面模式図）</title>
+  <defs>
+    <style>
+      .lbl{font-family:"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;fill:#0f172a}
+      .ttl{font-size:20px;font-weight:700}
+      .pt{font-size:19px;font-weight:700}
+      .md{font-size:15px}
+      .sm{font-size:14px;fill:#475569}
+      .key{font-size:14px;font-weight:700;fill:#b45309}
+      .note{font-size:15px;fill:#334155}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="600" fill="#ffffff"/>
+  <text class="lbl ttl" x="24" y="32">ブラとブレブ（肺表面の断面・模式図）</text>
+  <text class="lbl sm" x="24" y="54">含気腔が「胸膜の層の間」にあるか「胸膜の内側＝肺実質内」にあるかで呼び分ける。</text>
+
+  <!-- ============ 左：ブレブ ============ -->
+  <text class="lbl pt" x="30" y="94" fill="#b91c1c">ブレブ（bleb）</text>
+  <text class="lbl sm" x="30" y="116">臓側胸膜の層の間にできる含気腔</text>
+
+  <rect x="30" y="128" width="340" height="52" fill="#eef4fb"/>
+  <text class="lbl sm" x="44" y="158">胸腔</text>
+
+  <!-- 肺実質 -->
+  <rect x="30" y="196" width="340" height="150" fill="#fdeef0"/>
+  <g fill="none" stroke="#e7a9b0" stroke-width="1.6">
+    <circle cx="70" cy="230" r="13"/><circle cx="104" cy="252" r="13"/><circle cx="142" cy="228" r="13"/>
+    <circle cx="186" cy="254" r="13"/><circle cx="232" cy="230" r="13"/><circle cx="276" cy="254" r="13"/>
+    <circle cx="320" cy="228" r="13"/><circle cx="88" cy="292" r="13"/><circle cx="132" cy="312" r="13"/>
+    <circle cx="186" cy="296" r="13"/><circle cx="240" cy="314" r="13"/><circle cx="296" cy="294" r="13"/>
+  </g>
+  <text class="lbl sm" x="300" y="336" text-anchor="end">肺実質（肺胞）</text>
+
+  <!-- 臓側胸膜：外側（中皮細胞層）はブレブで押し上げられる -->
+  <path d="M30 180 L120 180 C 150 180 160 146 200 146 C 240 146 250 180 280 180 L370 180"
+        fill="none" stroke="#1f5fa8" stroke-width="3.5"/>
+  <!-- 内側（弾性層）は破れて含気腔が層の間に入り込む -->
+  <path d="M30 196 L120 196 L150 196 M250 196 L280 196 L370 196"
+        fill="none" stroke="#5b8fd0" stroke-width="3.5"/>
+  <path d="M150 196 C 170 196 180 192 200 192 C 220 192 230 196 250 196"
+        fill="none" stroke="#5b8fd0" stroke-width="3.5" stroke-dasharray="5 4"/>
+  <!-- 含気腔 -->
+  <path d="M126 180 C 152 180 160 150 200 150 C 240 150 248 180 274 180 C 250 194 150 194 126 180 Z"
+        fill="#fff7d6" stroke="#ca8a04" stroke-width="2.5"/>
+  <text class="lbl key" x="200" y="172" text-anchor="middle">含気腔</text>
+  <line x1="384" y1="178" x2="420" y2="178" stroke="#1f5fa8" stroke-width="1.4"/>
+  <text class="lbl sm" x="30" y="366">弾性層が破れ、空気が胸膜の層の間に入り込む</text>
+
+  <!-- ============ 右：ブラ ============ -->
+  <text class="lbl pt" x="400" y="94" fill="#0f766e">ブラ（bulla）</text>
+  <text class="lbl sm" x="400" y="116">臓側胸膜の内側＝肺実質内にできる含気腔</text>
+
+  <rect x="400" y="128" width="330" height="52" fill="#eef4fb"/>
+  <text class="lbl sm" x="414" y="158">胸腔</text>
+
+  <rect x="400" y="196" width="330" height="150" fill="#fdeef0"/>
+  <g fill="none" stroke="#e7a9b0" stroke-width="1.6">
+    <circle cx="428" cy="232" r="13"/><circle cx="700" cy="232" r="13"/><circle cx="424" cy="292" r="13"/>
+    <circle cx="470" cy="316" r="13"/><circle cx="664" cy="314" r="13"/><circle cx="706" cy="292" r="13"/>
+  </g>
+  <!-- 臓側胸膜は破れていない（2層とも連続） -->
+  <path d="M400 180 L730 180" fill="none" stroke="#1f5fa8" stroke-width="3.5"/>
+  <path d="M400 196 L730 196" fill="none" stroke="#5b8fd0" stroke-width="3.5"/>
+  <!-- 含気腔（肺実質内） -->
+  <ellipse cx="565" cy="258" rx="86" ry="54" fill="#fff7d6" stroke="#ca8a04" stroke-width="2.5"/>
+  <text class="lbl key" x="565" y="246" text-anchor="middle">含気腔</text>
+  <text class="lbl sm" x="565" y="286" text-anchor="middle">壁は菲薄な線維組織・残存肺胞壁</text>
+  <!-- 気道との交通 -->
+  <path d="M470 330 C 500 316 510 300 522 288" fill="none" stroke="#334155" stroke-width="7" stroke-linecap="round"/>
+  <path d="M470 330 C 500 316 510 300 522 288" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <text class="lbl sm" x="400" y="366">呼吸細気管支・肺胞道と交通している</text>
+
+  <!-- 胸膜の層の説明 -->
+  <line x1="740" y1="180" x2="752" y2="180" stroke="#1f5fa8" stroke-width="3"/>
+  <line x1="740" y1="196" x2="752" y2="196" stroke="#5b8fd0" stroke-width="3"/>
+
+  <!-- ============ 凡例・補足 ============ -->
+  <rect x="24" y="392" width="712" height="186" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <line x1="44" y1="420" x2="76" y2="420" stroke="#1f5fa8" stroke-width="3.5"/>
+  <text class="lbl note" x="86" y="425">臓側胸膜の外側（中皮細胞層）</text>
+  <line x1="330" y1="420" x2="362" y2="420" stroke="#5b8fd0" stroke-width="3.5"/>
+  <text class="lbl note" x="372" y="425">臓側胸膜の内側（弾性層）</text>
+  <text class="lbl note" x="40" y="456">【共通】いずれも胸膜下の1 cm以上の異常な含気腔で、肺胞道または呼吸細気管支と交通する。</text>
+  <text class="lbl note" x="40" y="482">　毛細血管が乏しく細葉内でコンプライアンスが最も高い部位に生じやすく、肺尖部に好発する。</text>
+  <text class="lbl note" x="40" y="508">【巨大ブラ症】片側胸腔の1/3以上を占め、周囲の肺実質に圧排がみられるもの。</text>
+  <text class="lbl note" x="40" y="534">【臨床】いずれも自然気胸の原因となり、再発例では胸腔鏡下にブラ・ブレブを切除する。</text>
+  <text class="lbl note" x="40" y="560">【注意】画像では両者の区別が難しく、臨床では「ブラ・ブレブ」とまとめて扱われることが多い。</text>
+</svg>
