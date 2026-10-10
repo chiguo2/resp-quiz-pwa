@@ -1,4 +1,4 @@
-const CACHE_NAME = 'resp-quiz-cache-v269';
+const CACHE_NAME = 'resp-quiz-cache-v270';
 const CORE_ASSETS = [
   './','./index.html','./style.css','./app.js','./manifest.json','./icon.svg',
   './reference-viewer.html','./reference-viewer.css','./reference-viewer.js',
