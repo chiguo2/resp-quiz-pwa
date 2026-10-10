@@ -49,9 +49,9 @@
     ],
     "counts": {
       "qa": 1730,
-      "mcq": 1333,
+      "mcq": 1360,
       "recall": 0,
-      "total": 3063
+      "total": 3090
     },
     "sections": [
       "総論I 形態・機能・病態生理",
@@ -212,9 +212,9 @@
         "ul-1101"
       ]
     },
-    "total_questions": 3063,
+    "total_questions": 3090,
     "qa_count": 1730,
-    "mcq_count": 1333,
+    "mcq_count": 1360,
     "last_update": "2026-09-16",
     "recall_count": 0
   },
@@ -124029,6 +124029,1032 @@
       "question": "本邦のレジオネラ肺炎は欧米例と臨床像が異なるため、欧米の臨床的鑑別法をそのまま応用することは困難である。",
       "answer": "○",
       "explanation": "正しい。多変量解析の結果、本邦のレジオネラ肺炎は欧米例と異なる点があり、欧米の臨床的鑑別法は応用困難であると報告されている。\n\n【AI解説】\n【結論】正しい。加えて尿中抗原検査は感度が高くない点にも注意が必要である。\n【尿中抗原検査の限界】主にLegionella pneumophila血清型1のみを検出するため、他の血清型や他菌種によるレジオネラ肺炎では陰性となる。発症初期にも陰性となりうる。\n【対応】レジオネラ肺炎は重症化率が高く、不適切治療によって急速に進行し死に至る症例があるため、本邦のデータに基づくレジオネラ診断予測スコアで拾い上げ、治療方針を決定することが推奨されている。\n【治療】ニューキノロン系（レボフロキサシンなど）またはマクロライド系（アジスロマイシン）を用いる。β-ラクタム系は無効である。"
+    },
+    {
+      "id": "path-001",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "総論IV 検査",
+      "question": "喀痰のGram染色像を示す。多数のGram陽性双球菌が認められる。推定される起炎菌はどれか。",
+      "choices": {
+        "a": "黄色ブドウ球菌（Staphylococcus aureus）",
+        "b": "肺炎球菌（Streptococcus pneumoniae）",
+        "c": "緑膿菌（Pseudomonas aeruginosa）",
+        "d": "インフルエンザ菌（Haemophilus influenzae）"
+      },
+      "answer": [
+        "b"
+      ],
+      "explanation": "ランセット形のGram陽性双球菌が多数みられるので肺炎球菌である。\n\n【AI解説】\n【結論】Gram陽性に染まる双球菌（2個ずつ対になった球菌）が多数みられる所見は肺炎球菌に特徴的である。市中肺炎の起炎菌として最も頻度が高い。\n【選択肢の解説】\n⭕「肺炎球菌（Streptococcus pneumoniae）」：正しい。Gram陽性双球菌で、しばしば莢膜による抜けた輪郭（ハロー）を伴う。\n❌「黄色ブドウ球菌（Staphylococcus aureus）」：誤り。Gram陽性球菌だがブドウの房状に集まり、好中球に貪食された像をとることが多い。\n❌「緑膿菌（Pseudomonas aeruginosa）」：誤り。Gram陰性桿菌で、ムコイド型では粘液に包まれた像を呈する。\n❌「インフルエンザ菌（Haemophilus influenzae）」：誤り。小型のGram陰性短桿菌（球桿菌）である。\n【関連知識】塗抹鏡検は培養結果を待たずに起炎菌を推定でき、初期抗菌薬選択に直結する。良質な喀痰（Geckler分類4〜5群）であることを確認してから評価する。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/gram-pneumococcus.webp",
+          "caption": "喀痰のGram染色像"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 8,
+        "image": "assets/reference_pages/s4_p008.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=8"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-002",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "総論IV 検査",
+      "question": "喀痰のGram染色像を示す。好中球に貪食されたGram陽性球菌が認められる。推定される起炎菌はどれか。",
+      "choices": {
+        "a": "黄色ブドウ球菌（Staphylococcus aureus）",
+        "b": "肺炎球菌（Streptococcus pneumoniae）",
+        "c": "レジオネラ（Legionella pneumophila）",
+        "d": "マイコプラズマ（Mycoplasma pneumoniae）"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "好中球に貪食された房状のGram陽性球菌であり黄色ブドウ球菌である。\n\n【AI解説】\n【結論】好中球の細胞質内に取り込まれたGram陽性球菌が集塊をつくる像は黄色ブドウ球菌に特徴的である。\n【選択肢の解説】\n⭕「黄色ブドウ球菌（Staphylococcus aureus）」：正しい。ブドウの房状の配列をとり、好中球に貪食された像がしばしばみられる。\n❌「肺炎球菌（Streptococcus pneumoniae）」：誤り。2個ずつ対になった双球菌として観察される。\n❌「レジオネラ（Legionella pneumophila）」：誤り。通常のGram染色では染まりにくく、塗抹では検出困難である。\n❌「マイコプラズマ（Mycoplasma pneumoniae）」：誤り。細胞壁をもたないためGram染色では染まらない。\n【関連知識】黄色ブドウ球菌肺炎はインフルエンザ後の二次性細菌性肺炎や血行性散布（右心系感染性心内膜炎）で生じやすく、空洞形成をきたしやすい。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/gram-staph.webp",
+          "caption": "喀痰のGram染色像"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 8,
+        "image": "assets/reference_pages/s4_p008.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=8"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-003",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "総論IV 検査",
+      "question": "喀痰のGram染色像を示す。粘液に包まれたムコイド型のGram陰性桿菌が認められる。推定される起炎菌はどれか。",
+      "choices": {
+        "a": "肺炎桿菌（Klebsiella pneumoniae）",
+        "b": "大腸菌（Escherichia coli）",
+        "c": "モラクセラ（Moraxella catarrhalis）",
+        "d": "緑膿菌（Pseudomonas aeruginosa）"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "粘液に包まれたムコイド型のGram陰性桿菌であり緑膿菌である。\n\n【AI解説】\n【結論】ムコイド（粘液様）物質に包まれたGram陰性桿菌の像は緑膿菌に特徴的で、気管支拡張症や嚢胞性線維症などの慢性気道感染でみられる。\n【選択肢の解説】\n⭕「緑膿菌（Pseudomonas aeruginosa）」：正しい。ムコイド型はアルギン酸を産生しバイオフィルムを形成するため、難治化しやすい。\n❌「肺炎桿菌（Klebsiella pneumoniae）」：誤り。厚い莢膜をもつ短く太いGram陰性桿菌として観察される。\n❌「大腸菌（Escherichia coli）」：誤り。Gram陰性桿菌だがムコイド型の粘液産生は典型的でない。\n❌「モラクセラ（Moraxella catarrhalis）」：誤り。Gram陰性双球菌である。\n【関連知識】ムコイド型緑膿菌が定着した慢性気道感染では、除菌は困難で増悪時の治療と排痰が中心となる。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/gram-pseudomonas.webp",
+          "caption": "喀痰のGram染色像"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 8,
+        "image": "assets/reference_pages/s4_p008.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=8"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-004",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "総論IV 検査",
+      "question": "喀痰のGram染色像を示す。厚い莢膜を有するGram陰性桿菌が認められる。推定される起炎菌はどれか。",
+      "choices": {
+        "a": "緑膿菌（Pseudomonas aeruginosa）",
+        "b": "インフルエンザ菌（Haemophilus influenzae）",
+        "c": "肺炎桿菌（Klebsiella pneumoniae）",
+        "d": "ノカルジア（Nocardia属）"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "厚い莢膜を有するGram陰性桿菌であり肺炎桿菌である。\n\n【AI解説】\n【結論】菌体の周囲が抜けてみえる厚い莢膜を伴うGram陰性桿菌は肺炎桿菌（Klebsiella pneumoniae）に特徴的である。\n【選択肢の解説】\n⭕「肺炎桿菌（Klebsiella pneumoniae）」：正しい。莢膜が豊富で、粘稠な喀痰（currant jelly sputum）や上葉の膨隆する浸潤影（bulging fissure sign）が知られる。\n❌「緑膿菌（Pseudomonas aeruginosa）」：誤り。細長いGram陰性桿菌で、莢膜ではなく粘液に包まれる。\n❌「インフルエンザ菌（Haemophilus influenzae）」：誤り。小型の球桿菌で、莢膜型と無莢膜型があるが塗抹での印象は異なる。\n❌「ノカルジア（Nocardia属）」：誤り。分枝する糸状のGram陽性桿菌である。\n【関連知識】肺炎桿菌はアルコール多飲者・糖尿病患者で重症化しやすく、膿瘍形成をきたしやすい。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/gram-klebsiella.webp",
+          "caption": "喀痰のGram染色像"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 8,
+        "image": "assets/reference_pages/s4_p008.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=8"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-005",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "総論IV 検査",
+      "question": "喀痰のGram染色像を示す。分枝する細長いGram陽性桿菌が認められる。推定される病原体はどれか。",
+      "choices": {
+        "a": "黄色ブドウ球菌（Staphylococcus aureus）",
+        "b": "ノカルジア（Nocardia属）",
+        "c": "肺炎桿菌（Klebsiella pneumoniae）",
+        "d": "アスペルギルス（Aspergillus属）"
+      },
+      "answer": [
+        "b"
+      ],
+      "explanation": "分枝する細長いGram陽性桿菌でありノカルジアである。\n\n【AI解説】\n【結論】糸状に伸びて分枝するGram陽性桿菌はノカルジアを示唆する。細胞性免疫低下（ステロイド長期投与、臓器移植、HIV感染など）を背景に発症しやすい。\n【選択肢の解説】\n⭕「ノカルジア（Nocardia属）」：正しい。分枝する細長いGram陽性桿菌で、部分抗酸性（Kinyoun変法で陽性）を示す点が診断の助けになる。\n❌「黄色ブドウ球菌（Staphylococcus aureus）」：誤り。Gram陽性球菌であり、分枝する糸状構造は呈さない。\n❌「肺炎桿菌（Klebsiella pneumoniae）」：誤り。Gram陰性桿菌である。\n❌「アスペルギルス（Aspergillus属）」：誤り。真菌であり、Grocott染色やPAS染色で鋭角分枝する有隔菌糸として観察される。\n【関連知識】肺ノカルジア症は脳膿瘍を合併しやすく、診断時には頭部画像評価を行う。治療はST合剤が基本で長期投与を要する。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/gram-nocardia.webp",
+          "caption": "喀痰のGram染色像"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 8,
+        "image": "assets/reference_pages/s4_p008.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=8"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-006",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "総論IV 検査",
+      "question": "喀痰の塗抹標本を示す。背景が青緑色に染まり、赤色に染まる細い桿菌を検出する目的で行われている。用いられている染色法はどれか。",
+      "choices": {
+        "a": "Gram染色",
+        "b": "Grocott染色",
+        "c": "抗酸菌染色（Ziehl-Neelsen染色）",
+        "d": "Papanicolaou染色"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "背景を青緑色に染め、抗酸菌を赤く染め出す抗酸菌染色（Ziehl-Neelsen染色）である。\n\n【AI解説】\n【結論】メチレンブルーなどで背景を青緑色に対比染色し、抗酸菌のみを石炭酸フクシンで赤く染める染色法が抗酸菌染色（Ziehl-Neelsen染色）である。\n【選択肢の解説】\n⭕「抗酸菌染色（Ziehl-Neelsen染色）」：正しい。結核菌や非結核性抗酸菌は脱色に抵抗する（抗酸性）ため赤く残る。\n❌「Gram染色」：誤り。紫色（陽性）と赤色（陰性）に染め分ける染色で、抗酸菌は染まりにくい。\n❌「Grocott染色」：誤り。真菌やニューモシスチスを黒褐色に染める銀染色である。\n❌「Papanicolaou染色」：誤り。細胞診で用いる染色で、細菌の検出を目的としない。\n【関連知識】抗酸菌の検出感度は蛍光法（オーラミン染色）のほうが高く、スクリーニングに用いられる。塗抹陽性は感染性の高さを示すため、結核では隔離の判断に直結する。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/ziehl-tb.webp",
+          "caption": "喀痰の塗抹標本"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 8,
+        "image": "assets/reference_pages/s4_p008.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=8"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-007",
+      "type": "mcq",
+      "chapter": "各論I-1 感染症および炎症性疾患",
+      "section": "各論I-1 感染症および炎症性疾患",
+      "question": "墨汁法による鏡検像を示す。円形の菌体の周囲に、墨汁が排除された厚い輪状の構造を認める。考えられる病原体はどれか。",
+      "choices": {
+        "a": "Cryptococcus neoformans",
+        "b": "Aspergillus fumigatus",
+        "c": "Pneumocystis jirovecii",
+        "d": "Candida albicans"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "厚い莢膜が墨汁を排除してハローとしてみえるのはクリプトコッカスである。\n\n【AI解説】\n【結論】墨汁法で菌体周囲に抜けてみえる厚い莢膜（ハロー）は Cryptococcus neoformans に特徴的な所見である。\n【選択肢の解説】\n⭕「Cryptococcus neoformans」：正しい。厚い多糖体莢膜をもち、墨汁法で莢膜が陰影として描出される。狭基性の出芽も特徴。\n❌「Aspergillus fumigatus」：誤り。鋭角（約45度）に分枝する有隔菌糸として観察される。\n❌「Pneumocystis jirovecii」：誤り。Grocott染色で黒く染まる嚢子として観察され、莢膜はもたない。\n❌「Candida albicans」：誤り。出芽酵母と仮性菌糸がみられるが、厚い莢膜はない。\n【関連知識】クリプトコッカス症は血清・髄液のクリプトコッカス莢膜抗原が診断に有用。健常者にも発症し、肺病変のみでも中枢神経病変の検索を行う。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/india-ink-crypto.webp",
+          "caption": "墨汁法による鏡検像"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 35,
+        "image": "assets/reference_pages/k1_p035.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=35"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-008",
+      "type": "mcq",
+      "chapter": "各論I-5 特発性間質性肺炎（IIPs）",
+      "section": "各論I-5 特発性間質性肺炎（IIPs）",
+      "question": "特発性肺線維症患者の肺の肉眼像を示す。胸膜直下に大小の嚢胞が密に並んでいる。この所見の名称はどれか。",
+      "choices": {
+        "a": "ブラ（bulla）",
+        "b": "小葉中心性肺気腫",
+        "c": "蜂巣肺（honeycombing）",
+        "d": "気腫性嚢胞を伴う気胸"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "胸膜直下に線維性の壁をもつ嚢胞が密在する所見で、蜂巣肺である。\n\n【AI解説】\n【結論】線維化した厚い壁をもつ嚢胞が胸膜直下に集簇する所見が蜂巣肺（honeycombing）で、UIPパターンの必須所見である。\n【選択肢の解説】\n⭕「蜂巣肺（honeycombing）」：正しい。嚢胞壁は膠原線維に富み、内面は細気管支上皮で覆われる。\n❌「ブラ（bulla）」：誤り。径1cmを超える単発〜少数の含気腔で、壁は薄く線維化を伴わない。\n❌「小葉中心性肺気腫」：誤り。小葉中心部の呼吸細気管支が拡張する病変で、胸膜直下に層状に並ぶ嚢胞群は呈さない。\n❌「気腫性嚢胞を伴う気胸」：誤り。胸腔内への空気漏出であり肺実質の所見ではない。\n【関連知識】蜂巣肺は胸膜直下・肺底部優位に分布し、HRCTでは2〜3層に重なる嚢胞として描出される。UIPパターンの診断に不可欠な所見である。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/ipf-honeycomb-gross.webp",
+          "caption": "肺の肉眼像"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 93,
+        "image": "assets/reference_pages/k1_p093.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=93"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-009",
+      "type": "mcq",
+      "chapter": "各論I-5 特発性間質性肺炎（IIPs）",
+      "section": "各論I-5 特発性間質性肺炎（IIPs）",
+      "question": "肺生検組織のルーペ像を示す。胸膜直下優位に線維化が強く、小葉間隔壁の肥厚と嚢胞形成を認め、病変の分布は不均一である。最も考えられる組織パターンはどれか。",
+      "choices": {
+        "a": "NSIP（非特異性間質性肺炎）パターン",
+        "b": "UIP（通常型間質性肺炎）パターン",
+        "c": "OP（器質化肺炎）パターン",
+        "d": "DAD（びまん性肺胞傷害）パターン"
+      },
+      "answer": [
+        "b"
+      ],
+      "explanation": "胸膜直下優位・不均一な線維化と蜂巣病変はUIPパターンである。\n\n【AI解説】\n【結論】胸膜直下／小葉辺縁優位の線維化、時相の異なる病変が混在する不均一性（時相的不均一性）、蜂巣病変の3点がそろえばUIPパターンである。\n【選択肢の解説】\n⭕「UIP（通常型間質性肺炎）パターン」：正しい。病変の時相的・空間的不均一性が本質で、特発性肺線維症（IPF）の組織パターンである。\n❌「NSIP（非特異性間質性肺炎）パターン」：誤り。病変の時相が揃い、びまん性で均一な分布を示す。\n❌「OP（器質化肺炎）パターン」：誤り。肺胞道から肺胞腔内に向かう器質化物（ポリープ状線維芽組織）が主体で、肺の基本構造は保たれる。\n❌「DAD（びまん性肺胞傷害）パターン」：誤り。硝子膜形成を伴う急性期と、均一な線維化を示す器質化期からなる。\n【関連知識】UIPパターンは特発性肺線維症のほか、膠原病肺・慢性過敏性肺炎・石綿肺でもみられるため、臨床情報と併せた多職種討議（MDD）が必要である。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/ipf-uip-loupe.webp",
+          "caption": "肺生検組織のルーペ像"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 93,
+        "image": "assets/reference_pages/k1_p093.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=93"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-010",
+      "type": "mcq",
+      "chapter": "各論I-5 特発性間質性肺炎（IIPs）",
+      "section": "各論I-5 特発性間質性肺炎（IIPs）",
+      "question": "特発性肺線維症の肺生検組織の拡大像を示す。既存の線維化巣の辺縁に、緑色に染まる膠原線維が未熟な淡い基質と線維芽細胞の集簇として突出している。この構造の名称はどれか。",
+      "choices": {
+        "a": "Masson体",
+        "b": "肉芽腫",
+        "c": "硝子膜",
+        "d": "線維芽細胞巣（fibroblastic focus）"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "線維化の活動性病変である線維芽細胞巣（fibroblastic focus）である。\n\n【AI解説】\n【結論】線維芽細胞・筋線維芽細胞がムコ多糖に富む基質とともに集簇した病巣が線維芽細胞巣で、UIPパターンにおける線維化の活動性（新しい時相）を示す。\n【選択肢の解説】\n⭕「線維芽細胞巣（fibroblastic focus）」：正しい。古い膠原線維の線維化巣と並存することで時相的不均一性が生まれる。数が多いほど予後不良とされる。\n❌「Masson体」：誤り。器質化肺炎で肺胞腔内に突出するポリープ状の器質化物で、肺胞腔内に存在する点が異なる。\n❌「肉芽腫」：誤り。類上皮細胞と多核巨細胞からなる結節性病変である。\n❌「硝子膜」：誤り。DADの急性期（滲出期）に肺胞壁に沿って沈着する好酸性の膜状物質である。\n【関連知識】線維芽細胞巣は間質（肺胞壁側）に、Masson体は肺胞腔内に位置する。両者の局在の違いがUIPとOPの鑑別点になる。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/ipf-fibroblastic-focus.webp",
+          "caption": "肺生検組織の拡大像（弾性線維染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 93,
+        "image": "assets/reference_pages/k1_p093.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=93"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-011",
+      "type": "mcq",
+      "chapter": "各論I-5 特発性間質性肺炎（IIPs）",
+      "section": "各論I-5 特発性間質性肺炎（IIPs）",
+      "question": "外科的肺生検の病理組織像を示す。肺の基本構造は概ね保たれ、肺胞壁の間質がリンパ球主体の炎症細胞浸潤と線維化によって一様に肥厚している。病変の時相は揃っている。最も考えられる組織パターンはどれか。",
+      "choices": {
+        "a": "fibrotic NSIP（線維化型非特異性間質性肺炎）",
+        "b": "UIP（通常型間質性肺炎）",
+        "c": "DIP（剥離性間質性肺炎）",
+        "d": "LIP（リンパ球性間質性肺炎）"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "時相の揃った均一な間質の線維化・炎症であり fibrotic NSIP である。\n\n【AI解説】\n【結論】病変の時相が揃い、肺胞壁がびまん性・均一に肥厚する点がNSIPの本質で、線維化が主体のものをfibrotic NSIPと呼ぶ。\n【選択肢の解説】\n⭕「fibrotic NSIP（線維化型非特異性間質性肺炎）」：正しい。蜂巣病変や線維芽細胞巣は乏しく、肺の基本構造が保たれる。\n❌「UIP（通常型間質性肺炎）」：誤り。時相の異なる病変が混在し、胸膜直下優位の不均一な線維化と蜂巣病変を伴う。\n❌「DIP（剥離性間質性肺炎）」：誤り。肺胞腔内に色素を含むマクロファージがびまん性・高度に充満する。\n❌「LIP（リンパ球性間質性肺炎）」：誤り。間質に高度のリンパ球浸潤とリンパ濾胞がびまん性にみられる。\n【関連知識】NSIPはIPFより予後良好だが、IPAF（自己免疫的特徴を伴う間質性肺炎）の枠組みで捉えられることがあり、経過中に膠原病が顕在化しないか注意する。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/nsip-fibrotic.webp",
+          "caption": "外科的肺生検の病理組織像（HE染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 96,
+        "image": "assets/reference_pages/k1_p096.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=96"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-012",
+      "type": "mcq",
+      "chapter": "各論I-5 特発性間質性肺炎（IIPs）",
+      "section": "各論I-5 特発性間質性肺炎（IIPs）",
+      "question": "喫煙者の肺の病理組織像を示す。呼吸細気管支周囲の肺胞腔内に色素を含んだマクロファージ（pigmented macrophage）が集簇し、肺胞壁は軽度の線維性肥厚を示す。最も考えられる疾患はどれか。",
+      "choices": {
+        "a": "DIP（剥離性間質性肺炎）",
+        "b": "RB-ILD（呼吸細気管支炎関連間質性肺疾患）",
+        "c": "PPFE（胸膜肺実質線維弾性症）",
+        "d": "肺胞蛋白症"
+      },
+      "answer": [
+        "b"
+      ],
+      "explanation": "呼吸細気管支周囲に限局した色素含有マクロファージの集簇でRB-ILDである。\n\n【AI解説】\n【結論】色素を含むマクロファージの集簇が呼吸細気管支とその周囲に限局（小葉中心性）している点がRB-ILDの特徴である。\n【選択肢の解説】\n⭕「RB-ILD（呼吸細気管支炎関連間質性肺疾患）」：正しい。喫煙関連の間質性肺疾患で、禁煙が治療の基本となる。\n❌「DIP（剥離性間質性肺炎）」：誤り。同様のマクロファージ充満がびまん性かつ高度で、呼吸細気管支周囲に限局しない。\n❌「PPFE（胸膜肺実質線維弾性症）」：誤り。上葉優位に胸膜の線維性肥厚と胸膜直下の弾性線維増生を認める。\n❌「肺胞蛋白症」：誤り。肺胞腔内にPAS陽性の顆粒状蛋白様物質が充満する。\n【関連知識】RB-ILDとDIPは喫煙関連間質性肺疾患として連続したスペクトラムと考えられ、同一患者に共存することもある。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/rbild.webp",
+          "caption": "病理組織像（HE染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 97,
+        "image": "assets/reference_pages/k1_p097.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=97"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-013",
+      "type": "mcq",
+      "chapter": "各論I-5 特発性間質性肺炎（IIPs）",
+      "section": "各論I-5 特発性間質性肺炎（IIPs）",
+      "question": "外科的肺生検の病理組織像を示す。肺胞腔内へ肺胞マクロファージが広範かつ高度にびまん性に滲出し、背景に軽度の構造改変を伴った線維化をみる。最も考えられる疾患はどれか。",
+      "choices": {
+        "a": "RB-ILD（呼吸細気管支炎関連間質性肺疾患）",
+        "b": "AFOP（急性線維素性器質化肺炎）",
+        "c": "過敏性肺炎",
+        "d": "DIP（剥離性間質性肺炎）"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "肺胞腔内をびまん性・高度に埋めるマクロファージでDIPである。\n\n【AI解説】\n【結論】肺胞腔内のマクロファージ充満が「びまん性かつ高度」である点がDIPの診断根拠で、小葉中心性にとどまるRB-ILDと区別される。\n【選択肢の解説】\n⭕「DIP（剥離性間質性肺炎）」：正しい。かつて剥離した肺胞上皮と誤認されたためこの名がある（実際はマクロファージ）。喫煙が主要因。\n❌「RB-ILD（呼吸細気管支炎関連間質性肺疾患）」：誤り。マクロファージの集簇が呼吸細気管支周囲に限局する。\n❌「AFOP（急性線維素性器質化肺炎）」：誤り。肺胞腔内のフィブリン球（fibrin ball）と器質化が主体である。\n❌「過敏性肺炎」：誤り。細気管支中心性のリンパ球浸潤と境界不明瞭な小型肉芽腫を特徴とする。\n【関連知識】DIPは副腎皮質ステロイド薬が有効なことが多いが、禁煙が治療の前提である。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/dip.webp",
+          "caption": "外科的肺生検の病理組織像（HE染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 99,
+        "image": "assets/reference_pages/k1_p099.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=99"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-014",
+      "type": "mcq",
+      "chapter": "各論I-5 特発性間質性肺炎（IIPs）",
+      "section": "各論I-5 特発性間質性肺炎（IIPs）",
+      "question": "病理組織像を示す。肺胞道から肺胞腔内へ、線維芽細胞と粘液基質からなるポリープ状の器質化物が充満しているが、肺の基本構造は保たれている。最も考えられる組織パターンはどれか。",
+      "choices": {
+        "a": "UIP（通常型間質性肺炎）パターン",
+        "b": "DAD（びまん性肺胞傷害）パターン",
+        "c": "器質化肺炎（OP）パターン",
+        "d": "NSIP（非特異性間質性肺炎）パターン"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "肺胞腔内のポリープ状器質化物（Masson体）が主体で器質化肺炎である。\n\n【AI解説】\n【結論】肺胞腔内に突出するポリープ状の器質化物（Masson体）が肺胞道〜肺胞腔を埋め、肺の構築は保たれるのが器質化肺炎（OP）である。\n【選択肢の解説】\n⭕「器質化肺炎（OP）パターン」：正しい。特発性のもの（COP）と、感染・薬剤・膠原病などによる二次性がある。ステロイドが著効するが再燃しやすい。\n❌「UIP（通常型間質性肺炎）パターン」：誤り。時相の異なる線維化が混在し、蜂巣病変を伴う。\n❌「DAD（びまん性肺胞傷害）パターン」：誤り。硝子膜形成を伴い、肺胞構造の虚脱と破壊が強い。\n❌「NSIP（非特異性間質性肺炎）パターン」：誤り。病変の主座は肺胞腔ではなく間質（肺胞壁）である。\n【関連知識】器質化物は間質ではなく「肺胞腔内」にあるため、肺の基本構造は保たれ、治療により可逆性が期待できる。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/op.webp",
+          "caption": "病理組織像（HE染色、スケールは100μm）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 101,
+        "image": "assets/reference_pages/k1_p101.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=101"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-015",
+      "type": "mcq",
+      "chapter": "各論I-5 特発性間質性肺炎（IIPs）",
+      "section": "各論I-5 特発性間質性肺炎（IIPs）",
+      "question": "急速に進行する呼吸不全をきたした症例の外科的肺生検標本を示す。びまん性の肺胞隔壁肥厚と、肺胞壁に沿う好酸性の膜状構造（矢印）を認める。この膜状構造の名称はどれか。",
+      "choices": {
+        "a": "Masson体",
+        "b": "硝子膜",
+        "c": "肺胞蛋白様物質",
+        "d": "アミロイド沈着"
+      },
+      "answer": [
+        "b"
+      ],
+      "explanation": "肺胞壁に沿う好酸性の膜状構造は硝子膜で、DADの所見である。\n\n【AI解説】\n【結論】肺胞壁に沿って張り付く好酸性の膜状構造が硝子膜で、びまん性肺胞傷害（DAD）の滲出期を代表する所見である。\n【選択肢の解説】\n⭕「硝子膜」：正しい。血漿蛋白とフィブリン、壊死した上皮の残骸からなり、ARDSや急性間質性肺炎（AIP）でみられる。\n❌「Masson体」：誤り。器質化肺炎で肺胞腔内に突出するポリープ状の線維芽組織である。\n❌「肺胞蛋白様物質」：誤り。肺胞蛋白症でみられるPAS陽性の顆粒状物質である。\n❌「アミロイド沈着」：誤り。Congo red染色で偏光下に緑色複屈折を示す無構造の沈着物である。\n【関連知識】急性間質性肺炎（AIP）は原因不明の急性呼吸障害で、組織像としてDADを必ず有する。ARDSと組織学的には同一であり、基礎疾患・誘因の有無で区別する。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/dad-hyaline.webp",
+          "caption": "外科的肺生検標本（HE染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 104,
+        "image": "assets/reference_pages/k1_p104.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=104"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-016",
+      "type": "mcq",
+      "chapter": "各論I-5 特発性間質性肺炎（IIPs）",
+      "section": "各論I-5 特発性間質性肺炎（IIPs）",
+      "question": "上葉優位に病変をもつ症例の病理組織像を示す。左はHE染色、右は弾性線維染色（EVG染色）で、胸膜の線維性肥厚と、それに連続する胸膜直下の弾性線維増生を伴う肺実質の線維化を認める。最も考えられる疾患はどれか。",
+      "choices": {
+        "a": "石綿肺",
+        "b": "IPF（特発性肺線維症）",
+        "c": "PPFE（胸膜肺実質線維弾性症）",
+        "d": "慢性過敏性肺炎"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "胸膜の肥厚と胸膜直下の弾性線維増生が連続する上葉優位の線維化でPPFEである。\n\n【AI解説】\n【結論】胸膜の線維性肥厚と、それに連続する胸膜直下の肺胞壁の弾性線維増生（elastofibrosis）が上葉優位にみられるのがPPFEである。\n【選択肢の解説】\n⭕「PPFE（胸膜肺実質線維弾性症）」：正しい。やせ型・扁平胸郭（flat chest）、気胸の反復、残気量増加などを伴い、進行性に経過する。\n❌「石綿肺」：誤り。下葉優位の線維化と石綿小体の検出が診断の手がかりとなる。\n❌「IPF（特発性肺線維症）」：誤り。下葉・胸膜直下優位の蜂巣病変と線維芽細胞巣を特徴とする。\n❌「慢性過敏性肺炎」：誤り。細気管支中心性の線維化と小型肉芽腫を特徴とする。\n【関連知識】PPFEの診断には「上葉優位の胸膜直下の線維化（HRCT）」と「胸膜下の弾性線維増生（病理）」の両方が重視される。apical capとの鑑別は画像の経時変化が参考になる。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/ppfe.webp",
+          "caption": "病理組織像（左：HE染色、右：EVG染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 108,
+        "image": "assets/reference_pages/k1_p108.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=108"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-017",
+      "type": "mcq",
+      "chapter": "各論I-5 特発性間質性肺炎（IIPs）",
+      "section": "各論I-5 特発性間質性肺炎（IIPs）",
+      "question": "病理組織像を示す。肺胞腔内にフィブリンの析出が多数認められるが、硝子膜の形成は認めない。最も考えられる疾患はどれか。",
+      "choices": {
+        "a": "AFOP（急性線維素性器質化肺炎）",
+        "b": "DAD（びまん性肺胞傷害）",
+        "c": "DIP（剥離性間質性肺炎）",
+        "d": "肺胞蛋白症"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "肺胞腔内のフィブリン球が主体で硝子膜を伴わないAFOPである。\n\n【AI解説】\n【結論】肺胞腔内に充満するフィブリン（fibrin ball）と器質化が主体で、硝子膜形成を伴わない点がAFOPの定義的所見である。\n【選択肢の解説】\n⭕「AFOP（急性線維素性器質化肺炎）」：正しい。急性〜亜急性に経過し、器質化肺炎とDADの中間的な位置づけとされる。\n❌「DAD（びまん性肺胞傷害）」：誤り。硝子膜の形成が必須の所見である。\n❌「DIP（剥離性間質性肺炎）」：誤り。肺胞腔内を埋めるのはフィブリンではなくマクロファージである。\n❌「肺胞蛋白症」：誤り。PAS陽性の顆粒状蛋白様物質が肺胞腔に充満する。\n【関連知識】AFOPはPAS・Alcian blue染色でも肺胞腔内のフィブリン析出と器質化が確認できる。特発性のほか、膠原病・薬剤性・感染後にも生じる。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/afop-fibrin-ball.webp",
+          "caption": "病理組織像（HE染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 110,
+        "image": "assets/reference_pages/k1_p110.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=110"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-018",
+      "type": "mcq",
+      "chapter": "各論I-13 その他（比較的稀な肺疾患）",
+      "section": "各論I-13 その他（比較的稀な肺疾患）",
+      "question": "若年女性の肺病理組織像を示す。胸膜に接する薄壁嚢胞の壁に沿って、紡錘形〜類円形の細胞が結節状に増殖している（矢印）。最も考えられる疾患はどれか。",
+      "choices": {
+        "a": "肺気腫",
+        "b": "Langerhans細胞組織球症",
+        "c": "Birt-Hogg-Dubé症候群",
+        "d": "リンパ脈管筋腫症（LAM）"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "嚢胞壁に沿う紡錘形細胞（LAM細胞）の増殖でリンパ脈管筋腫症である。\n\n【AI解説】\n【結論】薄壁嚢胞の壁に沿って平滑筋様の紡錘形細胞（LAM細胞）が結節状に増殖する所見がLAMに特徴的である。\n【選択肢の解説】\n⭕「リンパ脈管筋腫症（LAM）」：正しい。LAM細胞はHMB-45陽性、エストロゲン・プロゲステロン受容体陽性を示す。妊娠可能年齢の女性に好発する。\n❌「肺気腫」：誤り。嚢胞壁に細胞増殖はみられず、肺胞壁の破壊が本態である。\n❌「Langerhans細胞組織球症」：誤り。細気管支中心性の結節と、CD1a・S-100陽性のLangerhans細胞浸潤がみられる。\n❌「Birt-Hogg-Dubé症候群」：誤り。嚢胞は下肺野・縦隔側優位で、壁に異常な細胞増殖を伴わない。\n【関連知識】LAMではHRCTで境界明瞭な数mm〜1cm大の類円形薄壁嚢胞がびまん性にみられる。治療はsirolimus（mTOR阻害薬）が中心である。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/lam.webp",
+          "caption": "病理組織像（HE染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 212,
+        "image": "assets/reference_pages/k1_p212.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=212"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-019",
+      "type": "mcq",
+      "chapter": "各論I-13 その他（比較的稀な肺疾患）",
+      "section": "各論I-13 その他（比較的稀な肺疾患）",
+      "question": "両側びまん性に砂粒状の微細な石灰化陰影を認めた症例の肺組織像を示す。肺胞腔内に同心円状の層状構造をもつ小球状物質が多数認められる。最も考えられる疾患はどれか。",
+      "choices": {
+        "a": "肺胞蛋白症",
+        "b": "肺胞微石症",
+        "c": "転移性肺石灰化症",
+        "d": "アミロイドーシス"
+      },
+      "answer": [
+        "b"
+      ],
+      "explanation": "肺胞腔内の層状構造をもつ微石で肺胞微石症である。\n\n【AI解説】\n【結論】肺胞腔内に同心円状（層状）構造をもつリン酸カルシウムの微石が充満するのが肺胞微石症である。\n【選択肢の解説】\n⭕「肺胞微石症」：正しい。SLC34A2遺伝子の変異による常染色体潜性（劣性）遺伝疾患で、胸部X線では砂嵐様（sandstorm）陰影を示す。\n❌「肺胞蛋白症」：誤り。肺胞腔内に充満するのはPAS陽性の顆粒状蛋白様物質で、層状構造はもたない。\n❌「転移性肺石灰化症」：誤り。慢性腎不全などの高カルシウム血症を背景に、肺胞隔壁（間質）に石灰が沈着する。\n❌「アミロイドーシス」：誤り。Congo red陽性の無構造物質が血管壁や間質に沈着する。\n【関連知識】肺胞微石症は単一遺伝子疾患であり、家族歴の聴取が重要である。根治療法はなく、進行例では肺移植が検討される。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/microlithiasis.webp",
+          "caption": "病理組織像（HE染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 215,
+        "image": "assets/reference_pages/k1_p215.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=215"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-020",
+      "type": "mcq",
+      "chapter": "各論I-13 その他（比較的稀な肺疾患）",
+      "section": "各論I-13 その他（比較的稀な肺疾患）",
+      "question": "喀血と鉄欠乏性貧血を繰り返す小児の肺組織像を示す。肺胞腔内への出血と、褐色調の色素を貪食したマクロファージの集簇を認める。全身性の血管炎や膠原病は否定された。最も考えられる疾患はどれか。",
+      "choices": {
+        "a": "特発性肺ヘモジデローシス（特発性肺血鉄症）",
+        "b": "顕微鏡的多発血管炎",
+        "c": "Goodpasture症候群",
+        "d": "肺胞蛋白症"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "全身疾患を伴わず肺胞出血を繰り返す小児例で特発性肺ヘモジデローシスである。\n\n【AI解説】\n【結論】全身性疾患を伴わずにびまん性肺胞出血を繰り返し、ヘモジデリン貪食マクロファージが集簇するのが特発性肺ヘモジデローシスである。\n【選択肢の解説】\n⭕「特発性肺ヘモジデローシス（特発性肺血鉄症）」：正しい。患者の約8割が小児で、男女比は2:1。貧血のみで発症することもある。\n❌「顕微鏡的多発血管炎」：誤り。MPO-ANCA陽性で、腎（壊死性半月体形成性糸球体腎炎）など肺外病変を伴う。\n❌「Goodpasture症候群」：誤り。抗糸球体基底膜（抗GBM）抗体が陽性で、肺胞出血と急速進行性糸球体腎炎を呈する。\n❌「肺胞蛋白症」：誤り。肺胞腔内にPAS陽性の蛋白様物質が充満し、出血は主体でない。\n【関連知識】肺胞出血を繰り返すと肺線維化が進行し、拘束性換気障害から呼吸不全に至る。副腎皮質ステロイド薬に一定の反応がみられる。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/hemosiderosis.webp",
+          "caption": "肺組織像（HE染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 218,
+        "image": "assets/reference_pages/k1_p218.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=218"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-021",
+      "type": "mcq",
+      "chapter": "各論I-9 じん肺症",
+      "section": "各論I-9 じん肺症",
+      "question": "長年にわたり金属のアーク溶接に従事していた患者の肺組織像（鉄染色）を示す。青く染まる粒子状の沈着物がマクロファージ内および間質に多数認められる。最も考えられる疾患はどれか。",
+      "choices": {
+        "a": "珪肺",
+        "b": "石綿肺",
+        "c": "溶接工肺（鉄肺症）",
+        "d": "ベリリウム肺"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "鉄染色陽性の粉じん沈着を認める溶接ヒューム吸入による溶接工肺である。\n\n【AI解説】\n【結論】溶接ヒュームに含まれる鉄酸化物が肺に沈着し、鉄染色（ベルリン青染色）で青く染まる所見が溶接工肺（鉄肺症、siderosis）に特徴的である。\n【選択肢の解説】\n⭕「溶接工肺（鉄肺症）」：正しい。溶接・溶断時に生じる径0.1〜1μmの微小粒子（溶接ヒューム）の吸入による。2021年から溶接ヒューム作業は特殊健康診断の対象となっている。\n❌「珪肺」：誤り。遊離珪酸の吸入により、同心円状の層状構造をもつ珪肺結節を形成する。\n❌「石綿肺」：誤り。鉄染色では石綿小体（asbestos body）が鉄に覆われたダンベル状の構造として観察される。\n❌「ベリリウム肺」：誤り。サルコイドーシスに類似した非乾酪性類上皮細胞肉芽腫を形成する。\n【関連知識】職業性肺疾患の鑑別には職業歴の詳細な聴取が不可欠である。溶接ヒュームは鉄以外の金属も含み、病態は多彩で、急性には金属熱や化学性肺炎、肺胞出血も起こしうる。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/siderosis-iron.webp",
+          "caption": "肺組織像（鉄染色）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 153,
+        "image": "assets/reference_pages/k1_p153.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=153"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-022",
+      "type": "mcq",
+      "chapter": "各論I-13 その他（比較的稀な肺疾患）",
+      "section": "各論I-13 その他（比較的稀な肺疾患）",
+      "question": "空洞を伴う多発結節を認めた症例の肺病理組織像を示す。大小不同の好中球性壊死からなる不整な壊死病変（地図状壊死）が広がっている。最も考えられる疾患はどれか。",
+      "choices": {
+        "a": "好酸球性多発血管炎性肉芽腫症（EGPA）",
+        "b": "多発血管炎性肉芽腫症（GPA）",
+        "c": "肺結核",
+        "d": "肺膿瘍"
+      },
+      "answer": [
+        "b"
+      ],
+      "explanation": "空洞を伴う多発結節と地図状壊死は多発血管炎性肉芽腫症である。\n\n【AI解説】\n【結論】好中球性の壊死が融合して地図状（不整形）に広がる壊死病変は、多発血管炎性肉芽腫症（GPA）に特徴的である。\n【選択肢の解説】\n⭕「多発血管炎性肉芽腫症（GPA）」：正しい。PR3-ANCA陽性が多く、上気道（E）・肺（L）・腎（K）の病変を特徴とする。\n❌「好酸球性多発血管炎性肉芽腫症（EGPA）」：誤り。好酸球浸潤が主体で、地図状壊死は典型的でない。\n❌「肺結核」：誤り。中心壊死は乾酪壊死で、乾酪性類上皮細胞肉芽腫を伴う。\n❌「肺膿瘍」：誤り。被包化された膿の貯留で、血管炎や肉芽腫を伴わない。\n【関連知識】GPAの病理三徴は「壊死」「肉芽腫性炎（柵状肉芽腫）」「血管炎」である。生検でこれらがすべてそろうことは少なく、ANCAと臨床像を併せて診断する。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/gpa-geographic-necrosis.webp",
+          "caption": "病理組織像（HE染色、scale bar＝1cm）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 222,
+        "image": "assets/reference_pages/k1_p222.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=222"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-023",
+      "type": "mcq",
+      "chapter": "各論I-13 その他（比較的稀な肺疾患）",
+      "section": "各論I-13 その他（比較的稀な肺疾患）",
+      "question": "多発血管炎性肉芽腫症（GPA）の肺病理組織像を示す。中央の壊死巣を組織球が柵状に取り囲み、多核巨細胞も認められる。この肉芽腫の名称はどれか。",
+      "choices": {
+        "a": "乾酪性類上皮細胞肉芽腫",
+        "b": "非乾酪性類上皮細胞肉芽腫",
+        "c": "柵状肉芽腫（palisading granuloma）",
+        "d": "異物肉芽腫"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "壊死巣を柵状に取り囲む組織球からなる柵状肉芽腫である。\n\n【AI解説】\n【結論】壊死巣の辺縁に組織球が柵状（palisading）に配列する肉芽腫が柵状肉芽腫で、GPAの病理三徴の一つである。\n【選択肢の解説】\n⭕「柵状肉芽腫（palisading granuloma）」：正しい。好中球性壊死（地図状壊死）、壊死性血管炎とともにGPAの三徴を構成する。\n❌「乾酪性類上皮細胞肉芽腫」：誤り。結核に特徴的で、中心の乾酪壊死を類上皮細胞とLanghans型巨細胞が取り囲む。\n❌「非乾酪性類上皮細胞肉芽腫」：誤り。サルコイドーシスに代表される、壊死を伴わない肉芽腫である。\n❌「異物肉芽腫」：誤り。異物を中心に異物型巨細胞が集簇し、偏光下に異物が確認できることがある。\n【関連知識】GPAでは血管壁に好中球や多核巨細胞が浸潤し、弾性線維染色（EVG染色）で血管壁の弾性線維の断裂を確認できる。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/gpa-palisading-granuloma.webp",
+          "caption": "病理組織像（HE染色、scale bar＝50μm）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 222,
+        "image": "assets/reference_pages/k1_p222.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=222"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-024",
+      "type": "mcq",
+      "chapter": "各論I-13 その他（比較的稀な肺疾患）",
+      "section": "各論I-13 その他（比較的稀な肺疾患）",
+      "question": "気管支喘息の既往と末梢血好酸球増多、多発単神経炎を認めた症例の肺病理組織像を示す。気管支粘膜下および気管支周囲に著明な好酸球浸潤を認める。最も考えられる疾患はどれか。",
+      "choices": {
+        "a": "多発血管炎性肉芽腫症（GPA）",
+        "b": "慢性好酸球性肺炎",
+        "c": "アレルギー性気管支肺アスペルギルス症（ABPA）",
+        "d": "好酸球性多発血管炎性肉芽腫症（EGPA）"
+      },
+      "answer": [
+        "d"
+      ],
+      "explanation": "喘息・好酸球増多・多発単神経炎を背景とした著明な好酸球浸潤でEGPAである。\n\n【AI解説】\n【結論】気管支喘息の先行、末梢血好酸球増多、多発単神経炎を背景に、組織で著明な好酸球浸潤と血管炎を認めればEGPAである。\n【選択肢の解説】\n⭕「好酸球性多発血管炎性肉芽腫症（EGPA）」：正しい。MPO-ANCA陽性は約半数で、陰性例でも診断は否定されない。肺小動脈内膜への好酸球浸潤もみられる。\n❌「多発血管炎性肉芽腫症（GPA）」：誤り。好中球性の地図状壊死と柵状肉芽腫が主体で、上気道病変とPR3-ANCAが特徴である。\n❌「慢性好酸球性肺炎」：誤り。肺胞腔・間質への好酸球浸潤はみられるが、血管炎や肺外の多発単神経炎は伴わない。\n❌「アレルギー性気管支肺アスペルギルス症（ABPA）」：誤り。中枢性気管支拡張と粘液栓、アスペルギルス特異的IgEの上昇を特徴とする。\n【関連知識】EGPAの寛解導入はステロイド薬が基本で、神経障害に対しては大量免疫グロブリン療法（IVIG）が保険適用。抗IL-5抗体mepolizumabも用いられる。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/egpa-eosinophil.webp",
+          "caption": "病理組織像（HE染色、scale bar＝100μm）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "各論 I 気道・肺疾患",
+        "page": 223,
+        "image": "assets/reference_pages/k1_p223.webp",
+        "viewer": "reference-viewer.html?doc=k1&page=223"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-025",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "総論IV 検査",
+      "question": "肺癌患者から喀出された喀痰の細胞診を示す。異型細胞は奇怪な細胞形状を呈し、オレンジ好性の細胞質（角化）を示している。最も考えられる組織型はどれか。",
+      "choices": {
+        "a": "腺癌",
+        "b": "小細胞癌",
+        "c": "扁平上皮癌",
+        "d": "大細胞神経内分泌癌"
+      },
+      "answer": [
+        "c"
+      ],
+      "explanation": "奇怪な形とオレンジG好性の角化を示す異型細胞で扁平上皮癌である。\n\n【AI解説】\n【結論】Papanicolaou染色でオレンジ色に染まる角化した細胞質と、蛇状・纖維状など奇怪な細胞形態を示すのは扁平上皮癌の細胞診所見である。\n【選択肢の解説】\n⭕「扁平上皮癌」：正しい。角化（オレンジG好性）と濃縮した濃染核を特徴とし、中枢気道に発生することが多い。\n❌「腺癌」：誤り。泡沫状の細胞質をもつ異型細胞がシート状集塊を形成し、核は偏在性を示す。\n❌「小細胞癌」：誤り。小型の裸核状細胞が小集塊をつくり、核の相互圧排（molding）を示す。\n❌「大細胞神経内分泌癌」：誤り。細胞診のみでの判定は困難で、免疫染色による神経内分泌マーカーの確認を要する。\n【関連知識】喀痰細胞診は中枢発生の扁平上皮癌・小細胞癌で陽性率が高く、末梢発生の腺癌では低い。3日連続での採取（集痰法）で感度が上がる。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/cyto-squamous.webp",
+          "caption": "喀痰細胞診（Papanicolaou染色、×400）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 14,
+        "image": "assets/reference_pages/s4_p014.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=14"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-026",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "総論IV 検査",
+      "question": "肺癌患者から喀出された喀痰の細胞診を示す。泡沫状細胞質を有する異型細胞がシート状集塊を形成し、核は偏在性を示している。最も考えられる組織型はどれか。",
+      "choices": {
+        "a": "腺癌",
+        "b": "扁平上皮癌",
+        "c": "小細胞癌",
+        "d": "悪性胸膜中皮腫"
+      },
+      "answer": [
+        "a"
+      ],
+      "explanation": "泡沫状細胞質とシート状集塊、偏在核を示す異型細胞で腺癌である。\n\n【AI解説】\n【結論】泡沫状（分泌性）の細胞質、シート状ないし球状の集塊、偏在する核が腺癌の細胞診所見である。\n【選択肢の解説】\n⭕「腺癌」：正しい。核小体が明瞭で、粘液産生を示唆する細胞質内空胞をみることもある。末梢発生が多い。\n❌「扁平上皮癌」：誤り。角化を示すオレンジG好性の細胞質と、奇怪な細胞形態を特徴とする。\n❌「小細胞癌」：誤り。細胞質に乏しい小型の裸核状細胞が主体である。\n❌「悪性胸膜中皮腫」：誤り。胸水細胞診で球状集簇や細胞境界明瞭な所見を示すが、喀痰には出現しない。\n【関連知識】腺癌は末梢発生が多く喀痰細胞診の感度は低い。確定診断には気管支鏡下生検やCTガイド下生検、さらにEGFR・ALKなどのドライバー遺伝子検索が必要である。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/cyto-adeno.webp",
+          "caption": "喀痰細胞診（Papanicolaou染色、×400）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 14,
+        "image": "assets/reference_pages/s4_p014.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=14"
+      },
+      "source": {
+        "kind": "original"
+      }
+    },
+    {
+      "id": "path-027",
+      "type": "mcq",
+      "chapter": "総論IV 検査",
+      "section": "総論IV 検査",
+      "question": "肺癌患者から喀出された喀痰の細胞診を示す。細胞質に乏しい小型の裸核状細胞が小集塊を形成している。最も考えられる組織型はどれか。",
+      "choices": {
+        "a": "腺癌",
+        "b": "小細胞癌",
+        "c": "扁平上皮癌",
+        "d": "カルチノイド"
+      },
+      "answer": [
+        "b"
+      ],
+      "explanation": "細胞質に乏しい小型裸核状細胞の小集塊で小細胞癌である。\n\n【AI解説】\n【結論】細胞質に乏しい小型の裸核状細胞が小集塊をつくり、核の相互圧排（nuclear molding）や核クロマチンの細顆粒状（salt and pepper）所見を示すのが小細胞癌である。\n【選択肢の解説】\n⭕「小細胞癌」：正しい。中枢発生が多く喀痰細胞診の陽性率が高い。増殖が速く、診断時に遠隔転移を伴うことが多い。\n❌「腺癌」：誤り。泡沫状細胞質をもつ比較的大型の異型細胞がシート状集塊を形成する。\n❌「扁平上皮癌」：誤り。角化したオレンジG好性の細胞質を示す。\n❌「カルチノイド」：誤り。異型の乏しい均一な細胞からなり、核分裂像や壊死に乏しい。\n【関連知識】小細胞癌は限局型（LD）と進展型（ED）に分け、LDでは化学放射線療法、EDでは免疫チェックポイント阻害薬を含む化学療法を行う。",
+      "tags": [
+        "病理画像",
+        "画像問題",
+        "呼吸器専門医テキスト"
+      ],
+      "images": [
+        {
+          "src": "assets/pathology/cyto-smallcell.webp",
+          "caption": "喀痰細胞診（Papanicolaou染色、×800）"
+        }
+      ],
+      "has_image": true,
+      "reference": {
+        "title": "総論 IV 検査",
+        "page": 14,
+        "image": "assets/reference_pages/s4_p014.webp",
+        "viewer": "reference-viewer.html?doc=s4&page=14"
+      },
+      "source": {
+        "kind": "original"
+      }
     }
   ]
 }

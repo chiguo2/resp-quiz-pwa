@@ -32,6 +32,71 @@ function tableKey(title, rows) {
 // その問題だけの計算過程を示す表は、まとめ集には載せない
 const SKIP_TITLE = /^(病期の求め方|判定の過程)$/;
 
+// ここから下は「見出しや言い回しが違うだけの同じ表」を一覧から外すための処理。
+// 全角半角・ローマ数字・括弧・記号の揺れを吸収してから比べる。
+const looseText = s => String(s)
+  .replace(/[Ａ-Ｚａ-ｚ０-９]/g, c => String.fromCharCode(c.charCodeAt(0) - 0xFEE0))
+  .replace(/[ⅠⅡⅢⅣⅤ]/g, c => ({ 'Ⅰ': 'I', 'Ⅱ': 'II', 'Ⅲ': 'III', 'Ⅳ': 'IV', 'Ⅴ': 'V' }[c]))
+  .replace(/（/g, '(').replace(/）/g, ')')
+  .replace(/[、，]/g, ',').replace(/[\s─—–-]/g, '').toLowerCase();
+const bigrams = s => { const out = new Set(); for (let i = 0; i < s.length - 1; i++) out.add(s.slice(i, i + 2)); return out; };
+const dice = (a, b) => { if (!a.size || !b.size) return 0; let n = 0; for (const x of a) if (b.has(x)) n++; return 2 * n / (a.size + b.size); };
+const jaccard = (a, b) => { if (!a.size || !b.size) return 0; let n = 0; for (const x of a) if (b.has(x)) n++; return n / (a.size + b.size - n); };
+const contain = (a, b) => { if (!a.size) return 1; let n = 0; for (const x of a) if (b.has(x)) n++; return n / a.size; };
+// 1列目が①②③…のような通し記号だけの表は、別の表でも1列目が一致してしまうので優先度を下げる
+const GENERIC_COL = /^[①-⑳ivx0-9.,()/]+$/;
+// 中身の文字がこの割合以上ほかの表に含まれていたら重複とみなす。
+// 実データでは相補的な表（A-DROPの判定基準と重症度など）が0.15以下、重複が0.45以上できれいに分かれる。
+const DUP_RATIO = 0.35;
+
+function dedupeTables(list) {
+  list.forEach((t, i) => { t._idx = i; });
+  for (const t of list) {
+    const head = t.rows.length > 1 && isSep(t.rows[1]) ? t.rows.slice(2) : t.rows;
+    t._body = head;
+    t._title = bigrams(looseText(t.title));
+    t._text = bigrams(looseText(head.map(r => r.join('')).join('')));
+    t._rest = new Set(head.flatMap(r => r.slice(1)).map(looseText).filter(Boolean));
+    t._col1 = head.map(r => looseText(r[0])).filter(Boolean).sort().join('/');
+    t._generic = head.length > 0 && head.every(r => GENERIC_COL.test(looseText(r[0])));
+    t._size = head.length * Math.max(1, ...head.map(r => r.length));
+  }
+  // 見出しが似ている／1列目が同じで中身も重なる／中身がよく似ている、のいずれかなら同じ話題
+  const sameTopic = (a, b) => dice(a._title, b._title) >= 0.62
+    || (a._col1 && a._col1 === b._col1 && jaccard(a._rest, b._rest) >= 0.25)
+    || jaccard(a._rest, b._rest) >= 0.6;
+  const parent = list.map((_, i) => i);
+  const find = x => (parent[x] === x ? x : (parent[x] = find(parent[x])));
+  for (let i = 0; i < list.length; i++) for (let j = i + 1; j < list.length; j++)
+    if (sameTopic(list[i], list[j])) parent[find(i)] = find(j);
+
+  const groups = new Map();
+  list.forEach((t, i) => { const r = find(i); if (!groups.has(r)) groups.set(r, []); groups.get(r).push(t); });
+
+  const out = [];
+  for (const group of groups.values()) {
+    // 情報量の多いものを残す（通し記号の表は後回し → 行×列が多い → 収載問題数が多い → 文字数が多い）
+    group.sort((a, b) => (a._generic ? 1 : 0) - (b._generic ? 1 : 0)
+      || b._size - a._size || b.users.length - a.users.length || b._text.size - a._text.size);
+    const keep = [];
+    for (const t of group) {
+      let best = null;
+      for (const k of keep) { const c = contain(t._text, k._text); if (!best || c > best.c) best = { k, c }; }
+      if (best && best.c >= DUP_RATIO) { for (const u of t.users) if (!best.k.users.includes(u)) best.k.users.push(u); }
+      else keep.push(t);
+    }
+    // 見出しがまったく同じで内容が相補的な表（A-DROPの判定基準と重症度など）は1枚にまとめて並べる
+    const byTitle = new Map();
+    for (const t of keep.slice().sort((a, b) => a._idx - b._idx)) {
+      const k = norm(t.title);
+      if (byTitle.has(k)) { const head = byTitle.get(k); head.rowsList.push(t.rows); for (const u of t.users) if (!head.users.includes(u)) head.users.push(u); }
+      else { t.rowsList = [t.rows]; byTitle.set(k, t); out.push(t); }
+    }
+  }
+  for (const t of out) { delete t._idx; delete t._body; delete t._title; delete t._text; delete t._rest; delete t._col1; delete t._generic; delete t._size; }
+  return out;
+}
+
 function collect(items) {
   const figs = new Map(), tables = new Map();
   for (const it of items) {
@@ -57,7 +122,7 @@ function collect(items) {
       tables.get(key).users.push(it);
     }
   }
-  return [...figs.values(), ...tables.values()];
+  return [...figs.values(), ...dedupeTables([...tables.values()])];
 }
 
 const SECTION_ORDER = [];
@@ -76,7 +141,8 @@ function render() {
   const shown = ENTRIES.filter(e => {
     if (FILTER.kind !== 'all' && e.kind !== FILTER.kind) return false;
     if (!q) return true;
-    const hay = (e.title + ' ' + e.section + ' ' + (e.rows ? e.rows.flat().join(' ') : '') + ' ' + e.users.map(u => u.question).join(' ')).toLowerCase();
+    const rows = e.rowsList ? e.rowsList.flat() : (e.rows || []);
+    const hay = (e.title + ' ' + e.section + ' ' + rows.flat().join(' ') + ' ' + e.users.map(u => u.question).join(' ')).toLowerCase();
     return hay.includes(q);
   });
   $('sheetsEmpty').classList.toggle('hidden', shown.length > 0);
@@ -103,7 +169,7 @@ function cardHtml(e) {
   const first = e.users[0];
   const body = e.kind === 'fig'
     ? `<a href="${escapeHtml(e.src)}" target="_blank" rel="noopener"><img src="${escapeHtml(e.src)}" alt="${escapeHtml(e.title)}" loading="lazy"></a>`
-    : tableHtml(e.rows);
+    : (e.rowsList || [e.rows]).map(tableHtml).join('');
   return `<article class="sheet-card">
     <h3>${escapeHtml(e.title)}<span class="sheet-kind ${e.kind}">${e.kind === 'fig' ? '図' : '表'}</span></h3>
     ${body}
