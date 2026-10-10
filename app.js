@@ -300,11 +300,17 @@ function updateFilterCount(){
   el.classList.toggle('none', n === 0);
 }
 
+const hasQuestionImage = x => Array.isArray(x?.images) && x.images.length > 0;
+
 function updateReviewHint(){
   const hint = $('reviewCountHint');
   const mode = $('modeSelect').value;
   const stats = getStats();
-  if(mode === 'review'){
+  if(mode === 'image'){
+    const n = data.filter(hasQuestionImage).length;
+    hint.textContent = `写真つきの問題：${n}問（病理画像・過去問の添付図）`;
+    hint.classList.remove('hidden');
+  }else if(mode === 'review'){
     const n = data.filter(x => stats[x.id]?.lastAns && stats[x.id].lastAns.ok === false).length;
     hint.textContent = n ? `直近で×だった問題：${n}問` : '直近で×だった問題はまだありません。';
     hint.classList.remove('hidden');
@@ -331,6 +337,8 @@ function baseFiltered(){
   if(mode==='qa') arr=arr.filter(x=>x.type==='qa');
   if(mode==='mcq') arr=arr.filter(x=>x.type==='mcq');
   if(mode==='recall') arr=arr.filter(x=>x.type==='recall');
+  // 画像問題＝問題文と一緒に写真を表示する問題（病理画像・過去問の添付図）
+  if(mode==='image') arr=arr.filter(x=>hasQuestionImage(x));
   if(mode==='unseen') arr=arr.filter(x=>!(stats[x.id]?.seen>0));
   if(mode==='review') arr=arr.filter(x=>stats[x.id]?.lastAns && stats[x.id].lastAns.ok===false);
   if(mode==='wrong') arr=arr.filter(x=>stats[x.id]?.wrong>0);
