@@ -4,26 +4,27 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>まとめ集 — 呼吸器専門医 問題集</title>
-<link rel="stylesheet" href="style.css?v=282">
-<link rel="stylesheet" href="sheets.css?v=282">
+<link rel="stylesheet" href="style.css?v=283">
+<link rel="stylesheet" href="sheets.css?v=283">
 </head>
 <body>
   <header class="app-header">
     <div>
       <p class="eyebrow">呼吸器専門医試験</p>
-      <h1>まとめ集 <span class="ver">図と表</span></h1>
+      <h1>まとめ集 <span class="ver">図・表・覚え方</span></h1>
     </div>
     <a class="ghost back-btn" href="index.html">← 問題集</a>
   </header>
 
   <main>
     <section class="panel">
-      <p class="sheets-lead">解説に入れてきたシェーマとまとめ表を一覧にしています。<span id="sheetsCount"></span></p>
-      <input id="sheetsSearch" type="search" placeholder="疾患名・用語で絞り込む（例：TNM、乳び、遺伝）" autocomplete="off">
+      <p class="sheets-lead">解説に入れてきたシェーマ・まとめ表・覚え方を一覧にしています。<span id="sheetsCount"></span></p>
+      <input id="sheetsSearch" type="search" placeholder="疾患名・用語で絞り込む（例：TNM、乳び、ゴロ）" autocomplete="off">
       <div class="sheets-tabs">
         <button type="button" class="mini secondary" data-kind="all">すべて</button>
         <button type="button" class="mini ghost-light" data-kind="fig">シェーマ</button>
         <button type="button" class="mini ghost-light" data-kind="table">まとめ表</button>
+        <button type="button" class="mini ghost-light" data-kind="tip">覚え方</button>
       </div>
       <nav id="sheetsToc" class="sheets-toc"></nav>
     </section>
@@ -32,6 +33,6 @@
     <p id="sheetsEmpty" class="panel sheets-empty hidden">該当するものがありません。</p>
   </main>
 
-  <script src="sheets.js?v=282"></script>
+  <script src="sheets.js?v=283"></script>
 </body>
 </html>

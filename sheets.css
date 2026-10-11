@@ -15,6 +15,12 @@
 .sheet-kind{font-size:11px;font-weight:700;border-radius:999px;padding:2px 8px}
 .sheet-kind.fig{color:#1d4ed8;background:#eff6ff;border:1px solid #bfdbfe}
 .sheet-kind.table{color:#0f766e;background:#ecfdf5;border:1px solid #a7f3d0}
+.sheet-kind.tip{color:#b45309;background:#fffbeb;border:1px solid #fde68a}
+/* 表の前後にある補足・覚え方の文章 */
+.sheet-note{margin:8px 0 0;font-size:13.5px;color:#334155;line-height:1.75}
+.sheet-note p{margin:0 0 5px}
+.sheet-note p:last-child{margin-bottom:0}
+.sheet-note .exp-red{color:#dc2626;font-weight:700}
 .sheet-card img{width:100%;height:auto;border:1px solid #e2e8f0;border-radius:12px;background:#fff;display:block}
 .sheet-meta{margin:8px 0 0;font-size:12px;color:#64748b;line-height:1.5}
 .sheet-q{color:#94a3b8}

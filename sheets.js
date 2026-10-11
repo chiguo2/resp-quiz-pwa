@@ -89,16 +89,48 @@ function dedupeTables(list) {
     const byTitle = new Map();
     for (const t of keep.slice().sort((a, b) => a._idx - b._idx)) {
       const k = norm(t.title);
-      if (byTitle.has(k)) { const head = byTitle.get(k); head.rowsList.push(t.rows); for (const u of t.users) if (!head.users.includes(u)) head.users.push(u); }
-      else { t.rowsList = [t.rows]; byTitle.set(k, t); out.push(t); }
+      const part = { rows: t.rows, lead: t.lead || [], notes: t.notes || [] };
+      if (byTitle.has(k)) { const head = byTitle.get(k); head.parts.push(part); for (const u of t.users) if (!head.users.includes(u)) head.users.push(u); }
+      else { t.parts = [part]; byTitle.set(k, t); out.push(t); }
     }
   }
   for (const t of out) { delete t._idx; delete t._body; delete t._title; delete t._text; delete t._rest; delete t._col1; delete t._generic; delete t._size; }
   return out;
 }
 
+// 解説を【見出し】ごとの区画に分け、表と地の文を順番どおりに取り出す。
+// 地の文は、直前の表の「補足」として持たせる（表のあいだの小見出しの位置がずれないようにするため）。
+function sections(explanation) {
+  const out = [];
+  const lines = String(explanation || '').split('\n');
+  let cur = null;
+  for (let i = 0; i < lines.length; i++) {
+    const m = (lines[i] || '').match(/^【([^】]+)】(.*)$/);
+    if (m) { cur = { title: m[1], tables: [], notes: [] }; out.push(cur); if (m[2].trim()) cur.notes.push(m[2].trim()); continue; }
+    if (!cur) continue;
+    if (isRow(lines[i])) {
+      const rows = [];
+      while (i < lines.length && isRow(lines[i])) rows.push(splitRow(lines[i++]));
+      i--;
+      cur.tables.push({ rows, lead: [], notes: [] });
+      continue;
+    }
+    const s = (lines[i] || '').trim();
+    if (!s) continue;
+    if (cur.tables.length) cur.tables[cur.tables.length - 1].notes.push(s);
+    else cur.notes.push(s);
+  }
+  // 表より前にあった文章は、最初の表の前書きとして扱う
+  for (const sec of out) if (sec.tables.length) { sec.tables[0].lead = sec.notes; sec.notes = []; }
+  return out;
+}
+
+// 表を伴わない「覚え方」「ゴロ」などの区画も一覧に載せる
+const TIP_TITLE = /覚え方|ゴロ|語呂|裏技|暗記/;
+const isBang = s => /^\s*!!/.test(s || '');
+
 function collect(items) {
-  const figs = new Map(), tables = new Map();
+  const figs = new Map(), tables = new Map(), tips = new Map();
   for (const it of items) {
     for (const im of (it.explanationImages || [])) {
       const src = typeof im === 'string' ? im : im.src;
@@ -106,23 +138,74 @@ function collect(items) {
       if (!figs.has(src)) figs.set(src, { kind: 'fig', src, title: caption, users: [] });
       figs.get(src).users.push(it);
     }
-    const lines = String(it.explanation || '').split('\n');
-    let lastTitle = '';
-    for (let i = 0; i < lines.length; i++) {
-      const m = (lines[i] || '').match(/^【([^】]+)】/);
-      if (m) { lastTitle = m[1]; continue; }
-      if (!isRow(lines[i])) continue;
-      const rows = [];
-      while (i < lines.length && isRow(lines[i])) rows.push(splitRow(lines[i++]));
-      i--;
-      const title = lastTitle || '表';
+    for (const sec of sections(it.explanation)) {
+      const title = sec.title || '表';
       if (SKIP_TITLE.test(title)) continue;
-      const key = tableKey(title, rows);
-      if (!tables.has(key)) tables.set(key, { kind: 'table', title, rows, users: [] });
-      tables.get(key).users.push(it);
+      if (sec.tables.length) {
+        for (const t of sec.tables) {
+          const key = tableKey(title, t.rows);
+          if (!tables.has(key)) tables.set(key, { kind: 'table', title, rows: t.rows, lead: t.lead, notes: t.notes, users: [] });
+          tables.get(key).users.push(it);
+        }
+      } else if (sec.notes.length && (TIP_TITLE.test(title) || sec.notes.some(isBang))) {
+        // 見出しが「出典」などの場合は、覚え方の一言（!! 行）だけを拾う
+        const isTip = TIP_TITLE.test(title);
+        const notes = isTip ? sec.notes : sec.notes.filter(isBang);
+        const label = isTip ? title : '覚え方';
+        if (!notes.length) continue;
+        const key = norm(label) + '|' + norm(notes.join(''));
+        if (!tips.has(key)) tips.set(key, { kind: 'tip', title: label, notes, users: [] });
+        tips.get(key).users.push(it);
+      }
     }
   }
-  return [...figs.values(), ...dedupeTables([...tables.values()])];
+  return [...figs.values(), ...dedupeTables([...tables.values()]), ...dedupeTips([...tips.values()])];
+}
+
+// 覚え方も同じ内容が何問にも入っているので名寄せする
+// 覚え方は言い回しの差が大きいので、記号・括弧をすべて落としてから比べる
+const stripAll = s => String(s)
+  .replace(/[Ａ-Ｚａ-ｚ０-９]/g, c => String.fromCharCode(c.charCodeAt(0) - 0xFEE0))
+  .toLowerCase().replace(/[^\p{Letter}\p{Number}]/gu, '');
+
+function dedupeTips(list) {
+  for (const t of list) {
+    t._title = bigrams(looseText(t.title));
+    t._text = bigrams(stripAll(t.notes.join('')));
+  }
+  const parent = list.map((_, i) => i);
+  const find = x => (parent[x] === x ? x : (parent[x] = find(parent[x])));
+  for (let i = 0; i < list.length; i++) for (let j = i + 1; j < list.length; j++) {
+    const dt = dice(list[i]._text, list[j]._text);
+    // 短いゴロが長い解説の中に丸ごと入っている場合も同じ話題とみなす
+    const inside = Math.max(contain(list[i]._text, list[j]._text), contain(list[j]._text, list[i]._text));
+    // 「ゴロ」「覚え方」のような一般的な見出しが一致しただけで混ざらないよう、中身の重なりも要求する
+    if (dt >= 0.55 || inside >= 0.5 || (dice(list[i]._title, list[j]._title) >= 0.62 && dt >= 0.3)) parent[find(i)] = find(j);
+  }
+  const groups = new Map();
+  list.forEach((t, i) => { const r = find(i); if (!groups.has(r)) groups.set(r, []); groups.get(r).push(t); });
+  const out = [];
+  for (const group of groups.values()) {
+    group.sort((a, b) => b._text.size - a._text.size || b.users.length - a.users.length);
+    const keep = [];
+    for (const t of group) {
+      let best = null;
+      for (const k of keep) { const c = contain(t._text, k._text); if (!best || c > best.c) best = { k, c }; }
+      if (best && best.c >= 0.5) { for (const u of t.users) if (!best.k.users.includes(u)) best.k.users.push(u); }
+      else keep.push(t);
+    }
+    out.push(...keep);
+  }
+  // 「ゴロ」「覚え方」だけの見出しは一覧で見分けがつかないので、短い見出し行があれば取り込む
+  for (const t of out) {
+    delete t._title; delete t._text;
+    if (!/^(覚え方|ゴロ|語呂|裏技|暗記)$/.test(t.title) || t.notes.length < 2) continue;
+    const head = (t.notes[0] || '').replace(/^\s*!!\s*/, '').replace(/^[「『]|[」』]$/g, '').trim();
+    if (!head || head.length > 28) continue;
+    t.title = `${t.title}：${head}`;
+    t.notes = t.notes.slice(1);
+  }
+  return out;
 }
 
 const SECTION_ORDER = [];
@@ -141,8 +224,9 @@ function render() {
   const shown = ENTRIES.filter(e => {
     if (FILTER.kind !== 'all' && e.kind !== FILTER.kind) return false;
     if (!q) return true;
-    const rows = e.rowsList ? e.rowsList.flat() : (e.rows || []);
-    const hay = (e.title + ' ' + e.section + ' ' + rows.flat().join(' ') + ' ' + e.users.map(u => u.question).join(' ')).toLowerCase();
+    const parts = e.parts || (e.rows ? [{ rows: e.rows, lead: [], notes: [] }] : []);
+    const text = parts.map(p => p.rows.flat().join(' ') + ' ' + p.lead.join(' ') + ' ' + p.notes.join(' ')).join(' ') + ' ' + (e.notes || []).join(' ');
+    const hay = (e.title + ' ' + e.section + ' ' + text + ' ' + e.users.map(u => u.question).join(' ')).toLowerCase();
     return hay.includes(q);
   });
   $('sheetsEmpty').classList.toggle('hidden', shown.length > 0);
@@ -164,14 +248,26 @@ function render() {
     </section>`).join('');
 }
 
+// 「!!」で始まる行は本体アプリと同じく赤字で見せる
+function notesHtml(lines) {
+  if (!lines || !lines.length) return '';
+  return `<div class="sheet-note">${lines.map(l => isBang(l)
+    ? `<p class="exp-red">${escapeHtml(l.replace(/^\s*!!\s*/, ''))}</p>`
+    : `<p>${escapeHtml(l)}</p>`).join('')}</div>`;
+}
+const KIND_LABEL = { fig: '図', table: '表', tip: '覚' };
+
 function cardHtml(e) {
   const n = e.users.length;
   const first = e.users[0];
   const body = e.kind === 'fig'
     ? `<a href="${escapeHtml(e.src)}" target="_blank" rel="noopener"><img src="${escapeHtml(e.src)}" alt="${escapeHtml(e.title)}" loading="lazy"></a>`
-    : (e.rowsList || [e.rows]).map(tableHtml).join('');
+    : e.kind === 'tip'
+      ? notesHtml(e.notes)
+      : (e.parts || [{ rows: e.rows, lead: [], notes: [] }])
+        .map(p => notesHtml(p.lead) + tableHtml(p.rows) + notesHtml(p.notes)).join('');
   return `<article class="sheet-card">
-    <h3>${escapeHtml(e.title)}<span class="sheet-kind ${e.kind}">${e.kind === 'fig' ? '図' : '表'}</span></h3>
+    <h3>${escapeHtml(e.title)}<span class="sheet-kind ${e.kind}">${KIND_LABEL[e.kind] || '表'}</span></h3>
     ${body}
     <p class="sheet-meta">${n}問の解説に収載　<span class="sheet-q">例：${escapeHtml(String(first.question).replace(/\n/g, ' ').slice(0, 44))}${String(first.question).length > 44 ? '…' : ''}</span></p>
   </article>`;
@@ -187,8 +283,9 @@ function cardHtml(e) {
     // 分野順 → 収載問題数の多い順
     ENTRIES.sort((a, b) => (SECTION_ORDER.indexOf(a.section) - SECTION_ORDER.indexOf(b.section)) || (b.users.length - a.users.length));
     const nf = ENTRIES.filter(e => e.kind === 'fig').length;
-    const nt = ENTRIES.length - nf;
-    $('sheetsCount').textContent = `シェーマ${nf}点、まとめ表${nt}点。`;
+    const np = ENTRIES.filter(e => e.kind === 'tip').length;
+    const nt = ENTRIES.length - nf - np;
+    $('sheetsCount').textContent = `シェーマ${nf}点、まとめ表${nt}点、覚え方${np}点。`;
     render();
   } catch (e) {
     $('sheetsList').innerHTML = `<p class="panel">読み込みに失敗しました：${escapeHtml(e.message)}</p>`;
